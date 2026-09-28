@@ -9,7 +9,7 @@
 - [[Gate of Discernment/01 Gen-27 Yada\|01 Gen-27 Yada]]
 - [[Gate of Discernment/01 Gen-28 Yada\|01 Gen-28 Yada]]
 - [[Gate of Discernment/01 Gen-29 Yada\|01 Gen-29 Yada]]
-- [[Gate of Discernment/01 Gen-31 Yada\|01 Gen-31 Yada]]
+- [[Gate of Correction/01 Gen-31 Yada\|01 Gen-31 Yada]]
 - [[Gate of Discernment/01 Gen-32 Yada\|01 Gen-32 Yada]]
 - [[Gate of Discernment/01 Gen-35 Yada\|01 Gen-35 Yada]]
 - [[Assets/Clippings/Forgiveness and Grace for the Forgiven\|Forgiveness and Grace for the Forgiven]]

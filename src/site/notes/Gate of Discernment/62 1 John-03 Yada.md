@@ -213,7 +213,7 @@ Ease of reading [[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 Joh
 
 [^5]: [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]]whoever hates his brother is a murder.
 
-[^6]: [[Zunpublished/Eternal Death\|Eternal Death]] [[Gate of Wisdom/Consequence/Disobedience/Punishment\|Punishment]] no murder has eternal life
+[^6]: [[Zunpublished/Eternal Death\|Eternal Death]] [[Gate of Wisdom/Consequence/Disobedience/Penalty\|Penalty]] no murder has eternal life
 
 [^7]: [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]] - Whatever we ask, we receive from him, because we keep his commandments and do the things that are pleasing in his sight.”
 

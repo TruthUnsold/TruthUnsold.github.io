@@ -243,6 +243,7 @@ These cut through the illusion, denial, and confusion entirely. They reveal real
 | [[Gate of Wisdom/Ruach/Fruit/Patience\|Patience]]                                                              |
 | [[Gate of Wisdom/Offering/Peace Offering\|Peace Offering]]                                                     |
 | [[Gate of Wisdom/P/Peacemaker\|Peacemaker]]                                                                    |
+| [[Gate of Wisdom/Consequence/Disobedience/Penalty\|Penalty]]                                                   |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Peniel\|Peniel]]                                              |
 | [[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]]                                                         |
 | [[Gate of Wisdom/P/Perfect\|Perfect]]                                                                          |
@@ -253,7 +254,8 @@ These cut through the illusion, denial, and confusion entirely. They reveal real
 | [[Gate of Wisdom/P/Pray\|Pray]]                                                                                |
 | [[Gate of Wisdom/P/Prayer\|Prayer]]                                                                            |
 | [[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]                                     |
-| [[Gate of Wisdom/Consequence/Disobedience/Punishment\|Punishment]]                                             |
+| [[Gate of Wisdom/Beings/Human Beings/Prophet\|Prophet]]                                                        |
+| [[Gate of Wisdom/P/Punishment\|Punishment]]                                                                    |
 | [[Gate of Wisdom/P/Pure\|Pure]]                                                                                |
 | [[Gate of Wisdom/Beings/Human Beings/Rachel\|Rachel]]                                                          |
 | [[Gate of Wisdom/R/Ransom\|Ransom]]                                                                            |

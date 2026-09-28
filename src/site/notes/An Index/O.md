@@ -3,7 +3,7 @@
 ---
 
 
-- [[Gate of Discernment/31 Obad-01 Yada Yada\|31 Obad-01 Yada Yada]]
+- [[Gate of Wisdom/O/31 Obad-01 Yada Yada\|31 Obad-01 Yada Yada]]
 - [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]]
 - [[Gate of Wisdom/Offering/Daily Offering\|Daily Offering]]
 - [[Gate of Wisdom/Offering/Drink Offering\|Drink Offering]]

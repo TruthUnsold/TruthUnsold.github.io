@@ -3,7 +3,7 @@
 ---
 
 
-- [[Gate of Discernment/58 Heb-12 Yada\|58 Heb-12 Yada]]
+- [[Gate of Wisdom/H/58 Heb-12 Yada\|58 Heb-12 Yada]]
 - [[Gate of Wisdom/H/hardened\|hardened]]
 - [[Gate of Wisdom/H/Hear\|Hear]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]

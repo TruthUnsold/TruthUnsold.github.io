@@ -12,12 +12,12 @@ These Unsold Truths brings order to our chaos by turning noise into a clear unde
 
 | Table of Content                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Gate of Wisdom/H/58 Heb-12 Yada\|58 Heb-12 Yada]]                                                                                                                   |
 | [[Gate of Discernment/Sin, Lawlessness, Unrighteousness\|Sin, Lawlessness, Unrighteousness]]                                                                          |
 | [[Gate of Discernment/The Law in Matthew 5\|The Law in Matthew 5]]                                                                                                    |
 | [[Gate of Discernment/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]                                                                                              |
 | [[Gate of Discernment/23 Isa-01 Yada\|23 Isa-01 Yada]]                                                                                                                |
 | [[Gate of Discernment/Hierarchical Relationships Addressed by God or Jesus\|Hierarchical Relationships Addressed by God or Jesus]]                                    |
-| [[Gate of Discernment/58 Heb-12 Yada\|58 Heb-12 Yada]]                                                                                                                |
 | [[Gate of Discernment/01 Gen-24 Yada\|01 Gen-24 Yada]]                                                                                                                |
 | [[Gate of Discernment/49 Ephes-05 Yada Yada\|49 Ephes-05 Yada Yada]]                                                                                                  |
 | [[Gate of Discernment/Know the Children of God How\|Know the Children of God How]]                                                                                    |

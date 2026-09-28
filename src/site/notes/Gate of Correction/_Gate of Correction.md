@@ -19,8 +19,8 @@ When your actions, habits, or environment feel chaotic, these provide the daily 
 | [[Gate of Discernment/01 Gen-27 Yada\|01 Gen-27 Yada]]                                                                                                                                   |
 | [[Gate of Discernment/01 Gen-28 Yada\|01 Gen-28 Yada]]                                                                                                                                   |
 | [[Gate of Discernment/01 Gen-29 Yada\|01 Gen-29 Yada]]                                                                                                                                   |
-| [[Gate of Discernment/01 Gen-31 Yada\|01 Gen-31 Yada]]                                                                                                                                   |
-| [[Gate of Discernment/23 Isa-46 Yada\|23 Isa-46 Yada]]                                                                                                                                   |
+| [[Gate of Correction/01 Gen-31 Yada\|01 Gen-31 Yada]]                                                                                                                                    |
+| [[Gate of Correction/23 Isa-46 Yada\|23 Isa-46 Yada]]                                                                                                                                    |
 | [[Gate of Discernment/23 Isa-65 Yada\|23 Isa-65 Yada]]                                                                                                                                   |
 | [[Gate of Discernment/23 Isa-66 Yada\|23 Isa-66 Yada]]                                                                                                                                   |
 | [[Gate of Discernment/40 Matt-05 Yada\|40 Matt-05 Yada]]                                                                                                                                 |

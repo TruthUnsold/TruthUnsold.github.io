@@ -31,11 +31,12 @@ Buy the truth, and don’t sell it.
 
 | Latest Drops                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Potluck/Rediscovering Jonah\|Rediscovering Jonah]]                                                                                                                                     |
+| [[Gate of Wisdom/P/Punishment\|Punishment]]                                                                                                                                              |
 | [[Gate of Correction/Jesus's Do Nots\|Jesus's Do Nots]]                                                                                                                                  |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Nineveh\|Nineveh]]                                                                                                                      |
 | [[Gate of Wisdom/Numbers/40\|40]]                                                                                                                                                        |
 | [[Gate of Wisdom/Appointed Time/Sukkot Old Testament through the New Testament into the time of Revelation\|Sukkot Old Testament through the New Testament into the time of Revelation]] |
-| [[Potluck/Rediscovering Jonah\|Rediscovering Jonah]]                                                                                                                                     |
 | [[Gate of Correction/The Great Commission\|The Great Commission]]                                                                                                                        |
 | [[Gate of Discernment/Study Sheets\|Study Sheets]]                                                                                                                                       |
 | [[Gate of Correction/Summary of Tongues\|Summary of Tongues]]                                                                                                                            |
@@ -50,7 +51,6 @@ Buy the truth, and don’t sell it.
 | [[Gate of Wisdom/Sources/Torah Class\|Torah Class]]                                                                                                                                      |
 | [[Gate of Wisdom/T/tongues\|tongues]]                                                                                                                                                    |
 | [[Gate of Wisdom/G/Spiritual Gifts\|Spiritual Gifts]]                                                                                                                                    |
-| [[Gate of Wisdom/H/Holy Spirit Receive\|Holy Spirit Receive]]                                                                                                                            |
 
 { .block-language-dataview}
 
