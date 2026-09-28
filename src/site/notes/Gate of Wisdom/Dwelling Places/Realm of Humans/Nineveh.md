@@ -42,3 +42,39 @@
 
 # Extra Biblical
 - The [Assyrian Eponym Canon](https://biblehub.com/q/Evidence_for_Nineveh_s_mass_repentance.htm) records a turbulent window in the mid-8th century BC (around the time traditionally associated with Jonah). It lists events like plagues (765 BC and 759 BC), internal revolts, and a total solar eclipse over Nineveh on June 15, 763 BC.
+## The Archaeological Reality compared to Biblical Account
+
+Excavations of ancient Nineveh's walls put the circumference at roughly 7½ miles. Even walking the full perimeter slowly, or crossing the city multiple directions, that's a single day's undertaking at most — nowhere near three days by any normal reading of "journey."
+
+### How the Discrepancy Is Typically Addressed
+
+**1. "Greater Nineveh" — an administrative region, not the walled city alone**
+
+- Genesis 10:11-12 lists Nineveh alongside Rehoboth Ir, Calah, and Resen, then adds: "the same is the great city" (Jonah 3:3 uses this same phrase, ha-ir ha-gedolah) — suggesting "Nineveh" in this idiom could refer to the larger urban complex (Nineveh proper plus satellite cities and surrounding settlements), not the walled city in isolation
+	- If "Nineveh" in Jonah 3:3 means this greater metropolitan area rather than the fortified city center, three days becomes far more plausible geographically, since the combined district would have spanned a much wider area than the walls of Nineveh alone
+
+**2. "Journey" as thorough traversal, not straight-line distance**
+
+- Some older commentators (Clarke, cited in reference literature) proposed the "three days' journey" describes walking the full circuit of the walls slowly while proclaiming the message repeatedly at intervals — not a straight walk across, but a comprehensive circuit meant to reach every quarter
+	- This reading treats the phrase functionally — "how long it would take to cover the city thoroughly enough to deliver the message everywhere" — rather than literally, as a measurement of physical width
+
+**3. Hebrew idiom for "very large," without strict literal distance in view**
+
+- The phrase's construction (ir gedolah le'Elohim, "a great city to God/exceedingly great city") is itself an idiom of superlative size
+	- "Three days' journey" may function as a matching hyperbolic expression of vastness within the same verse, rather than a literal, measurable travel-time statement, similar to how large numbers function idiomatically elsewhere in ancient Near Eastern narrative to communicate scale rather than precise count
+
+**4. Time needed to conduct business/proclaim thoroughly, not distance covered**
+
+- Another reading takes "journey" (mahalakh) as describing the time required to move through and interact with the city's full population and districts to deliver a public proclamation effectively — a task-based duration (how long the work would take) rather than a spatial measurement (how far the ground spans)
+
+### What This Means for Reading the Jonah
+
+- The most geographically defensible option, given what's actually been excavated, is the "Greater Nineveh" reading — the walled city plus its surrounding administrative sprawl and satellite towns, which the biblical text itself groups together as "the great city" in Genesis 10:11-12
+- The text does not resolve this itself — it states the measurement as fact without explaining what area or method is meant, leaving the reconciliation to inference from archaeology and comparison with the Genesis 10 terminology.
+
+## Connections
+
+- [[Gate of Wisdom/Beings/Human Beings/Jonah\|Jonah]]
+- [[Gate of Wisdom/Dwelling Places/Realm of Humans/Nineveh\|Nineveh]]
+- Genesis 10:11-12 — the "great city" language including Nineveh's satellite cities, the strongest textual basis for a "Greater Nineveh" reading
+- Jonah 3:3-4

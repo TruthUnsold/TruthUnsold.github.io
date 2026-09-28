@@ -46,6 +46,7 @@ When your actions, habits, or environment feel chaotic, these provide the daily 
 | [[Gate of Correction/Happy New Year! In April\|Happy New Year! In April]]                                                                                                                |
 | [[Gate of Correction/In Between the Crucifixion and Resurrection\|In Between the Crucifixion and Resurrection]]                                                                          |
 | [[Gate of Correction/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]                                                                                                    |
+| [[Gate of Correction/Jesus's Do Nots\|Jesus's Do Nots]]                                                                                                                                  |
 | [[Gate of Correction/Jonah and The Disciples\|Jonah and The Disciples]]                                                                                                                  |
 | [[Gate of Correction/Matthew 28 v19-20 Baptizing in the Name\|Matthew 28 v19-20 Baptizing in the Name]]                                                                                  |
 | [[Gate of Correction/Matthew 28 v19-20 Go and Teach\|Matthew 28 v19-20 Go and Teach]]                                                                                                    |

@@ -12,6 +12,7 @@
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Jerusalem\|Jerusalem]]
 - [[Gate of Wisdom/Beings/Jesus\|Jesus]]
 - [[Gate of Correction/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
+- [[Gate of Correction/Jesus's Do Nots\|Jesus's Do Nots]]
 - [[Gate of Wisdom/Beings/Human Beings/Jew\|Jew]]
 - [[Gate of Wisdom/Beings/Human Beings/John (The Disciple)\|John (The Disciple)]]
 - [[Gate of Wisdom/Beings/Human Beings/Jonah\|Jonah]]

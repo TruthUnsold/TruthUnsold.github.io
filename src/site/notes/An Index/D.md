@@ -15,6 +15,7 @@
 - [[Gate of Wisdom/Offering/Drink Offering\|Drink Offering]]
 - [[Gate of Wisdom/Beings/Human Beings/drunkard\|drunkard]]
 - [[Gate of Correction/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
+- [[Gate of Correction/Jesus's Do Nots\|Jesus's Do Nots]]
 - [[Gate of Correction/Jonah and The Disciples\|Jonah and The Disciples]]
 - [[Gate of Correction/Matthew 5 Sermon on the Mount v 27-32 Jesus Adultery and Desire\|Matthew 5 Sermon on the Mount v 27-32 Jesus Adultery and Desire]]
 - [[Gate of Wisdom/D/Seventh Day\|Seventh Day]]
