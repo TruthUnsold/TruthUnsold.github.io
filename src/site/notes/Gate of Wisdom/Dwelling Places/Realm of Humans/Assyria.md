@@ -39,9 +39,9 @@ According to the [Assyrian Eponym Chronicle](https://biblehub.com/q/Evidence_for
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Humans/Nineveh.md\\|Nineveh]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/32 - Jonah/Jonah-01 H.md\\|Jonah-01 H]]</li><li>[[Potluck/Rediscovering Jonah.md\\|Rediscovering Jonah]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Torah Portions/2026.03.19 Shabbat Reading.md\\|2026.03.19 Shabbat Reading]]</li><li>[[Gate of Wisdom/Dwelling Places/Realm of Humans/Nineveh.md\\|Nineveh]]</li><li>[[Potluck/Rediscovering Jonah.md\\|Rediscovering Jonah]]</li><li>[[_The Scrolls/2. Neviim (Prophets)/32 - Jonah/Jonah-01 H.md\\|Jonah-01 H]]</li><li>[[Gate of Correction/Commands Israel Broke.md\\|Commands Israel Broke]]</li></ul> |
 
 { .block-language-dataview}
 

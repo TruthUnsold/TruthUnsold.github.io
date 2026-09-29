@@ -49,6 +49,7 @@ These cut through the illusion, denial, and confusion entirely. They reveal real
 | [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]                                               |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Archangel\|Archangel]]                                                 |
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Ark of the Testimony\|Ark of the Testimony]]  |
+| [[Gate of Wisdom/Beings/Heavenly Beings/Asherah\|Asherah]]                                                     |
 | [[Gate of Wisdom/Beings/Human Beings/Assembly\|Assembly]]                                                      |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Assyria\|Assyria]]                                            |
 | [[Gate of Wisdom/Consequence/Disobedience/Atonement\|Atonement]]                                               |
