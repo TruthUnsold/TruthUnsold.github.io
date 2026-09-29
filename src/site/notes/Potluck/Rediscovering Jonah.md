@@ -23,6 +23,15 @@ Previously published as _The Prodigal Prophet._
 > Text like this are my reflective thoughts on that comment
 - The rest is supporting data, thoughts, related bible verses, etc for my thoughts or related to the book excerpts.
 
+> In order to fully appreciate Jonah, we have to try to put ourselves into his circumstance which can be difficult today. But let's look at a scenario that should get your mind thinking:
+- A gang from a few cities over enters your city and goes on a rampage. Impaling, flaying and skinning alive, decapitation, mutilation, physical torture, etc. 
+- Everyone knows exactly who did it. It's not like there is any questions. Maybe they capture the people in the act. They have for sure committed crimes.
+- Around comes their trial. Because of some knowledge you have, you are asked to testify. Because of the nature of your testimony and the judge on the case, you know if you give it, every single person is going to walk free - no punishment, no penalty, no justice in your eyes. But, you are subpoenaed and you have to testify. 
+- You testify and just like you thought would happen, the judge says, they didn't know right from wrong, so they are free to go. 
+
+> The story of Jonah is focused on the anger your would feel toward the judge. Not on the gang. It's important to keep this is mind. It isn't as if you aren't angry at the gang, that is still true. That anger toward the gang has nothing to do with who they are, what race,  nationality, or what city they lived in. It's simply because of what they did. And that is a justified anger. Again, that anger is not the focus in Jonah. >
+
+> Jonah's anger is 100% directed at the judge. If the judge hadn't made him testify, then they wouldn't be able to walk free. If the judge hadn't felt pity for them, then they wouldn't be able to walk free. >
 
 # Setting
 Things to explore before diving into this book.
