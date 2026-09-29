@@ -1465,6 +1465,11 @@
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
 <div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/beings/heavenly-beings/asherah/">Asherah </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
 <a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/beings/heavenly-beings/azazel/">Azazel </a>
 </div>
 </div>
@@ -3591,7 +3596,7 @@
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,a=arguments,s=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,a)}),t),s&&e.apply(i,a)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="<code>⌘</code>&nbsp;+&nbsp;<code>K</code>"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const a=Math.max(0,i-50),s=Math.min(r.length,a+n);let o=r.substring(a,s);return a>0&&(o="..."+o),s<r.length&&(o+="..."),o}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),a=i?i.innerHTML:"";return previewCache.set(e,a),a}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),a=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const s=document.querySelector(`.searchresult[data-index="${e}"]`);s&&s.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),a.style.display="none";const o=await fetchPreviewContent(n.url),c=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${c}\n            <div class="preview-body">${o}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>(e=>e.toLowerCase().normalize("NFD").replace(/n\u0303/g,"ñ").replace(/[\u0300-\u036f]/g,"").normalize("NFC"))(e).split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-09-29T13:59:42.671Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="<span><i>Enter your search text in the box above</i></span>",hidePreview(),void(t&&t.classList.add("no-preview"));window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),a=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${a}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,a=arguments,s=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,a)}),t),s&&e.apply(i,a)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="<code>⌘</code>&nbsp;+&nbsp;<code>K</code>"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const a=Math.max(0,i-50),s=Math.min(r.length,a+n);let o=r.substring(a,s);return a>0&&(o="..."+o),s<r.length&&(o+="..."),o}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),a=i?i.innerHTML:"";return previewCache.set(e,a),a}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),a=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const s=document.querySelector(`.searchresult[data-index="${e}"]`);s&&s.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),a.style.display="none";const o=await fetchPreviewContent(n.url),c=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${c}\n            <div class="preview-body">${o}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>(e=>e.toLowerCase().normalize("NFD").replace(/n\u0303/g,"ñ").replace(/[\u0300-\u036f]/g,"").normalize("NFC"))(e).split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-09-29T22:07:29.545Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="<span><i>Enter your search text in the box above</i></span>",hidePreview(),void(t&&t.classList.add("no-preview"));window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),a=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${a}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
 <main class="content cm-s-obsidian print">
 <header>
 <h1 data-note-icon="">Commands Israel Broke</h1>
@@ -3609,47 +3614,816 @@
 </div>
 </div>
 </header>
-<h1 id="commands-israel-broke" tabindex="-1">Commands Israel Broke</h1>
-<h2 id="summary-list" tabindex="-1">Summary List</h2>
+<h1 id="list-of-commands-israel-broke" tabindex="-1">List of Commands Israel Broke</h1>
+<h2 id="no-other-gods-before-yahweh" tabindex="-1">No Other Gods Before Yahweh</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Exodus+20:3&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:3</a>; <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+5:7&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 5:7</a></em><br>
+&quot;You shall have no other gods before me.&quot;</p>
 <ul>
-<li><strong>No other gods before Yahweh</strong> — &quot;You shall have no other gods before me.&quot; — Exodus 20:3; Deuteronomy 5:7</li>
-<li><strong>No carved images or idols</strong> — &quot;You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth. You shall not bow yourself down to them, nor serve them.&quot; — Exodus 20:4–5; Deuteronomy 5:8–9</li>
-<li><strong>Do not take the Name of Yahweh in vain</strong> — &quot;You shall not take the name of Yahweh your God in vain.&quot; — Exodus 20:7; Deuteronomy 5:11</li>
-<li><strong>Remember the Sabbath and keep it holy</strong> — &quot;Remember the Sabbath day, to keep it holy.&quot; — Exodus 20:8; Deuteronomy 5:12</li>
-<li><strong>Honor your father and mother</strong> — &quot;Honor your father and your mother.&quot; — Exodus 20:12; Deuteronomy 5:16</li>
-<li><strong>Do not murder</strong> — &quot;You shall not murder.&quot; — Exodus 20:13; Deuteronomy 5:17</li>
-<li><strong>Do not commit adultery</strong> — &quot;You shall not commit adultery.&quot; — Exodus 20:14; Deuteronomy 5:18</li>
-<li><strong>Do not steal</strong> — &quot;You shall not steal.&quot; — Exodus 20:15; Deuteronomy 5:19</li>
-<li><strong>Do not bear false witness</strong> — &quot;You shall not give false testimony against your neighbor.&quot; — Exodus 20:16; Deuteronomy 5:20</li>
-<li><strong>Do not covet</strong> — &quot;You shall not covet your neighbor's house. You shall not covet your neighbor's wife.&quot; — Exodus 20:17; Deuteronomy 5:21</li>
-<li><strong>Do not make molten gods</strong> — &quot;You shall make no molten gods for yourselves.&quot; — Exodus 34:17; Leviticus 19:4</li>
-<li><strong>Do not oppress the foreigner</strong> — &quot;You shall not oppress a foreigner.&quot; — Exodus 22:21; 23:9; Leviticus 19:33</li>
-<li><strong>Do not afflict widows or fatherless children</strong> — &quot;You shall not afflict any widow or fatherless child.&quot; — Exodus 22:22</li>
-<li><strong>Do not charge interest to the poor</strong> — &quot;You shall not be to him as a creditor; neither shall you charge him interest.&quot; — Exodus 22:25; Leviticus 25:37</li>
-<li><strong>Do not follow other gods or serve them</strong> — &quot;You shall not bow down to their gods, nor serve them, nor follow their practices.&quot; — Exodus 23:24; Deuteronomy 6:14</li>
-<li><strong>Do not make a covenant with the inhabitants of Canaan</strong> — &quot;You shall make no covenant with them, nor with their gods.&quot; — Exodus 23:32; Deuteronomy 7:2</li>
-<li><strong>Do not let them dwell in the land</strong> — &quot;They shall not dwell in your land.&quot; — Exodus 23:33</li>
-<li><strong>Keep the Sabbath — it is a sign forever</strong> — &quot;Surely you shall keep my Sabbaths, for it is a sign between me and you throughout your generations.&quot; — Exodus 31:13; Ezekiel 20:12</li>
-<li><strong>Do not sacrifice to any god but Yahweh</strong> — &quot;He who sacrifices to any god, except to Yahweh only, shall be utterly destroyed.&quot; — Exodus 22:20</li>
-<li><strong>Do not deny justice to the poor</strong> — &quot;You shall not deny justice to your poor people in their lawsuits.&quot; — Exodus 23:6; Leviticus 19:15</li>
-<li><strong>Do not spread a false report</strong> — &quot;You shall not spread a false report.&quot; — Exodus 23:1</li>
-<li><strong>Do not take a bribe</strong> — &quot;You shall take no bribe.&quot; — Exodus 23:8; Deuteronomy 16:19</li>
-<li><strong>Let the land rest in the seventh year</strong> — &quot;The seventh year you shall let it rest and lie fallow.&quot; — Exodus 23:10–11; Leviticus 25:4</li>
-<li><strong>Bring firstfruits to the house of Yahweh</strong> — &quot;You shall bring the first of the first fruits of your ground into the house of Yahweh your God.&quot; — Exodus 23:19; 34:26</li>
-<li><strong>Do not invoke the names of other gods</strong> — &quot;Don't invoke the name of other gods, nor let them be heard out of your mouth.&quot; — Exodus 23:13</li>
-<li><strong>Do not do as the nations do</strong> — &quot;You shall not walk in the customs of the nation which I am casting out before you.&quot; — Leviticus 20:23</li>
-<li><strong>Do not shed innocent blood</strong> — &quot;Do not shed innocent blood in this place.&quot; — Deuteronomy 19:10; Jeremiah 7:6</li>
-<li><strong>Do not intermarry with the nations</strong> — &quot;You shall not make marriages with them.&quot; — Deuteronomy 7:3</li>
-<li><strong>Destroy idolatrous places of worship</strong> — &quot;You shall surely destroy all the places in which the nations served their gods.&quot; — Deuteronomy 12:2–3</li>
-<li><strong>Love Yahweh with all your heart</strong> — &quot;You shall love Yahweh your God with all your heart, with all your soul, and with all your might.&quot; — Deuteronomy 6:5</li>
-<li><strong>Do not add to or take away from the commands</strong> — &quot;You shall not add to the word which I command you, neither shall you take away from it.&quot; — Deuteronomy 4:2; 12:32</li>
-<li><strong>Do not practice divination or sorcery</strong> — &quot;There shall not be found with you anyone who practices divination, or tells fortunes, or an enchanter, or a sorcerer.&quot; — Deuteronomy 18:10–11</li>
-<li><strong>Do not go after Baal</strong> — implicit in the first and second commandments; explicit charge — &quot;They followed Baal.&quot; — Judges 2:13; 1 Kings 16:31</li>
-<li><strong>Honor Yahweh with firstfruits</strong> — &quot;Honor Yahweh with your substance, with the first fruits of all your increase.&quot; — Proverbs 3:9</li>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>Israel served the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/heavenly-beings/baal/">Baal</a>s after Joshua's death — <a href="https://www.biblegateway.com/passage/?search=Judges+2:11-12&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 2:11–12</a></li>
+<li>Served Baal-Berith after Gideon's death — <a href="https://www.biblegateway.com/passage/?search=Judges+8:33&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 8:33</a></li>
+<li>Served gods of surrounding nations — <a href="https://www.biblegateway.com/passage/?search=Judges+10:6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 10:6</a></li>
+<li>Solomon's heart turned after other gods — <a href="https://www.biblegateway.com/passage/?search=1+Kings+11:4-8&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 11:4–8</a></li>
+<li>Jeroboam's golden calves at Bethel and Dan — <a href="https://www.biblegateway.com/passage/?search=1+Kings+12:28-30&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 12:28–30</a></li>
+<li>Ahab served <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/heavenly-beings/baal/">Baal</a> and <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/heavenly-beings/asherah/">Asherah</a> (Ishtar/Easter) — <a href="https://www.biblegateway.com/passage/?search=1+Kings+16:30-33&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 16:30–33</a></li>
+<li>Northern kingdom's sustained idolatry — <a href="https://www.biblegateway.com/passage/?search=2+Kings+17:7-8&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 17:7–8</a></li>
+<li>Idolatry within the temple itself — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+8:10-16&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 8:10–16</a></li>
+<li>Burned incense to the Baals — <a href="https://www.biblegateway.com/passage/?search=Hosea+2:13&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Hosea 2:13</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li><mark style="background:#4ab867A6">Death</mark> for the idolater — <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+17:2-5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 17:2–5</a>;</li>
+<li>no offering covers deliberate high-handed idolatry — <a href="https://www.biblegateway.com/passage/?search=Numbers+15:30-31&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Numbers 15:30–31</a>;</li>
+<li>repentance and return to the covenant — <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+30:1-3&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 30:1–3</a></li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>Three thousand men killed by the sword after the golden calf — <a href="https://www.biblegateway.com/passage/?search=Exodus+32:27-28&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 32:27–28</a></li>
+<li>A plague sent by Yahweh upon Israel — <a href="https://www.biblegateway.com/passage/?search=Exodus+32:35&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 32:35</a></li>
+<li>Cycles of oppression and foreign domination throughout Judges — <a href="https://www.biblegateway.com/passage/?search=Judges+2:14-15&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 2:14–15</a></li>
+<li>Solomon's kingdom torn from his son — <a href="https://www.biblegateway.com/passage/?search=1+Kings+11:11-13&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 11:11–13</a></li>
+<li>Northern kingdom carried into <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/dwelling-places/realm-of-humans/assyria/">Assyria</a>n exile — <a href="https://www.biblegateway.com/passage/?search=2+Kings+17:18-23&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 17:18–23</a></li>
+<li>Southern kingdom carried into <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/dwelling-places/realm-of-humans/babylon/">Babylon</a>ian exile — <a href="https://www.biblegateway.com/passage/?search=2+Kings+24:3-4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 24:3–4</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="no-carved-images-or-idols" tabindex="-1">No Carved Images or Idols</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Exodus+20:4-5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:4–5</a>; <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+5:8-9&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 5:8–9</a></em><br>
+&quot;You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth. You shall not bow yourself down to them, nor serve them.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>Aaron fashioned the golden calf — <a href="https://www.biblegateway.com/passage/?search=Exodus+32:4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 32:4</a></li>
+<li>Micah made a carved <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/i/image/">image</a> and household <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/i/idol/">idol</a>s — <a href="https://www.biblegateway.com/passage/?search=Judges+17:3-5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 17:3–5</a></li>
+<li>Tribe of Dan stole Micah's carved image and set it up — <a href="https://www.biblegateway.com/passage/?search=Judges+18:14-20&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 18:14–20</a></li>
+<li>Jeroboam's two golden calves — <a href="https://www.biblegateway.com/passage/?search=1+Kings+12:28&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 12:28</a></li>
+<li>Carved images on the walls of the temple — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+8:10&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 8:10</a></li>
+<li>Making molten images of silver — <a href="https://www.biblegateway.com/passage/?search=Hosea+13:2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Hosea 13:2</a></li>
+<li>Israel making idols condemned — <a href="https://www.biblegateway.com/passage/?search=Isaiah+44:9-17&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Isaiah 44:9–17</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li><mark style="background:#4ab867A6">Death</mark> — <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+17:2-5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 17:2–5</a>;</li>
+<li>destruction of the idol required — <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+7:5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 7:5</a>;</li>
+<li>no offering covers deliberate idol worship — <a href="https://www.biblegateway.com/passage/?search=Numbers+15:30-31&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Numbers 15:30–31</a></li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>Three thousand killed after the golden calf — <a href="https://www.biblegateway.com/passage/?search=Exodus+32:27-28&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 32:27–28</a></li>
+<li>A plague upon Israel — <a href="https://www.biblegateway.com/passage/?search=Exodus+32:35&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 32:35</a></li>
+<li>Dan's idolatry at the carved image endured throughout the period of the tabernacle at Shiloh — <a href="https://www.biblegateway.com/passage/?search=Judges+18:31&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 18:31</a></li>
+<li>Jeroboam's sin became the defining charge against every subsequent northern king — <a href="https://www.biblegateway.com/passage/?search=1+Kings+16:26&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 16:26</a></li>
+<li>Northern kingdom exiled to Assyria — <a href="https://www.biblegateway.com/passage/?search=2+Kings+17:22-23&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 17:22–23</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="do-not-make-molten-gods" tabindex="-1">Do Not Make Molten Gods</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Exodus+34:17&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 34:17</a>; <a href="https://www.biblegateway.com/passage/?search=Leviticus+19:4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 19:4</a></em><br>
+&quot;You shall make no molten gods for yourselves.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>Aaron fashioned the golden calf — <a href="https://www.biblegateway.com/passage/?search=Exodus+32:4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 32:4</a></li>
+<li>Jeroboam's two golden calves set up at Bethel and Dan — <a href="https://www.biblegateway.com/passage/?search=1+Kings+12:28&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 12:28</a></li>
+<li>Making molten images of silver — <a href="https://www.biblegateway.com/passage/?search=Hosea+13:2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Hosea 13:2</a></li>
+<li>Micah's mother making a carved and molten image — <a href="https://www.biblegateway.com/passage/?search=Judges+17:4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 17:4</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong> Cherem (חֵרֶם) — devoted to destruction — <a href="https://www.biblegateway.com/passage/?search=Exodus+22:20&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 22:20</a>; death — <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+17:2-5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 17:2–5</a>; no offering covers deliberate idol-making — <a href="https://www.biblegateway.com/passage/?search=Numbers+15:30-31&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Numbers 15:30–31</a>; Moses' intercession as the only path when no offering suffices — <a href="https://www.biblegateway.com/passage/?search=Exodus+32:30-32&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 32:30–32</a></p>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>Three thousand killed by the sword — <a href="https://www.biblegateway.com/passage/?search=Exodus+32:27-28&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 32:27–28</a></li>
+<li>A plague sent upon Israel — <a href="https://www.biblegateway.com/passage/?search=Exodus+32:35&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 32:35</a></li>
+<li>Jeroboam's sin became the defining indictment repeated against every northern king — <a href="https://www.biblegateway.com/passage/?search=1+Kings+16:26&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 16:26</a>; <a href="https://www.biblegateway.com/passage/?search=2+Kings+17:22-23&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 17:22–23</a></li>
+<li>Northern kingdom exiled to Assyria — [2 Kings 17:18](</li>
+</ul>
+</li>
+</ul>
+<h2 id="do-not-take-the-name-of-yhwh-in-vain" tabindex="-1">Do Not Take the Name of YHWH in Vain</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Exodus+20:7&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:7</a>; <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+5:11&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 5:11</a></em><br>
+&quot;You shall not take the name of Yahweh your God in vain.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>Son of an Israelite woman blasphemed the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/n/name/">Name</a> — <a href="https://www.biblegateway.com/passage/?search=Leviticus+24:11&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 24:11</a></li>
+<li>Israel profaned Yahweh's name among the nations through their conduct — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+36:20-22&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 36:20–22</a></li>
+<li>Priests despised Yahweh's name with polluted offerings — <a href="https://www.biblegateway.com/passage/?search=Malachi+1:6-7&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Malachi 1:6–7</a></li>
+<li>Profaned Yahweh's name by re-enslaving freed servants — <a href="https://www.biblegateway.com/passage/?search=Jeremiah+34:16&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Jeremiah 34:16</a></li>
+<li>Profaned the holy name through sexual immorality — <a href="https://www.biblegateway.com/passage/?search=Amos+2:7&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Amos 2:7</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li><mark style="background:#4ab867A6">Death</mark> for blasphemy of the Name — <a href="https://www.biblegateway.com/passage/?search=Leviticus+24:16&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 24:16</a>;</li>
+<li>the blasphemer brought outside the camp and stoned — <a href="https://www.biblegateway.com/passage/?search=Leviticus+24:14&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 24:14</a></li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>The blasphemer was stoned as prescribed — <a href="https://www.biblegateway.com/passage/?search=Leviticus+24:23&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 24:23</a></li>
+<li>Yahweh's name continually profaned among the nations as a consequence of Israel's exile and conduct — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+36:20&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 36:20</a></li>
+<li>Priests rebuked and the priesthood threatened with removal — <a href="https://www.biblegateway.com/passage/?search=Malachi+2:1-3&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Malachi 2:1–3</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="remember-the-sabbath-and-keep-it-holy" tabindex="-1">Remember the Sabbath and Keep It Holy</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Exodus+20:8&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:8</a>; <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+5:12&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 5:12</a>; <a href="https://www.biblegateway.com/passage/?search=Exodus+31:13&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 31:13</a></em><br>
+&quot;Remember the Sabbath day, to keep it holy.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>Man gathering sticks on the Sabbath in the wilderness — <a href="https://www.biblegateway.com/passage/?search=Numbers+15:32-33&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Numbers 15:32–33</a></li>
+<li>Israel profaned Yahweh's Sabbaths in the wilderness — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+20:13&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 20:13</a></li>
+<li>The next generation also profaned the Sabbaths — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+20:21&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 20:21</a></li>
+<li>Treading winepresses and trading on the Sabbath — <a href="https://www.biblegateway.com/passage/?search=Nehemiah+13:15-16&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Nehemiah 13:15–16</a></li>
+<li>Carrying burdens through Jerusalem's gates on the Sabbath — <a href="https://www.biblegateway.com/passage/?search=Jeremiah+17:21-23&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Jeremiah 17:21–23</a></li>
+<li>Despising holy things and profaning Sabbaths — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+22:8&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 22:8</a></li>
+<li>Asking when the Sabbath would end to sell grain — <a href="https://www.biblegateway.com/passage/?search=Amos+8:5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Amos 8:5</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li><mark style="background:#4ab867A6">Death</mark> ; cut off from the people — <a href="https://www.biblegateway.com/passage/?search=Exodus+31:14-15&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 31:14–15</a>;</li>
+<li>no offering covers deliberate Sabbath violation — <a href="https://www.biblegateway.com/passage/?search=Numbers+15:30-31&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Numbers 15:30–31</a></li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>The man gathering sticks was stoned to death — <a href="https://www.biblegateway.com/passage/?search=Numbers+15:35-36&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Numbers 15:35–36</a></li>
+<li>Yahweh withheld His hand in the wilderness and threatened destruction — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+20:13-14&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 20:13–14</a></li>
+<li>Jerusalem's gates threatened with fire for Sabbath breaking — <a href="https://www.biblegateway.com/passage/?search=Jeremiah+17:27&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Jeremiah 17:27</a></li>
+<li>The land kept its Sabbaths during seventy years of exile — <a href="https://www.biblegateway.com/passage/?search=2+Chronicles+36:21&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Chronicles 36:21</a></li>
+<li>Nehemiah shut the gates of Jerusalem on the Sabbath and drove out the merchants — <a href="https://www.biblegateway.com/passage/?search=Nehemiah+13:19-21&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Nehemiah 13:19–21</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="honor-your-father-and-mother" tabindex="-1">Honor Your Father and Mother</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Exodus+20:12&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:12</a>; <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+5:16&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 5:16</a></em><br>
+&quot;Honor your father and your mother.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>Father and mother treated with contempt in Jerusalem — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+22:7&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 22:7</a></li>
+<li>Son dishonors father; daughter rises against mother — <a href="https://www.biblegateway.com/passage/?search=Micah+7:6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Micah 7:6</a></li>
+<li>Absalom's full rebellion against his father David — <a href="https://www.biblegateway.com/passage/?search=2+Samuel+15:1-12&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Samuel 15:1–12</a></li>
+<li>General contempt for parents listed among Jerusalem's sins — <a href="https://www.biblegateway.com/passage/?search=Proverbs+30:17&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Proverbs 30:17</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li><mark style="background:#4ab867A6">Death</mark> for striking a parent — <a href="https://www.biblegateway.com/passage/?search=Exodus+21:15&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 21:15</a>;</li>
+<li>death for cursing a parent — <a href="https://www.biblegateway.com/passage/?search=Exodus+21:17&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 21:17</a>; <a href="https://www.biblegateway.com/passage/?search=Leviticus+20:9&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 20:9</a>;</li>
+<li>a stubborn and rebellious son brought before the elders and stoned — <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+21:18-21&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 21:18–21</a></li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>Absalom — though not executed by David — was eventually killed by Joab; David mourned deeply — <a href="https://www.biblegateway.com/passage/?search=2+Samuel+18:14-15&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Samuel 18:14–15</a>; <a href="https://www.biblegateway.com/passage/?search=2+Samuel+18:33&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Samuel 18:33</a></li>
+<li>Jerusalem's contempt for parents listed as part of the indictment leading to exile — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+22:15&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 22:15</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="do-not-murder" tabindex="-1">Do Not Murder</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Exodus+20:13&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:13</a>; <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+5:17&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 5:17</a></em><br>
+&quot;You shall not murder.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>David arranged Uriah's death — <a href="https://www.biblegateway.com/passage/?search=2+Samuel+11:14-17&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Samuel 11:14–17</a></li>
+<li>Jezebel's conspiracy to murder Naboth — <a href="https://www.biblegateway.com/passage/?search=1+Kings+21:9-14&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 21:9–14</a></li>
+<li>Manasseh filled Jerusalem with innocent blood — <a href="https://www.biblegateway.com/passage/?search=2+Kings+21:16&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 21:16</a></li>
+<li>Murder listed among Jerusalem's sins — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+22:3-6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 22:3–6</a></li>
+<li>Killing among Israel's listed transgressions — <a href="https://www.biblegateway.com/passage/?search=Hosea+4:2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Hosea 4:2</a></li>
+<li>Sons and daughters sacrificed — blood touching blood — <a href="https://www.biblegateway.com/passage/?search=Psalm+106:37-38&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Psalm 106:37–38</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li><mark style="background:#4ab867A6">Death</mark> — the murderer shall surely be put to death — <a href="https://www.biblegateway.com/passage/?search=Exodus+21:12&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 21:12</a>; <a href="https://www.biblegateway.com/passage/?search=Numbers+35:16-21&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Numbers 35:16–21</a>;</li>
+<li>no ransom accepted for a murderer's life — <a href="https://www.biblegateway.com/passage/?search=Numbers+35:31&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Numbers 35:31</a>;</li>
+<li>blood defiles the land and only the blood of the murderer cleanses it — <a href="https://www.biblegateway.com/passage/?search=Numbers+35:33&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Numbers 35:33</a></li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>David's household struck with perpetual sword; Uriah's blood never formally avenged — <a href="https://www.biblegateway.com/passage/?search=2+Samuel+12:10-12&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Samuel 12:10–12</a></li>
+<li>Ahab and Jezebel — dogs licked Ahab's blood; Jezebel eaten by dogs on the plot of ground that was Naboth's — <a href="https://www.biblegateway.com/passage/?search=1+Kings+22:38&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 22:38</a>; <a href="https://www.biblegateway.com/passage/?search=2+Kings+9:36-37&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 9:36–37</a></li>
+<li>Manasseh's bloodshed cited as primary cause of Judah's exile — Yahweh would not pardon — <a href="https://www.biblegateway.com/passage/?search=2+Kings+24:3-4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 24:3–4</a></li>
+<li>Jerusalem destroyed; the city's blood guilt a central charge — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+24:6-9&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 24:6–9</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="do-not-commit-adultery" tabindex="-1">Do Not Commit Adultery</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Exodus+20:14&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:14</a>; <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+5:18&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 5:18</a></em><br>
+&quot;You shall not commit adultery.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>David and Bathsheba — <a href="https://www.biblegateway.com/passage/?search=2+Samuel+11:4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Samuel 11:4</a></li>
+<li>Widespread adultery among the people — <a href="https://www.biblegateway.com/passage/?search=Jeremiah+5:7-8&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Jeremiah 5:7–8</a></li>
+<li>Men committing adultery with neighbors' wives in Jerusalem — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+22:11&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 22:11</a></li>
+<li>Adultery among Israel's transgressions — <a href="https://www.biblegateway.com/passage/?search=Hosea+4:2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Hosea 4:2</a></li>
+<li>Daughters committing harlotry; men going apart with harlots — <a href="https://www.biblegateway.com/passage/?search=Hosea+4:13-14&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Hosea 4:13–14</a></li>
+<li>Treachery against the wife of youth — <a href="https://www.biblegateway.com/passage/?search=Malachi+2:14-15&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Malachi 2:14–15</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li><mark style="background:#4ab867A6">Death</mark> for both parties — <a href="https://www.biblegateway.com/passage/?search=Leviticus+20:10&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 20:10</a>; <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+22:22&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 22:22</a>;</li>
+<li>guilt offering required in the specific case involving a betrothed slave woman — <a href="https://www.biblegateway.com/passage/?search=Leviticus+19:20-22&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 19:20–22</a>;</li>
+<li>no offering covers deliberate adultery — <a href="https://www.biblegateway.com/passage/?search=Numbers+15:30-31&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Numbers 15:30–31</a></li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>David's child by Bathsheba died; the sword remained in David's house; his wives given to another before his eyes — <a href="https://www.biblegateway.com/passage/?search=2+Samuel+12:11-18&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Samuel 12:11–18</a></li>
+<li>Israel treated as an adulterous wife — sent away with a certificate of divorce — <a href="https://www.biblegateway.com/passage/?search=Jeremiah+3:8&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Jeremiah 3:8</a></li>
+<li>Judah's adultery judged through the imagery of Ezekiel 16 — Jerusalem given into the hands of her lovers and stripped bare — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+16:37-41&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 16:37–41</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="do-not-steal" tabindex="-1">Do Not Steal</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Exodus+20:15&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:15</a>; <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+5:19&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 5:19</a></em><br>
+&quot;You shall not steal.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>Achan stole devoted things from Jericho — <a href="https://www.biblegateway.com/passage/?search=Joshua+7:20-21&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Joshua 7:20–21</a></li>
+<li>Making the ephah small and the shekel great — theft through commerce — <a href="https://www.biblegateway.com/passage/?search=Amos+8:5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Amos 8:5</a></li>
+<li>Seizing fields and houses by violence — <a href="https://www.biblegateway.com/passage/?search=Micah+2:1-2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Micah 2:1–2</a></li>
+<li>Stealing listed among Israel's transgressions — <a href="https://www.biblegateway.com/passage/?search=Hosea+4:2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Hosea 4:2</a></li>
+<li>Robbing Yahweh in tithes and offerings — <a href="https://www.biblegateway.com/passage/?search=Malachi+3:8&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Malachi 3:8</a></li>
+<li>Stealing listed among temple-court sins — <a href="https://www.biblegateway.com/passage/?search=Jeremiah+7:9&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Jeremiah 7:9</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li>Restitution <mark style="background:#67cD83A6">Offering</mark> — fivefold for an ox; fourfold for a sheep — <a href="https://www.biblegateway.com/passage/?search=Exodus+22:1&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 22:1</a>;</li>
+<li>double restitution if the animal found alive — <a href="https://www.biblegateway.com/passage/?search=Exodus+22:4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 22:4</a>;</li>
+<li>restitution plus one-fifth with a <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/guilt-offering/">Guilt Offering</a> (asham, אָשָׁם) when theft involved a false oath — <a href="https://www.biblegateway.com/passage/?search=Leviticus+6:5-7&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 6:5–7</a></li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>Achan, his family, and all he had were stoned and burned — <a href="https://www.biblegateway.com/passage/?search=Joshua+7:24-26&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Joshua 7:24–26</a></li>
+<li>Israel defeated at Ai — thirty-six men killed — <a href="https://www.biblegateway.com/passage/?search=Joshua+7:4-5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Joshua 7:4–5</a></li>
+<li>Agricultural theft and commercial dishonesty listed in Yahweh's indictment leading to exile — <a href="https://www.biblegateway.com/passage/?search=Amos+8:7-8&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Amos 8:7–8</a></li>
+<li>Curse upon the whole nation for robbing Yahweh in tithes — <a href="https://www.biblegateway.com/passage/?search=Malachi+3:9&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Malachi 3:9</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="do-not-bear-false-witness" tabindex="-1">Do Not Bear False Witness</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Exodus+20:16&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:16</a>; <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+5:20&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 5:20</a></em><br>
+&quot;You shall not give false testimony against your neighbor.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>False witnesses brought against Naboth — <a href="https://www.biblegateway.com/passage/?search=1+Kings+21:10-13&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 21:10–13</a></li>
+<li>Swearing falsely while swearing by Yahweh's name — <a href="https://www.biblegateway.com/passage/?search=Jeremiah+5:2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Jeremiah 5:2</a></li>
+<li>Men carrying slanders to shed blood — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+22:9&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 22:9</a></li>
+<li>Lying among Israel's transgressions — <a href="https://www.biblegateway.com/passage/?search=Hosea+4:2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Hosea 4:2</a></li>
+<li>Every neighbor walking in slander — <a href="https://www.biblegateway.com/passage/?search=Jeremiah+9:3-5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Jeremiah 9:3–5</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li>The false witness receives exactly what he intended for the accused — life for life, eye for eye — <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+19:18-19&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 19:18–19</a>;</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/guilt-offering/">Guilt Offering</a> (asham, אָשָׁם) required when false oath involved — <a href="https://www.biblegateway.com/passage/?search=Leviticus+6:1-7&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 6:1–7</a></li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>Naboth was murdered on the basis of false testimony — <a href="https://www.biblegateway.com/passage/?search=1+Kings+21:13-14&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 21:13–14</a></li>
+<li>Ahab and Jezebel judged — dogs licked Ahab's blood where Naboth's blood was shed — <a href="https://www.biblegateway.com/passage/?search=1+Kings+21:19&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 21:19</a>; <a href="https://www.biblegateway.com/passage/?search=1+Kings+22:38&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 22:38</a></li>
+<li>False witness and slander cited as part of Jerusalem's indictment leading to exile — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+22:15&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 22:15</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="do-not-covet" tabindex="-1">Do Not Covet</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Exodus+20:17&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:17</a>; <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+5:21&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 5:21</a></em><br>
+&quot;You shall not covet your neighbor's house. You shall not covet your neighbor's wife.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>Achan coveted the Babylonian garment, silver, and gold — <a href="https://www.biblegateway.com/passage/?search=Joshua+7:21&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Joshua 7:21</a></li>
+<li>Ahab coveted Naboth's vineyard — <a href="https://www.biblegateway.com/passage/?search=1+Kings+21:2-4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 21:2–4</a></li>
+<li>Coveting fields and taking them by violence — <a href="https://www.biblegateway.com/passage/?search=Micah+2:2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Micah 2:2</a></li>
+<li>Eyes and heart only on dishonest gain — <a href="https://www.biblegateway.com/passage/?search=Jeremiah+22:17&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Jeremiah 22:17</a></li>
+<li>Shepherds looking only to their own gain — <a href="https://www.biblegateway.com/passage/?search=Isaiah+56:11&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Isaiah 56:11</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li>No civil penalty prescribed for covetousness alone; the penalty attaches to the action it produces — theft, murder, adultery each carry their own remedies;</li>
+<li>Yahweh searches the heart — <a href="https://www.biblegateway.com/passage/?search=Jeremiah+17:10&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Jeremiah 17:10</a></li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>Achan's covetousness led to defeat at Ai and the death of his entire household — <a href="https://www.biblegateway.com/passage/?search=Joshua+7:4-5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Joshua 7:4–5</a>; <a href="https://www.biblegateway.com/passage/?search=Joshua+7:24-26&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Joshua 7:24–26</a></li>
+<li>Ahab's covetousness of Naboth's vineyard led directly to murder, false witness, and the destruction of his entire dynasty — <a href="https://www.biblegateway.com/passage/?search=1+Kings+21:17-24&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 21:17–24</a></li>
+<li>Covetous leaders of Israel and Judah listed among those whose greed drove the nation into exile — <a href="https://www.biblegateway.com/passage/?search=Jeremiah+22:17-19&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Jeremiah 22:17–19</a><br>
+<a href="https://www.biblegateway.com/passage/?search=2+Kings+17:18&amp;version=WEB;NET;OJB" target="_blank" class="external-link">https://www.biblegateway.com/passage/?search=2+Kings+17:18&amp;version=WEB;NET;OJB</a>)</li>
+</ul>
+</li>
+</ul>
+<h2 id="do-not-oppress-the-stranger" tabindex="-1">Do Not Oppress the Stranger</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Exodus+22:21&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 22:21</a>; <a href="https://www.biblegateway.com/passage/?search=Exodus+23:9&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 23:9</a>; <a href="https://www.biblegateway.com/passage/?search=Leviticus+19:33&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 19:33</a></em><br>
+&quot;You shall not wrong a <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/stranger/">Stranger</a> or oppress him, for you were strangers in the land of Egypt.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>The foreigner oppressed within Jerusalem — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+22:7&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 22:7</a></li>
+<li>Oppressing the foreigner among other social sins — <a href="https://www.biblegateway.com/passage/?search=Jeremiah+7:6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Jeremiah 7:6</a></li>
+<li>Those who thrust aside the foreigner condemned — <a href="https://www.biblegateway.com/passage/?search=Malachi+3:5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Malachi 3:5</a></li>
+<li>Oppression of foreigner cited in pre-exile indictment — <a href="https://www.biblegateway.com/passage/?search=Zechariah+7:10&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Zechariah 7:10</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li>Yahweh's wrath kindled; <mark style="background:#4ab867A6">death</mark> by the sword — <a href="https://www.biblegateway.com/passage/?search=Exodus+22:24&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 22:24</a>;</li>
+<li>justice and release required — <a href="https://www.biblegateway.com/passage/?search=Isaiah+1:17&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Isaiah 1:17</a></li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>Oppression of the foreigner cited as part of Jerusalem's indictment leading to exile — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+22:15&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 22:15</a></li>
+<li>Yahweh witnesses against those who oppress the foreigner at the time of judgment — <a href="https://www.biblegateway.com/passage/?search=Malachi+3:5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Malachi 3:5</a></li>
+<li>Yahweh answered the pre-exile prayers with silence and scattered them among the nations — <a href="https://www.biblegateway.com/passage/?search=Zechariah+7:13-14&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Zechariah 7:13–14</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="do-not-afflict-widows-or-fatherless-children" tabindex="-1">Do Not Afflict Widows or Fatherless Children</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Exodus+22:22&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 22:22</a></em><br>
+&quot;You shall not afflict any widow or fatherless child.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>Princes not defending the fatherless; widow's cause not received — <a href="https://www.biblegateway.com/passage/?search=Isaiah+1:23&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Isaiah 1:23</a></li>
+<li>Oppressing the fatherless and widow — <a href="https://www.biblegateway.com/passage/?search=Jeremiah+7:6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Jeremiah 7:6</a></li>
+<li>Fatherless and widow oppressed within Jerusalem — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+22:7&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 22:7</a></li>
+<li>Defrauding widows — <a href="https://www.biblegateway.com/passage/?search=Malachi+3:5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Malachi 3:5</a></li>
+<li>Not pleading the cause of the fatherless — <a href="https://www.biblegateway.com/passage/?search=Jeremiah+5:28&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Jeremiah 5:28</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li>Yahweh's burning anger; the offender <mark style="background:#4ab867A6">killed</mark> by the sword;</li>
+<li>their own wives made widows and children made fatherless — <a href="https://www.biblegateway.com/passage/?search=Exodus+22:23-24&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 22:23–24</a>;</li>
+<li>justice — defending the fatherless and pleading for the widow — <a href="https://www.biblegateway.com/passage/?search=Isaiah+1:17&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Isaiah 1:17</a></li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>Widows and fatherless listed in Ezekiel's indictment leading directly to the scattering of Israel among the nations — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+22:15&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 22:15</a></li>
+<li>Yahweh witnessed against defrauders of widows at judgment — <a href="https://www.biblegateway.com/passage/?search=Malachi+3:5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Malachi 3:5</a></li>
+<li>Jerusalem's princes rebuked; the city described as having become a harlot — <a href="https://www.biblegateway.com/passage/?search=Isaiah+1:21-23&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Isaiah 1:21–23</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="do-not-charge-interest-to-the-poor" tabindex="-1">Do Not Charge Interest to the Poor</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Exodus+22:25&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 22:25</a>; <a href="https://www.biblegateway.com/passage/?search=Leviticus+25:37&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 25:37</a></em><br>
+&quot;You shall not be to him as a creditor; neither shall you charge him interest.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>Nobles and officials charging interest against their brothers — <a href="https://www.biblegateway.com/passage/?search=Nehemiah+5:1-7&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Nehemiah 5:1–7</a></li>
+<li>Taking interest and increase; extorting neighbors — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+22:12&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 22:12</a></li>
+<li>Selling the poor for a pair of sandals — <a href="https://www.biblegateway.com/passage/?search=Amos+2:6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Amos 2:6</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li>Yahweh hears the cry of the oppressed and His anger is kindled — <a href="https://www.biblegateway.com/passage/?search=Exodus+22:27&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 22:27</a>;</li>
+<li>cancellation of debt in the seventh year — <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+15:1-2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 15:1–2</a>;</li>
+<li>return of pledges taken; no specific offering — the remedy is the act of justice</li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>Nehemiah confronted the nobles and officials; they agreed to restore what was taken — <a href="https://www.biblegateway.com/passage/?search=Nehemiah+5:8-12&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Nehemiah 5:8–12</a></li>
+<li>Usury and extortion listed in Ezekiel's indictment of Jerusalem leading to exile — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+22:12-15&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 22:12–15</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="do-not-deny-justice-to-the-poor" tabindex="-1">Do Not Deny Justice to the Poor</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Exodus+23:6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 23:6</a>; <a href="https://www.biblegateway.com/passage/?search=Leviticus+19:15&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 19:15</a></em><br>
+&quot;You shall not deny justice to your poor people in their lawsuits.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>Princes not judging the fatherless; widow's cause not received — <a href="https://www.biblegateway.com/passage/?search=Isaiah+1:23&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Isaiah 1:23</a></li>
+<li>Trampling the poor and turning aside the needy at the gate — <a href="https://www.biblegateway.com/passage/?search=Amos+2:7&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Amos 2:7</a></li>
+<li>Afflicting the just; taking bribes; turning aside the needy — <a href="https://www.biblegateway.com/passage/?search=Amos+5:12&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Amos 5:12</a></li>
+<li>Heads who abhor justice and pervert equity — <a href="https://www.biblegateway.com/passage/?search=Micah+3:9-11&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Micah 3:9–11</a></li>
+<li>Did not plead the cause of the fatherless — <a href="https://www.biblegateway.com/passage/?search=Jeremiah+5:28&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Jeremiah 5:28</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li>Yahweh hears the cry of the oppressed — <a href="https://www.biblegateway.com/passage/?search=Exodus+22:23&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 22:23</a>;</li>
+<li>righteous judgment — defending the poor and releasing the oppressed — <a href="https://www.biblegateway.com/passage/?search=Isaiah+1:17&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Isaiah 1:17</a>;</li>
+<li>no offering — the remedy is the act of justice itself</li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>Zion plowed like a field; Jerusalem becoming a heap of ruins; the mountain of the house a wooded height — <a href="https://www.biblegateway.com/passage/?search=Micah+3:12&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Micah 3:12</a></li>
+<li>Amos pronounced the coming exile and the silencing of Israel's songs — <a href="https://www.biblegateway.com/passage/?search=Amos+5:23-27&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Amos 5:23–27</a></li>
+<li>Jeremiah's temple sermon — the temple itself no longer a refuge because justice was abandoned — <a href="https://www.biblegateway.com/passage/?search=Jeremiah+7:11-15&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Jeremiah 7:11–15</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="do-not-take-a-bribe" tabindex="-1">Do Not Take a Bribe</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Exodus+23:8&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 23:8</a>; <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+16:19&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 16:19</a></em><br>
+&quot;You shall take no bribe, for a bribe blinds those who have sight and perverts the words of the righteous.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>Samuel's sons took bribes and perverted justice — <a href="https://www.biblegateway.com/passage/?search=1+Samuel+8:3&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Samuel 8:3</a></li>
+<li>Princes loving gifts and following after rewards — <a href="https://www.biblegateway.com/passage/?search=Isaiah+1:23&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Isaiah 1:23</a></li>
+<li>Taking bribes and turning aside the needy at the gate — <a href="https://www.biblegateway.com/passage/?search=Amos+5:12&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Amos 5:12</a></li>
+<li>Heads judging for bribes; priests teaching for hire — <a href="https://www.biblegateway.com/passage/?search=Micah+3:11&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Micah 3:11</a></li>
+<li>Taking bribes to shed blood — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+22:12&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 22:12</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li>No offering prescribed;</li>
+<li>removal of bribery and restoration of righteous judgment required — <a href="https://www.biblegateway.com/passage/?search=Isaiah+1:26-27&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Isaiah 1:26–27</a>;</li>
+<li>judgment falls on unjust judges — <a href="https://www.biblegateway.com/passage/?search=Micah+3:11-12&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Micah 3:11–12</a></li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>Samuel's sons' corruption of justice became the stated reason Israel demanded a king — <a href="https://www.biblegateway.com/passage/?search=1+Samuel+8:4-5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Samuel 8:4–5</a></li>
+<li>Zion plowed like a field as a direct consequence of leaders who judged for bribes — <a href="https://www.biblegateway.com/passage/?search=Micah+3:12&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Micah 3:12</a></li>
+<li>Bribery and extortion cited in Ezekiel's indictment leading directly to exile — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+22:15&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 22:15</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="let-the-land-rest-in-the-seventh-year" tabindex="-1">Let the Land Rest in the Seventh Year</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Exodus+23:10-11&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 23:10–11</a>; <a href="https://www.biblegateway.com/passage/?search=Leviticus+25:4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 25:4</a></em><br>
+&quot;The seventh year you shall let it rest and lie fallow.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>The land was not given its Sabbath rests throughout the monarchy — implied by the precise accounting of seventy years of missed Sabbaths — <a href="https://www.biblegateway.com/passage/?search=2+Chronicles+36:21&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Chronicles 36:21</a></li>
+<li>Yahweh's declaration that the land would enjoy its Sabbaths during exile implies they had not been kept — <a href="https://www.biblegateway.com/passage/?search=Leviticus+26:34-35&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 26:34–35</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li>Exile from the land until it has enjoyed its Sabbaths — <a href="https://www.biblegateway.com/passage/?search=Leviticus+26:34-35&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 26:34–35</a>;</li>
+<li>no offering covers neglect of the Sabbath year — the land itself collects its rest through exile</li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>Seventy years of Babylonian exile — one year for each neglected Sabbath year — <a href="https://www.biblegateway.com/passage/?search=2+Chronicles+36:21&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Chronicles 36:21</a></li>
+<li>The land rested and recovered what Israel had denied it — <a href="https://www.biblegateway.com/passage/?search=Jeremiah+25:11-12&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Jeremiah 25:11–12</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="do-not-follow-other-gods-or-serve-them" tabindex="-1">Do Not Follow Other Gods or Serve Them</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Exodus+23:24&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 23:24</a>; <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+6:14&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 6:14</a></em><br>
+&quot;You shall not bow down to their gods, nor serve them, nor follow their practices.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>Serving the Baals and Ashtaroth throughout the period of the Judges — <a href="https://www.biblegateway.com/passage/?search=Judges+2:11-13&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 2:11–13</a></li>
+<li>Solomon following Ashtoreth and Milcom — <a href="https://www.biblegateway.com/passage/?search=1+Kings+11:5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 11:5</a></li>
+<li>Israel forsaking Yahweh's commandments and following Baals — <a href="https://www.biblegateway.com/passage/?search=1+Kings+18:18&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 18:18</a></li>
+<li>Northern kingdom serving idols Yahweh had forbidden — <a href="https://www.biblegateway.com/passage/?search=2+Kings+17:12&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 17:12</a></li>
+<li>Returned to the iniquities of their forefathers and went after other gods — <a href="https://www.biblegateway.com/passage/?search=Jeremiah+11:10&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Jeremiah 11:10</a></li>
+<li>Hearts going after idols in the wilderness — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+20:16&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 20:16</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li><mark style="background:#4ab867A6">Death</mark> — <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+17:12&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 17:12</a>;</li>
+<li>no offering covers deliberate worship of foreign gods — <a href="https://www.biblegateway.com/passage/?search=Numbers+15:30-31&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Numbers 15:30–31</a>;</li>
+<li>destruction of foreign altars required — <a href="https://www.biblegateway.com/passage/?search=Exodus+23:24&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 23:24</a></li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>Repeated cycles of oppression and defeat throughout the Judges period — <a href="https://www.biblegateway.com/passage/?search=Judges+2:14-15&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 2:14–15</a></li>
+<li>Solomon's kingdom divided — <a href="https://www.biblegateway.com/passage/?search=1+Kings+11:11-13&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 11:11–13</a></li>
+<li>450 prophets of Baal killed on Mount Carmel — <a href="https://www.biblegateway.com/passage/?search=1+Kings+18:40&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 18:40</a></li>
+<li>Northern kingdom exiled to Assyria — <a href="https://www.biblegateway.com/passage/?search=2+Kings+17:18-23&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 17:18–23</a></li>
+<li>Southern kingdom exiled to Babylon — <a href="https://www.biblegateway.com/passage/?search=2+Kings+25:1-11&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 25:1–11</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="make-no-covenant-with-the-inhabitants-of-canaan" tabindex="-1">Make No Covenant with the Inhabitants of Canaan</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Exodus+23:32&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 23:32</a>; <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+7:2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 7:2</a></em><br>
+&quot;You shall make no covenant with them, nor with their gods.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>Israel made covenants with the inhabitants of the land — <a href="https://www.biblegateway.com/passage/?search=Judges+2:2-3&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 2:2–3</a></li>
+<li>Multiple tribes failed to drive out the Canaanites — <a href="https://www.biblegateway.com/passage/?search=Judges+1:27-36&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 1:27–36</a></li>
+<li>Intermingling with peoples of the lands after the return from exile — <a href="https://www.biblegateway.com/passage/?search=Ezra+9:1-2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezra 9:1–2</a></li>
+<li>Gibeonite covenant made under deception — <a href="https://www.biblegateway.com/passage/?search=Joshua+9:14-15&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Joshua 9:14–15</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li>No offering — the covenant with the Canaanites was to be broken; their cities devoted to destruction — <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+7:2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 7:2</a>;</li>
+<li>their gods becoming a snare is the stated consequence of covenant-making — <a href="https://www.biblegateway.com/passage/?search=Exodus+23:33&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 23:33</a></li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>The angel of Yahweh rebuked Israel at Bokim for making covenants with the inhabitants — <a href="https://www.biblegateway.com/passage/?search=Judges+2:1-3&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 2:1–3</a></li>
+<li>The nations left in the land became thorns and their gods a snare — exactly as warned — <a href="https://www.biblegateway.com/passage/?search=Judges+2:3&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 2:3</a>; <a href="https://www.biblegateway.com/passage/?search=Judges+3:5-6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 3:5–6</a></li>
+<li>Ezra led a corporate confession and separation from foreign peoples — <a href="https://www.biblegateway.com/passage/?search=Ezra+9:5-10:5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezra 9:5–10:5</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="do-not-let-the-canaanites-dwell-in-the-land" tabindex="-1">Do Not Let the Canaanites Dwell in the Land</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Exodus+23:33&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 23:33</a></em><br>
+&quot;They shall not dwell in your land, lest they make you sin against me.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>Benjamin did not drive out the Jebusites — <a href="https://www.biblegateway.com/passage/?search=Judges+1:21&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 1:21</a></li>
+<li>Manasseh, Ephraim, Zebulun, Asher, and Naphtali all allowed Canaanites to remain — <a href="https://www.biblegateway.com/passage/?search=Judges+1:27-33&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 1:27–33</a></li>
+<li>Did not destroy the peoples as Yahweh commanded; mingled with the nations — <a href="https://www.biblegateway.com/passage/?search=Psalm+106:34-35&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Psalm 106:34–35</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li>No offering — the remedy was expulsion and cherem (חֵרֶם);</li>
+<li>once neglected the consequence ran its full course — <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+7:1-2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 7:1–2</a></li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>Every cycle of apostasy in the book of Judges traces back to this failure — <a href="https://www.biblegateway.com/passage/?search=Judges+2:1-3&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 2:1–3</a></li>
+<li>Israel learned the practices of the nations and served their idols — <a href="https://www.biblegateway.com/passage/?search=Psalm+106:35-36&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Psalm 106:35–36</a></li>
+<li>The nations left in the land became Yahweh's tools to test Israel — <a href="https://www.biblegateway.com/passage/?search=Judges+3:1-4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 3:1–4</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="do-not-intermarry-with-the-nations" tabindex="-1">Do Not Intermarry with the Nations</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Deuteronomy+7:3&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 7:3</a></em><br>
+&quot;You shall not make marriages with them.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>Taking daughters of the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/nation/">nation</a>s as wives and giving daughters to their sons — <a href="https://www.biblegateway.com/passage/?search=Judges+3:6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 3:6</a></li>
+<li>Solomon's foreign wives from nations Yahweh had explicitly forbidden — <a href="https://www.biblegateway.com/passage/?search=1+Kings+11:1-2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 11:1–2</a></li>
+<li>People of Israel intermarrying with surrounding peoples after the return — <a href="https://www.biblegateway.com/passage/?search=Ezra+9:1-2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezra 9:1–2</a></li>
+<li>Jews marrying Ashdodite, Ammonite, and Moabite women — <a href="https://www.biblegateway.com/passage/?search=Nehemiah+13:23-24&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Nehemiah 13:23–24</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li><mark style="background:#4ab867A6">Separation</mark> and putting away of foreign wives — <a href="https://www.biblegateway.com/passage/?search=Ezra+10:3-5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezra 10:3–5</a>;</li>
+<li>Yahweh's anger kindled and quick destruction if foreign wives turn Israel's heart — <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+7:4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 7:4</a>;</li>
+<li>no offering — the remedy is the act of separation</li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>Solomon's heart turned after other gods through his foreign wives — <a href="https://www.biblegateway.com/passage/?search=1+Kings+11:3-4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 11:3–4</a></li>
+<li>Solomon's kingdom torn from his son as a direct result — <a href="https://www.biblegateway.com/passage/?search=1+Kings+11:11-13&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 11:11–13</a></li>
+<li>Ezra tore his garments; corporate weeping and repentance; foreign wives and children sent away — <a href="https://www.biblegateway.com/passage/?search=Ezra+10:1-5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezra 10:1–5</a>; <a href="https://www.biblegateway.com/passage/?search=Ezra+10:44&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezra 10:44</a></li>
+<li>Nehemiah drove away the son-in-law of Sanballat — <a href="https://www.biblegateway.com/passage/?search=Nehemiah+13:28&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Nehemiah 13:28</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="destroy-idolatrous-places-of-worship" tabindex="-1">Destroy Idolatrous Places of Worship</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Exodus+23:24&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 23:24</a>; <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+12:2-3&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 12:2–3</a></em><br>
+&quot;You shall surely destroy all the places in which the nations served their gods: on the high mountains, and on the hills, and under every green tree.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>Failure to drive out inhabitants left their worship places intact — <a href="https://www.biblegateway.com/passage/?search=Judges+1:27-36&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 1:27–36</a></li>
+<li>High places, pillars, and Asherim built on every high hill — <a href="https://www.biblegateway.com/passage/?search=1+Kings+14:23&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 14:23</a></li>
+<li>Building high places in all their cities; setting up pillars and Asherim — <a href="https://www.biblegateway.com/passage/?search=2+Kings+17:9-11&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 17:9–11</a></li>
+<li>High places and altars of incense still standing in Ezekiel's day — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+6:3-4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 6:3–4</a></li>
+<li>Even during periods of reform the high places were often not fully removed — <a href="https://www.biblegateway.com/passage/?search=1+Kings+15:14&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 15:14</a>; <a href="https://www.biblegateway.com/passage/?search=2+Kings+12:3&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 12:3</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li>No offering — the only remedy is what was commanded: complete <mark style="background:#4ab867A6">destruction</mark> of the high places and idolatrous sites — <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+12:2-3&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 12:2–3</a>;</li>
+<li>kings who destroyed them were commended — <a href="https://www.biblegateway.com/passage/?search=2+Kings+18:4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 18:4</a>; <a href="https://www.biblegateway.com/passage/?search=2+Kings+23:4-14&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 23:4–14</a></li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>Every king of the northern kingdom maintained Jeroboam's high places — no northern king removed them — <a href="https://www.biblegateway.com/passage/?search=2+Kings+17:22-23&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 17:22–23</a></li>
+<li>The high places that remained became the primary sites of Israel's sustained apostasy throughout the monarchy — <a href="https://www.biblegateway.com/passage/?search=2+Kings+17:9-11&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 17:9–11</a></li>
+<li>Hezekiah removed them and was blessed — <a href="https://www.biblegateway.com/passage/?search=2+Kings+18:4-7&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 18:4–7</a></li>
+<li>Josiah's sweeping reform destroyed high places from Geba to Beersheba but came too late — Judah's judgment was already set — <a href="https://www.biblegateway.com/passage/?search=2+Kings+23:8&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 23:8</a>; <a href="https://www.biblegateway.com/passage/?search=2+Kings+23:26-27&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 23:26–27</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="do-not-practice-divination-or-sorcery" tabindex="-1">Do Not Practice Divination or Sorcery</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Deuteronomy+18:10-11&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 18:10–11</a></em><br>
+&quot;There shall not be found with you anyone who practices divination, or tells fortunes, or an enchanter, or a sorcerer.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>Saul seeking a medium at En-dor — <a href="https://www.biblegateway.com/passage/?search=1+Samuel+28:7-8&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Samuel 28:7–8</a></li>
+<li>Using divination and sorcery; selling themselves to do evil — <a href="https://www.biblegateway.com/passage/?search=2+Kings+17:17&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 17:17</a></li>
+<li>Manasseh practicing divination and sorcery; consulting mediums and spiritists — <a href="https://www.biblegateway.com/passage/?search=2+Kings+21:6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 21:6</a></li>
+<li>Israel full of diviners from the east — <a href="https://www.biblegateway.com/passage/?search=Isaiah+2:6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Isaiah 2:6</a></li>
+<li>Sorceries and soothsayers among Israel condemned — <a href="https://www.biblegateway.com/passage/?search=Micah+5:12&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Micah 5:12</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li><mark style="background:#4ab867A6">Death</mark> — <a href="https://www.biblegateway.com/passage/?search=Leviticus+20:27&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 20:27</a>;</li>
+<li>no offering covers deliberate divination — it is a high-handed sin; the medium or sorcerer put to death</li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>Saul died the next day in battle — Yahweh answered him neither by dreams, Urim, nor prophets and so he turned to a medium — <a href="https://www.biblegateway.com/passage/?search=1+Samuel+28:6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Samuel 28:6</a>; <a href="https://www.biblegateway.com/passage/?search=1+Samuel+31:4-6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Samuel 31:4–6</a>; the medium consultation cited as among the reasons Saul was put to death — <a href="https://www.biblegateway.com/passage/?search=1+Chronicles+10:13-14&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Chronicles 10:13–14</a></li>
+<li>Manasseh's divination cited as among the sins that made Judah's judgment irreversible — <a href="https://www.biblegateway.com/passage/?search=2+Kings+21:10-15&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 21:10–15</a></li>
+<li>Northern kingdom's use of divination cited as a direct cause of Assyrian exile — <a href="https://www.biblegateway.com/passage/?search=2+Kings+17:17-18&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 17:17–18</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="do-not-shed-innocent-blood" tabindex="-1">Do Not Shed Innocent Blood</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Deuteronomy+19:10&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 19:10</a>; <a href="https://www.biblegateway.com/passage/?search=Jeremiah+7:6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Jeremiah 7:6</a></em><br>
+&quot;Do not shed innocent blood in this place.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>Manasseh filled Jerusalem with innocent blood — <a href="https://www.biblegateway.com/passage/?search=2+Kings+21:16&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 21:16</a></li>
+<li>Shedding innocent blood in the land — <a href="https://www.biblegateway.com/passage/?search=Jeremiah+7:6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Jeremiah 7:6</a></li>
+<li>Filling the place with blood of innocents — <a href="https://www.biblegateway.com/passage/?search=Jeremiah+19:4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Jeremiah 19:4</a></li>
+<li>City shedding blood in her midst — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+22:3-4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 22:3–4</a></li>
+<li>Shed innocent blood — the blood of sons and daughters sacrificed to demons — <a href="https://www.biblegateway.com/passage/?search=Psalm+106:38&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Psalm 106:38</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li>No offering covers the judicial murder of the innocent or deliberate shedding of innocent blood — <a href="https://www.biblegateway.com/passage/?search=Numbers+35:33&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Numbers 35:33</a>;</li>
+<li><mark style="background:#4ab867A6">blood of the murderer</mark> required to cleanse the land;</li>
+<li>Yahweh would not pardon — <a href="https://www.biblegateway.com/passage/?search=2+Kings+24:4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 24:4</a></li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>Yahweh declared He would not pardon Manasseh's bloodshed — Judah's exile was set and irreversible — <a href="https://www.biblegateway.com/passage/?search=2+Kings+24:3-4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 24:3–4</a></li>
+<li>Even Josiah's great reform could not avert the judgment set because of Manasseh's innocent blood — <a href="https://www.biblegateway.com/passage/?search=2+Kings+23:26-27&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 23:26–27</a></li>
+<li>Jerusalem destroyed; blood guilt a central charge in Ezekiel's lament — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+24:6-9&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 24:6–9</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="love-yahweh-with-all-your-heart" tabindex="-1">Love Yahweh with All Your Heart</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Deuteronomy+6:5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 6:5</a></em><br>
+&quot;You shall love Yahweh your God with all your heart, with all your soul, and with all your might.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>A generation arose after Joshua that did not know Yahweh — <a href="https://www.biblegateway.com/passage/?search=Judges+2:10-12&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 2:10–12</a></li>
+<li>Drawing near with the mouth while the heart was far from Yahweh — <a href="https://www.biblegateway.com/passage/?search=Isaiah+29:13&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Isaiah 29:13</a></li>
+<li>Forsaking Yahweh the fountain of living waters — <a href="https://www.biblegateway.com/passage/?search=Jeremiah+2:13&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Jeremiah 2:13</a></li>
+<li>Their love like a morning cloud; Yahweh desired steadfast love not sacrifice — <a href="https://www.biblegateway.com/passage/?search=Hosea+6:4-6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Hosea 6:4–6</a></li>
+<li>Solomon's heart not wholly true to Yahweh as David's had been — <a href="https://www.biblegateway.com/passage/?search=1+Kings+11:4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 11:4</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li>Covenant curses fall upon those who do not love and obey Yahweh — <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+28:15-68&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 28:15–68</a>;</li>
+<li>return to Yahweh with the whole heart — <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+30:2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 30:2</a>;</li>
+<li>Yahweh will circumcise the heart to love Him — <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+30:6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 30:6</a>;</li>
+<li>no offering substitutes for the love of the heart — <a href="https://www.biblegateway.com/passage/?search=Hosea+6:6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Hosea 6:6</a></li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>Solomon's kingdom divided because his heart turned from Yahweh — <a href="https://www.biblegateway.com/passage/?search=1+Kings+11:11-13&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 11:11–13</a></li>
+<li>Yahweh's presence withdrawn from the temple — the glory departed — <a href="https://www.biblegateway.com/passage/?search=Ezekiel+10:18-19&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 10:18–19</a></li>
+<li>The covenant curses of Deuteronomy 28 executed in full — sword, famine, plague, exile — <a href="https://www.biblegateway.com/passage/?search=Lamentations+1:1-5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Lamentations 1:1–5</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="do-not-sacrifice-to-any-god-but-yahweh" tabindex="-1">Do Not Sacrifice to Any God but Yahweh</h2>
+<p><em><a href="https://www.biblegateway.com/passage/?search=Exodus+22:20&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 22:20</a></em><br>
+&quot;He who sacrifices to any god, except to Yahweh only, shall be utterly destroyed.&quot;</p>
+<ul>
+<li>
+<p><strong>Broken:</strong></p>
+<ul>
+<li>Offering burnt offerings and peace offerings to the golden calf — <a href="https://www.biblegateway.com/passage/?search=Exodus+32:6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 32:6</a></li>
+<li>High places built for Chemosh and Molech — sacrifices offered — <a href="https://www.biblegateway.com/passage/?search=1+Kings+11:7-8&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 11:7–8</a></li>
+<li>Ahaz sacrificing on high places and burning his son as an offering — <a href="https://www.biblegateway.com/passage/?search=2+Kings+16:3-4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 16:3–4</a></li>
+<li>Sons and daughters passed through the fire — <a href="https://www.biblegateway.com/passage/?search=2+Kings+17:17&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 17:17</a></li>
+<li>Sacrificing sons and daughters to demons — <a href="https://www.biblegateway.com/passage/?search=Psalm+106:37-38&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Psalm 106:37–38</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Prescribed Remedy:</strong></p>
+<ul>
+<li>Cherem (חֵרֶם) — complete destruction — <a href="https://www.biblegateway.com/passage/?search=Exodus+22:20&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 22:20</a>;</li>
+<li><mark style="background:#4ab867A6">death</mark> — <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+17:12&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 17:12</a>;</li>
+<li>no offering covers deliberate sacrifice to foreign gods — <a href="https://www.biblegateway.com/passage/?search=Numbers+15:30-31&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Numbers 15:30–31</a></li>
+</ul>
+</li>
+<li>
+<p><strong>What Actually Happened:</strong></p>
+<ul>
+<li>Three thousand killed after the golden calf — <a href="https://www.biblegateway.com/passage/?search=Exodus+32:27-28&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 32:27–28</a>; plague sent — <a href="https://www.biblegateway.com/passage/?search=Exodus+32:35&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 32:35</a></li>
+<li>Solomon's kingdom divided — <a href="https://www.biblegateway.com/passage/?search=1+Kings+11:11-13&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 11:11–13</a></li>
+<li>Child sacrifice to Molech in the Valley of Hinnom cited among Judah's sins leading to the destruction of Jerusalem — <a href="https://www.biblegateway.com/passage/?search=Jeremiah+19:4-6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Jeremiah 19:4–6</a></li>
+<li>Northern kingdom exiled to Assyria — <a href="https://www.biblegateway.com/passage/?search=2+Kings+17:18&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 17:18</a></li>
+<li>Southern kingdom exiled to Babylon — <a href="https://www.biblegateway.com/passage/?search=2+Kings+25:1-11&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 25:1–11</a></li>
+</ul>
+</li>
 </ul>
 <hr>
 <h2 id="detailed-list" tabindex="-1">Detailed List</h2>
-<h3 id="no-other-gods-before-yahweh" tabindex="-1">No Other Gods Before Yahweh</h3>
+<h3 id="no-other-gods-before-yahweh-1" tabindex="-1">No Other Gods Before Yahweh</h3>
 <p><em>Exodus 20:3; Deuteronomy 5:7</em></p>
 <ul>
 <li><a href="https://www.biblegateway.com/passage/?search=Exodus+32:1-6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 32:1–6</a> — Golden calf at Sinai</li>
@@ -3667,7 +4441,7 @@
 <li><a href="https://www.biblegateway.com/passage/?search=Psalm+106:19-20&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Psalm 106:19–20</a> — Made a calf and exchanged their glory</li>
 </ul>
 <hr>
-<h3 id="no-carved-images-or-idols" tabindex="-1">No Carved Images or Idols</h3>
+<h3 id="no-carved-images-or-idols-1" tabindex="-1">No Carved Images or Idols</h3>
 <p><em>Exodus 20:4–5; Deuteronomy 5:8–9</em></p>
 <ul>
 <li><a href="https://www.biblegateway.com/passage/?search=Exodus+32:4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 32:4</a> — Golden calf fashioned and worshipped</li>
@@ -3692,7 +4466,7 @@
 <li><a href="https://www.biblegateway.com/passage/?search=Amos+2:7&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Amos 2:7</a> — Profaned the holy name through sexual immorality</li>
 </ul>
 <hr>
-<h3 id="remember-the-sabbath-and-keep-it-holy" tabindex="-1">Remember the Sabbath and Keep It Holy</h3>
+<h3 id="remember-the-sabbath-and-keep-it-holy-1" tabindex="-1">Remember the Sabbath and Keep It Holy</h3>
 <p><em>Exodus 20:8; Deuteronomy 5:12; Exodus 31:13</em></p>
 <ul>
 <li><a href="https://www.biblegateway.com/passage/?search=Numbers+15:32-36&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Numbers 15:32–36</a> — Man gathering sticks on the Sabbath</li>
@@ -3704,7 +4478,7 @@
 <li><a href="https://www.biblegateway.com/passage/?search=Amos+8:5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Amos 8:5</a> — Asking when the Sabbath would end to sell grain</li>
 </ul>
 <hr>
-<h3 id="honor-your-father-and-mother" tabindex="-1">Honor Your Father and Mother</h3>
+<h3 id="honor-your-father-and-mother-1" tabindex="-1">Honor Your Father and Mother</h3>
 <p><em>Exodus 20:12; Deuteronomy 5:16</em></p>
 <ul>
 <li><a href="https://www.biblegateway.com/passage/?search=Ezekiel+22:7&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 22:7</a> — Father and mother treated with contempt</li>
@@ -3713,7 +4487,7 @@
 <li><a href="https://www.biblegateway.com/passage/?search=2+Samuel+15:1-12&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Samuel 15:1–12</a> — Absalom's rebellion against his father David</li>
 </ul>
 <hr>
-<h3 id="do-not-murder" tabindex="-1">Do Not Murder</h3>
+<h3 id="do-not-murder-1" tabindex="-1">Do Not Murder</h3>
 <p><em>Exodus 20:13; Deuteronomy 5:17</em></p>
 <ul>
 <li><a href="https://www.biblegateway.com/passage/?search=2+Samuel+11:14-17&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Samuel 11:14–17</a> — David arranging Uriah's death</li>
@@ -3725,7 +4499,7 @@
 <li><a href="https://www.biblegateway.com/passage/?search=Psalm+106:37-38&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Psalm 106:37–38</a> — Shedding innocent blood sacrificed to demons</li>
 </ul>
 <hr>
-<h3 id="do-not-commit-adultery" tabindex="-1">Do Not Commit Adultery</h3>
+<h3 id="do-not-commit-adultery-1" tabindex="-1">Do Not Commit Adultery</h3>
 <p><em>Exodus 20:14; Deuteronomy 5:18</em></p>
 <ul>
 <li><a href="https://www.biblegateway.com/passage/?search=2+Samuel+11:4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Samuel 11:4</a> — David and Bathsheba</li>
@@ -3737,7 +4511,7 @@
 <li><a href="https://www.biblegateway.com/passage/?search=Malachi+2:14-15&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Malachi 2:14–15</a> — Treachery against the wife of youth</li>
 </ul>
 <hr>
-<h3 id="do-not-steal" tabindex="-1">Do Not Steal</h3>
+<h3 id="do-not-steal-1" tabindex="-1">Do Not Steal</h3>
 <p><em>Exodus 20:15; Deuteronomy 5:19</em></p>
 <ul>
 <li><a href="https://www.biblegateway.com/passage/?search=Joshua+7:20-21&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Joshua 7:20–21</a> — Achan stealing devoted things from Jericho</li>
@@ -3748,7 +4522,7 @@
 <li><a href="https://www.biblegateway.com/passage/?search=Malachi+3:8&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Malachi 3:8</a> — Robbing Yahweh in tithes and offerings</li>
 </ul>
 <hr>
-<h3 id="do-not-bear-false-witness" tabindex="-1">Do Not Bear False Witness</h3>
+<h3 id="do-not-bear-false-witness-1" tabindex="-1">Do Not Bear False Witness</h3>
 <p><em>Exodus 20:16; Deuteronomy 5:20</em></p>
 <ul>
 <li><a href="https://www.biblegateway.com/passage/?search=1+Kings+21:10-13&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 21:10–13</a> — False witnesses brought against Naboth</li>
@@ -3758,7 +4532,7 @@
 <li><a href="https://www.biblegateway.com/passage/?search=Psalm+50:19-20&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Psalm 50:19–20</a> — Giving your mouth to evil; tongue frames deceit against a brother</li>
 </ul>
 <hr>
-<h3 id="do-not-covet" tabindex="-1">Do Not Covet</h3>
+<h3 id="do-not-covet-1" tabindex="-1">Do Not Covet</h3>
 <p><em>Exodus 20:17; Deuteronomy 5:21</em></p>
 <ul>
 <li><a href="https://www.biblegateway.com/passage/?search=Joshua+7:21&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Joshua 7:21</a> — Achan coveting the Babylonian garment, silver, and gold</li>
@@ -3768,7 +4542,7 @@
 <li><a href="https://www.biblegateway.com/passage/?search=Jeremiah+22:17&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Jeremiah 22:17</a> — Eyes and heart only on dishonest gain</li>
 </ul>
 <hr>
-<h3 id="do-not-make-molten-gods" tabindex="-1">Do Not Make Molten Gods</h3>
+<h3 id="do-not-make-molten-gods-1" tabindex="-1">Do Not Make Molten Gods</h3>
 <p><em>Exodus 34:17; Leviticus 19:4</em></p>
 <ul>
 <li><a href="https://www.biblegateway.com/passage/?search=Exodus+32:4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 32:4</a> — Aaron fashioning the golden calf</li>
@@ -3786,7 +4560,7 @@
 <li><a href="https://www.biblegateway.com/passage/?search=Malachi+3:5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Malachi 3:5</a> — Those who thrust aside the foreigner</li>
 </ul>
 <hr>
-<h3 id="do-not-afflict-widows-or-fatherless-children" tabindex="-1">Do Not Afflict Widows or Fatherless Children</h3>
+<h3 id="do-not-afflict-widows-or-fatherless-children-1" tabindex="-1">Do Not Afflict Widows or Fatherless Children</h3>
 <p><em>Exodus 22:22</em></p>
 <ul>
 <li><a href="https://www.biblegateway.com/passage/?search=Isaiah+1:23&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Isaiah 1:23</a> — Princes not defending the fatherless; widow's cause not coming before them</li>
@@ -3796,7 +4570,7 @@
 <li><a href="https://www.biblegateway.com/passage/?search=Malachi+3:5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Malachi 3:5</a> — Defrauding widows</li>
 </ul>
 <hr>
-<h3 id="do-not-charge-interest-to-the-poor" tabindex="-1">Do Not Charge Interest to the Poor</h3>
+<h3 id="do-not-charge-interest-to-the-poor-1" tabindex="-1">Do Not Charge Interest to the Poor</h3>
 <p><em>Exodus 22:25; Leviticus 25:37</em></p>
 <ul>
 <li><a href="https://www.biblegateway.com/passage/?search=Nehemiah+5:1-7&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Nehemiah 5:1–7</a> — Nobles and officials charging interest against their brothers</li>
@@ -3805,7 +4579,7 @@
 <li><a href="https://www.biblegateway.com/passage/?search=Amos+2:6-7&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Amos 2:6–7</a> — Selling the righteous for silver and the poor for sandals</li>
 </ul>
 <hr>
-<h3 id="do-not-follow-other-gods-or-serve-them" tabindex="-1">Do Not Follow Other Gods or Serve Them</h3>
+<h3 id="do-not-follow-other-gods-or-serve-them-1" tabindex="-1">Do Not Follow Other Gods or Serve Them</h3>
 <p><em>Exodus 23:24; Deuteronomy 6:14</em></p>
 <ul>
 <li><a href="https://www.biblegateway.com/passage/?search=Judges+2:11-13&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 2:11–13</a> — Serving the Baals and Ashtaroth</li>
@@ -3824,7 +4598,7 @@
 <li><a href="https://www.biblegateway.com/passage/?search=Ezra+9:1-2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezra 9:1–2</a> — Intermingling with the peoples of the lands after the return from exile</li>
 </ul>
 <hr>
-<h3 id="do-not-let-the-canaanites-dwell-in-the-land" tabindex="-1">Do Not Let the Canaanites Dwell in the Land</h3>
+<h3 id="do-not-let-the-canaanites-dwell-in-the-land-1" tabindex="-1">Do Not Let the Canaanites Dwell in the Land</h3>
 <p><em>Exodus 23:33</em></p>
 <ul>
 <li><a href="https://www.biblegateway.com/passage/?search=Judges+1:21&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 1:21</a> — Benjamin did not drive out the Jebusites</li>
@@ -3842,7 +4616,7 @@
 <li><a href="https://www.biblegateway.com/passage/?search=Nehemiah+13:15-18&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Nehemiah 13:15–18</a> — Working and trading on the Sabbath after the return</li>
 </ul>
 <hr>
-<h3 id="do-not-sacrifice-to-any-god-but-yahweh" tabindex="-1">Do Not Sacrifice to Any God but Yahweh</h3>
+<h3 id="do-not-sacrifice-to-any-god-but-yahweh-1" tabindex="-1">Do Not Sacrifice to Any God but Yahweh</h3>
 <p><em>Exodus 22:20</em></p>
 <ul>
 <li><a href="https://www.biblegateway.com/passage/?search=Exodus+32:6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 32:6</a> — Offering burnt offerings and peace offerings to the golden calf</li>
@@ -3853,7 +4627,7 @@
 <li><a href="https://www.biblegateway.com/passage/?search=Psalm+106:37-38&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Psalm 106:37–38</a> — Sacrificed sons and daughters to demons</li>
 </ul>
 <hr>
-<h3 id="do-not-deny-justice-to-the-poor" tabindex="-1">Do Not Deny Justice to the Poor</h3>
+<h3 id="do-not-deny-justice-to-the-poor-1" tabindex="-1">Do Not Deny Justice to the Poor</h3>
 <p><em>Exodus 23:6; Leviticus 19:15</em></p>
 <ul>
 <li><a href="https://www.biblegateway.com/passage/?search=Isaiah+1:23&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Isaiah 1:23</a> — Princes not judging the fatherless; widow's cause not received</li>
@@ -3871,7 +4645,7 @@
 <li><a href="https://www.biblegateway.com/passage/?search=Hosea+4:2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Hosea 4:2</a> — Lying among Israel's transgressions</li>
 </ul>
 <hr>
-<h3 id="do-not-take-a-bribe" tabindex="-1">Do Not Take a Bribe</h3>
+<h3 id="do-not-take-a-bribe-1" tabindex="-1">Do Not Take a Bribe</h3>
 <p><em>Exodus 23:8; Deuteronomy 16:19</em></p>
 <ul>
 <li><a href="https://www.biblegateway.com/passage/?search=1+Samuel+8:3&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Samuel 8:3</a> — Samuel's sons took bribes and perverted justice</li>
@@ -3881,7 +4655,7 @@
 <li><a href="https://www.biblegateway.com/passage/?search=Ezekiel+22:12&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 22:12</a> — Taking bribes to shed blood</li>
 </ul>
 <hr>
-<h3 id="let-the-land-rest-in-the-seventh-year" tabindex="-1">Let the Land Rest in the Seventh Year</h3>
+<h3 id="let-the-land-rest-in-the-seventh-year-1" tabindex="-1">Let the Land Rest in the Seventh Year</h3>
 <p><em>Exodus 23:10–11; Leviticus 25:4</em></p>
 <ul>
 <li><a href="https://www.biblegateway.com/passage/?search=Leviticus+26:34-35&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 26:34–35</a> — Yahweh's declaration that the land would enjoy its Sabbaths during exile — implying they had not been kept</li>
@@ -3904,7 +4678,7 @@
 <li><a href="https://www.biblegateway.com/passage/?search=1+Kings+18:26&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Kings 18:26</a> — Calling on the name of Baal on Mount Carmel</li>
 </ul>
 <hr>
-<h3 id="do-not-intermarry-with-the-nations" tabindex="-1">Do Not Intermarry with the Nations</h3>
+<h3 id="do-not-intermarry-with-the-nations-1" tabindex="-1">Do Not Intermarry with the Nations</h3>
 <p><em>Deuteronomy 7:3</em></p>
 <ul>
 <li><a href="https://www.biblegateway.com/passage/?search=Judges+3:6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 3:6</a> — Taking their daughters as wives and giving daughters to their sons</li>
@@ -3913,7 +4687,7 @@
 <li><a href="https://www.biblegateway.com/passage/?search=Nehemiah+13:23-27&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Nehemiah 13:23–27</a> — Jews marrying Ashdodite, Ammonite, and Moabite women</li>
 </ul>
 <hr>
-<h3 id="destroy-idolatrous-places-of-worship" tabindex="-1">Destroy Idolatrous Places of Worship</h3>
+<h3 id="destroy-idolatrous-places-of-worship-1" tabindex="-1">Destroy Idolatrous Places of Worship</h3>
 <p><em>Deuteronomy 12:2–3</em></p>
 <ul>
 <li><a href="https://www.biblegateway.com/passage/?search=Judges+1:27-36&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Judges 1:27–36</a> — Failure to drive out the inhabitants, leaving their worship places intact</li>
@@ -3922,7 +4696,7 @@
 <li><a href="https://www.biblegateway.com/passage/?search=Ezekiel+6:3-4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Ezekiel 6:3–4</a> — High places and altars of incense still standing</li>
 </ul>
 <hr>
-<h3 id="love-yahweh-with-all-your-heart" tabindex="-1">Love Yahweh with All Your Heart</h3>
+<h3 id="love-yahweh-with-all-your-heart-1" tabindex="-1">Love Yahweh with All Your Heart</h3>
 <p><em>Deuteronomy 6:5</em></p>
 <ul>
 <li><a href="https://www.biblegateway.com/passage/?search=Deuteronomy+31:16-17&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 31:16–17</a> — Yahweh foretells Israel's future apostasy</li>
@@ -3932,7 +4706,7 @@
 <li><a href="https://www.biblegateway.com/passage/?search=Hosea+6:4-6&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Hosea 6:4–6</a> — Their love was like a morning cloud; Yahweh desired steadfast love</li>
 </ul>
 <hr>
-<h3 id="do-not-practice-divination-or-sorcery" tabindex="-1">Do Not Practice Divination or Sorcery</h3>
+<h3 id="do-not-practice-divination-or-sorcery-1" tabindex="-1">Do Not Practice Divination or Sorcery</h3>
 <p><em>Deuteronomy 18:10–11</em></p>
 <ul>
 <li><a href="https://www.biblegateway.com/passage/?search=1+Samuel+28:7-8&amp;version=WEB;NET;OJB" target="_blank" class="external-link">1 Samuel 28:7–8</a> — Saul seeking a medium at En-dor</li>
@@ -3942,7 +4716,7 @@
 <li><a href="https://www.biblegateway.com/passage/?search=Micah+5:12&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Micah 5:12</a> — Sorceries and soothsayers among Israel condemned</li>
 </ul>
 <hr>
-<h3 id="do-not-shed-innocent-blood" tabindex="-1">Do Not Shed Innocent Blood</h3>
+<h3 id="do-not-shed-innocent-blood-1" tabindex="-1">Do Not Shed Innocent Blood</h3>
 <p><em>Deuteronomy 19:10; Jeremiah 7:6</em></p>
 <ul>
 <li><a href="https://www.biblegateway.com/passage/?search=2+Kings+21:16&amp;version=WEB;NET;OJB" target="_blank" class="external-link">2 Kings 21:16</a> — Manasseh filled Jerusalem with innocent blood</li>
@@ -3999,17 +4773,15 @@ Commands Israel Broke
 <div class="toc-container">
 <nav class="toc">
 <ol>
-<li><a href="#commands-israel-broke">Commands Israel Broke</a>
-<ol>
-<li><a href="#summary-list">Summary List</a>
-</li>
-<li><a href="#detailed-list">Detailed List</a>
+<li><a href="#list-of-commands-israel-broke">List of Commands Israel Broke</a>
 <ol>
 <li><a href="#no-other-gods-before-yahweh">No Other Gods Before Yahweh</a>
 </li>
 <li><a href="#no-carved-images-or-idols">No Carved Images or Idols</a>
 </li>
-<li><a href="#do-not-take-the-name-of-yahweh-in-vain">Do Not Take the Name of Yahweh in Vain</a>
+<li><a href="#do-not-make-molten-gods">Do Not Make Molten Gods</a>
+</li>
+<li><a href="#do-not-take-the-name-of-yhwh-in-vain">Do Not Take the Name of YHWH in Vain</a>
 </li>
 <li><a href="#remember-the-sabbath-and-keep-it-holy">Remember the Sabbath and Keep It Holy</a>
 </li>
@@ -4025,45 +4797,97 @@ Commands Israel Broke
 </li>
 <li><a href="#do-not-covet">Do Not Covet</a>
 </li>
-<li><a href="#do-not-make-molten-gods">Do Not Make Molten Gods</a>
-</li>
-<li><a href="#do-not-oppress-the-foreigner">Do Not Oppress the Foreigner</a>
+<li><a href="#do-not-oppress-the-stranger">Do Not Oppress the Stranger</a>
 </li>
 <li><a href="#do-not-afflict-widows-or-fatherless-children">Do Not Afflict Widows or Fatherless Children</a>
 </li>
 <li><a href="#do-not-charge-interest-to-the-poor">Do Not Charge Interest to the Poor</a>
 </li>
-<li><a href="#do-not-follow-other-gods-or-serve-them">Do Not Follow Other Gods or Serve Them</a>
-</li>
-<li><a href="#do-not-make-a-covenant-with-the-inhabitants-of-canaan">Do Not Make a Covenant with the Inhabitants of Canaan</a>
-</li>
-<li><a href="#do-not-let-the-canaanites-dwell-in-the-land">Do Not Let the Canaanites Dwell in the Land</a>
-</li>
-<li><a href="#keep-the-sabbath-sign-forever">Keep the Sabbath — Sign Forever</a>
-</li>
-<li><a href="#do-not-sacrifice-to-any-god-but-yahweh">Do Not Sacrifice to Any God but Yahweh</a>
-</li>
 <li><a href="#do-not-deny-justice-to-the-poor">Do Not Deny Justice to the Poor</a>
-</li>
-<li><a href="#do-not-spread-a-false-report">Do Not Spread a False Report</a>
 </li>
 <li><a href="#do-not-take-a-bribe">Do Not Take a Bribe</a>
 </li>
 <li><a href="#let-the-land-rest-in-the-seventh-year">Let the Land Rest in the Seventh Year</a>
 </li>
-<li><a href="#bring-firstfruits-to-the-house-of-yahweh">Bring Firstfruits to the House of Yahweh</a>
+<li><a href="#do-not-follow-other-gods-or-serve-them">Do Not Follow Other Gods or Serve Them</a>
 </li>
-<li><a href="#do-not-mention-the-names-of-other-gods">Do Not Mention the Names of Other Gods</a>
+<li><a href="#make-no-covenant-with-the-inhabitants-of-canaan">Make No Covenant with the Inhabitants of Canaan</a>
+</li>
+<li><a href="#do-not-let-the-canaanites-dwell-in-the-land">Do Not Let the Canaanites Dwell in the Land</a>
 </li>
 <li><a href="#do-not-intermarry-with-the-nations">Do Not Intermarry with the Nations</a>
 </li>
 <li><a href="#destroy-idolatrous-places-of-worship">Destroy Idolatrous Places of Worship</a>
 </li>
-<li><a href="#love-yahweh-with-all-your-heart">Love Yahweh with All Your Heart</a>
-</li>
 <li><a href="#do-not-practice-divination-or-sorcery">Do Not Practice Divination or Sorcery</a>
 </li>
 <li><a href="#do-not-shed-innocent-blood">Do Not Shed Innocent Blood</a>
+</li>
+<li><a href="#love-yahweh-with-all-your-heart">Love Yahweh with All Your Heart</a>
+</li>
+<li><a href="#do-not-sacrifice-to-any-god-but-yahweh">Do Not Sacrifice to Any God but Yahweh</a>
+</li>
+<li><a href="#detailed-list">Detailed List</a>
+<ol>
+<li><a href="#no-other-gods-before-yahweh-1">No Other Gods Before Yahweh</a>
+</li>
+<li><a href="#no-carved-images-or-idols-1">No Carved Images or Idols</a>
+</li>
+<li><a href="#do-not-take-the-name-of-yahweh-in-vain">Do Not Take the Name of Yahweh in Vain</a>
+</li>
+<li><a href="#remember-the-sabbath-and-keep-it-holy-1">Remember the Sabbath and Keep It Holy</a>
+</li>
+<li><a href="#honor-your-father-and-mother-1">Honor Your Father and Mother</a>
+</li>
+<li><a href="#do-not-murder-1">Do Not Murder</a>
+</li>
+<li><a href="#do-not-commit-adultery-1">Do Not Commit Adultery</a>
+</li>
+<li><a href="#do-not-steal-1">Do Not Steal</a>
+</li>
+<li><a href="#do-not-bear-false-witness-1">Do Not Bear False Witness</a>
+</li>
+<li><a href="#do-not-covet-1">Do Not Covet</a>
+</li>
+<li><a href="#do-not-make-molten-gods-1">Do Not Make Molten Gods</a>
+</li>
+<li><a href="#do-not-oppress-the-foreigner">Do Not Oppress the Foreigner</a>
+</li>
+<li><a href="#do-not-afflict-widows-or-fatherless-children-1">Do Not Afflict Widows or Fatherless Children</a>
+</li>
+<li><a href="#do-not-charge-interest-to-the-poor-1">Do Not Charge Interest to the Poor</a>
+</li>
+<li><a href="#do-not-follow-other-gods-or-serve-them-1">Do Not Follow Other Gods or Serve Them</a>
+</li>
+<li><a href="#do-not-make-a-covenant-with-the-inhabitants-of-canaan">Do Not Make a Covenant with the Inhabitants of Canaan</a>
+</li>
+<li><a href="#do-not-let-the-canaanites-dwell-in-the-land-1">Do Not Let the Canaanites Dwell in the Land</a>
+</li>
+<li><a href="#keep-the-sabbath-sign-forever">Keep the Sabbath — Sign Forever</a>
+</li>
+<li><a href="#do-not-sacrifice-to-any-god-but-yahweh-1">Do Not Sacrifice to Any God but Yahweh</a>
+</li>
+<li><a href="#do-not-deny-justice-to-the-poor-1">Do Not Deny Justice to the Poor</a>
+</li>
+<li><a href="#do-not-spread-a-false-report">Do Not Spread a False Report</a>
+</li>
+<li><a href="#do-not-take-a-bribe-1">Do Not Take a Bribe</a>
+</li>
+<li><a href="#let-the-land-rest-in-the-seventh-year-1">Let the Land Rest in the Seventh Year</a>
+</li>
+<li><a href="#bring-firstfruits-to-the-house-of-yahweh">Bring Firstfruits to the House of Yahweh</a>
+</li>
+<li><a href="#do-not-mention-the-names-of-other-gods">Do Not Mention the Names of Other Gods</a>
+</li>
+<li><a href="#do-not-intermarry-with-the-nations-1">Do Not Intermarry with the Nations</a>
+</li>
+<li><a href="#destroy-idolatrous-places-of-worship-1">Destroy Idolatrous Places of Worship</a>
+</li>
+<li><a href="#love-yahweh-with-all-your-heart-1">Love Yahweh with All Your Heart</a>
+</li>
+<li><a href="#do-not-practice-divination-or-sorcery-1">Do Not Practice Divination or Sorcery</a>
+</li>
+<li><a href="#do-not-shed-innocent-blood-1">Do Not Shed Innocent Blood</a>
 </li>
 </ol>
 </li>
