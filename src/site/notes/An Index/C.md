@@ -33,6 +33,7 @@
 - [[Gate of Correction/Commandment Reading Plan September\|Commandment Reading Plan September]]
 - [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Correction/Commands Israel Broke\|Commands Israel Broke]]
 - [[Gate of Wisdom/C/Common\|Common]]
 - [[Gate of Wisdom/C/covetous\|covetous]]
 - [[Gate of Wisdom/Beings/Animals/creeping thing\|creeping thing]]

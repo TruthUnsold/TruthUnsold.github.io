@@ -31,6 +31,7 @@ Buy the truth, and don’t sell it.
 
 | Latest Drops                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gate of Correction/Commands Israel Broke\|Commands Israel Broke]]                                                                                                                      |
 | [[Potluck/Rediscovering Jonah\|Rediscovering Jonah]]                                                                                                                                     |
 | [[Gate of Wisdom/P/Punishment\|Punishment]]                                                                                                                                              |
 | [[Gate of Correction/Jesus's Do Nots\|Jesus's Do Nots]]                                                                                                                                  |
@@ -50,7 +51,6 @@ Buy the truth, and don’t sell it.
 | [[Gate of Wisdom/Beings/Human Beings/Jonah\|Jonah]]                                                                                                                                      |
 | [[Gate of Wisdom/Sources/Torah Class\|Torah Class]]                                                                                                                                      |
 | [[Gate of Wisdom/T/tongues\|tongues]]                                                                                                                                                    |
-| [[Gate of Wisdom/G/Spiritual Gifts\|Spiritual Gifts]]                                                                                                                                    |
 
 { .block-language-dataview}
 

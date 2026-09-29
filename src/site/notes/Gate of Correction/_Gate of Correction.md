@@ -37,6 +37,7 @@ When your actions, habits, or environment feel chaotic, these provide the daily 
 | [[Gate of Correction/Commandment Reading Plan November\|Commandment Reading Plan November]]                                                                                              |
 | [[Gate of Correction/Commandment Reading Plan October\|Commandment Reading Plan October]]                                                                                                |
 | [[Gate of Correction/Commandment Reading Plan September\|Commandment Reading Plan September]]                                                                                            |
+| [[Gate of Correction/Commands Israel Broke\|Commands Israel Broke]]                                                                                                                      |
 | [[Gate of Correction/Day of Atonement for Christians\|Day of Atonement for Christians]]                                                                                                  |
 | [[Gate of Correction/Equality Addressed by God or Jesus\|Equality Addressed by God or Jesus]]                                                                                            |
 | [[Gate of Wisdom/Appointed Time/Feast of Trumpets Survey\|Feast of Trumpets Survey]]                                                                                                     |

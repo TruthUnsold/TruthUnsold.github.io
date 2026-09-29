@@ -7,6 +7,7 @@
 - [[Gate of Correction/23 Isa-46 Yada\|23 Isa-46 Yada]]
 - [[Gate of Discernment/23 Isa-65 Yada\|23 Isa-65 Yada]]
 - [[Gate of Discernment/23 Isa-66 Yada\|23 Isa-66 Yada]]
+- [[Gate of Correction/Commands Israel Broke\|Commands Israel Broke]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Set Apart Place/Golden Altar of Incense\|Golden Altar of Incense]]
 - [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]
 - [[Gate of Wisdom/I/Idiom\|Idiom]]

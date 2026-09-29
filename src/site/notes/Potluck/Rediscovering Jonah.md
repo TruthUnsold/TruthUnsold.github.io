@@ -373,7 +373,7 @@ Things to explore before diving into this book.
 > I didn't think this was correct, so I did a little more digging and it seams mainstream biblical scholars would generally disagree with this. 
 
 - Jesus explicitly defines the parallel: "_For as Jonah was three days and three nights in the belly of a huge fish, so the Son of Man will be three days and three nights in the heart of the earth."_
-- Jonah told the sailor to through him over because he knew the storm was his fault. 
+- Jonah told the sailor to throw him over because he knew the storm was his fault. 
 - The greater than Jonah statement points out specifically how the Ninevites repented at Jonah's preaching, but the pharisees, who spent their lives studying so they could recognize the Messiah, was rejecting the Messiah and his message. 
 
 # Chapter 6
