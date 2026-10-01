@@ -20,9 +20,30 @@
 
 | file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.05.09 Shabbat Reading.md\\|2026.05.09 Shabbat Reading]]</li><li>[[Gate of Wisdom/T/Torah.md\\|Torah]]</li><li>[[Gate of Wisdom/Sign/Sign.md\\|Sign]]</li><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/Appointed Time/Pentecost.md\\|Pentecost]]</li><li>[[Gate of Wisdom/Appointed Time/Feast of Trumpets.md\\|Feast of Trumpets]]</li><li>[[Gate of Foundation/The Seventh Day Rest/28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44).md\\|28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44)]]</li><li>[[Gate of Foundation/The Seventh Day Rest/25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20).md\\|25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20)]]</li><li>[[Gate of Foundation/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Discernment/33 Micah-06 Yada Yada.md\\|33 Micah-06 Yada Yada]]</li><li>[[Gate of Correction/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Correction/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Correction/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Correction/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Correction/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Correction/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Correction/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Correction/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[_Assets/AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Gate of Wisdom/Right Standing/Statutes (Chuqim).md\\|Statutes (Chuqim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Correction/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Correction/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Correction/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li></ul> |
+| <ul><li>[[_Assets/AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Torah Portions/2026.05.09 Shabbat Reading.md\\|2026.05.09 Shabbat Reading]]</li><li>[[Gate of Wisdom/T/Torah.md\\|Torah]]</li><li>[[Gate of Wisdom/Sign/Sign.md\\|Sign]]</li><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/Appointed Time/Pentecost.md\\|Pentecost]]</li><li>[[Gate of Wisdom/Appointed Time/Feast of Trumpets.md\\|Feast of Trumpets]]</li><li>[[Gate of Discernment/33 Micah-06 Yada Yada.md\\|33 Micah-06 Yada Yada]]</li><li>[[Gate of Foundation/The Seventh Day Rest/28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44).md\\|28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44)]]</li><li>[[Gate of Foundation/The Seventh Day Rest/25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20).md\\|25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20)]]</li><li>[[Gate of Foundation/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Correction/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Correction/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Correction/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Correction/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Correction/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Correction/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Correction/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Correction/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Wisdom/Right Standing/Statutes (Chuqim).md\\|Statutes (Chuqim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Correction/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Correction/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Correction/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li></ul> |
 
 { .block-language-dataview}
+## #LoveNeighbor #02Exod #Exodus23  Rest on the Seventh Day: [Exodus 23:12](https://www.biblegateway.com/passage/?search=Exodus%2023:12&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- **Outline:**  
+	- Do
+		- for six days work #Dos 
+		- on seventh day rest #Dos 
+	- So that
+		- may rest
+			- ox
+			- donkey
+		- may be refreshed
+			- son of your servant
+			- the [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]]
+- **Blessing:**
+    - Ox and donkey rest; son of the handmaid and the sojourner (ger) refreshed — Exodus 23:12
+- **Penalty or Consequence:**
+    - None stated directly in this passage
+- **Offering or Ransom:**
+    - None specified
+
 
 # List of Statutes (Chuqim) in Deuteronomy
 
@@ -536,7 +557,7 @@
 
 
 
-## #LoveGod #03Lev #Levitcus23 Keep the Sabbath as a Holy Convocation: [Leviticus 23:3](https://www.biblegateway.com/passage/?search=Leviticus+23%3A3&version=WEB;NET;OJB)
+## #LoveGod #03Lev #Leviticus23 cus23 Keep the Sabbath as a Holy Convocation: [Leviticus 23:3](https://www.biblegateway.com/passage/?search=Leviticus+23%3A3&version=WEB;NET;OJB)
 
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 * [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
@@ -565,6 +586,41 @@
 * **Offering or Ransom:**
    * No offering or ransom stated in the verse.
    * Numbers 28:9-10 — specific offerings are appointed for the Sabbath day itself — two lambs, grain offering, and drink offering — presented in addition to the regular daily offering. The Sabbath has its own sacrificial pattern, but these are worship offerings rather than atonement for violation.
+
+
+## #LoveGod #03Lev #Leviticus23  Keep the Passover and the Feast of Unleavened Bread: [Leviticus 23:5-8](https://www.biblegateway.com/passage/?search=Leviticus+23%3A5-8&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+* [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+* **Outline:**
+	- In the first [[Gate of Wisdom/Numbers/01\|01]] month
+		- on the [[14\|14]]th day is YHWH's [[Gate of Wisdom/Appointed Time/Passover\|Passover]]
+			- in the evening
+		- On the [[15\|15]]th day is [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]]
+			- to YHWH
+	- Do
+		- [[Gate of Wisdom/Numbers/07\|07]] days you eat unleavened bread #Dos 
+		- In the [[Gate of Wisdom/Numbers/01\|01]]st and [[Gate of Wisdom/Numbers/07\|07]]th day you shall have a holy convocation. #Dos 
+		- offer an offering made by fire [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]] #Dos 
+			- to YHWH
+			- for seven days
+	- Do Not
+		- In the [[Gate of Wisdom/Numbers/01\|01]]st and [[Gate of Wisdom/Numbers/07\|07]]th day do regular work #DoNot 
+
+* **Blessing:**
+   * No explicit blessing stated in the passage.
+
+* **Penalty or Consequence:**
+   * No penalty stated directly in this passage.
+   * Numbers 9:13 — one who is ceremonially clean and not traveling who fails to keep the Passover shall be cut off from his people — *"that soul shall be cut off from his people."* (WEB)
+   * Exodus 12:15 — eating leavened bread during the seven days of Unleavened Bread results in being cut off from Israel.
+   * The holy convocations on the first and seventh days (vv.7-8) carry the prohibition on regular work — no penalty stated but the framing as a holy convocation places the day under the same weight as the Sabbath.
+
+* **Offering or Ransom:**
+   * v.8 — *"you shall offer a food offering to Yahweh seven days"* (WEB) — offerings are appointed for each of the seven days of Unleavened Bread, though the specific details are given in Numbers 28:19-24 rather than here.
+   * The Passover lamb itself (Exodus 12:3-7) is the foundational offering of the season — its blood on the doorposts being the original act of covering that gave the feast its meaning and name.
+
 
 
 ## #LoveNeighbor  #Leviticus25 #03Lev  Proclaim Liberty Throughout the Land: [Leviticus 25:10](https://www.biblegateway.com/passage/?search=Leviticus+25%3A10&version=WEB;NET;OJB)

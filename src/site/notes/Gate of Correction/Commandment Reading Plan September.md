@@ -721,11 +721,102 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
    * No offering or ransom stated in the verse.
    * Numbers 28:9-10 — specific offerings are appointed for the Sabbath day itself — two lambs, grain offering, and drink offering — presented in addition to the regular daily offering. The Sabbath has its own sacrificial pattern, but these are worship offerings rather than atonement for violation.
 
-**September 22**: Exodus 23:12 – “Six days do your work, but on the seventh day do not work, so that your ox and your donkey may rest...” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]])  
+## **September 22**: Rest on the Seventh Day: [Exodus 23:12](https://www.biblegateway.com/passage/?search=Exodus%2023:12&version=WEB;NET;OJB)
 
-**September 23**: Deuteronomy 5:12-15 – “Observe the Sabbath day by keeping it holy... Remember that you were slaves in Egypt...” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]])  
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- **Outline:**  
+	- Do
+		- for six days work #Dos 
+		- on seventh day rest #Dos 
+	- So that
+		- may rest
+			- ox
+			- donkey
+		- may be refreshed
+			- son of your servant
+			- the [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]]
+- **Blessing:**
+    - Ox and donkey rest; son of the handmaid and the sojourner (ger) refreshed — Exodus 23:12
+- **Penalty or Consequence:**
+    - None stated directly in this passage
+- **Offering or Ransom:**
+    - None specified
 
-**September 24**: Leviticus 23:5-8 (non-sacrifice aspects) – Observe Passover and the Festival of Unleavened Bread with rest and remembrance. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  
+## **September 23**: Keep the Sabbath Day: [Deuteronomy 5:12-15](https://www.biblegateway.com/passage/?search=Deuteronomy+5:12-15&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+- **Outline:**  
+	- Do
+		- Observe the [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] Day #Dos 
+			- to keep it [[Gate of Wisdom/H/Holy\|Holy]]
+			- as YHWH your god commanded you.
+		- Labor six days #Dos 
+			- do all your work
+		- Remember
+			- you were a servant in the land of [[Gate of Wisdom/Dwelling Places/Realm of Humans/Egypt\|Egypt]]
+			- YHWH your god brought you out of there
+				- by a might hand
+				- by an outstretched arm
+				- therefore YHWH commanded you to keep the Sabbath day. 
+	- Do not
+		- work on the seventh day #DoNot 
+			- not you nor your
+				- son nor daughter
+				- male nor female servant
+				- ox nor donkey, no any livestock
+				- nor [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]]
+					- who is within your gates
+	- Because the seventh day is a Sabbath to YHWH your god
+	- So there is rest for
+		- you
+		- your male and female servant
+- **Blessing:**
+    - None explicitly stated within the passage
+    - The rationale of v.15 — _"you shall remember that you were a slave in Egypt and Yahweh your God brought you out from there by a mighty hand and by an outstretched arm"_ — frames Sabbath observance as **living out received redemption**; rest is the enacted memory of liberation
+    - The Exodus 20:11 parallel ties Sabbath to **creation rest** — Yahweh blessed the seventh day and made it holy; Israel's rest participates in that original blessing
+- **Penalty or Consequence:**
+    - None explicitly stated within this passage
+    - Exodus 31:14-15 and Numbers 15:32-36 provide the consequence — **death** for Sabbath violation
+    - Jeremiah 17:27 — if Jerusalem does not keep the Sabbath Yahweh will kindle a fire in her gates that shall devour her palaces and **not be quenched**
+    - Nehemiah 13:15-18 connects Sabbath violation directly to the **exile** — _"did not your fathers do thus and did not our God bring all this disaster on us and on this city?"_
+- **Offering or Ransom:**
+    - None prescribed
+    - Numbers 15:32-36 confirms no offering remedy for deliberate Sabbath violation — the congregation sought Yahweh's ruling and the penalty returned was **death**, not sacrifice; the presumptuous violation of Sabbath falls into the high-handed category with no atonement path
+
+## **September 24**: Keep the Passover and the Feast of Unleavened Bread: [Leviticus 23:5-8](https://www.biblegateway.com/passage/?search=Leviticus+23%3A5-8&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+* [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+* **Outline:**
+	- In the first [[Gate of Wisdom/Numbers/01\|01]] month
+		- on the [[14\|14]]th day is YHWH's [[Gate of Wisdom/Appointed Time/Passover\|Passover]]
+			- in the evening
+		- On the [[15\|15]]th day is [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]]
+			- to YHWH
+	- Do
+		- [[Gate of Wisdom/Numbers/07\|07]] days you eat unleavened bread #Dos 
+		- In the [[Gate of Wisdom/Numbers/01\|01]]st and [[Gate of Wisdom/Numbers/07\|07]]th day you shall have a holy convocation. #Dos 
+		- offer an offering made by fire [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]] #Dos 
+			- to YHWH
+			- for seven days
+	- Do Not
+		- In the [[Gate of Wisdom/Numbers/01\|01]]st and [[Gate of Wisdom/Numbers/07\|07]]th day do regular work #DoNot 
+
+* **Blessing:**
+   * No explicit blessing stated in the passage.
+
+* **Penalty or Consequence:**
+   * No penalty stated directly in this passage.
+   * Numbers 9:13 — one who is ceremonially clean and not traveling who fails to keep the Passover shall be cut off from his people — *"that soul shall be cut off from his people."* (WEB)
+   * Exodus 12:15 — eating leavened bread during the seven days of Unleavened Bread results in being cut off from Israel.
+   * The holy convocations on the first and seventh days (vv.7-8) carry the prohibition on regular work — no penalty stated but the framing as a holy convocation places the day under the same weight as the Sabbath.
+
+* **Offering or Ransom:**
+   * v.8 — *"you shall offer a food offering to Yahweh seven days"* (WEB) — offerings are appointed for each of the seven days of Unleavened Bread, though the specific details are given in Numbers 28:19-24 rather than here.
+   * The Passover lamb itself (Exodus 12:3-7) is the foundational offering of the season — its blood on the doorposts being the original act of covering that gave the feast its meaning and name.
 
 **September 25**: Leviticus 23:15-21 (non-sacrifice) – Count fifty days and observe the Festival of Weeks with rest. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  
 

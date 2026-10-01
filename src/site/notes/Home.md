@@ -31,9 +31,9 @@ Buy the truth, and don’t sell it.
 
 | Latest Drops                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Potluck/Rediscovering Jonah\|Rediscovering Jonah]]                                                                                                                                     |
 | [[Gate of Correction/Commands Israel Broke\|Commands Israel Broke]]                                                                                                                      |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Asherah\|Asherah]]                                                                                                                               |
-| [[Potluck/Rediscovering Jonah\|Rediscovering Jonah]]                                                                                                                                     |
 | [[Gate of Wisdom/P/Punishment\|Punishment]]                                                                                                                                              |
 | [[Gate of Correction/Jesus's Do Nots\|Jesus's Do Nots]]                                                                                                                                  |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Nineveh\|Nineveh]]                                                                                                                      |
