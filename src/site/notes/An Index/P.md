@@ -30,6 +30,7 @@
 - [[Gate of Wisdom/P/Poor\|Poor]]
 - [[Gate of Wisdom/P/Pray\|Pray]]
 - [[Gate of Wisdom/P/Prayer\|Prayer]]
+- [[Gate of Foundation/Prayer Language Scripture Survey\|Prayer Language Scripture Survey]]
 - [[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]
 - [[Gate of Wisdom/Beings/Human Beings/Prophet\|Prophet]]
 - [[Gate of Wisdom/P/Punishment\|Punishment]]

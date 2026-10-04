@@ -15,8 +15,8 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                          |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Ruach/Ruach.md\\|Ruach]]</li><li>[[Gate of Wisdom/A/Acts 2 Connections Scripture Survey.md\\|Acts 2 Connections Scripture Survey]]</li></ul> |
+| file.inlinks                                                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Ruach/Ruach.md\\|Ruach]]</li><li>[[Gate of Foundation/Acts 2 Connections Scripture Survey.md\\|Acts 2 Connections Scripture Survey]]</li></ul> |
 
 { .block-language-dataview}

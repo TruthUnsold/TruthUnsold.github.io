@@ -1,0 +1,123 @@
+---
+{"dg-publish":true,"permalink":"/gate-of-foundation/prayer-language-scripture-survey/","tags":["P","GateFoundation"],"dg-note-properties":{"tags":["P","GateFoundation"],"Bible-References":null}}
+---
+
+
+
+-  [Isaiah 28:1-13](https://www.biblegateway.com/passage/?search=Isaiah%2028%3A1-13&version=OJB;WEB;NET)  <mark style="background: #04CD3EA6;">//language **NOT** understood//</mark>
+	- Whom will he teach knowledge? To whom will he explain the message?
+	- he will speak to this nation with stammering lips and in another language
+		- NET Bible Commentary: This verse alludes to the coming Assyrian invasion, when the people will hear a foreign language that sounds like gibberish to them. He once spoke in meaningful terms, but in the coming judgment he will speak to them, as it were, through the mouth of foreign oppressors. The apparent gibberish they hear will be an outward reminder that God has decreed their defeat.
+- [1 Samuel 1:12-15](https://www.biblegateway.com/passage/?search=1%20Samuel%201%3A12-15&version=OJB;WEB;NET)  <mark style="background: #CACFD9A6;">//Prayer no words//</mark>
+	- As she continued praying before Yahweh, Eli saw her mouth. 13 Now Hannah spoke in her heart. Only her lips moved, but her voice was not heard. Therefore Eli thought she was drunk.
+- [1 Corinthians 13:1, 8](https://www.biblegateway.com/passage/?search=1%20Corinthians%2013%3A1-8&version=OJB;WEB;NET) 
+	- If I speak with glossa/languages
+		- of men <mark style="background: #04CD3EA6;">//Human Language//</mark>
+		- of angels=[[Gate of Wisdom/Beings/Messenger\|Messenger]]s
+			- [Job 33:23](https://www.biblegateway.com/passage/?search=Job%2033%3A22-25&version=OJB;WEB;NET) <mark style="background: #A4A089A6;">//Messengers as translators//</mark>
+				- beside him an angel, an interpreter, one among a thousand, 
+					- the word here is mal’akh/[[Gate of Wisdom/Beings/Messenger\|Messenger]]
+					- [Malachi 3:1](https://www.biblegateway.com/passage/?search=Mal.3.1&version=OJB;WEB): “Behold, I send my [[Gate of Wisdom/Beings/Messenger\|Messenger]], and he will prepare the way before me!
+						- The Messenger speaks in <mark style="background: #04CD3EA6;">//Human Language//</mark>. An angelic "tongue" is structurally designed to bring extreme clarity ("to show unto man what is right") rather than confusion
+	- Various languages will cease (see 1 Corinthians 12 above)
+- [1 Corinthians 14](https://www.biblegateway.com/passage/?search=1%20Corinthians%2014&version=OJB;WEB;NET)
+	- he who speaks in another glossa/languages <mark style="background: #04CD3EA6;">//Human Language//</mark>
+		- speaks not to men, <mark style="background: #CD04BBA6;">//Note: literally the speaking is being done to men. But it is being done in a language the men do not understand. Because the prophesy in verse 1 is being spoken to men as well//</mark>
+			- but to God, 
+			- for no one understands, 
+				- but in the Ruach he speaks mysteries
+					- [Daniel 2:4-30](https://www.biblegateway.com/passage/?search=Daniel%202%3A4-30&version=OJB;WEB;NET) (lishan / Aramaic speech;  (Interpretation: pitron; Tongues as sign and mystery: raz, רָז, mysteries, compared with 1 Corinthians 14:2)
+						- "But there is a God in heaven who reveals mysteries "But there is a God in heaven who reveals mysteries (rāzīn)
+							- mysteries (rāzīn)=something hidden by God that must be unraveled and communicated intelligibly to men
+						- Paul writes: "For one who speaks in a tongue speaks not to men but to God; for no one understands him, but he utters mysteries mystēria in the Spirit."
+							- The Corinthian church: they were using tongues to speak hidden mysteries that remained completely locked away from men, which defeated the entire biblical purpose of a mystery
+							- He commands that anyone speaking a mystery in a tongue must pray for the power to interpret. If there is no interpreter, the speaker must remain silent, because God's mysteries are meant to build up the hearers, not leave them in confusion.
+		- He who speaks in another language Oikodomeō/edifies himself (edifies Greek:=to build a house" or "to act as a house-builder), Hebrew=banah (בָּנָה) to build. Psalm 127:1 — "Unless Yahweh banah/builds the house, they who build it labor in vain" <mark style="background: #CD04BBA6;">//Note: The Hebrew pattern consistently pairs banah with its opposite — tearing down, plucking up — the same contrast Paul draws in 1 Corinthians 14:4, where self-edification (tongues alone) is set against edifying the assembly (prophecy).//</mark>
+		- Paul desires all speak with other glossa/languages (going back to v2: <mark style="background: #04CD3EA6;">//Human Language//</mark>)
+		- For he is greater who prophesies 
+			- than he who speaks with other languages,  <mark style="background: #04CD3EA6;">//Human Language//</mark>)
+				- unless he interprets
+		- if I come to you speaking with other languages, <mark style="background: #04CD3EA6;">//Human Language//</mark>)
+			- what would I profit you unless I speak to you either 
+				- by way of revelation, 
+				- or of knowledge, 
+				- or of prophesying, 
+				- or of teaching?
+			- unless you uttered by the tongue (body part) words easy to understand
+				- how would it be known what is spoken 
+					- For you would be speaking into the air.
+			- There are, so many kinds of languages in the world <mark style="background: #04CD3EA6;">//Human Language//</mark>)
+				- and none of them is without meaning.
+					- If then I don’t know the meaning of the language, 
+						- I would be to him who speaks a Barbaros/foreigner
+						- and he who speaks would be a foreigner to me ([Genesis 11:7](https://www.biblegateway.com/passage/?search=gen%2011%3A7&version=OJB;WEB;NET)) <mark style="background: #CD04BBA6;">//Pondering: So if I am speaking something I don't understand, then am I the barbaros/foreigner (literally means someone who doesn't speak Greek) because there isn't anyone around to interpret for me???//</mark>
+			- Therefore let him who speaks in another language <mark style="background: #04CD3EA6;">//Human Language//</mark>
+				- pray that he may interpret. 
+					- For if I pray in another language, <mark style="background: #04CD3EA6;">//Human Language//</mark>
+						- "to pneuma mou/the spirit of me" prays, but my understanding is unfruitful.
+				- What should I do? 
+					- I will pray with "to pneuma mou/the spirit of me", 
+					- and I will pray with the understanding also.
+	- I thank my God, I speak with other languages more than you all. <mark style="background: #04CD3EA6;">//Human Language//</mark>
+		- However, in the assembly 
+			- I would rather speak five words with my understanding, 
+				- that I might instruct others also, 
+				- than ten thousand words in another language <mark style="background: #04CD3EA6;">//Human Language//</mark>
+	- In the law it is written: [Isaiah 28:1-13](https://www.biblegateway.com/passage/?search=Isaiah%2028%3A1-13&version=OJB;WEB;NET)  <mark style="background: #04CD3EA6;">//language **NOT** understood//</mark>
+		- Whom will he teach knowledge? To whom will he explain the message?
+		- he will speak to this nation with stammering lips and in another language
+			- NET Bible Commentary: This verse alludes to the coming Assyrian invasion, when the people will hear a foreign language that sounds like gibberish to them. He once spoke in meaningful terms, but in the coming judgment he will speak to them, as it were, through the mouth of foreign oppressors. The apparent gibberish they hear will be an outward reminder that God has decreed their defeat.
+		- Therefore other languages are for a sign, <mark style="background: #04CD3EA6;">//Human Language//</mark>
+			- not to those who believe, 
+				- but to the unbelieving
+			- If therefore the whole assembly is assembled together and all speak with other languages, <mark style="background: #04CD3EA6;">//Human Language//</mark>
+				- and unlearned or unbelieving people come in, 
+					- won’t they say that you are crazy
+	-  When you come together, each one of you ... has another language, or has an interpretation. <mark style="background: #04CD3EA6;">//Human Language//</mark>
+		- Let all things be done to build each other up. 
+			- If any man speaks in another language, 
+				- let there be two, or at the most three, 
+				- and in turn; and let one interpret. 
+			- But if there is no interpreter, 
+				- let him keep silent in the assembly, 
+				- and let him speak 
+					- to himself 
+					- and to God.
+			- don’t forbid speaking with other languages. <mark style="background: #04CD3EA6;">//Human Language//</mark>
+				- Let all things be done decently and in order.
+- [Romans 8](https://www.biblegateway.com/passage/?search=Romans%208%3A22-27&version=OJB;WEB;NET):26-27 **<mark style="background: #67A9B7A6;">//YHWH Spirit gives gifts//</mark>
+	- the whole creation groans and travails in pain together until now
+	- ourselves also groan
+		- who have the [[Gate of Wisdom/Appointed Time/First Fruits\|First Fruits]] of the Ruach
+		- we ourselves groan within ourselves
+			- waiting for adoption, the [[Gate of Wisdom/Consequence/Disobedience/Redemption\|Redemption]] of our body
+			- because we were [[Gate of Wisdom/S/saved\|saved]] in hope
+				- but hope that is seen is not hope
+				- but if we hope for that which we don't see
+					- we wait for it with patience
+	- The Ruach groans in the same way //as creation and ourselves groan// 
+		- the Ruach helps our weakness
+			- because we don't know how to pray
+				- as we ought
+		- the Ruach makes intercessions for us
+			- with groanings which can't be uttered
+			- God, who searches the hearts knows what is on the Ruach's mind
+				- because the Ruach makes intercession for the saints
+					- according to God's will
+	- Definitions:
+		- Huperentugchanō (ὑπερεντυγχάνω) = intercessions appears no where else in the entire New Testament. "for," "on behalf of," or "in place of." to fall in with," "to approach," or "to petition a person of high authority on behalf of another"
+		- Stenagmos (στεναγμός)=Groan, Groanings a sigh, a deep groan, or a low, moaning sound. Often comparing the sound to a woman undergoing the intense pains of childbirth. This is paired with alālētos, which means unspoken, inexpressible, or wordless.
+			- creation is pictured as crying out in a collective groan
+			- the believer is pictured as groaning inwardly due to a homesick heart
+			- the Ruach makes intercessions with groanings which can't be uttered. 
+				- Groaning of the Israelites: Exodus 2:23-25 and Exodus 6:5
+				- Stephen quotes this exact Exodus passage in [Acts 7:34](https://www.biblegateway.com/passage/?search=acts%207%3A34&version=OJB;WEB;NET)
+- [Ephesians 6:18](https://www.biblegateway.com/passage/?search=Ephesians%206%3A18&version=OJB;WEB;NET) (Jude 20)
+	- [[Gate of Wisdom/P/Pray\|Pray]]ing at all times in the Ruach
+- - [Jude 20](https://www.biblegateway.com/passage/?search=Jude%2019-20&version=OJB;WEB;NET) **<mark style="background: #67A9B7A6;">//YHWH Spirit gives gifts//</mark>
+	- There are those who cause divisions and are sensual
+		- not having the Ruach
+		- but you keep building up yourselves
+			- on you most [[Gate of Wisdom/H/Holy\|Holy]] faith
+				- praying in the Ruach Hakodesh
+

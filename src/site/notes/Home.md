@@ -31,7 +31,8 @@ Buy the truth, and don’t sell it.
 
 | Latest Drops                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Gate of Wisdom/A/Acts 2 Connections Scripture Survey\|Acts 2 Connections Scripture Survey]]                                                                                            |
+| [[Gate of Foundation/Acts 2 Connections Scripture Survey\|Acts 2 Connections Scripture Survey]]                                                                                          |
+| [[Gate of Foundation/Prayer Language Scripture Survey\|Prayer Language Scripture Survey]]                                                                                                |
 | [[Potluck/Rediscovering Jonah\|Rediscovering Jonah]]                                                                                                                                     |
 | [[Gate of Correction/Commands Israel Broke\|Commands Israel Broke]]                                                                                                                      |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Asherah\|Asherah]]                                                                                                                               |
@@ -50,7 +51,6 @@ Buy the truth, and don’t sell it.
 | [[Gate of Discernment/The Exodus and Jonah\|The Exodus and Jonah]]                                                                                                                       |
 | [[Gate of Wisdom/N/Neighbor\|Neighbor]]                                                                                                                                                  |
 | [[Gate of Wisdom/Beings/Human Beings/Jeroboam II\|Jeroboam II]]                                                                                                                          |
-| [[Gate of Wisdom/Beings/Human Beings/Jonah\|Jonah]]                                                                                                                                      |
 
 { .block-language-dataview}
 

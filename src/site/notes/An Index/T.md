@@ -3,7 +3,7 @@
 ---
 
 
-- [[Gate of Wisdom/A/Acts 2 Connections Scripture Survey\|Acts 2 Connections Scripture Survey]]
+- [[Gate of Foundation/Acts 2 Connections Scripture Survey\|Acts 2 Connections Scripture Survey]]
 - [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Ark of the Testimony\|Ark of the Testimony]]
 - [[Gate of Wisdom/C/Celebrating the Birth of A God in December (Part 5.4 Feast of Trumpets)\|Celebrating the Birth of A God in December (Part 5.4 Feast of Trumpets)]]
