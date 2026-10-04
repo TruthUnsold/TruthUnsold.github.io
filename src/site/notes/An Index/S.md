@@ -27,6 +27,7 @@
 - [[Gate of Foundation/The Seventh Day Rest/23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)\|23 The Seventh Day Rest Brings Blessing or Curse (24 Jeremiah 17)]]
 - [[Gate of Foundation/The Seventh Day Rest/27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)\|27 The Seventh Day Rest is an Abomination When Made Common (26 Ezekiel 23)]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Aarons Staff\|Aarons Staff]]
+- [[Gate of Wisdom/A/Acts 2 Connections Scripture Survey\|Acts 2 Connections Scripture Survey]]
 - [[Gate of Wisdom/S/Genesis-God’s Spirit in Creation Podcast\|Genesis-God’s Spirit in Creation Podcast]]
 - [[Gate of Wisdom/Ruach/Holy Spirit\|Holy Spirit]]
 - [[Gate of Wisdom/H/Holy Spirit -  Speak\|Holy Spirit -  Speak]]
