@@ -2,16 +2,7 @@
 {"dg-publish":true,"permalink":"/gate-of-foundation/acts-2-connections-scripture-survey/","tags":["A","S","T","#44Acts","#Acts02","GateFoundation"],"dg-note-properties":{"tags":["A","S","T","#44Acts","#Acts02","GateFoundation"],"Bible-References":null}}
 ---
 
-- [1 Corinthians 13:1, 8](https://www.biblegateway.com/passage/?search=1%20Corinthians%2013%3A1-8&version=OJB;WEB;NET) 
-	- If I speak with glossa/languages
-		- of men <mark style="background: #04CD3EA6;">//Human Language//</mark>
-		- of angels=[[Gate of Wisdom/Beings/Messenger\|Messenger]]s
-			- [Job 33:23](https://www.biblegateway.com/passage/?search=Job%2033%3A22-25&version=OJB;WEB;NET) <mark style="background: #A4A089A6;">//Messengers as translators//</mark>
-				- beside him an angel, an interpreter, one among a thousand, 
-					- the word here is mal’akh/[[Gate of Wisdom/Beings/Messenger\|Messenger]]
-					- [Malachi 3:1](https://www.biblegateway.com/passage/?search=Mal.3.1&version=OJB;WEB): “Behold, I send my [[Gate of Wisdom/Beings/Messenger\|Messenger]], and he will prepare the way before me!
-						- The Messenger speaks in <mark style="background: #04CD3EA6;">//Human Language//</mark>. An angelic "tongue" is structurally designed to bring extreme clarity ("to show unto man what is right") rather than confusion
-	- Various languages will cease (see 1 Corinthians 12 above)# Related Words
+
 
 **Hebrew / Aramaic**
 
@@ -733,6 +724,10 @@
 				- Let all things be done decently and in order.
 - 1 Corinthians 16:8 ([[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]] / <mark style="background: #A284CDA6;">Shavuot</mark>)
 	- Jesus ascended 24-26 years ago and Paul is still keeping Pentecost
+- [2 Corinthians 12:4](https://www.biblegateway.com/passage/?search=2%20Corinthians%2012%3A4&version=OJB;WEB;NET) 
+	- Man caught up to Paradise
+		- heard unspeakable words (Arrētos (ἄρρητος) "un-sayable" or "un-utterable" - only used here)
+			- which it is not lawful for a man to utter
 
 - [Ephesians 5:18](https://www.biblegateway.com/passage/?search=Ephesians%205%3A15-21&version=OJB;WEB;NET) **<mark style="background: #67A9B7A6;">//YHWH Spirit gives gifts//</mark>
 	- Be filled with the Ruach

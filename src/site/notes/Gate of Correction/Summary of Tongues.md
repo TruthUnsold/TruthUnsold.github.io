@@ -83,6 +83,49 @@ It is up to you to seek God and ask him to open your eyes to any truth that you 
 
 I also have what I call [[Gate of Discernment/Word Flow Charts\|Word Flow Charts]] that are great for working through topics like this one. As well as [[Gate of Discernment/Study Sheets\|Study Sheets]] . These are just a collection of some studies I've worked on. Some may even be incomplete. You won't find "answers" in them, just some notes or observations I've made on various words I've decided to look up. There are very few conclusions stated on these sheets. I've only posted them to aid in someone else's studies. They may be able to give a starting point when knowing where to start is difficult. There is no particular order. I am trying to gather my study information and put it into some kind of uniform format, so it may take some time. Just check back from time to time and see what's been added.
 
+## Updated 10.03.26:
+
+### Does Every Use of Glōssa Describe the Same Thing?
+
+- Glōssa (γλῶσσα) / lashon (לָשׁוֹן) covers at least four uses, so each occurrence has to be read in its own context. Acts and 1 Corinthians 12 give explicit context markers pointing to human languages.
+	- **Physical organ:** Luke 16:24; Romans 3:13; Exodus 11:7 (lashon).
+	- **A shape (a "tongue" of something):** Joshua 7:21, 24, a wedge of gold, literally a "tongue" of gold; Isaiah 5:24, a tongue of fire.
+	- **Speech or language in general:** Esther 1:22; Isaiah 45:23; Psalm 12:3. Daniel 3:4 uses lishan (לִשָּׁן, Aramaic) for "peoples, nations, and languages."
+	- **A specific named language:** 2 Kings 18:26 and Isaiah 36:11 use Yehudit (יְהוּדִית), "the language of Judah." Acts 21:40, 22:2, and 26:14 use dialektos (διάλεκτος) for the Hebrew language. 
+
+### Do all biblical tongues = human languages? Does 1 Corinthians 14 describe a private prayer language? Paul’s statements about speaking to God, mysteries, praying with the spirit, personal edification, interpretation, and speaking privately to God all have to be accounted for. 
+- Scripture does not use the term "prayer language". 
+- Speaking to God and Mysteries
+	- 14:28 — "if there is no interpreter, let him keep silent in the assembly, and let him speak to himself and to God." This would indicate silence is commanded in the assembly, and speaking "to himself and to God" would be outside it or to one's self. *Pondering*: If I am speaking something I don't understand, then am I the barbaros/foreigner because there isn't anyone around to interpret for me???
+	- Daniel 2:4-30 indicates that there is a God in heaven who reveals mysteries which is the same theme Paul picks up on, "For no one understands him, but he utters mysteries." So it would seem if we are speaking something to God we don't understand, he should then give us understanding to the mysteries we are speaking. Paul goes even further to tell us if we are speaking a mystery we should pray for the power of interpretation. 
+- Praying in the Spirit with Interpretation
+	- Romans 8:26 (alalētos / ἀλαλήτοις, "unspoken"; Hebrew parallel: anachah / אֲנָחָה, sighing, Exodus 2:23–25) concerns the Spirit's groanings and does not mention glōssa. The flow is creation groans, we groan, the Spirit groans = God, who searches the hearts knows what is on the Ruach's mind because the Ruach makes intercession for the saints according to God's will. This isn't a language, it's a groaning, sighing, unutterable sound. 
+	- Isaiah 28:10-13 equates stammering lips, gibberish, senseless babbling, a syllable here and a syllable there as not a good thing.  Ecclesiastes 10:14 calls it foolishness. In Matthew 6:7, Jesus says do not keep on babbling like pagans.
+	- 1 Corinthians 14 Paul uses the phrase to pneuma mou/the spirit of me which is translated as "pray with the spirit". Paul says, if he prays in another language the spirit of me prays, but my understanding is unfruitful. So what should I do. I will pray with the spirit of me AND pray with understanding. 
+	- This does not in anyway negate praying in the Ruach/Spirit such that Ephesians 7 and Jude 20 refer to.  Ephesians 6:18 and Jude 20, "praying in the Ruach." Neither uses glōssa. 
+	- It seems the bottom line is there should be understanding given through the Spirit. 
+- Personal edification
+	- Jude 20 shares the building-up idea with 14:4 ("building up yourselves," epoikodomeō / ἐποικοδομέω, a compound of the 14:4 verb).
+	- Paul contrasts the edification of the church against the edification of self. He doesn't say that personal edification is wrong, but that the edification of the assembly is more important. 
+	- Worth some more exploration is the Hebrew pattern consistently pairing banah with its opposite — tearing down, plucking up — the same contrast Paul draws in 1 Corinthians 14:4, where self-edification (tongues alone) is set against edifying the assembly (prophecy).
+
+### 1 Corinthians 13:1 — "tongues of men and of angels"
+- "If I speak with the languages of men and of angels, but don't have love, I have become sounding brass, or a clanging cymbal." (1 Corinthians 13:1)
+- Scripture does not prove the lack of angelic speech. Nor does it record any human ever speaking in angelic speech. But that doesn't mean it didn't happen and that we are only reading it in a human language. 
+- angelos (ἄγγελος) / mal'akh (מַלְאָךְ) means messenger, one sent. [[Gate of Wisdom/Beings/Messenger\|Messenger]]s can be human or spiritual - the context determine which. It is clear here one is human and one is spiritual. The general idea of a messenger is one sent, envoy, acting with the authority of the sender. So would speaking in tongues of angels mean we would be speaking to a messenger and sending him somewhere on our behalf? Do we need this type of intercessor? 
+- From Genesis to Revelation, all Gods messengers appear to speak to humans in intelligible speech: Luke 1:13, 1:30–35; Genesis 16:7–11; Exodus 3:2–4 (the Angel of YHWH spoke and Moses understood).
+- Job 33:23 speaks about how the "angel" is "an interpreter" (melitz / מֵלִיץ; LXX: angelos), "to show to man what is right." 
+- 2 Corinthians 12:4 — Paul "heard unspeakable words (arrēta rhēmata / ἄρρητα ῥήματα), which it is not lawful for a man to utter." This is Paul's one reference to heavenly speech, and it is not called glōssa or tongues. 2 Corinthians 12:4 (arrētos) describes words Paul heard that he could not repeat, but the text does not call them a tongue or a language people can speak.
+
+### Does 1 Corinthians 14 describe the same phenomenon as Acts 2?
+- Same word, glōssa (γλῶσσα), and same Spirit (1 Corinthians 12:4–11; Acts 2:4).
+- Peter calls the Gentile experience "the same gift" (Acts 11:17).
+- Paul cites the Law: "By men of strange languages and by the lips of strangers I will speak to this people" (14:21, quoting Isaiah 28:11–12). Deuteronomy 28:49 and Jeremiah 5:15 describe the same: a human nation whose language Israel "does not understand."
+- Genesis 40:8 and Daniel 2:28 support the pattern that God gives both the message and its interpretation. In Acts 2 the hearers who spoke those nations' languages needed none; in 1 Corinthians 14:2, 28 — "no one understands," and interpretation (hermeneia / ἑρμηνεία, no one present knew the language.
+
+
 [[Gate of Wisdom/T/tongues\|tongues]]
 [[Assets/Clippings/Speaking in Tongues\|Speaking in Tongues]]
+[[Gate of Foundation/Acts 2 Connections Scripture Survey\|Acts 2 Connections Scripture Survey]]
+[[Gate of Foundation/Prayer Language Scripture Survey\|Prayer Language Scripture Survey]]
 
