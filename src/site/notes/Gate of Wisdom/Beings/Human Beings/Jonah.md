@@ -30,6 +30,8 @@
 - Fled instead toward Tarshish, boarding a ship at Joppa (Jonah 1:3)
 	- Jonah flees to Tarshish just as all biblical characters attempt some kind of “return to Eden” by their own power and scheming.
 	- Other resistant prophets in the Hebrew Bible, like Moses, Elijah, and Jeremiah
+	- #44Acts/Acts09 :43 Peter bar Jonah (son of Jonah) is in Jappa
+	- #44Acts/Acts10 :14 YHWH tells Peter son of Jonah to go to a gentile household, the home of a Roman officer and he goes.
 - Cast into the sea during the storm and swallowed by a great fish (Jonah 1:15-17)
 - Vomited onto dry land after three days and three nights in the fish (Jonah 2:10)
 - Went to Nineveh after a second call from YHWH (Jonah 3:1-4)
@@ -84,7 +86,13 @@
 
 ## The Book's Structural Point
 
-- The parallel and contrast together form the book's central irony: the Gentile city that "can't discern between their right hand and their left hand" (4:11) repents fully and immediately at a bare five-word Hebrew proclamation, while the prophet who possesses full knowledge of YHWH's revealed character (4:2, quoting Exodus 34:6) resists that same character to the end of the book — the ignorant respond rightly, and the informed resist
+- The parallel and contrast together form the book's central irony: the Gentile city that "can't discern between their right hand and their left hand" (4:11) repents fully and immediately at a bare five-word Hebrew proclamation, while the prophet who possesses full knowledge of YHWH's revealed character (4:2, quoting #02Exod/Exodus34:6) resists that same character to the end of the book — the ignorant respond rightly, and the informed resist. 
+	- Jonah adds a phrase not in Exodus - "you relent of doing harm."
+		- Nikam - to relent, to change course, to turn from a declared judgment.
+		- v 10 - God Nikam of the evil that he said he would do. 
+	- Jonah leaves out the phrase "and that will by no means clear the guilty."
+		- He quots the mercy half and leaves out the justice half. 
+	- #29Joel/Joal02 :13 
 
 ## Connections
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/gate-of-correction/matthew-28-v19-20-teaching-to/","dg-note-properties":{"Tags":["Wordpress","M","GateCorrection"]}}
 ---
 
-
+# #40Matt/Matthew28
 
 [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-28#v19\|Matt-28#v19]] Go and teach the peoples, immersing them in the character, reputation, authority, and purpose of Yah/God …
 
@@ -41,7 +41,7 @@ Remember
 	- always
 	- to the end of the age
 
-#Matthew28 #40Matt 
+ 
 
 
 Originally published on WordPress  https://calltoceasefire.wordpress.com/2024/03/23/mathew-2820-teaching-to/

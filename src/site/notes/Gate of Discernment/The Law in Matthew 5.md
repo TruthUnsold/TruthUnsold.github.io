@@ -51,6 +51,6 @@ We used the American Standard Version (ASV) with bold and underline added
 
 # Connections
 
-[[Gate of Discernment/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]
+[[Gate of Wisdom/L/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]
 
 

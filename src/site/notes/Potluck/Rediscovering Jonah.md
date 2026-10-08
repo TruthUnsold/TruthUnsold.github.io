@@ -394,17 +394,31 @@ Things to explore before diving into this book.
 
 # Chapter 6
 
-> Jonah is called to the great city of Ninevah which name means fish - he runs away and is followed by a great fish. 
+> Jonah is called to the great city of Ninevah which name means fish - he runs away and is swallowed by a great fish. 
 
 ## yourself. In a society dominated by such beliefs, the Bible’s persistent message that we are guilty sinners comes across as oppressive if not evil and dangerous. These modern cultural themes make the offer of grace unnecessary, even an insult.
 
 > Sad but true
 
-## The mercy seat was a slab of gold over the top of the Ark of the Covenant, in which resided the tablets of the Ten Commandments. On the Day of Atonement, a priest sprinkled the blood of the atoning sacrifice for the sins of the people on the mercy seat (Leviticus 16:14–15).
+## The mercy seat was a slab of gold over the top of the Ark of the Covenant, in which resided the tablets of the Ten Commandments. On the Day of Atonement, a priest sprinkled the blood of the atoning sacrifice for the sins of the people on the mercy seat ( #Lev03/Leviticus16:14–15).
 
 > He shall make atonement<mark style="background: #E6852CA6;"> for the Holy Place</mark>, because of the uncleanness of the children of Israel, and <mark style="background: #E6852CA6;">because</mark> of their transgressions, even all their sins; and so he shall do for the Tent of Meeting that dwells with them in the middle of their uncleanness. 17 No one shall be in the Tent of Meeting when he enters to make atonement in the Holy Place, until he comes out, and has made atonement <mark style="background: #E6852CA6;">for himself and for his household, and for all the assembly of Israel</mark>.
 
-- [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Ark of the Testimony\|Ark of the Testimony]]
+### Atonement for Five Elements
+
+| Element                                                                | Reference          |     |
+| ---------------------------------------------------------------------- | ------------------ | --- |
+| The Holy Place (the sanctuary/Most Holy Place where the mercy seat is) | Leviticus 16:16    |     |
+| The Tent of Meeting                                                    | Leviticus 16:16    |     |
+| The priest himself (Aaron)                                             | Leviticus 16:17    |     |
+| His household                                                          | Leviticus 16:17    |     |
+| The assembly of Israel                                                 | Leviticus 16:17    |     |
+| The altar                                                              | Leviticus 16:18-19 |     |
+
+- [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Ark of the Testimony\|Ark of the Testimony]] aron ha-edut (אֲרוֹן הָעֵדוּת) "you shall put into the ark the testimony which I shall give you" (Exodus 25:16
+- [[Zunpublished/Seat of Atonement\|Seat of Atonement]]  kapporet (כַּפֹּרֶת) — literally "the covering" or "covering-place,"
+	- kapporet (כַּפֹּרֶת) — from the root k-p-r (כפר), the same root behind kippur ("atonement," as in Yom Kippur, "Day of Atonement") and kaphar ("to cover, atone, appease")
+	- English "mercy seat" comes from Tyndale's and later the KJV's translation choice
 - [[Gate of Wisdom/T/Ten Words\|Ten Words]]
 - [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]]
 - [[Gate of Wisdom/Good News/Atonement\|Atonement]]
@@ -442,8 +456,60 @@ Deuteronomy 30:11-14 explicitly says the commandments are _not_ too hard or too 
 
 ## In verse 8 Jonah says that “those clinging to empty idols forfeit the grace that is theirs.” Jonah rightly says that idolatry blocks people from receiving grace.
 
-> Those who regard //[[shamar\|shamar]]// lying vanities <mark style="background: #CD04BBA6;">//hevel - a puff of breath or vapor - no substance, weight, or lasting presence//</mark> forsake their own [[Zunpublished/Mercy\|Mercy]]. chesed leans toward covenant loyalty/steadfast love more than chanun's specific sense of unearned favor (grace)
+> Those who regard //[[shamar\|shamar]]// lying vanities <mark style="background: #CD04BBA6;">//hevel - a puff of breath or vapor - no substance, weight, or lasting presence//</mark> forsake their own [[Zunpublished/Mercy\|Mercy]]. chesed (loving kindness) leans toward covenant loyalty/steadfast love more than chanun's specific sense of unearned favor (grace)
 - The Tanakh consistently applies hevel and shav to idols specifically: "their idols are silver and gold, the work of men's hands... those who make them are like them; so is everyone who trusts in them" (Psalm 115:4, 8, WEB);
 	- The verse sets up a direct contrast with Jonah's own declaration two verses later: "salvation belongs to Yahweh" (Jonah 2:9). Those who cling to (shamar) what is empty (hevel/shav) thereby abandon the one source of real chesed — the very attribute Jonah himself invokes as reason for his anger in 4:2 ("I knew that you are a gracious God, and merciful, slow to anger, and abundant in loving kindness")
 	- The verb shamar ("guard, keep watch over") applied to something worthless creates a picture of misplaced devotion — effort and loyalty poured into a thing incapable of returning it
 	- Psalm 31:6 — "I hate those who regard lying vanities, but I trust in Yahweh" (WEB) — near-identical phrase, likely the source or a shared traditional expression Jonah's prayer draws upon
+
+# Chapter 7
+
+## For the time being, he expresses favor in response to the city’s intention and effort at social reform. 
+
+> Yah said that they didn't know the left from the right. He didn't expect them to right away regardless of who they were. Anymore than he expected the Israelites to at Mt. Sinai. He is always willing to redeem us BEFORE we know tov and ra, and then teach us what is tov and ra. The question is, are we willing to learn what he believes is tov and ra or do we want to decide. Which is basically the whole theme in Jonah.
+
+## “In forty days, Nineveh shall be overthrown!” That was what Jonah enthusiastically wanted and predicted. He enjoyed preaching wrath. He did it with glee, not tears, because he couldn’t wait for God’s hammer to fall on them.
+>  the hebrew word means to turn something over, it could mean over throw or turn over.  
+
+- The Greek term in Jonah 3:4 (LXX) for "overthrown" is katastraphesetai (καταστραφήσεται), from katastrepho — "to overturn, overthrow." This same root appears in the Gospels: "Jesus entered into the temple of God, and drove out all of those who sold and bought in the temple, and overthrew (katestrepsen, κατέστρεψεν) the money changers' tables" (Matthew 21:12, WEB)
+## But God responded with mercy. “When God examined their deeds, how they forsook their evil way, he renounced the disaster he had said he would do to them, and he did not carry it out” (verse 10).
+
+- What YHWH "saw" was not merely Nineveh's fasting or sackcloth (described in 3:5-8) but the resulting ma'aseh — the actual turning of conduct; the text specifies that it was this observable change in deeds, not ritual alone, that led to YHWH relenting.
+- Hebrew: nacham (נָחַם) — "to relent, be sorry, comfort, be moved to pity, change one's mind/course"; from a root carrying the sense of a deep, emotional shift — often associated with sighing or breathing heavily as an expression of strong feeling. In Hebrew mindset, nacham describes a genuine change in disposition or action in response to a changed situation, not a cold or merely procedural reversal
+- Nacham is also the verb used of God's grief before the Flood — "it grieved (nacham) him at his heart" (Genesis 6:6, WEB) — showing the term's range: it can describe God's sorrow/regret over a prior course as well as His relenting from an announced judgment, depending on the narrative direction
+- Exodus 32:14 — "Yahweh relented (nacham) of the evil which he said he would do to his people" — the golden calf episode, the closest prior precedent to Jonah 3:10's usage
+
+# Chapter 8
+
+## In verse 2 he says, “Oh Lord, is this not what I spoke of when I was still in my homeland?” Readers are now let in on the ongoing argument Jonah has been having with God all along. Verses 2 and 3 give us a brief sample, but it is not hard to imagine the rest of it. “I just knew you might do something like this! These people are evil, and they only changed because they were scared. They didn’t convert and start worshipping you. They merely promised to start changing—and you bestow mercy on them for that! It’s good that you are a God of mercy, but this time you’ve gone too far.”
+
+> Proof that Jonah knew all along what Yah's mercy looks like. 
+## The name “Yahweh” (translated “the Lord”) has not appeared since chapter 2, but now Jonah literally cries, “Alas, Yahweh!” This is the personal, covenant name of God, which he reveals only to his people Israel, and it is the covenant of God with Israel that is much in Jonah’s mind.
+
+> The name is revealed to many non-Israelites as well as adversaries to Yah. It is His personal name first, and it becomes the name under which His covenant with Israel is specifically transacted and invoked
+
+- Pharaoh is told the name directly
+- Rahab, a Canaanite, uses the name
+- Naaman, an Aramean
+- Psalm 83:18 states the purpose explicitly: "that they may know that you alone, whose name is Yahweh, are the Most High over all the earth" (WEB) — a stated desire that the nations, not just Israel, come to know the name
+- Malachi envisions the name known internationally: "from the rising of the sun even to its going down, my name is great among the nations" (Malachi 1:11, WEB)
+- The name is used in narration from Genesis onward, well before Israel exists as a covenant people: "then men began to call on Yahweh's name" (Genesis 4:26, WEB), in the days of Seth — generations before Abraham
+
+## As a missionary, Jonah should have been glad that the Ninevites had taken a first step. Coming to full faith in God does not usually happen overnight, as it did with the sailors in Jonah’s boat. The people of the city showed their willingness to repent, and Jonah should have prepared to help them continue in their journey by teaching them the character of this new God, the Lord, and what it means to be in a covenant relationship with him.
+
+> Jonah is never referred to as a Missionary, he was a Prophet. Prophets did not stay around and teach anyone anything. He was not called to do that. 
+
+- A navi's defining function is to deliver YHWH's exact word — "I will raise them up a prophet from among their brothers, like you. I will put my words in his mouth, and he shall speak to them all that I shall command him" (Deuteronomy 18:18, WEB)
+- The navi's task is message-delivery, not necessarily relationship-building, ongoing discipleship, or wanting a specific outcome — he speaks truth as given, and the response is not his to produce or ensure
+	- Moses and Pharaoh
+	- Elisha and Naaman
+	- Daniel and Nebuchadnezzar
+	- the consistent biblical pattern for prophets sent to Gentiles is deliver the word and depart (or remain elsewhere in service to their own calling), not settle in to disciple the response. Elisha's "go in peace" to Naaman is the most direct parallel to what a continued relationship might have looked like, and even there, no follow-up instruction is recorded or implied as expected
+- Prophets in Scripture are frequently shown being reluctant, resistant, or even opposed to the outcome of their own message (Jonah is the clearest case; compare also Balaam, who delivers blessing on Israel he would have preferred not to give, Numbers 22-24)
+
+## When Christian believers care more for their own interests and security than for the good and salvation of other races and ethnicities, they are sinning like Jonah. If they value the economic and military flourishing of their country over the good of the human race and the furtherance of God’s work in the world, they are sinning like Jonah. Their identity is more rooted in their race and nationality than in being saved sinners and children of God. Jonah’s rightful love for his country and people had become inordinate, too great, rivaling God. Rightful racial pride can become racism. Rightful national pride and patriotism can become imperialism.
+> Just not an accurate statement of what is going on in Jonah. Let's not forget Yah gave Saul directions to kill every man, woman, child, and livestock. 
+
+## 4 Whenever we read the Bible in order to say, “Aha! I’m right!”; whenever we read it to feel righteous and wise in our own eyes, we are using the Bible to make ourselves into fools or worse, since the Bible says that the mark of evil fools is to be “wise in their own eyes” (cf. Proverbs 26:12).
+> Something this particular Author has done over and over throughout this book???
+

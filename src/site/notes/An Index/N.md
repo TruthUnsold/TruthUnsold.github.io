@@ -24,7 +24,7 @@
 - [[Gate of Wisdom/N/Neighbor\|Neighbor]]
 - [[Gate of Wisdom/Beings/nekar\|nekar]]
 - [[Gate of Wisdom/Covenant/New Covenant\|New Covenant]]
-- [[Gate of Discernment/New Heart and New Spirit\|New Heart and New Spirit]]
+- [[Gate of Wisdom/Ruach/New Heart and New Spirit\|New Heart and New Spirit]]
 - [[Gate of Wisdom/Appointed Time/New Moon\|New Moon]]
 - [[Gate of Wisdom/Beings/Human Beings/Nimrod\|Nimrod]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Nineveh\|Nineveh]]

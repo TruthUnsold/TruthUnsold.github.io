@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/gate-of-correction/matthew-28-v19-20-baptizing-in-the-name/","dg-note-properties":{"Tags":["Wordpress","M","B","GateCorrection"]}}
 ---
 
+# #40Matt/Matthew28 
 
 [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-28#v19\|Matt-28#v19]]
 
@@ -38,7 +39,6 @@ Remember
 	- always
 	- to the end of the age
 
-
-#Matthew28 #40Matt 
+ 
 
 Originally posted on WordPress https://calltoceasefire.wordpress.com/2024/03/16/matthew-2819-baptizing-in-the-name/

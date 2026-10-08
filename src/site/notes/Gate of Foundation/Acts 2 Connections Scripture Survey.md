@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-foundation/acts-2-connections-scripture-survey/","tags":["A","S","T","#44Acts","#Acts02","GateFoundation"],"dg-note-properties":{"tags":["A","S","T","#44Acts","#Acts02","GateFoundation"],"Bible-References":null}}
+{"dg-publish":true,"permalink":"/gate-of-foundation/acts-2-connections-scripture-survey/","tags":["A","S","T","GateFoundation"],"dg-note-properties":{"tags":["A","S","T","GateFoundation"],"Bible-References":null}}
 ---
 
 
@@ -45,57 +45,57 @@
 
 # The Scriptures
 
-- [Genesis 1:2](https://www.biblegateway.com/passage/?search=gen%201%3A2&version=OJB;WEB;NET) ([[Gate of Wisdom/Ruach/Ruach\|Ruach]] [[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]] (רוּחַ): spirit, wind, breath) <mark style="background: #E0CC4BA6;">//YHWH Spirit as wind//</mark>
+-[Genesis 1:2](https://www.biblegateway.com/passage/?search=gen%201%3A2&version=OJB;WEB;NET) ([[Gate of Wisdom/Ruach/Ruach\|Ruach]] [[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]] (רוּחַ): spirit, wind, breath) <mark style="background: #E0CC4BA6;">//YHWH Spirit as wind//</mark>   
 	- The very first mention of the Ruach Elohim
 	- Moving upon the face of the water
-- [Genesis 10:1-32](https://www.biblegateway.com/passage/?search=Genesis%2010%3A1-32&version=OJB;WEB;NET) (connection=Acts 2:9-11) <mark style="background: #04CD3EA6;">//Human Language//</mark>
+- [Genesis 10:1-32](https://www.biblegateway.com/passage/?search=Genesis%2010%3A1-32&version=OJB;WEB;NET) (connection=Acts 2:9-11) <mark style="background: #04CD3EA6;">//Human Language//</mark> 
 	- lashon (לָשׁוֹן): strictly refers to the physical human organ, human speech patterns, or known earthly dialects
 	- Jewish and biblical tradition this passage explicitly outlines exactly 70 foundational nations/languages 
 	- Acts 2, Luke explicitly lists 15 distinct geographical regions or language groups
 	- Luke prefaces his list by stating there were devout men present "from every nation under heaven. In the minds of first-century readers, this phrase directly invoked the totality of the 70 nations from Genesis 10
 - [Genesis 11:1-10](https://www.biblegateway.com/passage/?search=Genesis%2011%3A1-10&version=OJB;WEB;NET) <mark style="background: #04CD3EA6;">//Human Language//</mark>
 	- saphah (שָׂפָה): lip, speech, language
-	- Genesis 11:4 (connection: "make a name," compared with Acts 2:21 and Joel 2:32, call on the Name)
-- [Genesis 40:8](https://www.biblegateway.com/passage/?search=Genesis%2040%3A8&version=OJB;WEB;NET) (pitron (פִּתְרוֹן): interpretation; connection=Acts 2:17 and Joel 2:8; 1 Corinthians 12-14) <mark style="background: #67A9B7A6;">//Ruach Gift//</mark> **through** <mark style="background: #04CD3EA6;">//Human Language//</mark>
+	- #01Gen/Genesis11:4 (connection: "make a name," compared with Acts 2:21 and #29Joel/Joel02:32, call on the Name)
+- [Genesis 40:8](https://www.biblegateway.com/passage/?search=Genesis%2040%3A8&version=OJB;WEB;NET) (pitron (פִּתְרוֹן): interpretation; connection=Acts 2:17 and #29Joel/Joel02 :8; #461Cor/1Corinthians12 #461Cor/1Corinthians13 #461Cor/1Corinthians14<mark style="background: #67A9B7A6;">//Ruach Gift//</mark> **through** <mark style="background: #04CD3EA6;">//Human Language//</mark>
 	- _pitron_ meaning "the interpretation of a dream"
-	- Genesis 40:8, "Do not interpretations (pitron) belong to God?" Joseph asserts only the Spirit of God can decode a divine message
-	- Acts 2:13 the bypassers cannot decode the divine messages and declare "They are filled with new wine" Peter steps forward as a "Joseph figure."
-	- The New Testament interpreters chose the Greek root hermeneia (ἑρμηνεία) or _epilysis_—which means translation, explanation, or interpretation. This is the identical root Paul uses in 1 Corinthians 12–14. The Holy Spirit gives the gift of tongues, but also the "interpretation (hermeneia) of tongues."
+	- #01Gen/Genesis40:8, "Do not interpretations (pitron) belong to God?" Joseph asserts only the Spirit of God can decode a divine message
+	- #44Acts/Acts02:13 the bypassers cannot decode the divine messages and declare "They are filled with new wine" Peter steps forward as a "Joseph figure."
+	- The Greek root hermeneia (ἑρμηνεία) or _epilysis_—which means translation, explanation, or interpretation. This is the identical root Paul uses in 1 Corinthians 12–14. The Holy Spirit gives the gift of tongues, but also the "interpretation (hermeneia) of tongues."
 - [Genesis 41:15-16](https://www.biblegateway.com/passage/?search=Genesis%2041%3A15-16&version=OJB;WEB;NET) (Interpretation: pitron) See above Genesis 40:8 <mark style="background: #67A9B7A6;">//Ruach Gift// </mark>**through** <mark style="background: #04CD3EA6;">//Human Language//</mark>
-- [Exodus 3:2-4](https://www.biblegateway.com/passage/?search=Exodus%203%3A2-4&version=OJB;WEB;NET) Angel of YHWH spoke <mark style="background: #E0CC4BA6;">//YHWH Spirit as fire//</mark>
+- [Exodus 3:2-4](https://www.biblegateway.com/passage/?search=Exodus%203%3A2-4&version=OJB;WEB;NET)  Angel of YHWH spoke <mark style="background: #E0CC4BA6;">//YHWH Spirit as fire//</mark>
 	- Spoke in a language Moses understood <mark style="background: #E0CC4BA6;">//YHWH Speaks//</mark>
-- [Exodus 4:10-16](https://www.biblegateway.com/passage/?search=Exodus%204%3A10-16&version=OJB;WEB;NET) <mark style="background: #E0CC4BA6;">//YHWH Speaks//</mark> **through** <mark style="background: #04CD3EA6;">//Human Language//</mark>
+- [Exodus 4:10-16](https://www.biblegateway.com/passage/?search=Exodus%204%3A10-16&version=OJB;WEB;NET)  <mark style="background: #E0CC4BA6;">//YHWH Speaks//</mark> **through** <mark style="background: #04CD3EA6;">//Human Language//</mark>
 	- Eh-heh-yeh (I will be) with thy mouth
 	- teach you what you shall speak - teach from יָרָה (yarah), the same root behind תּוֹרָה (torah, “law”). This always referred to teaching either wisdom or revelation. 
-- [Exodus 11:7](https://www.biblegateway.com/passage/?search=Exodus%2011%3A7&version=OJB;WEB;NET) (lashon in general use) <mark style="background: #04CD3EA6;">//Physical Organ//</mark>
-- [Exodus 13:21-22](https://www.biblegateway.com/passage/?search=Exodus%2013%3A21-22&version=OJB;WEB;NET) (ammud anan=pillar of fire) <mark style="background: #E0CC4BA6;">//YHWH Spirit as fire//</mark>)
-- [Exodus 14:24](https://www.biblegateway.com/passage/?search=Exodus%2014%3A24&version=OJB;WEB;NET)  (ammud eish (pillar of fire) <mark style="background: #E0CC4BA6;">//YHWH Spirit as fire//</mark>)
-- [Exodus 19:1, 9, 16-19](https://www.biblegateway.com/passage/?search=Exodus%2019%3A1%2C%209%2C%2016-19&version=OJB;WEB;NET) (connection=scene in Acts 2)
+- [Exodus 11:7](https://www.biblegateway.com/passage/?search=Exodus%2011%3A7&version=OJB;WEB;NET)  (lashon in general use) <mark style="background: #04CD3EA6;">//Physical Organ//</mark>
+- [Exodus 13:21-22](https://www.biblegateway.com/passage/?search=Exodus%2013%3A21-22&version=OJB;WEB;NET)  (ammud anan=pillar of fire) <mark style="background: #E0CC4BA6;">//YHWH Spirit as fire//</mark>)
+- [Exodus 14:24](https://www.biblegateway.com/passage/?search=Exodus%2014%3A24&version=OJB;WEB;NET)   (ammud eish (pillar of fire) <mark style="background: #E0CC4BA6;">//YHWH Spirit as fire//</mark>)
+- [Exodus 19:1, 9, 16-19](https://www.biblegateway.com/passage/?search=Exodus%2019%3A1%2C%209%2C%2016-19&version=OJB;WEB;NET)  (connection=scene in Acts 2)
 	- thunders and lightnings, and a thick cloud on the mountain, and the sound of an exceedingly loud trumpet; and all the people who were in the camp trembled
 	- Yahweh descended on it in fire
 	- the sound of the trumpet grew louder and louder
 	- God answered him by a voice - he understood <mark style="background: #E0CC4BA6;">//YHWH Speaks//</mark>
-- [Exodus 19:8; 24:3, 7](https://www.biblegateway.com/passage/?search=Exodus%2019%3A8%3B%2024%3A3%2C%207.&version=OJB;WEB;NET) (Sinai and the giving of the Law: all the people answered together, connection=Acts 2:1, 46, homothymadon, ὁμοθυμαδόν) <mark style="background: #04CD3EA6;">//Human Language//</mark>
-- [Exodus 20:1, 18](https://www.biblegateway.com/passage/?search=Exodus%2020%3A1%2C%2018&version=OJB;WEB;NET) (connect=scene in Acts 2) <mark style="background: #04CD3EA6;">//Human Language//</mark>
+- [Exodus 19:8; 24:3, 7](https://www.biblegateway.com/passage/?search=Exodus%2019%3A8%3B%2024%3A3%2C%207.&version=OJB;WEB;NET)  (Sinai and the giving of the Law: all the people answered together, connection=Acts 2:1, 46, homothymadon, ὁμοθυμαδόν) <mark style="background: #04CD3EA6;">//Human Language//</mark>
+- [Exodus 20:1, 18](https://www.biblegateway.com/passage/?search=Exodus%2020%3A1%2C%2018&version=OJB;WEB;NET)  (connect=scene in Acts 2) <mark style="background: #04CD3EA6;">//Human Language//</mark>
 	- people perceived (seeing with all the senses) the thunderings, the lightnings, the sound of the trumpet, and the mountain smoking.
 	- God spoke - they understood <mark style="background: #E0CC4BA6;">//YHWH Speaks//</mark>
-- [Exodus 23:16](https://www.biblegateway.com/passage/?search=Exodus%2023%3A16&version=OJB;WEB;NET) (connection=[[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]] / <mark style="background: #A284CDA6;">Shavuot</mark>)
-- [Exodus 24:1-14](https://www.biblegateway.com/passage/?search=Exodus%2024%3A1-14&version=OJB;WEB;NET) <mark style="background: #04CD3EA6;">//Human Language//</mark>
+- [Exodus 23:16](https://www.biblegateway.com/passage/?search=Exodus%2023%3A16&version=OJB;WEB;NET)   (connection=[[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]] / <mark style="background: #A284CDA6;">Shavuot</mark>)
+- [Exodus 24:1-14](https://www.biblegateway.com/passage/?search=Exodus%2024%3A1-14&version=OJB;WEB;NET)  <mark style="background: #04CD3EA6;">//Human Language//</mark>
 	- God spoke to the elders -they understood <mark style="background: #E0CC4BA6;">//YHWH Speaks//</mark>
-- [Exodus 24:17](https://www.biblegateway.com/passage/?search=Exodus%2024%3A17&version=OJB;WEB;NET) eish ochelet (devouring fire)  <mark style="background: #E0CC4BA6;">//YHWH Glory as fire//</mark>)
-- [Exodus 31:3](https://www.biblegateway.com/passage/?search=Exodus%2031%3A1-5&version=OJB;WEB;NET) Ruach Elohim  gives wisdom, and in understanding, and in knowledge, and in all kinds of workmanship <mark style="background: #67A9B7A6;">//YHWH Spirit gives gifts//</mark>
-- [Exodus 32:28](https://www.biblegateway.com/passage/?search=Exodus%2032%3A28&version=OJB;WEB;NET) (connection=scene Acts 2:41)
+- [Exodus 24:17](https://www.biblegateway.com/passage/?search=Exodus%2024%3A17&version=OJB;WEB;NET)  eish ochelet (devouring fire)  <mark style="background: #E0CC4BA6;">//YHWH Glory as fire//</mark>)
+- [Exodus 31:3](https://www.biblegateway.com/passage/?search=Exodus%2031%3A1-5&version=OJB;WEB;NET)  Ruach Elohim  gives wisdom, and in understanding, and in knowledge, and in all kinds of workmanship <mark style="background: #67A9B7A6;">//YHWH Spirit gives gifts//</mark>
+- [Exodus 32:28](https://www.biblegateway.com/passage/?search=Exodus%2032%3A28&version=OJB;WEB;NET)  (connection=scene Acts 2:41)
 	- Three Thousand
-- [Exodus 34:22]() (connection=[[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]] / <mark style="background: #A284CDA6;">Shavuot</mark>)
-- [Exodus 35:31](https://www.biblegateway.com/passage/?search=Exodus%2035%3A31&version=OJB;WEB;NET) Ruach Elohim
+- [Exodus 34:22]()  (connection=[[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]] / <mark style="background: #A284CDA6;">Shavuot</mark>)
+- [Exodus 35:31](https://www.biblegateway.com/passage/?search=Exodus%2035%3A31&version=OJB;WEB;NET)  Ruach Elohim
 	- Ruach Elohim gives wisdom, in understanding, in knowledge, and in all kinds of workmanship <mark style="background: #67A9B7A6;">//YHWH Spirit gives gifts//</mark>
-- [Exodus 40:34-38](https://www.biblegateway.com/passage/?search=Exodus%2040%3A34-38&version=OJB;WEB;NET) 
+- [Exodus 40:34-38](https://www.biblegateway.com/passage/?search=Exodus%2040%3A34-38&version=OJB;WEB;NET)  
 	- Glory of YHWH filled
-	- [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]] = Paul uses "tabernacle/tent" (skēnos) as a metaphor for the human body 1 Corinthians 3:16–17, 2 Corinthians 6:16, Ephesians 2:19–22, 2 Corinthians 5:1
+	- [[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]] = Paul uses "tabernacle/tent" (skēnos) as a metaphor for the human body #461Cor/1Corinthinas03:16–17, #472Cor/2Corinthians06:16, #49Ephes/Ephesians02:19–22, #472Cor/2Corinthians05:1
 	- fire in the cloud <mark style="background: #E0CC4BA6;">//YHWH Glory as fire//</mark>)
 
-- [Leviticus 9:23-24](https://www.biblegateway.com/passage/?search=Leviticus%209%3A23-24&version=OJB;WEB;NET) fire in the cloud <mark style="background: #E0CC4BA6;">//YHWH Glory as fire//</mark>)
-- [Leviticus 23:15-22]() ([[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]] / <mark style="background: #A284CDA6;">Shavuot</mark>)
+- [Leviticus 9:23-24](https://www.biblegateway.com/passage/?search=Leviticus%209%3A23-24&version=OJB;WEB;NET)  fire in the cloud <mark style="background: #E0CC4BA6;">//YHWH Glory as fire//</mark>)
+- [Leviticus 23:15-22]()  ([[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]] / <mark style="background: #A284CDA6;">Shavuot</mark>)
 	- [[Gate of Wisdom/Offering/Offerings\|Offerings]] made by fire ([[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]])
 	- [[Gate of Wisdom/Appointed Time/Holy Convocation\|Holy Convocation]] 
 		- The word used is _miqra_ (מִקְרָא), which means "a summoned assembly" or "a called-out gathering". It comes from the root _qara_, meaning "to call" or "to summon"
@@ -112,11 +112,11 @@
 	- YHWH talked to the 70 elders and they understood <mark style="background: #E0CC4BA6;">//YHWH Speaks//</mark>
 	- Ruach rested on them they prophesied [[Zunpublished/Prophecy\|Prophecy]] <mark style="background: #04CD3EA6;">//Human Language//</mark>
 	- Moses said to him, “ I wish that all Yahweh’s people were prophets, that Yahweh would put his Spirit on them!”
-	- Paul said in 1 Corinthians 14:5 "I wish you all spoke with tongues, but even more that you prophesied; for he who prophesies is greater than he who speaks with tongues, unless indeed he interprets, that the church may receive edification."
-- [Numbers 23:5, 16](https://www.biblegateway.com/passage/?search=Numbers%2023%3A5-16&version=OJB;WEB;NET) <mark style="background: #04CD3EA6;">//Human Language//</mark>
+	- Paul said in #461Cor/1Corinthians14:5 "I wish you all spoke with tongues, but even more that you prophesied; for he who prophesies is greater than he who speaks with tongues, unless indeed he interprets, that the church may receive edification."
+- [Numbers 23:5, 16](https://www.biblegateway.com/passage/?search=Numbers%2023%3A5-16&version=OJB;WEB;NET)  <mark style="background: #04CD3EA6;">//Human Language//</mark>
 	- Put a word in his mouth - and everyone understood <mark style="background: #E0CC4BA6;">//YHWH Speaks//</mark> **through** <mark style="background: #04CD3EA6;">//Human Language//</mark>
-- [Numbers 24](https://www.biblegateway.com/passage/?search=Numbers%2024&version=OJB;WEB;NET):2, 14 Ruach Elohim came on him and he spoke <mark style="background: #04CD3EA6;">//Human Language//</mark>
-- [Numbers 28:26-31](https://www.biblegateway.com/passage/?search=Numbers%2028%3A26-31&version=OJB;WEB;NET) ([[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]] / <mark style="background: #A284CDA6;">Shavuot</mark>)
+- [Numbers 24](https://www.biblegateway.com/passage/?search=Numbers%2024&version=OJB;WEB;NET):2, 14  Ruach Elohim came on him and he spoke <mark style="background: #04CD3EA6;">//Human Language//</mark>
+- [Numbers 28:26-31](https://www.biblegateway.com/passage/?search=Numbers%2028%3A26-31&version=OJB;WEB;NET)  ([[Gate of Wisdom/Appointed Time/Pentecost\|Pentecost]] / <mark style="background: #A284CDA6;">Shavuot</mark>)
 
 - [Deuteronomy 4:10-12, 33, 36](https://www.biblegateway.com/passage/?search=Deuteronomy%204%3A10-36&version=OJB;WEB;NET) (connection=scene of Acts 2)
 	- hear YHWH words, heard the voice of words, but saw no form; only heard a voice. <mark style="background: #E0CC4BA6;">//YHWH Speaks//</mark>

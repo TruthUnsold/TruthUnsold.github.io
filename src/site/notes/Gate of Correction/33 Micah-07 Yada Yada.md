@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-correction/33-micah-07-yada-yada/","tags":["TheScrolls","Neviim","1John3","M","GateCorrection"],"dg-note-properties":{"tags":["TheScrolls","Neviim","1John3","M","GateCorrection"]}}
+{"dg-publish":true,"permalink":"/gate-of-correction/33-micah-07-yada-yada/","tags":["TheScrolls","Neviim","M","GateCorrection","#621John/1John03"],"dg-note-properties":{"tags":["TheScrolls","Neviim","M","GateCorrection","#621John/1John03"]}}
 ---
+
+# #33Micah/Micah07
 
 For reading purposes [[_The Scrolls/2. Neviim (Prophets)/33 - Micah/Micah-07\|Micah-07]]
 # Setting

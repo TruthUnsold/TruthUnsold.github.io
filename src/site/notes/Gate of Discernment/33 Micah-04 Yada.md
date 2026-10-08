@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-discernment/33-micah-04-yada/","tags":["Neviim","33Micah","GateDiscernment"],"dg-note-properties":{"tags":["Neviim","33Micah","GateDiscernment"],"Bible-References":["[[Micah-04]]","[[Isa-02]]","[[Zech-08]]"]}}
+{"dg-publish":true,"permalink":"/gate-of-discernment/33-micah-04-yada/","tags":["Neviim","GateDiscernment"],"dg-note-properties":{"tags":["Neviim","GateDiscernment"],"Bible-References":["[[Micah-04]]","[[Isa-02]]","[[Zech-08]]"]}}
 ---
 
-# Micah 4
+# #33Micah/Micah04 
 
 # Backdrop
 - Vision of future restoration and peace in the latter days (be'acharit hayyamim בְּאַחֲרִית הַיָּמִים), with the mountain of the house of YHWH exalted and nations streaming to it for instruction and judgment leading to universal peace.

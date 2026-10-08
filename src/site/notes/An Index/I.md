@@ -3,7 +3,7 @@
 ---
 
 
-- [[Gate of Discernment/23 Isa-01 Yada\|23 Isa-01 Yada]]
+- [[Gate of Wisdom/I/23 Isa-01 Yada\|23 Isa-01 Yada]]
 - [[Gate of Correction/23 Isa-46 Yada\|23 Isa-46 Yada]]
 - [[Gate of Discernment/23 Isa-65 Yada\|23 Isa-65 Yada]]
 - [[Gate of Discernment/23 Isa-66 Yada\|23 Isa-66 Yada]]

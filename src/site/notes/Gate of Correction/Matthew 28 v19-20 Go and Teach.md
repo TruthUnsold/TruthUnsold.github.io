@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/gate-of-correction/matthew-28-v19-20-go-and-teach/","dg-note-properties":{"Tags":["Wordpress","M","GateCorrection"]}}
 ---
 
+# #40Matt/Matthew28 
+
 [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-28#v19\|Matt-28#v19]]
 
 Matthew 28:19 and 20 are rich in their connection to the Old Testament, which is very well hidden in the English Translations. Let’s take a closer look at a few of the words found in Verse 19.
@@ -70,7 +72,7 @@ Remember
 	- to the end of the age
 
 
-#Matthew28 #40Matt 
+ 
 ## Video Teaching
 
 <div class="youtube-embed"><iframe src="https://www.youtube.com/embed/sW9H7cjX0EY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

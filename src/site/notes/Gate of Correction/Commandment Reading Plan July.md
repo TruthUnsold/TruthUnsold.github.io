@@ -348,7 +348,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 
 **July 30**: Deuteronomy 10:19 – “And you are to love those who are foreigners, for you yourselves were foreigners in Egypt.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
 
-## **July 31**: #Leviticus19 Do Not Oppress the Stranger: [Leviticus 19:33-34](https://www.biblegateway.com/passage/?search=Leviticus+19%3A33-34&version=WEB;NET;OJB) 
+## **July 31**: #03Lev/Leviticus19 Do Not Oppress the Stranger: [Leviticus 19:33-34](https://www.biblegateway.com/passage/?search=Leviticus+19%3A33-34&version=WEB;NET;OJB) 
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]

@@ -41,7 +41,7 @@
 - [[Gate of Wisdom/C/Cursed\|Cursed]]
 - [[Gate of Wisdom/Appointed Time/Holy Convocation\|Holy Convocation]]
 - [[Gate of Correction/In Between the Crucifixion and Resurrection\|In Between the Crucifixion and Resurrection]]
-- [[Gate of Discernment/Know the Children of God How\|Know the Children of God How]]
+- [[Gate of Wisdom/C/Know the Children of God How\|Know the Children of God How]]
 - [[Gate of Wisdom/Beings/Animals/living creature\|living creature]]
 - [[Gate of Wisdom/C/Return of the Gods\|Return of the Gods]]
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]

@@ -12,23 +12,24 @@ These Unsold Truths brings order to our chaos by turning noise into a clear unde
 
 | Table of Content                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Gate of Wisdom/D/Who May Dwell With God\|Who May Dwell With God]]                                                                                                   |
+| [[Gate of Wisdom/L/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]                                                                                                 |
+| [[Gate of Wisdom/K/When The Kingdom of God Comes ...\|When The Kingdom of God Comes ...]]                                                                             |
+| [[Gate of Wisdom/Ruach/Sin, Lawlessness, Unrighteousness\|Sin, Lawlessness, Unrighteousness]]                                                                         |
+| [[Gate of Wisdom/I/23 Isa-01 Yada\|23 Isa-01 Yada]]                                                                                                                   |
+| [[Gate of Wisdom/R/Wicked Lives vs Righteous Dies\|Wicked Lives vs Righteous Dies]]                                                                                   |
+| [[Gate of Wisdom/R/Wicked Turning Back vs Righteous Turning Back\|Wicked Turning Back vs Righteous Turning Back]]                                                     |
+| [[Gate of Wisdom/Ruach/New Heart and New Spirit\|New Heart and New Spirit]]                                                                                           |
+| [[Gate of Discernment/33 Micah-04 Yada\|33 Micah-04 Yada]]                                                                                                            |
+| [[Gate of Discernment/The Scroll of Jonah\|The Scroll of Jonah]]                                                                                                      |
+| [[Gate of Wisdom/C/Know the Children of God How\|Know the Children of God How]]                                                                                       |
 | [[Gate of Wisdom/H/58 Heb-12 Yada\|58 Heb-12 Yada]]                                                                                                                   |
-| [[Gate of Discernment/Sin, Lawlessness, Unrighteousness\|Sin, Lawlessness, Unrighteousness]]                                                                          |
 | [[Gate of Discernment/The Law in Matthew 5\|The Law in Matthew 5]]                                                                                                    |
-| [[Gate of Discernment/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]                                                                                              |
-| [[Gate of Discernment/23 Isa-01 Yada\|23 Isa-01 Yada]]                                                                                                                |
 | [[Gate of Discernment/Hierarchical Relationships Addressed by God or Jesus\|Hierarchical Relationships Addressed by God or Jesus]]                                    |
 | [[Gate of Discernment/01 Gen-24 Yada\|01 Gen-24 Yada]]                                                                                                                |
 | [[Gate of Discernment/49 Ephes-05 Yada Yada\|49 Ephes-05 Yada Yada]]                                                                                                  |
-| [[Gate of Discernment/Know the Children of God How\|Know the Children of God How]]                                                                                    |
 | [[Gate of Discernment/51 Colossians Yada\|51 Colossians Yada]]                                                                                                        |
-| [[Gate of Discernment/The Scroll of Jonah\|The Scroll of Jonah]]                                                                                                      |
-| [[Gate of Discernment/33 Micah-04 Yada\|33 Micah-04 Yada]]                                                                                                            |
 | [[Gate of Discernment/_Gate of Discernment\|_Gate of Discernment]]                                                                                                    |
-| [[Gate of Wisdom/R/Wicked Turning Back vs Righteous Turning Back\|Wicked Turning Back vs Righteous Turning Back]]                                                     |
-| [[Gate of Wisdom/R/Wicked Lives vs Righteous Dies\|Wicked Lives vs Righteous Dies]]                                                                                   |
-| [[Gate of Discernment/Who May Dwell With God\|Who May Dwell With God]]                                                                                                |
-| [[Gate of Discernment/When The Kingdom of God Comes ...\|When The Kingdom of God Comes ...]]                                                                          |
 | [[Gate of Discernment/What is the New Covenant\|What is the New Covenant]]                                                                                            |
 | [[Gate of Discernment/The Prodigal Son and Jonah\|The Prodigal Son and Jonah]]                                                                                        |
 | [[Gate of Wisdom/Appointed Time/The Last Day of Unleavened Bread\|The Last Day of Unleavened Bread]]                                                                  |
@@ -37,7 +38,6 @@ These Unsold Truths brings order to our chaos by turning noise into a clear unde
 | [[Gate of Wisdom/P/Shavuot Pentecost – a Convergence of Jewish and Christian Faiths\|Shavuot Pentecost – a Convergence of Jewish and Christian Faiths]]               |
 | [[Gate of Wisdom/P/Palm Sunday – The 10th of Nisan\|Palm Sunday – The 10th of Nisan]]                                                                                 |
 | [[Gate of Discernment/Old, New, and Renewed\|Old, New, and Renewed]]                                                                                                  |
-| [[Gate of Discernment/New Heart and New Spirit\|New Heart and New Spirit]]                                                                                            |
 | [[Assets/Clippings/Is Jesus Pre-trib, mid-trib, or post-trib\|Is Jesus Pre-trib, mid-trib, or post-trib]]                                                             |
 | [[Gate of Wisdom/C/Celebrating the Birth of A God in December (Part 5.4 Feast of Trumpets)\|Celebrating the Birth of A God in December (Part 5.4 Feast of Trumpets)]] |
 

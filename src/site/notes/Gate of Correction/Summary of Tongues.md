@@ -108,6 +108,7 @@ I also have what I call [[Gate of Discernment/Word Flow Charts\|Word Flow Charts
 	- Jude 20 shares the building-up idea with 14:4 ("building up yourselves," epoikodomeō / ἐποικοδομέω, a compound of the 14:4 verb).
 	- Paul contrasts the edification of the church against the edification of self. He doesn't say that personal edification is wrong, but that the edification of the assembly is more important. 
 	- Worth some more exploration is the Hebrew pattern consistently pairing banah with its opposite — tearing down, plucking up — the same contrast Paul draws in 1 Corinthians 14:4, where self-edification (tongues alone) is set against edifying the assembly (prophecy).
+- Everywhere in scripture where the language is not understood is a form of judgement (Deuteronomy 28 and 32, Isaiah 28 and 29, Jeremiah 5, Romans 10 quotes Deuteronomy 32, 1 Corinthians 14 quotes Isaiah 28)
 
 ### 1 Corinthians 13:1 — "tongues of men and of angels"
 - "If I speak with the languages of men and of angels, but don't have love, I have become sounding brass, or a clanging cymbal." (1 Corinthians 13:1)

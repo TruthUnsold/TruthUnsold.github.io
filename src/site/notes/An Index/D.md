@@ -22,6 +22,6 @@
 - [[Gate of Correction/Seventh Day Sabbath in Second Writings\|Seventh Day Sabbath in Second Writings]]
 - [[Gate of Correction/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
 - [[Gate of Wisdom/D/The Dragons Prophecy\|The Dragons Prophecy]]
-- [[Gate of Discernment/Who May Dwell With God\|Who May Dwell With God]]
+- [[Gate of Wisdom/D/Who May Dwell With God\|Who May Dwell With God]]
 
 { .block-language-dataview}

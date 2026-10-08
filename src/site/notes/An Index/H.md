@@ -27,7 +27,7 @@
 - [[Gate of Correction/Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth\|Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth]]
 - [[Gate of Correction/Matthew 5 Sermon on the Mount v 3 Humble of Spirit\|Matthew 5 Sermon on the Mount v 3 Humble of Spirit]]
 - [[Gate of Correction/Matthew 5 Sermon on the Mount v 6 Hunger and Thirst\|Matthew 5 Sermon on the Mount v 6 Hunger and Thirst]]
-- [[Gate of Discernment/New Heart and New Spirit\|New Heart and New Spirit]]
+- [[Gate of Wisdom/Ruach/New Heart and New Spirit\|New Heart and New Spirit]]
 - [[Gate of Wisdom/H/Reign of the Heavens\|Reign of the Heavens]]
 - [[Gate of Correction/Unclean, Common, Clean, Holy\|Unclean, Common, Clean, Holy]]
 

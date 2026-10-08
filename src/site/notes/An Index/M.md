@@ -14,7 +14,7 @@
 - [[Gate of Discernment/40 Matt-05 Yada\|40 Matt-05 Yada]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
-- [[Gate of Discernment/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]
+- [[Gate of Wisdom/L/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mamre\|Mamre]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Manna\|Manna]]
 - [[Gate of Wisdom/Sign/Mark\|Mark]]

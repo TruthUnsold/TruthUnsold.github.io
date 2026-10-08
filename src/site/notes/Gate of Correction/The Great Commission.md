@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/gate-of-correction/the-great-commission/","tags":["GateCorrection","C"],"dg-note-properties":{"tags":["GateCorrection","C"],"Bible-References":null}}
 ---
 
+# #40Matt/Matthew28 
+
 What exactly were we told to do by Jesus with his last words before he ascended?
 
 The Literal translations is:
@@ -20,7 +22,7 @@ Remember
 	- always
 	- to the end of the age
 
-#Matthew28 #40Matt 
+
 
 
 

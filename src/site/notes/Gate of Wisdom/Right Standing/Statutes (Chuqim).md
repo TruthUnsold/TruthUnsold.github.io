@@ -20,10 +20,10 @@
 
 | file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[_Assets/AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Torah Portions/2026.05.09 Shabbat Reading.md\\|2026.05.09 Shabbat Reading]]</li><li>[[Gate of Wisdom/T/Torah.md\\|Torah]]</li><li>[[Gate of Wisdom/Sign/Sign.md\\|Sign]]</li><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/Appointed Time/Pentecost.md\\|Pentecost]]</li><li>[[Gate of Wisdom/Appointed Time/Feast of Trumpets.md\\|Feast of Trumpets]]</li><li>[[Gate of Foundation/The Seventh Day Rest/28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44).md\\|28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44)]]</li><li>[[Gate of Foundation/The Seventh Day Rest/25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20).md\\|25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20)]]</li><li>[[Gate of Foundation/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Discernment/33 Micah-06 Yada Yada.md\\|33 Micah-06 Yada Yada]]</li><li>[[Gate of Correction/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Correction/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Correction/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Correction/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Correction/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Correction/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Correction/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Correction/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Wisdom/Right Standing/Statutes (Chuqim).md\\|Statutes (Chuqim)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Correction/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Correction/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Correction/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[Gate of Foundation/Acts 2 Connections Scripture Survey.md\\|Acts 2 Connections Scripture Survey]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/Appointed Time/Pentecost.md\\|Pentecost]]</li><li>[[Gate of Wisdom/Appointed Time/Feast of Trumpets.md\\|Feast of Trumpets]]</li><li>[[Gate of Foundation/The Seventh Day Rest/25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20).md\\|25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20)]]</li><li>[[Gate of Foundation/The Seventh Day Rest/28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44).md\\|28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44)]]</li><li>[[Gate of Foundation/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Discernment/33 Micah-06 Yada Yada.md\\|33 Micah-06 Yada Yada]]</li><li>[[Gate of Correction/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Correction/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Correction/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Correction/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Correction/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Correction/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Correction/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Correction/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Wisdom/Sign/Sign.md\\|Sign]]</li><li>[[Gate of Wisdom/T/Torah.md\\|Torah]]</li><li>[[Torah Portions/2026.05.09 Shabbat Reading.md\\|2026.05.09 Shabbat Reading]]</li><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Gate of Wisdom/Right Standing/Statutes (Chuqim).md\\|Statutes (Chuqim)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Foundation/Acts 2 Connections Scripture Survey.md\\|Acts 2 Connections Scripture Survey]]</li><li>[[Gate of Correction/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Correction/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Correction/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[_Assets/AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li></ul> |
 
 { .block-language-dataview}
-## #LoveNeighbor #02Exod #Exodus23  Rest on the Seventh Day: [Exodus 23:12](https://www.biblegateway.com/passage/?search=Exodus%2023:12&version=WEB;NET;OJB)
+## #LoveNeighbor #02Exod/Exodus23 Rest on the Seventh Day: [Exodus 23:12](https://www.biblegateway.com/passage/?search=Exodus%2023:12&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - **Outline:**  
@@ -70,7 +70,7 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
 
-## #LoveGod #05Deut #Deuteronomy22 Do Not Wear the Garments of the Other Sex: [Deuteronomy 22:5](https://www.biblegateway.com/passage/?search=Deuteronomy+22:5&version=WEB;NET;OJB)
+## #LoveGod  #05Deut/Deuteronomy22 Do Not Wear the Garments of the Other Sex: [Deuteronomy 22:5](https://www.biblegateway.com/passage/?search=Deuteronomy+22:5&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
@@ -90,7 +90,7 @@
     - The _to'evah_ designation is among the strongest language in Deuteronomy — Yahweh's active rejection rather than a court-administered penalty. Consistent with the _to'evah_ pattern throughout Deuteronomy — what Yahweh calls abomination carries no offering remedy (cf. Deut. 7:25; 12:31; 17:1; 23:18)
 
 
-## #LoveNeighbor #Deuteronomy22 #05Deut  Do Not Take the Mother Bird with the Young: [Deuteronomy 22:6-7](https://www.biblegateway.com/passage/?search=Deuteronomy+22:6-7&version=WEB;NET;OJB)
+## #LoveNeighbor #05Deut/Deuteronomy22   Do Not Take the Mother Bird with the Young: [Deuteronomy 22:6-7](https://www.biblegateway.com/passage/?search=Deuteronomy+22:6-7&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
@@ -119,7 +119,7 @@
     - None prescribed
 
  
-## #LoveGod  #Deuteronomy22 #05Deut  #03Lev #Leviticus19  Do Not Mix: Seeds, Animals, Materials [Deuteronomy 22:9-11](https://www.biblegateway.com/passage/?search=Deuteronomy+22:9-11&version=WEB;NET;OJB) and [Leviticus 19:19](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A19&version=WEB;NET;OJB)
+## #LoveGod   #03Lev/Leviticus19 #05Deut/Deuteronomy22 Do Not Mix: Seeds, Animals, Materials [Deuteronomy 22:9-11](https://www.biblegateway.com/passage/?search=Deuteronomy+22:9-11&version=WEB;NET;OJB) and [Leviticus 19:19](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A19&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - **Outline:**
@@ -150,7 +150,7 @@
 
  
 
-## #LoveGod #Leviticus19 #03Lev Treat the Fruit of New Trees as Uncircumcised: [Leviticus 19:23-25](https://www.biblegateway.com/passage/?search=Leviticus+19%3A23-25&version=WEB;NET;OJB)
+## #LoveGod #03Lev/Leviticus19 Treat the Fruit of New Trees as Uncircumcised: [Leviticus 19:23-25](https://www.biblegateway.com/passage/?search=Leviticus+19%3A23-25&version=WEB;NET;OJB)
 
 * [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 * [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
@@ -189,7 +189,7 @@
    * Deuteronomy 10:16, Jeremiah 4:4, Ezekiel 44:9
 
 
-## #LoveGod #Leviticus19 #03Lev Do Not Eat Blood or Practice Divination: [Leviticus 19:26](https://www.biblegateway.com/passage/?search=Leviticus+19%3A26&version=WEB;NET;OJB)
+## #LoveGod #03Lev/Leviticus19  Do Not Eat Blood or Practice Divination: [Leviticus 19:26](https://www.biblegateway.com/passage/?search=Leviticus+19%3A26&version=WEB;NET;OJB)
 
 * [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
@@ -214,7 +214,7 @@
 
    
 
-## #LoveNeighbor #Leviticus19 #03Lev  Do Not Profane Your Daughter by Making Her a Prostitute: [Leviticus 19:29](https://www.biblegateway.com/passage/?search=Leviticus+19%3A29&version=WEB;NET;OJB)
+## #LoveNeighbor #03Lev/Leviticus19 Do Not Profane Your Daughter by Making Her a Prostitute: [Leviticus 19:29](https://www.biblegateway.com/passage/?search=Leviticus+19%3A29&version=WEB;NET;OJB)
 
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 * [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
@@ -246,7 +246,7 @@
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
 
 
-## #LoveGod #Deuteronomy14 #05Deut  Clean and Unclean Foods: [Deuteronomy 14:3-21](https://www.biblegateway.com/passage/?search=Deuteronomy+14:3-21&version=WEB;NET;OJB)
+## #LoveGod #05Deut/Deuteronomy14   Clean and Unclean Foods: [Deuteronomy 14:3-21](https://www.biblegateway.com/passage/?search=Deuteronomy+14:3-21&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
@@ -347,7 +347,7 @@
 
 # List of Statutes (Chuqim) in Leviticus
 
-## #LoveGod #Leviticus11 #03Lev Clean and Unclean Animals: [Leviticus 11](https://www.biblegateway.com/passage/?search=Leviticus+11&version=WEB;NET;OJB)
+## #LoveGod #03Lev/Leviticus11 Clean and Unclean Animals: [Leviticus 11](https://www.biblegateway.com/passage/?search=Leviticus+11&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
@@ -449,7 +449,7 @@
  
 
 
-## #LoveGod #Leviticus17 #03Lev #05Deut #Deuteronomy12 No Blood Shall Be Eaten: [Leviticus 17:10–14](https://www.biblegateway.com/passage/?search=Leviticus+17:10-14&version=WEB;NET;OJB) and [Deuteronomy 12:23-25](https://www.biblegateway.com/passage/?search=Deuteronomy%2012%3A23-25&version=WEB;NET;OJB)
+## #LoveGod #03Lev/Leviticus17 #05Deut/Deuteronomy12 No Blood Shall Be Eaten: [Leviticus 17:10–14](https://www.biblegateway.com/passage/?search=Leviticus+17:10-14&version=WEB;NET;OJB) and [Deuteronomy 12:23-25](https://www.biblegateway.com/passage/?search=Deuteronomy%2012%3A23-25&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - **Outline:** 
@@ -480,7 +480,7 @@
 
  
 
-## #LoveNeighbor #03Lev #Leviticus18 Do Not Uncover the Nakedness of Your Own Flesh: [Leviticus 18:6](https://www.biblegateway.com/passage/?search=Leviticus+18%3A6&version=WEB;NET;OJB)
+## #LoveNeighbor #03Lev/Leviticus18  Do Not Uncover the Nakedness of Your Own Flesh: [Leviticus 18:6](https://www.biblegateway.com/passage/?search=Leviticus+18%3A6&version=WEB;NET;OJB)
 
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 * [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
@@ -503,7 +503,7 @@
    * The closing formula *"I am Yahweh your God"* (v.6) grounds the prohibition in God's own character and covenant identity rather than in any transactional framework.
 
 
-## #LoveNeighbor #Leviticus19 #03Lev  Honor Your Mother and Father and Keep My Sabbaths: [Leviticus 19:3](https://www.biblegateway.com/passage/?search=Leviticus+19%3A3&version=WEB;NET;OJB)
+## #LoveNeighbor #03Lev/Leviticus19   Honor Your Mother and Father and Keep My Sabbaths: [Leviticus 19:3](https://www.biblegateway.com/passage/?search=Leviticus+19%3A3&version=WEB;NET;OJB)
 
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 * [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
@@ -531,7 +531,7 @@
 
  
 
-## #LoveNeighbor #03Lev #Leviticus20 Do Not Commit Adultery: [Leviticus 20:10](https://www.biblegateway.com/passage/?search=Leviticus+20%3A10&version=WEB;NET;OJB)
+## #LoveNeighbor  #03Lev/Leviticus20 Do Not Commit Adultery: [Leviticus 20:10](https://www.biblegateway.com/passage/?search=Leviticus+20%3A10&version=WEB;NET;OJB)
 
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 * [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
@@ -557,7 +557,7 @@
 
 
 
-## #LoveGod #03Lev #Leviticus23 cus23 Keep the Sabbath as a Holy Convocation: [Leviticus 23:3](https://www.biblegateway.com/passage/?search=Leviticus+23%3A3&version=WEB;NET;OJB)
+## #LoveGod #03Lev/Leviticus23  Keep the Sabbath as a Holy Convocation: [Leviticus 23:3](https://www.biblegateway.com/passage/?search=Leviticus+23%3A3&version=WEB;NET;OJB)
 
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 * [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
@@ -588,7 +588,7 @@
    * Numbers 28:9-10 — specific offerings are appointed for the Sabbath day itself — two lambs, grain offering, and drink offering — presented in addition to the regular daily offering. The Sabbath has its own sacrificial pattern, but these are worship offerings rather than atonement for violation.
 
 
-## #LoveGod #03Lev #Leviticus23  Keep the Passover and the Feast of Unleavened Bread: [Leviticus 23:5-8](https://www.biblegateway.com/passage/?search=Leviticus+23%3A5-8&version=WEB;NET;OJB)
+## #LoveGod #03Lev/Leviticus23  Keep the Passover and the Feast of Unleavened Bread: [Leviticus 23:5-8](https://www.biblegateway.com/passage/?search=Leviticus+23%3A5-8&version=WEB;NET;OJB)
 
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 * [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
@@ -623,7 +623,7 @@
 
 
 
-## #LoveNeighbor  #Leviticus25 #03Lev  Proclaim Liberty Throughout the Land: [Leviticus 25:10](https://www.biblegateway.com/passage/?search=Leviticus+25%3A10&version=WEB;NET;OJB)
+## #LoveNeighbor  #03Lev/Leviticus25   Proclaim Liberty Throughout the Land: [Leviticus 25:10](https://www.biblegateway.com/passage/?search=Leviticus+25%3A10&version=WEB;NET;OJB)
 
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 * [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]

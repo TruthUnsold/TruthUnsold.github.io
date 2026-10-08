@@ -17,7 +17,7 @@
 
 | file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[_Assets/AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Foundation/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke).md\\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]</li><li>[[Gate of Foundation/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Discernment/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Gate of Correction/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Correction/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Correction/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Correction/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Correction/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Correction/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Correction/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Correction/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Wisdom/Right Standing/Statutes (Chuqim).md\\|Statutes (Chuqim)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Correction/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Correction/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Correction/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Foundation/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke).md\\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]</li><li>[[Gate of Foundation/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Discernment/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Gate of Correction/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Correction/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Correction/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Correction/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Correction/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Correction/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Correction/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Correction/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Gate of Wisdom/Right Standing/Statutes (Chuqim).md\\|Statutes (Chuqim)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Correction/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Correction/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Correction/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[_Assets/AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li></ul> |
 
 { .block-language-dataview}
 
@@ -31,7 +31,7 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
 
-## #LoveGod #05Deut #Deuteronomy04 Know and Take It to Heart: [Deuteronomy 4:39-40](https://www.biblegateway.com/passage/?search=Deuteronomy+4:39-40&version=WEB;NET;OJB)
+## #LoveGod #05Deut/Deuteronomy04 Know and Take It to Heart: [Deuteronomy 4:39-40](https://www.biblegateway.com/passage/?search=Deuteronomy+4:39-40&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
@@ -104,7 +104,7 @@
 - <mark style="background: #CD04BBA6;">Personal Observations</mark>:
 	- Jesus quotes this verse directly in response to Satan's temptation (Matt. 4:10) — framing it as the definitive boundary of worship and allegiance
 
- #05Deut  #Deuteronomy06 
+ #05Deut/Deuteronomy06   
 
 ## #LoveGod  Fear and Serve Yahweh, Hold Fast, Swear by His Name: [Deuteronomy 10:20](https://www.biblegateway.com/passage/?search=Deuteronomy+10:20&version=WEB;NET;OJB)
 
@@ -125,7 +125,7 @@
     - None prescribed
     - Violation is covenantal in nature, not sacrificial
 
- #05Deut #Deuteronomy10
+ #05Deut/Deuteronomy10 
 
 ### **Scripture Reference**: [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-06#v14\|Deut-06#v14]]
 - **Scripture Text (WEB)**: 14 You shall not go after other gods, of the gods of the peoples who are around you,
@@ -135,7 +135,7 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
 
-## #LoveGod I Am Yahweh Your God: [Exodus 20:2](https://www.biblegateway.com/passage/?search=Exodus+20:2&version=WEB;NET;OJB) 
+## #LoveGod #02Exod/Exodus20 I Am Yahweh Your God: [Exodus 20:2](https://www.biblegateway.com/passage/?search=Exodus+20:2&version=WEB;NET;OJB) 
 
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 * **Outline:**
@@ -155,7 +155,7 @@
 * **Offering or Ransom?:**
    * No offering covers the deliberate rejection of Yahweh as God (Numbers 15:30–31)
    * Repentance and return to covenant are the path back (Deuteronomy 30:1–3)
-#LoveGod #02Exod #Exodus20 
+#LoveGod   
 
 ### **Scripture Reference**: [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-04#v7\|James-04#v7]]
 - **Scripture Text (WEB):** Resist the devil, and he will flee from you."
@@ -183,7 +183,7 @@
 	- One echad (אֶחָד) = one, unity, alone
 		- In Hebrew mindset of Deuteronomy 6:4, "Yahweh echad" affirms Yahweh as the sole God/El, unique and undivided in loyalty and worship, with no other gods/elohim alongside Him.
  
- #05Deut #Deuteronomy06
+ #05Deut/Deuteronomy06
 ## 4. Love Yahweh Your God
 - **Scripture Reference**: Deuteronomy 6:5
 - **Scripture Text (WEB)**: “You shall love Yahweh your God with all your heart, with all your soul, and with all your might.”
@@ -200,7 +200,7 @@
 - **Offering or Ransom?**: 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 
-## #LoveGod #05Deut #Deuteronomy06 Write These Words on Your Heart and Home: [Deuteronomy 6:6-9](https://www.biblegateway.com/passage/?search=Deuteronomy+6:6-9&version=WEB;NET;OJB)
+## #LoveGod #05Deut/Deuteronomy06 Deuteronomy06 Write These Words on Your Heart and Home: [Deuteronomy 6:6-9](https://www.biblegateway.com/passage/?search=Deuteronomy+6:6-9&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
@@ -283,9 +283,9 @@
     - None prescribed
     - The command is liturgical and relational in nature — acknowledging Yahweh as the source of provision; no sacrificial mechanism is attached
 
- #Deuteronomy08 #05Deut 
+  #05Deut/Deuteronomy08 
 
-## #LoveGod #05Deut #Deuteronomy11 Bind These Words as a Sign: [Deuteronomy 11:18-21](https://www.biblegateway.com/passage/?search=Deuteronomy+11:18-21&version=WEB;NET;OJB)
+## #LoveGod #05Deut/Deuteronomy11 Bind These Words as a Sign: [Deuteronomy 11:18-21](https://www.biblegateway.com/passage/?search=Deuteronomy+11:18-21&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
@@ -320,7 +320,7 @@
     - The broader context of Deuteronomy 11:16-17 provides the immediate consequence of departure — heart turned away, serving other gods, heaven shut, no rain, ground yields nothing, perishing from the good land
 
 
-## #LoveGod #05Deut #Deuteronomy13  Do Not Follow False Prophets: [Deuteronomy 13:1-5](https://www.biblegateway.com/passage/?search=Deuteronomy+13:1-5&version=WEB;NET;OJB)
+## #LoveGod  #05Deut/Deuteronomy13  Do Not Follow False Prophets: [Deuteronomy 13:1-5](https://www.biblegateway.com/passage/?search=Deuteronomy+13:1-5&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
@@ -368,7 +368,7 @@
 
  
 
-## #LoveGod  #05Deut #Deuteronomy18 The Test of a True Prophet: [Deuteronomy 18:20-22](https://www.biblegateway.com/passage/?search=Deuteronomy+18:20-22&version=WEB;NET;OJB)
+## #LoveGod  #05Deut/Deuteronomy18 The Test of a True Prophet: [Deuteronomy 18:20-22](https://www.biblegateway.com/passage/?search=Deuteronomy+18:20-22&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
@@ -536,7 +536,7 @@
 - <mark style="background: #CD04BBA6;">Personal Observations</mark>:
     - Saul's consultation of the medium at En-dor (1 Sam. 28) — his death follows immediately with no path of restoration offered
 
- #05Deut  #Deuteronomy18 
+ #05Deut/Deuteronomy18 
 
 ## 24. Execute a Rebellious Son
 - **Scripture Reference**: Deuteronomy 21:18-21
@@ -614,7 +614,7 @@
 	- prostitute in v 17 - refers to the pagan fertility cults that employed female and male prostitutes in various rituals
 	- prostitute (a dog) in v 18 - refers to a regular prostitute
 
- #Deuteronomy23 #05Deut 
+ #05Deut/Deuteronomy23  
 
 ## 33. Do Not Commit Adultery
 - **Scripture Reference**: Deuteronomy 22:22
@@ -706,7 +706,7 @@
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 
-## #LoveGod #05Deut #Deuteronomy30 Choose Life: [Deuteronomy 30:19-20](https://www.biblegateway.com/passage/?search=Deuteronomy+30:19-20&version=WEB;NET;OJB)
+## #LoveGod  #05Deut/Deuteronomy30 Choose Life: [Deuteronomy 30:19-20](https://www.biblegateway.com/passage/?search=Deuteronomy+30:19-20&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
@@ -747,7 +747,7 @@
     - The passage is the **culminating covenantal appeal** of Moses — the choice between life and death, blessing and curse, is set before the whole people; no sacrificial mechanism mediates the choice; it is volitional and covenantal at its core
 
 
-## #LoveGod #05Deut #Deuteronomy32 Set Your Heart on These Words: [Deuteronomy 32:46-47](https://www.biblegateway.com/passage/?search=Deuteronomy+32:46-47&version=WEB;NET;OJB)
+## #LoveGod  #05Deut/Deuteronomy32 Set Your Heart on These Words: [Deuteronomy 32:46-47](https://www.biblegateway.com/passage/?search=Deuteronomy+32:46-47&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
@@ -787,7 +787,7 @@
 
 ---
 
-## #LoveGod No Other Gods Before Me  [Exodus 20:3](https://www.biblegateway.com/passage/?search=Exodus%2020%3A3&version=WEB;NET;OJB)
+## #LoveGod #02Exod/Exodus20 No Other Gods Before Me  [Exodus 20:3](https://www.biblegateway.com/passage/?search=Exodus%2020%3A3&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
 	- Before My Face 
@@ -803,11 +803,11 @@
 	- Before = upon, over, above, beside, against, in relation to
 	- My Face = presence, sight
 	- "besides me," "in my presence," "in addition to me," or "alongside me.
-#Exodus20 #02Exod 
+
 
 ---
 
-## #LoveGod No Carved Images or Idols [Exodus 20:4-6](https://www.biblegateway.com/passage/?search=Exodus%2020%3A4-6&version=WEB;NET;OJB)
+## #LoveGod #02Exod/Exodus20 No Carved Images or Idols [Exodus 20:4-6](https://www.biblegateway.com/passage/?search=Exodus%2020%3A4-6&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
@@ -833,11 +833,11 @@
 	- Visited unto the third and fourth generation of those who hate Him (Exodus 20:5).
 - **Offering or Ransom?:** 
 	- No offering covers deliberate idol worship (Numbers 15:30–31).
-#Exodus20 #02Exod 
+ 
 
 ---
 
-## #LoveGod Do Not Take the Name of Yahweh in Vain [Exodus 20:7](https://www.biblegateway.com/passage/?search=Exodus%2020%3A7&version=WEB;NET;OJB)
+## #LoveGod #02Exod/Exodus20 Do Not Take the Name of Yahweh in Vain [Exodus 20:7](https://www.biblegateway.com/passage/?search=Exodus%2020%3A7&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
@@ -858,11 +858,11 @@
 		- suggests bearing or carrying God's name — not just casually "taking" or uttering it, but identifying with it, representing it, or invoking it as one's own (like bearing a family name or title).
 		- It goes beyond simple speech to include how one lives while claiming to belong to God
 	- Vanity - empty, false, or self-serving purposes (e.g., false oaths, invoking God to justify wrongdoing, or claiming to represent Him while living contrary to His character)
-#Exodus20 #02Exod 
+ 
 
 ---
 
-## #LoveGod Remember the Sabbath and Keep It Holy [Exodus 20:8-11](https://www.biblegateway.com/passage/?search=Exodus%2020%3A8-11&version=WEB;NET;OJB)
+## #LoveGod #02Exod/Exodus20 Remember the Sabbath and Keep It Holy [Exodus 20:8-11](https://www.biblegateway.com/passage/?search=Exodus%2020%3A8-11&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
 	- Seventh Day
@@ -892,11 +892,11 @@
 	- Death for those who work on the Sabbath (Exodus 31:14–15; Numbers 15:32–36).
 - **Offering or Ransom?:** 
 	- No offering substitutes for Sabbath violation when done deliberately (Numbers 15:30–31).
-#Exodus20 #02Exod 
+ 
 
 ---
 
-## #LoveNeighbor  Honor Your Father and Mother [Exodus 20:12](https://www.biblegateway.com/passage/?search=Exodus%2020%3A12&version=WEB;NET;OJB) 
+## #LoveNeighbor  #02Exod/Exodus20 Honor Your Father and Mother [Exodus 20:12](https://www.biblegateway.com/passage/?search=Exodus%2020%3A12&version=WEB;NET;OJB) 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
 	- Do
@@ -918,11 +918,11 @@
 		- It is the same root as כָּבוֹד (kābôd / kavod), which is often translated “glory” or “honor” and frequently describes God’s glory (i.e., His weighty importance and majesty).
 	- Blessing
 		- days may be long in the land which YHWH, elohim gives you.
- #Exodus20 #02Exod 
+  
 
 ---
 
-## #LoveNeighbor  Do Not Murder [Exodus 20:13](https://www.biblegateway.com/passage/?search=Exodus%2020%3A13&version=WEB;NET;OJB)
+## #LoveNeighbor  #02Exod/Exodus20 Do Not Murder [Exodus 20:13](https://www.biblegateway.com/passage/?search=Exodus%2020%3A13&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
 	- Do Not
@@ -949,11 +949,11 @@
 		- Exodus 21:28–32
 		- Exodus 22:2–3
 		- Leviticus 24:17
-- #Exodus20 #02Exod 
+-  
 
 ---
 
-## #LoveNeighbor  Do Not Commit Adultery [Exodus 20:14](https://www.biblegateway.com/passage/?search=Exodus%2020%3A14&version=WEB;NET;OJB)
+## #LoveNeighbor  #02Exod/Exodus20 Do Not Commit Adultery [Exodus 20:14](https://www.biblegateway.com/passage/?search=Exodus%2020%3A14&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline**
 	- Do Not
@@ -964,10 +964,10 @@
 	- Death for both parties (Leviticus 20:10).
 - **Offering or Ransom?:** 
 	- No offering specified; a deliberate, high-handed violation (Numbers 15:30–31).
- #Exodus20 #02Exod  
+   
 ---
 
-## #LoveNeighbor  Do Not Steal [Exodus 20:15](https://www.biblegateway.com/passage/?search=Exodus%2020%3A15&version=WEB;NET;OJB)
+## #LoveNeighbor #02Exod/Exodus20 Do Not Steal [Exodus 20:15](https://www.biblegateway.com/passage/?search=Exodus%2020%3A15&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline**
 	- Do not
@@ -984,10 +984,10 @@
 		- Kidnapping ("man-stealing" or stealing a person), which carried severe penalties, including the death penalty in some contexts (see Exodus 21:16; Deuteronomy 24:7).
 		- Deception or "stealing the mind/heart" — figuratively, to deceive someone (e.g., "stealing" their trust or withholding truth). (see Genesis 31:20, 26)
 		- Ganav emphasizes stealth or secrecy more than violent robbery (which might use other Hebrew terms like gazal for open plunder).
-#Exodus20 #02Exod  #CommandMitzvot 
+  #CommandMitzvot 
 ---
 
-## #LoveNeighbor Do Not Bear False Witness [Exodus 20:16](https://www.biblegateway.com/passage/?search=Exodus%2020%3A16&version=WEB;NET;OJB)
+## #LoveNeighbor #02Exod/Exodus20 Do Not Bear False Witness [Exodus 20:16](https://www.biblegateway.com/passage/?search=Exodus%2020%3A16&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline**
 	- Do not
@@ -1006,10 +1006,10 @@
 	- Testimony ʿēd (עֵד): refers to someone who testifies or the act of testimony itself, 
 	- False/Falsehood šāqer (שָׁקֶר): "deception," "lie," or "untruth." It implies something intentionally deceptive or unreliable, often in the context of speech or together means "false witness" or "false testimony," an accusation
 	- Neighbor - fellow - broadly any other person
-#Exodus20 #02Exod  #CommandMitzvot 
+  #CommandMitzvot 
 ---
 
-## #LoveNeighbor  Do Not Covet [Exodus 20:17](https://www.biblegateway.com/passage/?search=Exodus%2020%3A17&version=WEB;NET;OJB)
+## #LoveNeighbor #02Exod/Exodus20 Do Not Covet [Exodus 20:17](https://www.biblegateway.com/passage/?search=Exodus%2020%3A17&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
 	- Do not 
@@ -1029,7 +1029,7 @@
 - Personal Observations
 	-  Covet hāmad or ḥāmaḏ (חָמַד) - To desire, to take pleasure in, to delight in, or to long for something. It implies a strong craving or lust that goes beyond mere admiration and can lead to actions like theft, adultery, or other violations of the commandments. 
 	- Internal matter of the heart and mind, not just an action.
-#Exodus20 #02Exod  
+  
 ---
 
 12. **Do Not Make Gods of Silver or Gold**
@@ -1322,7 +1322,7 @@
 
 ---
 
-## #LoveNeighbor  Do Not Wrong the Sojourner: [Exodus 22:21](https://www.biblegateway.com/passage/?search=Exodus%2022:21&version=WEB;NET;OJB)
+## #LoveNeighbor  #02Exod/Exodus22 Do Not Wrong the Sojourner: [Exodus 22:21](https://www.biblegateway.com/passage/?search=Exodus%2022:21&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:** *
@@ -1341,7 +1341,7 @@
 - **Offering or Ransom:**
     - None specified 
 
- #02Exod #Exodus22
+ 
 
 
 ---
@@ -1635,7 +1635,7 @@
 - **Penalty or Consequence:** Leaving them becomes a snare (Exodus 23:33; Judges 2:3).
 - **Offering or Ransom?:** Not applicable.
 
-## #LoveGod  #02Exod #Exodus23 Serve Yahweh Alone: [Exodus 23:25](https://www.biblegateway.com/passage/?search=Exodus%2023:25&version=WEB;NET;OJB)
+## #LoveGod  #02Exod/Exodus23 Serve Yahweh Alone: [Exodus 23:25](https://www.biblegateway.com/passage/?search=Exodus%2023:25&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
@@ -2029,7 +2029,7 @@
 
 # List in Leviticus
 
-## #LoveGod  #Leviticus19 Do Not Seek Mediums or Spiritists: [Leviticus 19:31](https://www.biblegateway.com/passage/?search=Leviticus+19%3A31&version=WEB;NET;OJB)
+## #LoveGod  #03Lev/Leviticus19 Do Not Seek Mediums or Spiritists: [Leviticus 19:31](https://www.biblegateway.com/passage/?search=Leviticus+19%3A31&version=WEB;NET;OJB)
 
 * [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
@@ -2054,10 +2054,7 @@
 * **Offering or Ransom:**
    * No offering or ransom stated in the passage or immediate context. The gravity of the command — closed with *"I am Yahweh your God"* — implies no substitution is available; the act itself is the violation of the covenant relationship.
 
- #03Lev  
-
-
-[[Gate of Wisdom/Offering/Offerings\|Offerings]]
+ [[Gate of Wisdom/Offering/Offerings\|Offerings]]
 #### It seems initially the Passover Lamb of the [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free.  Jesus became our Passover Lamb offering.
 
 ## Jesus as an Offering

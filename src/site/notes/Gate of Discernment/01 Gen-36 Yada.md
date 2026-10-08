@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-discernment/01-gen-36-yada/","tags":["TheScrolls","TorahLawofMoses","nothome","#01Gen","GateDiscernment"],"dg-note-properties":{"tags":["TheScrolls","TorahLawofMoses","nothome","#01Gen","GateDiscernment"]}}
+{"dg-publish":true,"permalink":"/gate-of-discernment/01-gen-36-yada/","tags":["TheScrolls","TorahLawofMoses","nothome","GateDiscernment","01Gen/Genesis36"],"dg-note-properties":{"tags":["TheScrolls","TorahLawofMoses","nothome","GateDiscernment","01Gen/Genesis36"]}}
 ---
 
 For ease of reading [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-36\|Gen-36]]

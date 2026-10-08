@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-discernment/the-scroll-of-jonah/","tags":["Neviim","32Jonah","GateDiscernment"],"dg-note-properties":{"tags":["Neviim","32Jonah","GateDiscernment"]}}
+{"dg-publish":true,"permalink":"/gate-of-discernment/the-scroll-of-jonah/","tags":["Neviim","GateDiscernment"],"dg-note-properties":{"tags":["Neviim","GateDiscernment"]}}
 ---
 
 The Person: [[Gate of Wisdom/Beings/Human Beings/Jonah\|Jonah]]
-# Jonah
+#  #32Jonah 
 # Setting
 
 ## Characters and People Groups

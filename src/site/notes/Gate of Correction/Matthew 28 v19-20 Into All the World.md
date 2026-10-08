@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/gate-of-correction/matthew-28-v19-20-into-all-the-world/","dg-note-properties":{"Tags":["Wordpress","M","GateCorrection"]}}
 ---
 
+# #40Matt/Matthew28 
+
 [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-28#v19\|Matt-28#v19]]
 
 Most believe this is a command to do “missions,” as it relates to being a missionary. Or going on missions trips to foreign nations. However, this isn’t the idea the text is conveying.
@@ -40,6 +42,6 @@ Remember
 	- always
 	- to the end of the age
 
-#Matthew28 #40Matt 
+ 
 
 Originally published on WordPress  https://calltoceasefire.wordpress.com/2024/03/09/matthew-2819-into-all-the-world/

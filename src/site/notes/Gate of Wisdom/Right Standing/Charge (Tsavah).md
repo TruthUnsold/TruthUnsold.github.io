@@ -18,7 +18,7 @@
 
 | file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[_Assets/AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Correction/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Correction/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Correction/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Correction/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Correction/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Correction/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Correction/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Correction/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Correction/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Correction/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Correction/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Correction/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Correction/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Correction/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Correction/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Correction/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Correction/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Correction/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Correction/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Correction/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Correction/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Correction/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[_Assets/AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li></ul> |
 
 { .block-language-dataview}
 
@@ -124,7 +124,7 @@
 		- John 14:21 — Loving Yeshua is demonstrated by keeping His commandments.
 		- 1 John 5:2–3 — The love of God is keeping His commandments, and His commandments are not burdensome.
 
- #Deuteronomy10 #05Deut 
+ #05Deut/Deuteronomy10 
 
 11. **Scripture Reference**: Deuteronomy 10:13
     - **Scripture Text (WEB)**: Deuteronomy 10:12-14: "Now, Israel, what does Yahweh your God require of you, but to fear Yahweh your God, to walk in all his ways, to love him, and to serve Yahweh your God with all your heart and with all your soul, to keep Yahweh’s commandments and statutes, which I command you today for your good? Behold, to Yahweh your God belongs heaven..."
@@ -132,7 +132,7 @@
     - **Offering or Ransom**: None specified.
 	    - Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 
-## #LoveGod #05Deut #Deuteronomy11 Love Yahweh and Keep His Charge: [Deuteronomy 11:1](https://www.biblegateway.com/passage/?search=Deuteronomy+11:1&version=WEB;NET;OJB)
+## #LoveGod #05Deut/Deuteronomy11 Love Yahweh and Keep His Charge: [Deuteronomy 11:1](https://www.biblegateway.com/passage/?search=Deuteronomy+11:1&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
@@ -226,7 +226,7 @@
 * **<mark style="background: #CD04BBA6;">Personal Observations</mark>**:
 	* Jesus uses this same word and concept in Matthew 5:48 — _"You therefore shall be teleios as your heavenly Father is teleios"_ 
 
- #Deuteronomy18 #05Deut 
+  #05Deut/Deuteronomy18 
 
 
 21. **Scripture Reference**: Deuteronomy 18:20
@@ -285,7 +285,7 @@
     - None prescribed
     - The command is identity and covenantal in nature — Yahweh establishing a holy people is contingent on walking in His ways; no sacrificial path compensates for departure from this
 
- #Deuteronomy28 #05Deut 
+ #05Deut/Deuteronomy28 
 
 27. **Scripture Reference**: Deuteronomy 28:15
     - **Scripture Text (WEB)**: Deuteronomy 28:15-17: "But it shall come to pass, if you will not listen to Yahweh your God’s voice, to observe to do all his commandments and his statutes which I command you today, that all these curses will come on you and overtake you..."
@@ -356,9 +356,9 @@
 * **Offering or Ransom:**
    * No offering or ransom stated. The command is grounded entirely in the character of God himself — *"for I, Yahweh your God, am holy"* — making it covenantal in nature rather than transactional.
 
- #Leviticus19 #03Lev 
+ #03Lev/Leviticus19 
 
-## #LoveGod Consecrate Yourselves and Be Holy: [Leviticus 20:7](https://www.biblegateway.com/passage/?search=Leviticus+20%3A7&version=WEB;NET;OJB)
+## #LoveGod #03Lev/Leviticus20 Consecrate Yourselves and Be Holy: [Leviticus 20:7](https://www.biblegateway.com/passage/?search=Leviticus+20%3A7&version=WEB;NET;OJB)
 
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 * [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
@@ -386,7 +386,7 @@
 	* John 17:17 - same word in the prayer from Jesus "Sanctify them in your truth."
 	* Holy seems unattainable, but when we understand it means to set-apart, that is much more attainable. 
 
- #Leviticus20 #03Lev 
+ 
 
 
 [[Gate of Wisdom/Offering/Offerings\|Offerings]]
