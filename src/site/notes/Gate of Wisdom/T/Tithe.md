@@ -88,7 +88,7 @@ Luke's version:
 
 
 #### <mark style="background: #CD04BBA6;">Personal Observation</mark>
-- Jesus says ought to have done these = tithe mint, dill, cumin. And not to have left the other undone = justice, mercy, and faith
+- Jesus says ought to have done these = tithe mint, dill, cumin. And not to have left the other undone = Justice, [[Gate of Wisdom/Consequence/Disobedience/Mercy\|Mercy]], and [[Zunpublished/Faith\|Faith]]
 
 ### Luke 18:12
 

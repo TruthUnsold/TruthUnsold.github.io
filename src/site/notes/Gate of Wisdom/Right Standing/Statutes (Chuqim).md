@@ -557,6 +557,51 @@
 
 
 
+## #LoveGod #03Lev/Leviticus20 Keep My Statutes and Be Holy: [Leviticus 20:22-26](https://www.biblegateway.com/passage/?search=Leviticus+20%3A22-26&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+* [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+* **Outline:**
+	- Do
+		- keep and do all my [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] #Dos 
+		- keep and do all my [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]] #Dos 
+			- that the land where I bring you to dwell will not vomit you out
+		- make a distinction between [[Gate of Wisdom/C/Clean\|Clean]] and [[Gate of Wisdom/U/Unclean\|Unclean]] animals #Dos 
+		- make a distinction between clean and unclean fowl #Dos 
+		- be [[Gate of Wisdom/H/Holy\|Holy]] to me
+	- Do Not
+		- walk in the customs of the [[Gate of Wisdom/Beings/Human Beings/nation\|nation]] which I am casting out before you #DoNot 
+			- for they did all these things
+				- therefore I abhorred them
+			- you will inherit their land
+				- I give it to you to possess
+				- a land flowing with milk and hone
+		- make yourselves an [[Gate of Wisdom/Abomination/Abomination\|Abomination]] by //[[Gate of Wisdom/U/Unclean\|Unclean]]// animal, bird, or anything with which the ground teems #DoNot 
+			- which I have separated from you as unclean for you
+	- Because
+		- I am YHWH
+			- who has separated you from the [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]s
+		- I am holy
+			- an have set you apart from the peoples
+				- that you are mine
+
+* **Blessing:**
+   * Explicitly stated in v.22 — keeping the statutes and judgments results in the land not vomiting them out — possession and remaining in the land is the blessing of obedience.
+   * v.24 — *"I am Yahweh your God, who has separated you from the peoples... I have given you the land to possess it"* (WEB) — the gift of the land itself is tied directly to the call to separation and holiness.
+
+* **Penalty or Consequence:**
+   * v.22 — failure to keep the statutes and judgments results in the land vomiting them out — the same consequence warned against the nations before them (Leviticus 18:24-28).
+   * The warning is explicitly backward-looking and forward-looking — the nations before Israel were expelled for these same violations (v.23), and Israel is not exempt from the same outcome.
+
+* **Offering or Ransom:**
+   * No offering or ransom stated. The passage closes on holiness and separation as its own end — *"you shall be holy to me, for I, Yahweh, am holy, and have set you apart from the peoples, that you should be mine."* (v.26, WEB) — the motivation is covenantal belonging rather than transactional exchange.
+   * The word for separated here is badal (בָּדַל) — the same word used in Genesis 1 for God's act of separating light from darkness, waters from waters — Israel's holiness participates in the same creative ordering that structures reality itself.
+
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>
+	- The distinction between clean and unclean animals (v.25) is framed as a gift of discernment — God has already made the separation; Israel participates in it by honoring it. Just like how God had decided that only one tree couldn't be eaten from in the garden. Now we have the choice to eat or not eat, just like they did. 
+
+
 ## #LoveGod #03Lev/Leviticus23  Keep the Sabbath as a Holy Convocation: [Leviticus 23:3](https://www.biblegateway.com/passage/?search=Leviticus+23%3A3&version=WEB;NET;OJB)
 
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
