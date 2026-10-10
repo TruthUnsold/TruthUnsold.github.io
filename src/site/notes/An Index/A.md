@@ -5,11 +5,14 @@
 
 ```base
 views:
-  - type: table
+  - type: cards
     name: View
     filters:
       and:
         - file.tags.containsAny("A")
+    order:
+      - file.name
+    sort: []
 
 ```
 
