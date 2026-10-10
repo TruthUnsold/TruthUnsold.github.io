@@ -31,6 +31,33 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
 
+## #LoveGod #LoveNeighbor #05Deut/Deuteronomy04 Keep and Do — This Is Your Wisdom: [Deuteronomy 4:5-6](https://www.biblegateway.com/passage/?search=Deuteronomy+4:5-6&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:**  
+	- I have taught you [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] and [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]] just as YHWH told me to do
+	- Do
+		- that you should do so in the middle of the land where you go in to possess it #Dos 
+		- keep and do them #Dos 
+	- Because
+		- this is your wisdom and understanding
+			- in the sight of the [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]s who will hear all these [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+				- and say "Surely this great nation is a wise and understanding people"
+- **Blessing:**
+    - Verse 6 — explicit blessing stated within the passage — obedience to these statutes and judgments before the nations results in:
+        - Wisdom (_chokhmah_ — חָכְמָה) — the nations will declare Israel a wise people
+        - Understanding (_binah_ — בִּינָה) — the nations will declare Israel an understanding people
+    - The blessing is reputational and missional — Israel's obedience becomes a testimony to the nations of what a people governed by Yahweh's Torah looks like
+    - The nations themselves become witnesses to the blessing — _"surely this great nation is a wise and understanding people"_
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+    - The implied consequence is the reversal of the blessing — a people who do not keep and do become a reproach and a byword among the nations rather than a testimony (cf. Deut. 28:37)
+- **Offering or Ransom:**
+    - None prescribed
+    - The command is formational and missional — keep and do in the sight of the nations; no sacrificial mechanism is attached
+
+
 ## #LoveGod #05Deut/Deuteronomy04 Know and Take It to Heart: [Deuteronomy 4:39-40](https://www.biblegateway.com/passage/?search=Deuteronomy+4:39-40&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]

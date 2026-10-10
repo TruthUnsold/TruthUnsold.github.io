@@ -299,7 +299,31 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - <mark style="background: #CD04BBA6;">Personal Observations</mark>
 	- The passage a covenant exchange enacted in speech before witnesses — Israel declares Yahweh as their God (v.17) and Yahweh declares Israel as His people (v.18)
 
-**October 10**: Deuteronomy 4:5-6 – “See, I have taught you decrees and laws as the LORD my God commanded me... Observe them carefully, for this will show your wisdom...” - **[[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]**  
+## **October 10**: Keep and Do — This Is Your Wisdom: [Deuteronomy 4:5-6](https://www.biblegateway.com/passage/?search=Deuteronomy+4:5-6&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:**  
+	- I have taught you [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] and [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]] just as YHWH told me to do
+	- Do
+		- that you should do so in the middle of the land where you go in to possess it #Dos 
+		- keep and do them #Dos 
+	- Because
+		- this is your wisdom and understanding
+			- in the sight of the [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]s who will hear all these [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+				- and say "Surely this great nation is a wise and understanding people"
+- **Blessing:**
+    - Verse 6 — explicit blessing stated within the passage — obedience to these statutes and judgments before the nations results in:
+        - Wisdom (_chokhmah_ — חָכְמָה) — the nations will declare Israel a wise people
+        - Understanding (_binah_ — בִּינָה) — the nations will declare Israel an understanding people
+    - The blessing is reputational and missional — Israel's obedience becomes a testimony to the nations of what a people governed by Yahweh's Torah looks like
+    - The nations themselves become witnesses to the blessing — _"surely this great nation is a wise and understanding people"_
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+    - The implied consequence is the reversal of the blessing — a people who do not keep and do become a reproach and a byword among the nations rather than a testimony (cf. Deut. 28:37)
+- **Offering or Ransom:**
+    - None prescribed
+    - The command is formational and missional — keep and do in the sight of the nations; no sacrificial mechanism is attached
 
 **October 11**: Exodus 20:20 – “Moses said to the people, ‘Do not be afraid. God has come to test you, so that the fear of God will be with you to keep you from sinning.’” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (fear God to avoid sin)  
 
