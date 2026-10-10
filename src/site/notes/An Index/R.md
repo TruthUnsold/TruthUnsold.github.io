@@ -13,7 +13,6 @@
 - [[Gate of Correction/Commandment Reading Plan March\|Commandment Reading Plan March]]
 - [[Gate of Correction/Commandment Reading Plan May\|Commandment Reading Plan May]]
 - [[Gate of Correction/Commandment Reading Plan November\|Commandment Reading Plan November]]
-- [[Gate of Correction/Commandment Reading Plan October\|Commandment Reading Plan October]]
 - [[Gate of Correction/Commandment Reading Plan September\|Commandment Reading Plan September]]
 - [[Gate of Correction/First Fruits – the Real Celebration of Resurrection\|First Fruits – the Real Celebration of Resurrection]]
 - [[Gate of Wisdom/H/Holy Spirit Receive\|Holy Spirit Receive]]

@@ -2155,11 +2155,11 @@
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 * **Outline:**
    * Do Not
-	   * turn to those who are 
+	   * turn to those who are #DoNot 
 		   * mediums
 		   * wizards
-	   * seek them out
-	   * be defiled by them
+	   * seek them out #DoNot 
+	   * be defiled by them #DoNot 
    * Because
 	   * I am YHWH your god
 
@@ -2175,6 +2175,29 @@
    * No offering or ransom stated in the passage or immediate context. The gravity of the command — closed with *"I am Yahweh your God"* — implies no substitution is available; the act itself is the violation of the covenant relationship.
 
  [[Gate of Wisdom/Offering/Offerings\|Offerings]]
+
+## #LoveGod #03Lev/Leviticus19  Keep All My Statutes and Judgments: [Leviticus 19:37](https://www.biblegateway.com/passage/?search=Leviticus+19%3A37&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+* **Outline:**
+	* Do
+		* Obey all my [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] and [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]] #Dos 
+	* Because I am YHWH
+
+* **Blessing:**
+   * No explicit blessing stated in the verse.
+   * The verse functions as the closing seal of Leviticus 19 — the blessing is implicit in the whole chapter; obedience to all that precedes it is the condition for the covenant life described throughout.
+
+* **Penalty or Consequence:**
+   * No penalty stated directly in this verse.
+   * Leviticus 26:14-39 supplies the comprehensive consequence for failure to keep the statutes and judgments — terror, disease, defeat, famine, devastation of the land, and ultimately exile — presented as a cascading series of covenant curses for non-observance.
+   * Deuteronomy 28:15-68 mirrors this with its own detailed list of consequences for failing to keep all the commandments and statutes.
+
+* **Offering or Ransom:**
+   * No offering or ransom stated. The verse closes with *"I am Yahweh"* — the same covenant formula that opens Leviticus 19 in v.2 and punctuates the chapter throughout. The entire chapter is bracketed by this declaration, making the keeping of all its commands an act of covenant fidelity to the person and character of Yahweh himself rather than a legal transaction.
+
+
 #### It seems initially the Passover Lamb of the [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] could be applied just as the Hebrews in Egypt applied the blood to their door posts. The emphasis is on seeking fellowship with God and gratitude for His redemption. This graphs one into the Congregation of Israel, becoming one of Yah-God's people, brought out of bondage and set free.  Jesus became our Passover Lamb offering.
 
 ## Jesus as an Offering

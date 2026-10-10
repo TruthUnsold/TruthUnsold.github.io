@@ -332,7 +332,7 @@
 	    - Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 
 
-## #LoveGod  Be Holy as I Am Holy: [Leviticus 19:2](https://www.biblegateway.com/passage/?search=Leviticus+19%3A2&version=WEB;NET;OJB)
+## #LoveGod #03Lev/Leviticus19  Be Holy as I Am Holy: [Leviticus 19:2](https://www.biblegateway.com/passage/?search=Leviticus+19%3A2&version=WEB;NET;OJB)
 
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 * [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
@@ -356,7 +356,7 @@
 * **Offering or Ransom:**
    * No offering or ransom stated. The command is grounded entirely in the character of God himself — *"for I, Yahweh your God, am holy"* — making it covenantal in nature rather than transactional.
 
- #03Lev/Leviticus19 
+ 
 
 ## #LoveGod #03Lev/Leviticus20 Consecrate Yourselves and Be Holy: [Leviticus 20:7](https://www.biblegateway.com/passage/?search=Leviticus+20%3A7&version=WEB;NET;OJB)
 

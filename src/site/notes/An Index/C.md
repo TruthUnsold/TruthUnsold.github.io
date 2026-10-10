@@ -29,7 +29,6 @@
 - [[Gate of Correction/Commandment Reading Plan March\|Commandment Reading Plan March]]
 - [[Gate of Correction/Commandment Reading Plan May\|Commandment Reading Plan May]]
 - [[Gate of Correction/Commandment Reading Plan November\|Commandment Reading Plan November]]
-- [[Gate of Correction/Commandment Reading Plan October\|Commandment Reading Plan October]]
 - [[Gate of Correction/Commandment Reading Plan September\|Commandment Reading Plan September]]
 - [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
