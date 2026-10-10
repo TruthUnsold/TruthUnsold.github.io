@@ -264,7 +264,7 @@
     - **Offering or Ransom**: None specified.
 	    - Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 
-## #LoveGod Walk in His Ways: [Deuteronomy 28:9](https://www.biblegateway.com/passage/?search=Deuteronomy+28:9&version=WEB;NET;OJB)
+## #LoveGod #05Deut/Deuteronomy28  Walk in His Ways: [Deuteronomy 28:9](https://www.biblegateway.com/passage/?search=Deuteronomy+28:9&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
@@ -285,7 +285,7 @@
     - None prescribed
     - The command is identity and covenantal in nature — Yahweh establishing a holy people is contingent on walking in His ways; no sacrificial path compensates for departure from this
 
- #05Deut/Deuteronomy28 
+ 
 
 27. **Scripture Reference**: Deuteronomy 28:15
     - **Scripture Text (WEB)**: Deuteronomy 28:15-17: "But it shall come to pass, if you will not listen to Yahweh your God’s voice, to observe to do all his commandments and his statutes which I command you today, that all these curses will come on you and overtake you..."

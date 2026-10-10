@@ -769,6 +769,63 @@
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 
+##  #LoveGod #05Deut/Deuteronomy28 Diligently Obey and All These Blessings Will Come: [Deuteronomy 28:1-2](https://www.biblegateway.com/passage/?search=Deuteronomy+28:1-2&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:**  
+	- If you ...
+	- Do
+		- obey YHWH's voice to observe and do all his [[Gate of Wisdom/M/Mitzvot\|Mitzvot]]
+		- listen to YHWH's voice
+	- Then YHWH will
+		- set you high above all the [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]s of the earth
+		- all these [[Gate of Wisdom/Consequence/Obedience/Blessing\|Blessing]]s will come upon you and overatke you
+- **Blessing:**
+    - Verse 2 — explicit and comprehensive blessing stated within the passage — _"all these blessings shall come on you and overtake you"_
+    - The blessing is pursuing — _"overtake you"_ (_hissigucha_ — הִשִּׂיגוּךָ) carries the sense of the blessings chasing down the one who obeys; the one walking in obedience does not have to seek the blessing — it catches up to them
+    - The condition is stated in v.1 — _"if you will diligently obey"_ (_shamo'a tishma'_ — שָׁמוֹעַ תִּשְׁמַע) — the Hebrew infinitive absolute construction intensifies the verb; not merely obey but diligently, carefully, fully obey
+    - The blessings enumerated in v.3-13 cover every domain of life — city and field, offspring, basket and kneading bowl, coming in and going out, enemies, storehouses, land, and status among the nations
+- **Penalty or Consequence:**
+    - None stated within these two verses
+    - Deuteronomy 28:15 provides the precise mirror — _"if you will not obey"_ triggers the full weight of covenant curse in the same domains where blessing was promised
+- **Offering or Ransom:**
+    - None prescribed
+    - The passage is the opening of the covenant blessing and curse declaration — the response called for is obedience, not sacrifice; no sacrificial mechanism mediates the blessings
+
+
+
+## #LoveGod #05Deut/Deuteronomy30 I Have Set Before You Life and Good: [Deuteronomy 30:15-16](https://www.biblegateway.com/passage/?search=Deuteronomy+30:15-16&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:**  
+	- I have set before you today
+		- life and prosperity
+		- death and disaster
+	- Do (I command you today)
+		- to love YHWH #Dos 
+		- walk in his ways #Dos 
+		- keep his [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]], [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]], [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]] #Dos 
+	- So that
+		- you may live and multiply
+		- YHWH may bless you in the land where you go in to possess it
+- **Blessing:**
+    - Verse 16 — explicit and comprehensive blessing stated within the passage:
+        - Life (_chayyim_ — חַיִּים)
+        - Multiplication — _"Yahweh your God will bless you and multiply you"_
+        - Land possession — _"in the land where you are going in to possess it"_
+- **Penalty or Consequence:**
+    - Verse 15 — death and evil set before Israel as the explicit alternative — the two ways are named within the passage itself
+    - Deuteronomy 30:17-18 elaborates immediately — if the heart turns away, if you will not hear, if you are drawn away to other gods — _"you shall surely perish; you shall not prolong your days in the land"_
+    - The consequence is loss of the land and life — the mirror image of the blessing
+- **Offering or Ransom:**
+    - None prescribed
+    - The passage is covenantal and volitional — two ways set before the people requiring a choice; no sacrificial mechanism mediates between the two paths; the choice itself is the act
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>
+	- The word [[Gate of Wisdom/G/good\|good]] (_tov_ — טוֹב) in v.15 echoes Genesis 1 — what Yahweh declares good is what He calls Israel toward; choosing the good is aligning with creation's original order.
+
+
 ## #LoveGod  #05Deut/Deuteronomy30 Choose Life: [Deuteronomy 30:19-20](https://www.biblegateway.com/passage/?search=Deuteronomy+30:19-20&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
