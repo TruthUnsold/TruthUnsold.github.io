@@ -21,6 +21,60 @@
     - **Numbers 18:21-24** — the tithe given to the Levites as their inheritance in place of land
 - Malachi 3:10 — withholding the tithe is framed as robbing Yahweh (_qava'_ — קָבַע); bringing the whole tithe to the storehouse is tied to an explicit promise of opened windows of heaven
 
+# Where the Tithe Must Be Brought
+
+## The Governing Principle
+
+Deuteronomy 12:13-14 establishes the rule for burnt offerings:
+
+> _"Take heed to yourself that you do not offer your burnt offerings in every place that you see; but in the place which Yahweh shall choose in one of your tribes, there you shall offer your burnt offerings and there you shall do all that I command you."_ — Deuteronomy 12:13-14 (WEB)
+
+## Direct Tithe-to-Place Connections
+
+### Deuteronomy 12:5-6
+
+> _"To the place which Yahweh your God shall choose... there you shall bring your burnt offerings, your sacrifices, your tithes..."_
+
+### Deuteronomy 12:11
+
+> _"Then to the place which Yahweh your God shall choose to cause his name to dwell there, there you shall bring all that I command you: your burnt offerings, your sacrifices, your tithes, the heave offering of your hand..."_
+
+### Deuteronomy 14:22-23
+
+> _"You shall surely tithe all the increase of your seed, that which comes out of the field year by year. You shall eat before Yahweh your God, in the place which he shall choose to cause his name to dwell there..."_
+
+### Deuteronomy 14:24-26
+
+The distance provision:
+
+> _"If the way is too long for you, so that you are not able to carry it, because the place is too far from you which Yahweh your God shall choose to set his name there, when Yahweh your God shall bless you; then you shall turn it into money, bind up the money in your hand, and shall go to the place which Yahweh your God shall choose. You shall trade the money for whatever your soul desires: for cattle, or for sheep, or for wine, or for strong drink, or for whatever your soul asks of you. You shall eat there before Yahweh your God, and you shall rejoice, you and your household."
+
+
+## The Third Year Exception
+
+### Deuteronomy 14:28-29
+
+> _"At the end of every three years you shall bring out all the tithe of your increase in the same year and shall lay it up within your gates."_
+
+This is the only tithe that does not go to the chosen place — and it is explicitly redirected:
+
+- Stored within your gates (_bish'arekha_ — בִּשְׁעָרֶיךָ) — local, communal
+- Recipients: the Levite, the stranger, the orphan, the widow
+- Purpose: provision for those with no land inheritance
+
+This third-year tithe is a local welfare tithe — its entire function is communal distribution, which requires it to stay local rather than travel to the central sanctuary.
+
+## Malachi's Storehouse
+
+### Malachi 3:10
+
+> _"Bring the whole tithe into the storehouse, that there may be food in my house..."_
+
+The storehouse (_beit ha'otzar_ — בֵּית הָאוֹצָר) at the temple is the destination — Nehemiah 10:38-39 and 13:12 both describe the Levites bringing the tithe of the tithe to the chambers of the house of God; the storehouse is at the chosen place.
+
+## <mark style="background: #CD04BBA6;">Personal Observations</mark>
+- The pattern seems to be consistent — the chosen place is the destination for every tithe except the third-year welfare tithe, which serves a distinct communal purpose and is deliberately kept local. The parallel to Deuteronomy 12:13-14's burnt offering restriction is direct — both the offerings and the tithes are bound to the place where Yahweh has caused His name to dwell.
+
 # Connections
 
 - Deuteronomy 14:22-29 — full elaboration of the tithe law
