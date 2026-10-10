@@ -72,6 +72,81 @@ This third-year tithe is a local welfare tithe — its entire function is commun
 
 The storehouse (_beit ha'otzar_ — בֵּית הָאוֹצָר) at the temple is the destination — Nehemiah 10:38-39 and 13:12 both describe the Levites bringing the tithe of the tithe to the chambers of the house of God; the storehouse is at the chosen place.
 
+# What Jesus Said About Tithes
+
+## The Passages
+
+### Matthew 23:23 / Luke 11:42
+
+The most direct statement:
+
+> _"Woe to you, scribes and Pharisees, hypocrites! For you tithe mint, dill, and cumin, and have left undone the weightier matters of the Torah: justice, mercy, and faith. But you ought to have done these and not to have left the other undone."_ — Matthew 23:23 (WEB)
+
+Luke's version:
+
+> _"But woe to you Pharisees! For you tithe mint and rue and every herb, and pass over justice and the love of God. But you ought to have done these and not to have left the other undone."_ — Luke 11:42 (WEB)
+
+
+#### Personal Observation
+- Jesus says ought to have done these = justice, merc
+#### What Yeshua Actually Says Here
+
+**Two things held together simultaneously:**
+
+1. **You ought to have done these** — _"these"_ referring to justice, mercy, faith, love of God — the **weightier matters**
+2. **Not to have left the other undone** — _"the other"_ being the tithe of herbs
+
+The Greek behind **ought** is _edei_ (ἔδει) — it was **necessary, binding, required**. Yeshua does not say the tithe of herbs is wrong — He says it is **required** (_edei_) but **insufficient without the weightier matters**.
+
+The rebuke is not **stop tithing** — it is **do not tithe while neglecting justice and mercy**.
+
+---
+
+### Luke 18:12
+
+The Pharisee's prayer in the parable of the Pharisee and the Tax Collector:
+
+> _"I fast twice a week. I give tithes of all that I get."_ — Luke 18:12 (WEB)
+
+#### What Yeshua Does and Does Not Say Here
+
+- The Pharisee's **self-justification** is the problem — not the tithing itself
+- Yeshua's rebuke falls on the **pride and comparison** — _"God, I thank you that I am not like other men"_
+- The tax collector goes home justified — but Yeshua does not say the Pharisee's tithing was wrong; the problem was the **heart posture**, not the act
+- Notably _"tithes of all that I get"_ (_apodekatoo panton_ — ἀποδεκατόω πάντων) — the Pharisee tithes beyond the Torah requirement of agricultural produce; Yeshua neither commends nor condemns the expanded practice
+
+---
+
+## What Yeshua Does Not Say
+
+This is significant:
+
+- He never **relocates** the tithe away from the temple / chosen place
+- He never **replaces** the tithe with a new percentage or new system
+- He never **spiritualizes** the tithe into a non-monetary concept
+- He never **abolishes** it — in fact _edei_ in Matthew 23:23 confirms it remains **binding**
+- He addresses **heart and priority** — not destination, amount, or mechanism
+
+---
+
+## The Tension Yeshua Exposes
+
+The Pharisees had **extended** the tithe to garden herbs — mint, dill, cumin, rue — going beyond the Torah's agricultural categories. Yeshua does not rebuke the extension; He rebukes the **use of meticulous tithing as a cover for neglecting the moral core of Torah**.
+
+This mirrors the broader Deuteronomic framework — Deuteronomy never separates the tithe from **justice toward the Levite, stranger, orphan, and widow** (Deut. 14:29). The third-year welfare tithe makes the social justice dimension **built into** the tithe system from the beginning. The Pharisees had kept the ritual precision while emptying the social justice content — Yeshua restores both as **inseparable**.
+
+---
+
+## Summary
+
+|Statement|Reference|What It Establishes|
+|---|---|---|
+|Tithe mint, dill, cumin — ought to have done these|Matt. 23:23; Luke 11:42|Tithing remains _edei_ — binding and required|
+|Weightier matters neglected|Matt. 23:23; Luke 11:42|Tithe without justice and mercy is insufficient — not that tithe is wrong|
+|I give tithes of all I get|Luke 18:12|Pride condemned, not the tithing itself|
+
+Yeshua's contribution to the tithe discussion is **not structural** — He does not redesign the system. His contribution is **moral and prioritized** — the tithe belongs within a life of justice, mercy, and faithfulness, not as a substitute for them.
+
 ## <mark style="background: #CD04BBA6;">Personal Observations</mark>
 - The pattern seems to be consistent — the chosen place is the destination for every tithe except the third-year welfare tithe, which serves a distinct communal purpose and is deliberately kept local. The parallel to Deuteronomy 12:13-14's burnt offering restriction is direct — both the offerings and the tithes are bound to the place where Yahweh has caused His name to dwell.
 
