@@ -47,7 +47,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 [Link to Biblegateway for reading](https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&version=WEB;NET;OJB): 
 # May
 
-**May 1**: [Exodus 22:22-24](https://www.biblegateway.com/passage/?search=Exodus%2022%3A22-24&version=WEB;NET;OJB) – “Do not take advantage of the widow or the fatherless. If you do... My anger will be aroused...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]] #LoveNeighbor #DoNot #JudgmentMishpatim 
+**May 1**: [Exodus 22:22-24](https://www.biblegateway.com/passage/?search=Exodus%2022%3A22-24&version=WEB;NET;OJB) – “Do not take advantage of the widow or the fatherless. If you do... My anger will be aroused...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]] #LoveNeighbor  #JudgmentMishpatim 
 
 Of any widow or fatherless child:
 
@@ -63,14 +63,14 @@ Consequence
 			- your wives will be widows
 			- your children will be fatherless
 
-**May 2**: [Leviticus 19:11](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A11&version=WEB;NET;OJB) – “Do not steal. Do not lie. Do not deceive one another.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim 
+**May 2**: [Leviticus 19:11](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A11&version=WEB;NET;OJB) – “Do not steal. Do not lie. Do not deceive one another.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor  #JudgmentMishpatim 
 
 Do not
 - steal (meaning to steal, thieve, or carry away secretly (literally or figuratively))
 - lie (meaning to lie, deal falsely, or cheat)
 - deceive another (meaning to deceive, deny falsely, deal falsely, lie, dissemble, or fail (in word or deed))
 
-**May 3**: [Leviticus 19:13](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A13&version=WEB;NET;OJB) – “Do not defraud or rob your neighbor. Do not hold back the wages of a hired worker overnight.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot  #JudgmentMishpatim 
+**May 3**: [Leviticus 19:13](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A13&version=WEB;NET;OJB) – “Do not defraud or rob your neighbor. Do not hold back the wages of a hired worker overnight.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor   #JudgmentMishpatim 
 
 Do not
 - oppress your neighbor (neighbor ‘ămîṯeḵā (עֲמִיתֶךָ) = a peer or equal within your covenant community)
@@ -81,7 +81,7 @@ Do not
 
 <mark style="background: #CD04BBA6;">Related scriptures Deuteronomy 24:14-15, James 5:4</mark>
 
-**May 4**: [Leviticus 19:15](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A15&version=WEB;NET;OJB) – “Do not pervert justice; do not show partiality to the poor or favoritism to the great...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim #Dos 
+**May 4**: [Leviticus 19:15](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A15&version=WEB;NET;OJB) – “Do not pervert justice; do not show partiality to the poor or favoritism to the great...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor  #JudgmentMishpatim  
 
 Do not
 - injustice in [[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Judgment\|Judgment]]
@@ -92,7 +92,7 @@ Do
 - judge your neighbor (neighbor ‘ămîṯeḵā (עֲמִיתֶךָ) = a peer or equal within your covenant community)
 	- in [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]]
 
-**May 5**: [Leviticus 19:35-36](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A35-36&version=WEB;NET;OJB) – “Do not use dishonest standards when measuring length, weight or quantity. Use honest scales...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot  #Dos #JudgmentMishpatim 
+**May 5**: [Leviticus 19:35-36](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A35-36&version=WEB;NET;OJB) – “Do not use dishonest standards when measuring length, weight or quantity. Use honest scales...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor    #JudgmentMishpatim 
 
 Do not
 - do no [[Gate of Wisdom/Right Standing/Unrighteousness\|Unrighteousness]] in [[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Judgment\|Judgment]] in measures of:
@@ -110,7 +110,7 @@ Because
 - I am YHWH your god
 	- who brought you out of the land of Egypt
 
-**May 6**: [Deuteronomy 25:13-16](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A35-36&version=WEB;NET;OJB) – “Do not have two differing weights in your bag...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]] #LoveNeighbor #DoNot #JudgmentMishpatim #Dos 
+**May 6**: [Deuteronomy 25:13-16](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A35-36&version=WEB;NET;OJB) – “Do not have two differing weights in your bag...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]] #LoveNeighbor  #JudgmentMishpatim  
 
 - Do Not
 	- be [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] 
@@ -129,7 +129,7 @@ Because
 	- I am YHWH your god
 		- who brought you out of the land of Egypt
 
-**May 7**: [Exodus 23:1-3](https://www.biblegateway.com/passage/?search=Exodus%2023%3A1-3&version=WEB;NET;OJB) – “Do not spread false reports. Do not follow the crowd in doing wrong...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]] #LoveNeighbor #DoNot #JudgmentMishpatim 
+**May 7**: [Exodus 23:1-3](https://www.biblegateway.com/passage/?search=Exodus%2023%3A1-3&version=WEB;NET;OJB) – “Do not spread false reports. Do not follow the crowd in doing wrong...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]] #LoveNeighbor  #JudgmentMishpatim 
 
 Do Not
 - spread a false report
@@ -139,7 +139,7 @@ Do Not
 - testify in court to side with a multitude to pervert justice
 - favor a poor man in his cause
 
-**May 8**: [Leviticus 19:12](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A12&version=WEB;NET;OJB) – “Do not swear falsely by my name and so profane the name of your God.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] #LoveGod #DoNot #CommandMitzvot 
+**May 8**: [Leviticus 19:12](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A12&version=WEB;NET;OJB) – “Do not swear falsely by my name and so profane the name of your God.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] #LoveGod  #CommandMitzvot 
 
 Do Not
 - swear by my [[Gate of Wisdom/N/Name\|Name]] falsely (misusing or polluting the sacred reputation and holiness of YHWH)
@@ -148,7 +148,7 @@ Do Not
 Because
 - I am YHWH
 
-**May 9**: [Deuteronomy 23:21-23](https://www.biblegateway.com/passage/?search=Deuteronomy%2023%3A21-23&version=WEB;NET;OJB) – “If you make a vow to the LORD... do not be slow to pay it...” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]) #LoveGod #Dos #DoNot #OrdinanceMishmerot 
+**May 9**: [Deuteronomy 23:21-23](https://www.biblegateway.com/passage/?search=Deuteronomy%2023%3A21-23&version=WEB;NET;OJB) – “If you make a vow to the LORD... do not be slow to pay it...” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]) #LoveGod   #OrdinanceMishmerot 
 
 Do not
 - be slack to pay what you vowed to YHWH
@@ -163,7 +163,7 @@ Do
 		- as a [[Gate of Wisdom/Offering/Free Will Offering\|Free Will Offering]]
 		- which you have promised with your mouth
 
-**May 10**: [Numbers 30:2](https://www.biblegateway.com/passage/?search=Numbers%2030%3A2&version=WEB;NET;OJB) – “When a man makes a vow... he must not break his word but must do everything he said.” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]) #LoveGod #Dos #DoNot #OrdinanceMishmerot 
+**May 10**: [Numbers 30:2](https://www.biblegateway.com/passage/?search=Numbers%2030%3A2&version=WEB;NET;OJB) – “When a man makes a vow... he must not break his word but must do everything he said.” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]) #LoveGod   #OrdinanceMishmerot 
 
 Do Not
 - break your word
@@ -173,7 +173,7 @@ Do Not
 Do
 - according to all that proceeds out of your mouth
 
-**May 11**: [Leviticus 19:29](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A29&version=WEB;NET;OJB) – “Do not degrade your daughter by making her a prostitute...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim 
+**May 11**: [Leviticus 19:29](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A29&version=WEB;NET;OJB) – “Do not degrade your daughter by making her a prostitute...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor  #JudgmentMishpatim 
 
 Do not
 - profane your daughter
@@ -183,7 +183,7 @@ Because
 - the land may fall to prostitution
 - the land may become full of wickeness
 
-**May 12**: Leviticus 18:6-18 – “No one is to approach any close relative to have sexual relations...” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  #LoveNeighbor #DoNot #StatuesChuqim 
+**May 12**: Leviticus 18:6-18 – “No one is to approach any close relative to have sexual relations...” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  #LoveNeighbor  #StatuesChuqim 
 
 Do not uncover the nakeness (haves-x) with
 - any close relatives
@@ -210,7 +210,7 @@ Do not uncover the nakeness (haves-x) with
 	- to be a rival
 	- while her sister is still alive
 
-**May 13**: [Leviticus 20:10-21](https://www.biblegateway.com/passage/?search=Leviticus%2020%3A10-21&version=WEB;NET;OJB)  – Prohibitions against certain immoral relations. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** / judgment  #LoveNeighbor #DoNot #StatuesChuqim 
+**May 13**: [Leviticus 20:10-21](https://www.biblegateway.com/passage/?search=Leviticus%2020%3A10-21&version=WEB;NET;OJB)  – Prohibitions against certain immoral relations. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** / judgment  #LoveNeighbor  #StatuesChuqim 
 
 Do not
 - commit [[Gate of Wisdom/A/Adultery\|Adultery]] with
@@ -245,7 +245,7 @@ Consequences
 - adulterer AND adulteress put to death
 - both put to death (unless otherwise noted above)
 
-**May 14**: [Deuteronomy 22:13-21](https://www.biblegateway.com/passage/?search=Deuteronomy%2022%3A13-21&version=WEB;NET;OJB)  –  Accusations in family matters. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**  #LoveNeighbor  #JudgmentMishpatim #Dos 
+**May 14**: [Deuteronomy 22:13-21](https://www.biblegateway.com/passage/?search=Deuteronomy%2022%3A13-21&version=WEB;NET;OJB)  –  Accusations in family matters. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**  #LoveNeighbor  #JudgmentMishpatim  
 
 Man takes a wife
 - accuses her of of not being a virgin
@@ -264,7 +264,7 @@ Man takes a wife
 				- because she play a prostitute in her father's house
 				- remove the evil from among you
 
-**May 15**: [Deuteronomy 24:1-4](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A1-4&version=WEB;NET;OJB) – Regulations on divorce and remarriage. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #Judgment #Dos 
+**May 15**: [Deuteronomy 24:1-4](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A1-4&version=WEB;NET;OJB) – Regulations on divorce and remarriage. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #Judgment  
 
 Man takes a wife
 - she finds no favor in his eyes
@@ -278,7 +278,7 @@ Man takes a wife
 		- do not cause the land to sin
 			- which YHWH gave you as an inheritance
 	
-**May 16**: [Deuteronomy 22:6-7](https://www.biblegateway.com/passage/?search=Deuteronomy%2022%3A6-7&version=WEB;NET;OJB) – “If you come across a bird’s nest... do not take the mother with the young.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] #DoNot #Dos  #CommandMitzvot 
+**May 16**: [Deuteronomy 22:6-7](https://www.biblegateway.com/passage/?search=Deuteronomy%2022%3A6-7&version=WEB;NET;OJB) – “If you come across a bird’s nest... do not take the mother with the young.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]    #CommandMitzvot 
 
 Do Not
 - Take the hen with the young
@@ -291,19 +291,19 @@ Do
 <mark style="background: #CD04BBA6;">Note: interesting note here in some communities of Judaism this is considered one of the "least" of these commands (see Matthew 5). 
 </mark>
 
-**May 17**: [Deuteronomy 25:4](https://www.biblegateway.com/passage/?search=Deuteronomy%2025%3A4&version=WEB;NET;OJB) – “Do not muzzle an ox while it is treading out the grain.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #DoNot #JudgmentMishpatim 
+**May 17**: [Deuteronomy 25:4](https://www.biblegateway.com/passage/?search=Deuteronomy%2025%3A4&version=WEB;NET;OJB) – “Do not muzzle an ox while it is treading out the grain.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**  #JudgmentMishpatim 
 
 Do not
 - muzzle the ox when he treads out the grain
 
-**May 18**: [Exodus 23:4-5](https://www.biblegateway.com/passage/?search=Exodus%2023%3A4-5&version=WEB;NET;OJB) – “If you come across your enemy’s ox or donkey... return it to him.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #Dos #JudgmentMishpatim 
+**May 18**: [Exodus 23:4-5](https://www.biblegateway.com/passage/?search=Exodus%2023%3A4-5&version=WEB;NET;OJB) – “If you come across your enemy’s ox or donkey... return it to him.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor  #JudgmentMishpatim 
 
 Do
 - help the enemy's ox or donkey
 	- if it goes astray - bring it back
 	- fallen down under it's load - help him
 
-**May 19**: [Deuteronomy 22:1-3](https://www.biblegateway.com/passage/?search=Deuteronomy%2022%3A1-3&version=WEB;NET;OJB) – “If you see your fellow Israelite’s ox or sheep straying, do not ignore it...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #Dos #JudgmentMishpatim 
+**May 19**: [Deuteronomy 22:1-3](https://www.biblegateway.com/passage/?search=Deuteronomy%2022%3A1-3&version=WEB;NET;OJB) – “If you see your fellow Israelite’s ox or sheep straying, do not ignore it...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor   #JudgmentMishpatim 
 
 Do not
 - ignore your brother's ox, sheep, donkey, garment, anything he has lost and you have found (brother means covenant community member)
@@ -314,7 +314,7 @@ Do not
 			- you will give it back to him
 	- do not hide it
 
-**May 20**: [Leviticus 19:18](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A18&version=WEB;NET;OJB)  – “Love your neighbor as yourself.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveNeighbor #Dos #DoNot #CommandMitzvot 
+**May 20**: [Leviticus 19:18](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A18&version=WEB;NET;OJB)  – “Love your neighbor as yourself.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveNeighbor   #CommandMitzvot 
 
 Do not
 - take vengeance
@@ -328,7 +328,7 @@ Do
 Because
 - I am YHWH
 
-**May 21**: [Leviticus 25:14-17](https://www.biblegateway.com/passage/?search=Leviticus%2025%3A14-17&version=WEB;NET;OJB) – “Do not take advantage of each other...”. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim 
+**May 21**: [Leviticus 25:14-17](https://www.biblegateway.com/passage/?search=Leviticus%2025%3A14-17&version=WEB;NET;OJB) – “Do not take advantage of each other...”. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor  #JudgmentMishpatim 
 
 If you sell anything
 - to  your neighbor
@@ -351,7 +351,7 @@ Because
 - you shall fear your god
 - I am YHWH your god
 
-**May 22**: [Leviticus 25:35-38](https://www.biblegateway.com/passage/?search=Leviticus%2025%3A35-38&version=WEB;NET;OJB) – “If any of your fellow Israelites become poor... help them...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #Dos #DoNot #JudgmentMishpatim 
+**May 22**: [Leviticus 25:35-38](https://www.biblegateway.com/passage/?search=Leviticus%2025%3A35-38&version=WEB;NET;OJB) – “If any of your fellow Israelites become poor... help them...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor   #JudgmentMishpatim 
 
 If your brother (fellow covenant community member) has
 - become poor
@@ -376,7 +376,7 @@ Because
 		- to give you the land of Canaan
 		- and to be your god
 
-**May 23**: [Deuteronomy 15:12-15](https://www.biblegateway.com/passage/?search=Deuteronomy%2015%3A12-15&version=WEB;NET;OJB) – “If any of your people... sell themselves to you... let them go free...” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]) #LoveNeighbor #Dos #OrdinanceMishmerot 
+**May 23**: [Deuteronomy 15:12-15](https://www.biblegateway.com/passage/?search=Deuteronomy%2015%3A12-15&version=WEB;NET;OJB) – “If any of your people... sell themselves to you... let them go free...” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]) #LoveNeighbor  #OrdinanceMishmerot 
 
 If your brother, a Hebrew man or woman
 - is sold to you
@@ -394,7 +394,7 @@ Because
 	- remember you were a slave in the land of Egypt
 	- YHWH, your god redeemed you
 
-**May 24**: [Exodus 21:2-6](https://www.biblegateway.com/passage/?search=Exodus%2021%3A2-6&version=WEB;NET;OJB). - **[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]])**  #LoveNeighbor #Dos #OrdinanceMishmerot 
+**May 24**: [Exodus 21:2-6](https://www.biblegateway.com/passage/?search=Exodus%2021%3A2-6&version=WEB;NET;OJB). - **[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]])**  #LoveNeighbor  #OrdinanceMishmerot 
 
 If you buy a Hebrew servant
 - shall serve six years
@@ -416,7 +416,7 @@ Do
 			- bore his ear through with an awl
 			- he shall serve his master forever
 
-**May 25**: [Deuteronomy 23:15-16](https://www.biblegateway.com/passage/?search=Deuteronomy%2023%3A15-16&version=WEB;NET;OJB) – “If a slave has taken refuge with you, do not hand them over...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim  #Dos 
+**May 25**: [Deuteronomy 23:15-16](https://www.biblegateway.com/passage/?search=Deuteronomy%2023%3A15-16&version=WEB;NET;OJB) – “If a slave has taken refuge with you, do not hand them over...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor  #JudgmentMishpatim   
 
 If a servant
 - escapes from his master to you
@@ -432,7 +432,7 @@ Do
 	- within one of your gates
 	- where it pleases him best
 
-**May 26**: [Leviticus 19:23-25](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A23-25&version=WEB;NET;OJB) – “When you enter the land... regard its fruit as forbidden... in the fifth year you may eat its fruit.” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** #Dos #StatuesChuqim #DoNot 
+**May 26**: [Leviticus 19:23-25](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A23-25&version=WEB;NET;OJB) – “When you enter the land... regard its fruit as forbidden... in the fifth year you may eat its fruit.” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  #StatuesChuqim  
 
 When you come into the land
 - have planted all kinds of trees for food
@@ -450,7 +450,7 @@ Do
 Because
 - I am YHWH your god
 
-**May 27**: [Deuteronomy 20:19-20](https://www.biblegateway.com/passage/?search=Deuteronomy%2020%3A19-20&version=WEB;NET;OJB) – “When you lay siege... do not destroy its trees...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] #Dos #CommandMitzvot #DoNot 
+**May 27**: [Deuteronomy 20:19-20](https://www.biblegateway.com/passage/?search=Deuteronomy%2020%3A19-20&version=WEB;NET;OJB) – “When you lay siege... do not destroy its trees...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #CommandMitzvot  
 
 When you besiege a city a long time
 
@@ -465,7 +465,7 @@ Do
 	- destroy and cut them down
 - build siege works against the city that makes war with you until it falls
 
-**May 28**: [Deuteronomy 22:8](https://www.biblegateway.com/passage/?search=Deuteronomy%2022%3A8&version=WEB;NET;OJB) – “When you build a new house, make a parapet around your roof...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #JudgmentMishpatim #Dos 
+**May 28**: [Deuteronomy 22:8](https://www.biblegateway.com/passage/?search=Deuteronomy%2022%3A8&version=WEB;NET;OJB) – “When you build a new house, make a parapet around your roof...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #JudgmentMishpatim  
 
 When you build a new house
 
@@ -476,7 +476,7 @@ Because
 - keep someone from falling
 	- so you don't bring blood on your house
 
-**May 29**: [Deuteronomy 23:24-25](https://www.biblegateway.com/passage/?search=Deuteronomy%2023%3A24-25&version=WEB;NET;OJB) – “If you enter your neighbor’s vineyard... you may eat... but you must not put any in a basket.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #JudgmentMishpatim #Dos #DoNot 
+**May 29**: [Deuteronomy 23:24-25](https://www.biblegateway.com/passage/?search=Deuteronomy%2023%3A24-25&version=WEB;NET;OJB) – “If you enter your neighbor’s vineyard... you may eat... but you must not put any in a basket.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #JudgmentMishpatim   
 
 When you come into your neighbor's vineyard or standing grain
 
@@ -489,7 +489,7 @@ Do not
 - put any grapes in your container
 - use a sickle on your neighbor's standing grain
 
-**May 30**: [Deuteronomy 24:6](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A6&version=WEB;NET;OJB) – “Do not take a pair of millstones... as security for a debt.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #JudgmentMishpatim #DoNot 
+**May 30**: [Deuteronomy 24:6](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A6&version=WEB;NET;OJB) – “Do not take a pair of millstones... as security for a debt.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #JudgmentMishpatim  
 
 Do not
 - take the mill or the upper millstone as a pledge
@@ -499,7 +499,7 @@ Because
 
 <mark style="background: #CD04BBA6;">Millstones were a way of earning a living and supporting families.</mark>
 
-**May 31**: [Deuteronomy 24:10-13](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A10-13&version=WEB;NET;OJB) – “When you make a loan... do not go into their house to get what is offered...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot 
+**May 31**: [Deuteronomy 24:10-13](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A10-13&version=WEB;NET;OJB) – “When you make a loan... do not go into their house to get what is offered...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor  
 
 When you lend your neighbor
 - any kind of loan

@@ -255,15 +255,15 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - **Outline:**
 	- Do Not
-		- sow vineyard with two kinds of seeds #DoNot 
+		- sow vineyard with two kinds of seeds  
 			- all the fruit will be defiled
 			- all the seed will be defiled
 			- the increase of the vineyard will be defiled
-		- plow with an ox and a donkey together #DoNot 
-		- wear clothes of wool and linen woven together #DoNot 
-		- cross-breed different animals #DoNot 
-		- sow field with two kinds of seeds #DoNot 
-		- wear a garment made of two kinds of material #DoNot 
+		- plow with an ox and a donkey together  
+		- wear clothes of wool and linen woven together  
+		- cross-breed different animals  
+		- sow field with two kinds of seeds  
+		- wear a garment made of two kinds of material  
 - **Blessing:**
     - None explicitly stated
 - **Penalty or Consequence:**
@@ -285,9 +285,9 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - **Outline:** 
 	- Do Not 
-		- prostitute the daughters of [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]] #DoNot 
-		- sodomite the sons of [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]] #DoNot 
-		- bring the wages of a prostitute (a dog) into the House of YHWH for any vow ([[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]] ) #DoNot 
+		- prostitute the daughters of [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]  
+		- sodomite the sons of [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]  
+		- bring the wages of a prostitute (a dog) into the House of YHWH for any vow ([[Gate of Wisdom/Dwelling Places/Tabernacle/Tabernacle\|Tabernacle]] )  
 			- female
 			- male
 - **Blessing:**
@@ -309,7 +309,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:** 
 	- This is the law of the animal, and of the bird, and of every living creature that moves in the waters, and of every creature that creeps on the earth, 47 to make a distinction between the unclean and the clean, and between the living thing that may be eaten and the living thing that may not be eaten.’
-	- Do Eat (living things which are food) #Dos 
+	- Do Eat (living things which are food)  
 		- Animals: which parts the hoof and is cloven-footed, and chews the cud
 		- In the waters, seas, rivers: whatever has fins and scales
 		- Insects: all winged creeping things that go on all fours, which have long, jointed legs for hopping on the earth. Even of these you may eat: any kind of locust, any kind of katydid, any kind of cricket, and any kind of grasshopper
@@ -319,7 +319,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		- unclean until the evening
 		- vessel of wood, or clothing, or skin, or sack wash with water
 		- earthen vessel break it
-	- Do Not Eat (living things which are not food) #DoNot 
+	- Do Not Eat (living things which are not food)  
 		- Animals:
 			- These are [[Gate of Wisdom/U/Unclean\|Unclean]]
 			- Do not eat their meat
@@ -374,7 +374,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 				- a spring or a cistern in which water is gathered shall be clean, but that which touches their carcass shall be unclean
 				- If part of their carcass falls on any sowing seed which is to be sown, it is clean. But if water is put on the seed, and part of their carcass falls on it, it is unclean to you.
 				
-	- Do Not - these will make you unclean #DoNot 
+	- Do Not - these will make you unclean  
 		- touch their carcass
 		- carry any part of their carcass
 			- wash cloths
@@ -411,7 +411,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		- any [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]] who lives among the men of the House of Israel
 		- no person among [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]
 	- Do Not
-		- eat any kind of blood #DoNot 
+		- eat any kind of blood  
 			- I will set my face against that [[Gate of Wisdom/S/Soul\|Soul]]
 			- I will cut him off from among his people 
 	- Because
@@ -419,7 +419,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		- I have given you an altar to make [[Gate of Wisdom/Consequence/Disobedience/Atonement\|Atonement]] for your souls
 			- for it is the blood that makes atonement by reason of the life
 	- Do
-		- When hunting any animal or bird that may be eaten #Dos 
+		- When hunting any animal or bird that may be eaten  
 			- poor out its blood
 			- cover the blood with dust
 - **Blessing:**
@@ -436,7 +436,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:** 
-	- Do not Eat #DoNot 
+	- Do not Eat  
 		- any abominable ([[Gate of Wisdom/Abomination/Abomination\|Abomination]]) thing
 		- they are [[Gate of Wisdom/U/Unclean\|Unclean]]
 		- them that chew the cud, or of those who have the hoof split (because they do not have both)
@@ -468,7 +468,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		- anything that dies of itself
 			- give it to the [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]] living among you who is within your gates
 			- sell it to a [[Gate of Wisdom/Beings/Human Beings/Foreigner\|Foreigner]]
-	- Do Eat #Dos 
+	- Do Eat  
 		- ox
 		- sheep
 		- goat
@@ -558,12 +558,12 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		- stroke and stroke
 		- matters of controversy within your gates
 	- Do
-		- go to the place which YHWH chooses #Dos 
+		- go to the place which YHWH chooses  
 			- come to the priests
 				- who are Levites
 			- and to the judge
 				- who shall be in those days
-		- inquire and they will give you a verdict #Dos 
+		- inquire and they will give you a verdict  
 			- do according to their decision
 			- observe to do according to all that they shall teach you
 				- according to the decisions of the law
@@ -571,7 +571,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 				- according to the judgement
 					- which they shall tell you
 	- Do Not
-		- turn away from the sentence which they announce to you #DoNot 
+		- turn away from the sentence which they announce to you  
 			- neither to the right hand nor to the left
 	- Because
 		- the man who does presumptuously in not listening
@@ -610,14 +610,14 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 				- which you have not known
 			- serve other gods
 	- Do not
-		- listen to the words of the prophet or dreamer #DoNot 
+		- listen to the words of the prophet or dreamer  
 	- Because
 		- YHWH is testing you
 			- to know whether you love him
 				- with all your heart
 				- with all your soul
 	- Do
-		- walk after YHWH #Dos 
+		- walk after YHWH  
 			- fear him
 			- keeps his [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
 			- obey his voice
@@ -706,7 +706,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - **Outline:** *
 	- Do Not
-		- have anyone among you who #DoNot 
+		- have anyone among you who  
 			- makes his son or his daughter to pass through fire
 			- one who uses divination
 			- one who tells fortunes
@@ -800,13 +800,13 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - **Outline:** 
 	- What does Yah require of you
 	- Do
-		- Fear him #Dos 
-		- Walk in all his ways #Dos 
-		- [[Gate of Wisdom/Ruach/Fruit/Love\|Love]] <mark style="background: #CD04BBA6;">//ahav//</mark> him #Dos 
-		- [[Gate of Wisdom/S/Serve\|Serve]] him with #Dos 
+		- Fear him  
+		- Walk in all his ways  
+		- [[Gate of Wisdom/Ruach/Fruit/Love\|Love]] <mark style="background: #CD04BBA6;">//ahav//</mark> him  
+		- [[Gate of Wisdom/S/Serve\|Serve]] him with  
 			- all your heart
 			- all your soul
-		- Keep his [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] and  [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] #Dos 
+		- Keep his [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] and  [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]  
 			- which are given here today
 				- for your good
 	- Because
@@ -840,8 +840,8 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 	- Therefore (looking back in the text)
 		- Because God has been faithful and redeemed you
 	- Do
-		- love him #Dos 
-		- at all times keep his #Dos 
+		- love him  
+		- at all times keep his  
 			- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 			- [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
 			- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]			- 
@@ -875,7 +875,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
 	- Do
-		- [[Gate of Wisdom/S/Serve\|Serve]] Yah #Dos 
+		- [[Gate of Wisdom/S/Serve\|Serve]] Yah  
 	- He will
 		- [[Gate of Wisdom/B/Bless\|Bless]] your 
 			- bread
@@ -896,9 +896,9 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
 - **Outline:**
 	- Do
-		- Eat #Dos 
-		- Be full #Dos 
-		- [[Gate of Wisdom/B/Bless\|Bless]] Yah #Dos 
+		- Eat  
+		- Be full  
+		- [[Gate of Wisdom/B/Bless\|Bless]] Yah  
 			- for the good land
 				- which he has given you
 - **Blessing:**

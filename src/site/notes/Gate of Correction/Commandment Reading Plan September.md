@@ -51,7 +51,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:** 
-	- Do not Eat #DoNot 
+	- Do not Eat  
 		- any abominable ([[Gate of Wisdom/Abomination/Abomination\|Abomination]]) thing
 		- they are [[Gate of Wisdom/U/Unclean\|Unclean]]
 		- them that chew the cud, or of those who have the hoof split (because they do not have both)
@@ -83,7 +83,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		- anything that dies of itself
 			- give it to the [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]] living among you who is within your gates
 			- sell it to a [[Gate of Wisdom/Beings/Human Beings/Foreigner\|Foreigner]]
-	- Do Eat #Dos 
+	- Do Eat  
 		- ox
 		- sheep
 		- goat
@@ -129,7 +129,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		- any [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]] who lives among the men of the House of Israel
 		- no person among [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]
 	- Do Not
-		- eat any kind of blood #DoNot 
+		- eat any kind of blood  
 			- I will set my face against that [[Gate of Wisdom/S/Soul\|Soul]]
 			- I will cut him off from among his people 
 	- Because
@@ -137,7 +137,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		- I have given you an altar to make [[Gate of Wisdom/Consequence/Disobedience/Atonement\|Atonement]] for your souls
 			- for it is the blood that makes atonement by reason of the life
 	- Do
-		- When hunting any animal or bird that may be eaten #Dos 
+		- When hunting any animal or bird that may be eaten  
 			- poor out its blood
 			- cover the blood with dust
 - **Blessing:**
@@ -161,16 +161,16 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
    * When you enter the land and plant any fruit tree
 	   * for three years
 		   * Do
-			   * consider it's fruit to be uncircumcised //[[Gate of Wisdom/Good News/Uncircumcised\|Uncircumcised]]// #Dos 
+			   * consider it's fruit to be uncircumcised //[[Gate of Wisdom/Good News/Uncircumcised\|Uncircumcised]]//  
 		   * Do not
-			   * it will be forbidden to you #DoNot 
-			   * it must not be eaten #DoNot 
+			   * it will be forbidden to you  
+			   * it must not be eaten  
 	   * In the fourth year
 		   * all it's fruit will be
-			   * [[Gate of Wisdom/H/Holy\|Holy]] //set apart// #Dos 
-			   * praise offerings to YHWH #Dos 
+			   * [[Gate of Wisdom/H/Holy\|Holy]] //set apart//  
+			   * praise offerings to YHWH  
 	   * In the fifth year
-		   * you shall eat its fruit #Dos 
+		   * you shall eat its fruit  
 			   * that it may yield it's increase to you
    * I am YHWH
 	   * your god
@@ -200,12 +200,12 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		- for a long time
 			- while attempting to capture it
 	- Do not
-		- chop down it's trees #DoNot 
+		- chop down it's trees  
 			- a tree is not a human that you should besiege it
 	- Do
-		- eat fruit from them #Dos 
-		- chop down any tree not suitable for food #Dos 
-			- us it to build siege works against the city #Dos 
+		- eat fruit from them  
+		- chop down any tree not suitable for food  
+			- us it to build siege works against the city  
 				- until the city falls
 - **Blessing:**
     - None explicitly stated
@@ -225,8 +225,8 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		- the judges judge them
 		
 	- Do
-		- justify the righteous #Dos 
-		- condemn the wicked #Dos 
+		- justify the righteous  
+		- condemn the wicked  
 			- if worth to be beaten
 				- judge will 
 					- cause him to lie down
@@ -236,7 +236,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 								- may sentence to no more than forty stripes
 		
 	- Do not
-		- give the wicked more than forty stripes #DoNot
+		- give the wicked more than forty stripes 
 		
 	- Because
 		- if struck or beat more than forty stripes
@@ -256,9 +256,9 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 	- Do
 		- establish the matter 
 			- at the mouth of 
-				- two witnesses #Dos 
+				- two witnesses  
 				- or three witnesses
-		- if an [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] witness testifies #Dos 
+		- if an [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] witness testifies  
 			- against him of wrongdoing
 				- both the men (man accused of iniquity or sin and the unrighteous witness)
 					- stand before
@@ -270,13 +270,13 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 							- has testified falsely against his brother (fellow member of his covenant community)
 							- do to him as he thought to do to his brother (the man accused of iniquity or sin)
 							- remove the evil from among you
-			- those who remain shall #Dos 
+			- those who remain shall  
 				- hear
 				- fear
 				- never again commit any such evil (false witness) among you
 		
 	- Do not
-		- your eyes shall not pity: #DoNot 
+		- your eyes shall not pity:  
 			- life for life 
 			- eye for eye
 			- tooth for tooth
@@ -302,18 +302,18 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline**:
 	- Do not
-		- deny justice to poor people in lawsuit #DoNot 
-		- kill the innocent and righteous #DoNot 
+		- deny justice to poor people in lawsuit  
+		- kill the innocent and righteous  
 			- Because YHWH will not justify the wicked
-		- take a bribe #DoNot 
+		- take a bribe  
 			- Because bribes 
 				- blind those who have sight
 				- perverts the words of the righteous
-		- oppress an [[Gate of Wisdom/Beings/Human Beings/Foreigner\|Foreigner]] #DoNot 
+		- oppress an [[Gate of Wisdom/Beings/Human Beings/Foreigner\|Foreigner]]  
 			- Because you know their heart since you were foreigners in the land of Egypt.
 		
 	- Do
-		- keep far from a false charge  #Dos 
+		- keep far from a false charge   
 - **Penalty or Consequence**: 
 	- Yahweh will not acquit the one who justifies the wicked; bribery perverts justice.
 - **Offering or Ransom**: 
@@ -325,11 +325,11 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 * [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 * **Outline:**
    * Do not
-	   * do injustice in judgment #DoNot 
-	   * be partial to the poor #DoNot 
-	   * show favoritism to the great #DoNot 
+	   * do injustice in judgment  
+	   * be partial to the poor  
+	   * show favoritism to the great  
    * Do
-	   * judge your neighbor in [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]] #Dos 
+	   * judge your neighbor in [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]]  
 
 * **Blessing:**
    * No explicit blessing stated in the verse.
@@ -351,17 +351,17 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
 - **Outline:** *
 	- Do
-		- Make judges and officers #Dos 
+		- Make judges and officers  
 			- in all your gates
 				- which YHWH gives you
 				- according to your tribes
 			- they shall [[Gate of Wisdom/J/Judge\|Judge]] the people with [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] Judgement
-		- Follow that which is altogether just #Dos 
+		- Follow that which is altogether just  
 
 	- Do Not
-		- pervert justice #DoNot 
-		- show partiality #DoNot 
-		- take a bribe #DoNot 
+		- pervert justice  
+		- show partiality  
+		- take a bribe  
 			- because a bribe
 				- blinds the eyes of the wise
 				- perverts the words of the righteous
@@ -393,12 +393,12 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		- stroke and stroke
 		- matters of controversy within your gates
 	- Do
-		- go to the place which YHWH chooses #Dos 
+		- go to the place which YHWH chooses  
 			- come to the priests
 				- who are Levites
 			- and to the judge
 				- who shall be in those days
-		- inquire and they will give you a verdict #Dos 
+		- inquire and they will give you a verdict  
 			- do according to their decision
 			- observe to do according to all that they shall teach you
 				- according to the decisions of the law
@@ -406,7 +406,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 				- according to the judgement
 					- which they shall tell you
 	- Do Not
-		- turn away from the sentence which they announce to you #DoNot 
+		- turn away from the sentence which they announce to you  
 			- neither to the right hand nor to the left
 	- Because
 		- the man who does presumptuously in not listening
@@ -446,14 +446,14 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 				- which you have not known
 			- serve other gods
 	- Do not
-		- listen to the words of the prophet or dreamer #DoNot 
+		- listen to the words of the prophet or dreamer  
 	- Because
 		- YHWH is testing you
 			- to know whether you love him
 				- with all your heart
 				- with all your soul
 	- Do
-		- walk after YHWH #Dos 
+		- walk after YHWH  
 			- fear him
 			- keeps his [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
 			- obey his voice
@@ -518,16 +518,16 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - **Outline:**  
 	- These words which I command you today
 	- Do
-		- will be on your heart #Dos 
-		- teach them diligently to your children #Dos 
-		- talk of them when you #Dos 
+		- will be on your heart  
+		- teach them diligently to your children  
+		- talk of them when you  
 			- sit in your house
 			- walk by the way
 			- lie down
 			- rise up
-		- bind them for a [[Gate of Wisdom/Sign/Sign\|Sign]] on your hand #Dos 
-		- will be frontlets between your eyes #Dos 
-		- write them on the door posts of your #Dos 
+		- bind them for a [[Gate of Wisdom/Sign/Sign\|Sign]] on your hand  
+		- will be frontlets between your eyes  
+		- write them on the door posts of your  
 			- house
 			- gates
 - **Blessing:**
@@ -543,7 +543,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
 - **Outline:**  
 	- Do
-		- Assemble the people #Dos 
+		- Assemble the people  
 			- men
 			- women
 			- little ones
@@ -568,7 +568,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
 - **Outline:**  
 	- Do
-		- Set your heart on all the words #Dos 
+		- Set your heart on all the words  
 			- which I testify to you today
 			- which you shall command your children to observe to do
 			- all the words of this law
@@ -592,16 +592,16 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
 - **Outline:**  
 	- Do
-		- Lay up these words of mine in your heart and in your soul #Dos 
-		- Bind them for a sign on your hand #Dos 
-		- they shall be frontlets between your eyes #Dos 
-		- teach them to your children #Dos 
-		- talk of them when you  #Dos 
+		- Lay up these words of mine in your heart and in your soul  
+		- Bind them for a sign on your hand  
+		- they shall be frontlets between your eyes  
+		- teach them to your children  
+		- talk of them when you   
 			- sit in the house
 			- walk by the way
 			- lie down
 			- rise up
-		- write them on the door posts of your #Dos 
+		- write them on the door posts of your  
 			- house
 			- gates
 			- so that your days and your childrens day may be multiplied
@@ -631,13 +631,13 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 			- life and death
 			- the blessing and the curse
 		- therefore
-			- chose life #Dos 
+			- chose life  
 				- that you may life
 					- you 
 					- your descendants
-			- to love YHWH #Dos 
-			- to obey his voice #Dos 
-			- to cling to him #Dos 
+			- to love YHWH  
+			- to obey his voice  
+			- to cling to him  
 			- because
 				- he is your
 					- life
@@ -672,7 +672,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 				- earth beneath
 			- there is no on else
 	- Do
-		- keep his [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] and his [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] #Dos 
+		- keep his [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] and his [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
 			- which I command you today
 			- that it may go well with
 				- you
@@ -698,12 +698,12 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 * [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
 * **Outline:**
    * Do
-	   * six days shall work be done #Dos 
+	   * six days shall work be done  
 	   * the seventh day is 
-		   * a [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] of solemn rest #Dos 
-		   * a [[Gate of Wisdom/H/Holy\|Holy]] convocation #Dos 
+		   * a [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] of solemn rest  
+		   * a [[Gate of Wisdom/H/Holy\|Holy]] convocation  
    * Do not
-	   * on the seventh day do no kind of work #DoNot 
+	   * on the seventh day do no kind of work  
    * Because
 	   * it is a Sabbath to YHWH
 		   * in all your dwellings
@@ -726,8 +726,8 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - **Outline:**  
 	- Do
-		- for six days work #Dos 
-		- on seventh day rest #Dos 
+		- for six days work  
+		- on seventh day rest  
 	- So that
 		- may rest
 			- ox
@@ -749,10 +749,10 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
 - **Outline:**  
 	- Do
-		- Observe the [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] Day #Dos 
+		- Observe the [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] Day  
 			- to keep it [[Gate of Wisdom/H/Holy\|Holy]]
 			- as YHWH your god commanded you.
-		- Labor six days #Dos 
+		- Labor six days  
 			- do all your work
 		- Remember
 			- you were a servant in the land of [[Gate of Wisdom/Dwelling Places/Realm of Humans/Egypt\|Egypt]]
@@ -761,7 +761,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 				- by an outstretched arm
 				- therefore YHWH commanded you to keep the Sabbath day. 
 	- Do not
-		- work on the seventh day #DoNot 
+		- work on the seventh day  
 			- not you nor your
 				- son nor daughter
 				- male nor female servant
@@ -797,13 +797,13 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		- On the [[15\|15]]th day is [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]]
 			- to YHWH
 	- Do
-		- [[Gate of Wisdom/Numbers/07\|07]] days you eat unleavened bread #Dos 
-		- In the [[Gate of Wisdom/Numbers/01\|01]]st and [[Gate of Wisdom/Numbers/07\|07]]th day you shall have a holy convocation. #Dos 
-		- offer an offering made by fire [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]] #Dos 
+		- [[Gate of Wisdom/Numbers/07\|07]] days you eat unleavened bread  
+		- In the [[Gate of Wisdom/Numbers/01\|01]]st and [[Gate of Wisdom/Numbers/07\|07]]th day you shall have a holy convocation.  
+		- offer an offering made by fire [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]]  
 			- to YHWH
 			- for seven days
 	- Do Not
-		- In the [[Gate of Wisdom/Numbers/01\|01]]st and [[Gate of Wisdom/Numbers/07\|07]]th day do regular work #DoNot 
+		- In the [[Gate of Wisdom/Numbers/01\|01]]st and [[Gate of Wisdom/Numbers/07\|07]]th day do regular work  
 
 * **Blessing:**
    * No explicit blessing stated in the passage.

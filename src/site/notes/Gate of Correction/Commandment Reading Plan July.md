@@ -72,13 +72,13 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - **Outline:** 
 	- What does Yah require of you
 	- Do
-		- Fear him #Dos 
-		- Walk in all his ways #Dos 
-		- [[Gate of Wisdom/Ruach/Fruit/Love\|Love]] <mark style="background: #CD04BBA6;">//ahav//</mark> him #Dos 
-		- [[Gate of Wisdom/S/Serve\|Serve]] him with #Dos 
+		- Fear him  
+		- Walk in all his ways  
+		- [[Gate of Wisdom/Ruach/Fruit/Love\|Love]] <mark style="background: #CD04BBA6;">//ahav//</mark> him  
+		- [[Gate of Wisdom/S/Serve\|Serve]] him with  
 			- all your heart
 			- all your soul
-		- Keep his [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] and  [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] #Dos 
+		- Keep his [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] and  [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]  
 			- which are given here today
 				- for your good
 	- Because
@@ -111,8 +111,8 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 	- Therefore (looking back in the text)
 		- Because God has been faithful and redeemed you
 	- Do
-		- love him #Dos 
-		- at all times keep his #Dos 
+		- love him  
+		- at all times keep his  
 			- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 			- [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
 			- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]			- 
@@ -150,7 +150,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 	   * all the congregation 
 		   * of children of [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]] ([[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]) <mark style="background: #CD04BBA6;">//congregation = ecclesia in Greek//</mark>
    * Do
-	   * be Set-apart ([[Gate of Wisdom/H/Holy\|Holy]]) #Dos 
+	   * be Set-apart ([[Gate of Wisdom/H/Holy\|Holy]])  
    * Because
 	   * YHWH is set-apart
 
@@ -171,8 +171,8 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 * [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
 * **Outline:**
    * Do
-	   * [[Gate of Wisdom/S/Sanctify\|Sanctify]] (qadosh) yourselves #Dos 
-	   * Be set-apart (qodesh) [[Gate of Wisdom/H/Holy\|Holy]] #Dos 
+	   * [[Gate of Wisdom/S/Sanctify\|Sanctify]] (qadosh) yourselves  
+	   * Be set-apart (qodesh) [[Gate of Wisdom/H/Holy\|Holy]]  
    * Because
 	   * I am YHWH
 		   * your [[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]]
@@ -206,14 +206,14 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 				- which you have not known
 			- serve other gods
 	- Do not
-		- listen to the words of the prophet or dreamer #DoNot 
+		- listen to the words of the prophet or dreamer  
 	- Because
 		- YHWH is testing you
 			- to know whether you love him
 				- with all your heart
 				- with all your soul
 	- Do
-		- walk after YHWH #Dos 
+		- walk after YHWH  
 			- fear him
 			- keeps his [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
 			- obey his voice
@@ -245,7 +245,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 * [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
 * **Outline:**
    * Do
-	   * be [[Gate of Wisdom/B/Blameless\|Blameless]] #Dos 
+	   * be [[Gate of Wisdom/B/Blameless\|Blameless]]  
 		   * with YHWH
 
 * **Blessing:**
@@ -267,8 +267,8 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 * [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 * **Outline:**
    * Do
-	   * Respect mother and father #Dos 
-	   * keep my [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] #Dos 
+	   * Respect mother and father  
+	   * keep my [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]]  
    * Because
 	   * I am YHWH
 		   * your [[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]]
@@ -293,7 +293,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - **Outline:** 
 	- Do Not
-		- dishonor father or mother #DoNot 
+		- dishonor father or mother  
 		- [[Gate of Wisdom/C/Cursed\|Cursed]] is he who does
 - **Blessing:**
     - None explicitly stated within the verse
@@ -357,7 +357,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		- as a foreigner //lives as a stranger//
 			- in your land
 	- Do Not
-		- do him wrong #DoNot 
+		- do him wrong  
 	- Do
 		- he shall be as a [[Gate of Wisdom/Beings/Human Beings/Native-born\|Native-born]]
 		- love him as yourself

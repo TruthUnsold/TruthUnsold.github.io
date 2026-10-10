@@ -5,7 +5,7 @@
 **One-Year FEMALE Reading Plan for All Applicable Biblical [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]**  
 Starting March 20; 365 day
 
-[[Gate of Wisdom/C/Commandment Reading Plan\|Commandment Reading Plan]]
+[[Gate of Wisdom/C/Commandment Reading Plan\|Commandment Reading Plan]] [[Gate of Foundation/Put His Name\|Put His Name]]
 
 Commands, statutes (chuqim), ordinances/charges (mishmerot/tsavah), judgments (mishpatim), precepts (pikkudim), or general mitzvash that applies to all people is included. 
 
@@ -80,13 +80,68 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
     - The offerings are not prescribed here as remedy for violation — they are the content of the command itself; bringing them to the right place is the act of obedience
 - <mark style="background: #CD04BBA6;">Personal Observations</mark>
 	- The broader context of Deuteronomy 12:2-4 establishes the negative contrast — the places where the nations worship on high mountains, under green trees, must be destroyed; bringing offerings anywhere other than the chosen place implicitly aligns Israel with those practices.
-	- [[Zunpublished/Put His Name\|Put His Name]]
+	- [[Gate of Foundation/Put His Name\|Put His Name]]
 
-**October 2**: Exodus 23:25 – “Worship the LORD your God, and his blessing will be on your food and water. I will take away sickness from among you.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+## **October 2**: Exodus 23:25 – Serve Yahweh Alone: [Exodus 23:25](https://www.biblegateway.com/passage/?search=Exodus%2023:25&version=WEB;NET;OJB)
 
-**October 3**: Deuteronomy 10:20 – “Fear the LORD your God and serve him. Hold fast to him and take your oaths in his name.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:**
+	- Do
+		- [[Gate of Wisdom/S/Serve\|Serve]] Yah #Dos 
+	- He will
+		- [[Gate of Wisdom/B/Bless\|Bless]] your 
+			- bread
+			- water
+		- Take sickness away from you
+- **Blessing:**
+    - Bread and water blessed (provision secured) — Exodus 23:25
+    - Sickness removed from among them — Exodus 23:25
+    - Barrenness and miscarriage prevented, length of days fulfilled — Exodus 23:26
+- **Penalty or Consequence:**
+    - Not stated directly in this passage; contextually tied to the surrounding warning against worshiping the gods of the nations and their practices (Exodus 23:24, 32-33) — the implied consequence of disobedience is becoming ensnared by those gods
+- **Offering or Ransom:**
+    - None specified
 
-**October 4**: Deuteronomy 11:22 – “If you carefully observe all these commands I am giving you to follow—to love the LORD your God, to walk in obedience to him...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+## **October 3**:  Fear and Serve Yahweh, Hold Fast, Swear by His Name: [Deuteronomy 10:20](https://www.biblegateway.com/passage/?search=Deuteronomy+10:20&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** *
+	- Do
+		- fear YHWH
+		- serve him
+		- cling to him
+		- swear by his name
+- **Blessing:**
+    - None explicitly stated within the verse
+    - The surrounding context (Deut. 10:12-22) frames obedience as the natural response to Yahweh's greatness — the blessing is the relationship itself
+- **Penalty or Consequence:**
+    - None explicitly stated within the verse
+    - Consistent with Deuteronomy 6:13 — the broader Deuteronomic framework applies; departure from these commands leads to loss of land and covenant standing
+- **Offering or Ransom:**
+    - None prescribed
+    - Violation is covenantal in nature, not sacrificial
+
+## **October 4**:  Hold Fast — Love, Walk, Cleave: [Deuteronomy 11:22](https://www.biblegateway.com/passage/?search=Deuteronomy+11:22&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:**  
+	- Do
+		- Diligently keep all these [[Gate of Wisdom/Right Standing/Commandments\|Commandments]] #Dos 
+			- which I command you
+			- do them
+		- Love YHWH #Dos 
+		- Walk in all his ways #Dos 
+		- Cling to him #Dos 
+- **Blessing:**
+    - None explicitly stated within the verse
+    - The immediate context of Deuteronomy 11:23-25 delivers the blessing directly — Yahweh will drive out all these nations before you, you will dispossess nations greater and mightier than yourselves, every place the sole of your foot treads shall be yours, no man shall stand against you
+    - The blessing is territorial and military — land possession and victory over enemies tied directly to the three-fold command of v.22
+- **Penalty or Consequence:**
+    - None explicitly stated within the verse
+- **Offering or Ransom:**
+    - None prescribed
+    - The command is relational and covenantal — three verbs of intimacy and loyalty; no sacrificial mechanism is attached
 
 **October 5**: Leviticus 20:22-26 – “Keep all my decrees and laws and follow them, so that the land... may not vomit you out... You must be holy to me because I, the LORD, am holy...” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  
 

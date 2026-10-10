@@ -31,6 +31,7 @@ Buy the truth, and don’t sell it.
 
 | Latest Drops                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gate of Foundation/Put His Name\|Put His Name]]                                                                                                                                        |
 | [[Gate of Wisdom/T/Tithe\|Tithe]]                                                                                                                                                        |
 | [[Gate of Foundation/Acts 2 Connections Scripture Survey\|Acts 2 Connections Scripture Survey]]                                                                                          |
 | [[Gate of Correction/The Great Commission\|The Great Commission]]                                                                                                                        |
@@ -50,7 +51,6 @@ Buy the truth, and don’t sell it.
 | [[Gate of Wisdom/N/Neighbor\|Neighbor]]                                                                                                                                                  |
 | [[Gate of Wisdom/Beings/Human Beings/Jeroboam II\|Jeroboam II]]                                                                                                                          |
 | [[Gate of Wisdom/Sources/Torah Class\|Torah Class]]                                                                                                                                      |
-| [[Gate of Wisdom/T/tongues\|tongues]]                                                                                                                                                    |
 
 { .block-language-dataview}
 

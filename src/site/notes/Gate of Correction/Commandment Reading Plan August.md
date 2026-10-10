@@ -49,11 +49,11 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 
 ## **August 1**: Do Not Wrong the Sojourner: [Exodus 22:21](https://www.biblegateway.com/passage/?search=Exodus%2022:21&version=WEB;NET;OJB)
 
-- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Commands (Mitzvot)****\|Commands (Mitzvot)****]]
 - **Outline:** *
 	- Do Not
-		- wrong a [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]] ([[Gate of Wisdom/G/ger\|ger]]) #DoNot 
-		- oppress a stranger #DoNot 
+		- wrong a [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]] ([[Gate of Wisdom/G/ger\|ger]])  
+		- oppress a stranger  
 	- Because
 		- you were aliens
 			- in the land of Egypt
@@ -73,12 +73,12 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		- [[Gate of Wisdom/Beings/Human Beings/Foreigner\|Foreigner]] 
 		- fatherless
 	- Do not
-		- deprive foreigner of justice #DoNot 
-		- take widows clothing in pledge #DoNot 
+		- deprive foreigner of justice  
+		- take widows clothing in pledge  
 
 	- Do
-		- remember you were a slave in Egypt #Dos 
-		- remember YHWH redeemed you #Dos 
+		- remember you were a slave in Egypt  
+		- remember YHWH redeemed you  
 - **Penalty or Consequence**: 
 	- No explicit penalty, but risks divine judgment (Deut. 28:15-68).
 - **Offering or Ransom**: 
@@ -93,8 +93,8 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 * [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 * **Outline:**
    * Do not
-	   * curse the deaf #DoNot 
-	   * put a stumbling block before the blind #DoNot 
+	   * curse the deaf  
+	   * put a stumbling block before the blind  
    * Do
 	   * Fear your [[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]]
    * Because
@@ -118,7 +118,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - **Outline:** 
 	- Cursed is he who
 	- Do Not
-		- leads the blind astray on the road #DoNot 
+		- leads the blind astray on the road  
 - **Blessing:**
     - None explicitly stated
     - The mirror blessing is implied — those who **guide the blind in the right way** walk in the spirit of Leviticus 19:14 which frames the prohibition positively as fearing Yahweh
@@ -139,14 +139,14 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 			- ox
 			- donkey
 	- Do
-		- bring it back to him again #Dos 
+		- bring it back to him again  
 	- if you see ... fallen down under his burden
 		- someone who hates you
 			- donkey
 	- Do Not
-		- leave him #DoNot 
+		- leave him  
 	- Do
-		- help him with it #Dos 
+		- help him with it  
 - **Blessing:**
     - None specified
 - **Penalty or Consequence:**
@@ -160,7 +160,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:** *
 	- Do Not
-		- hid yourself from #DoNot 
+		- hid yourself from  
 			- a brothers <mark style="background: #CD04BBA6;">//covenant community member//</mark> 
 				- ox or sheep
 					- going astray
@@ -170,7 +170,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 				- donkey or ox
 					- fallen down by the way
 	- Do
-		- bring them again #Dos 
+		- bring them again  
 			- to your brother
 				- if the brother 
 					- isn't near
@@ -178,7 +178,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 				- then bring it to your home
 					- it will be with  you until your brother comes looking for it
 						- then you will restore it to him.
-		- lift them up again #Dos 
+		- lift them up again  
 - **Blessing:**
     - None explicitly stated
     - The implied blessing is **communal trust and social cohesion** — a community where lost property is returned and fallen animals are helped back up is one where neighbors bear genuine responsibility for one another
@@ -201,10 +201,10 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		- with young ones or eggs
 			- the hen sitting on the young or the eggs
 	- Do not
-		- take the hen with the young #DoNot 
+		- take the hen with the young  
 	- Do
-		- let the hen go #Dos 
-		- take the young for yourself #Dos 
+		- let the hen go  
+		- take the young for yourself  
 	- So that
 		- it may be well with you
 		- you may prolong your days. 
@@ -224,7 +224,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:** 
 	- Do not
-		- muzzle ox #DoNot 
+		- muzzle ox  
 			- when he treads out the grain
 - **Blessing:**
     - None explicitly stated
@@ -245,7 +245,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - **Outline:** 
 	- When you build a new house
 	- Do
-		- make a railing around your roof #Dos 
+		- make a railing around your roof  
 	- So that
 		- you don't bring blood on your house
 			- if someone falls from there
@@ -270,13 +270,13 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		- vineyard
 		- standing grain
 	- Do
-		- eat your fill of grapes #Dos 
+		- eat your fill of grapes  
 			- at your own pleasure
-		- pluck the ears with your hand #Dos 
+		- pluck the ears with your hand  
 			- with your hand
 	- Do Not
-		- put any in your container #DoNot 
-		- use a sickle on the standing grain #DoNot 
+		- put any in your container  
+		- use a sickle on the standing grain  
 - **Blessing:**
     - None explicitly stated
     - The implied blessing is **communal generosity with boundaries** — a neighbor's field and vineyard are accessible to the hungry passerby, reflecting the same spirit as the gleaning laws (Lev. 19:9-10; Deut. 24:19-21)
@@ -294,8 +294,8 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:** 
 	- Do not
-		- take the mill as a pledge #DoNot 
-		- take the millstone as a pledge #DoNot 
+		- take the mill as a pledge  
+		- take the millstone as a pledge  
 	- Because
 		- he takes a life in pledge
 - **Blessing:**
@@ -316,11 +316,11 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 	- When you lend to your neighbor
 		- any kind of loan
 	- Do not
-		- go into his house #DoNot 
+		- go into his house  
 			- to get his pledge
-		- if he is poor do not sleep with his pledge #DoNot 
+		- if he is poor do not sleep with his pledge  
 	- Do
-		- stand outside #Dos 
+		- stand outside  
 			- the man to whom you lend
 				- will bring the pledge outside to you	
 		- if he is poor restore him to him the pledge
@@ -348,15 +348,15 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		- beat your olive tree
 		- harvest you vineyard
 	- Do not
-		- go again to get the sheaf #DoNot 
-		- go over the boughs again #DoNot 
-		- do not glean it after #DoNot 
+		- go again to get the sheaf  
+		- go over the boughs again  
+		- do not glean it after  
 	- Do
-		- the sheaf, bough, fruit will be for #Dos 
+		- the sheaf, bough, fruit will be for  
 			- the [[Gate of Wisdom/Beings/Human Beings/Foreigner\|Foreigner]]
 			- the fatherless
 			- the widow
-		- remember that you were a slave in the land of Egypt #Dos 
+		- remember that you were a slave in the land of Egypt  
 	- So that
 		- YHWH may bless you in all the work of your hands
 - **Penalty or Consequence**: 
@@ -373,14 +373,14 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 	- When you reap the harvest of your land ...
 
 	- Do Not
-		- wholly reap the corners of your field #DoNot
-		- gather the gleanings of your harvest #DoNot
-		- glean your vineyard #DoNot
-		- gather the fallen grapes from your vineyard #DoNot
+		- wholly reap the corners of your field 
+		- gather the gleanings of your harvest 
+		- glean your vineyard 
+		- gather the fallen grapes from your vineyard 
 	- Do
-		- leave //the corners of your field// for the [[Gate of Wisdom/P/Poor\|Poor]] and the [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]] #Dos 
-		- leave //the [[Gate of Wisdom/G/gleaning\|gleaning]]s of your harvest and vineyard for the poor and the Stranger #Dos 
-		- leave //the fallen grapes// for the poor and the stranger #Dos 
+		- leave //the corners of your field// for the [[Gate of Wisdom/P/Poor\|Poor]] and the [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]]  
+		- leave //the [[Gate of Wisdom/G/gleaning\|gleaning]]s of your harvest and vineyard for the poor and the Stranger  
+		- leave //the fallen grapes// for the poor and the stranger  
 	- Because
 		- YHWH is your god
 - **Penalty or Consequence**: 
@@ -392,7 +392,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.** 
 
-# **August 15**:  [Exodus 22:25 / Leviticus 25:35-37](https://www.biblegateway.com/passage/?search=Exodus%2022%3A25%2C%20Leviticus%2025%3A35-37&version=WEB;NET;OJB) – Lend freely to the poor / do not take interest. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**  #LoveNeighbor #DoNot #Dos 
+# **August 15**:  [Exodus 22:25 / Leviticus 25:35-37](https://www.biblegateway.com/passage/?search=Exodus%2022%3A25%2C%20Leviticus%2025%3A35-37&version=WEB;NET;OJB) – Lend freely to the poor / do not take interest. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**  #LoveNeighbor   
 
 To My //YHWH's// People who are Poor
 If you lend money
@@ -430,13 +430,13 @@ Why?
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:** 
 	- Do not
-		- lend on interest to a brother //fellow covenant community member// #DoNot 
+		- lend on interest to a brother //fellow covenant community member//  
 			- interest of
 				- money
 				- food
 				- anything that is lent
 	- Do (you may)
-		- charge a [[Gate of Wisdom/Beings/Human Beings/Foreigner\|Foreigner]] interest #Dos 
+		- charge a [[Gate of Wisdom/Beings/Human Beings/Foreigner\|Foreigner]] interest  
 	- So that
 		- YHWH may bless you
 			- in all that you put your hand to
@@ -463,16 +463,16 @@ Why?
 			- in your land
 				- which YHWH gives you
 	- Do not
-		- harden your heart #DoNot 
-		- shut your hand from him #DoNot 
+		- harden your heart  
+		- shut your hand from him  
 	- Do
-		- open your hand to him #Dos 
-		- lend him sufficient for his needs #Dos 
+		- open your hand to him  
+		- lend him sufficient for his needs  
 			- which he lacks
 	- Beware
 		- Do not
-			- have a wicked thought in your heart in the seventh year #DoNot 
-			- an eye of evil against your poor brother #DoNot 
+			- have a wicked thought in your heart in the seventh year  
+			- an eye of evil against your poor brother  
 				- and give him nothing
 	- Because
 		- he may cry to YHWH against you
@@ -496,11 +496,11 @@ Why?
 - **Outline:** 
 	- At the end of every seven years
 	- Do
-		- Cancel debts #Dos 
+		- Cancel debts  
 			- every creditor shall release what he has lent 
 				- to his neighbor //those living among you//
 	- Do not
-		- require payment from #DoNot 
+		- require payment from  
 			- neighbor //those living among you//
 			- brother //fellow covenant member//
 	- Because
@@ -524,10 +524,10 @@ Why?
 * [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
 * **Outline:**
    * Do
-	   * make the fiftieth year [[Gate of Wisdom/H/Holy\|Holy]] #Dos 
-	   * proclaim liberty throughout the land #Dos 
+	   * make the fiftieth year [[Gate of Wisdom/H/Holy\|Holy]]  
+	   * proclaim liberty throughout the land  
 		   * to all its inhabitants
-	   * it will be a [[Gate of Wisdom/Appointed Time/Jubilee\|Jubilee]] to you #Dos 
+	   * it will be a [[Gate of Wisdom/Appointed Time/Jubilee\|Jubilee]] to you  
 		   * return to your own property
 		   * return to your family
 
@@ -555,13 +555,13 @@ Why?
 			- man
 			- woman
 	- Do
-		- In the seventh year let him go free #Dos 
-		- furnish him liberally out of your #DoNot 
+		- In the seventh year let him go free  
+		- furnish him liberally out of your  
 			- flock
 			- threshing floor
 			- wine press
 	- Do not
-		- let him go empty handed #DoNot 
+		- let him go empty handed  
 	- Because
 		- YHWH has blessed you
 			- you will give to him
@@ -586,11 +586,11 @@ Why?
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:** 
 	- Do not
-		- deliver a servant who has escaped #DoNot 
+		- deliver a servant who has escaped  
 			- to his master
-		- oppress him #DoNot 
+		- oppress him  
 	- Do
-		- he will dwell with you #Dos 
+		- he will dwell with you  
 			- among you
 			- in a place of his choose
 				- within your gates
@@ -610,7 +610,7 @@ Why?
 * [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 * **Outline:**
    * Do not
-	   * Profane your daughter #DoNot 
+	   * Profane your daughter  
 		   * to make her a prostitute
 * Because
 	* the land fall to prostitution
@@ -654,11 +654,11 @@ Why?
 * [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 * **Outline:**
    * The man who
-	   * commits [[Gate of Wisdom/A/Adultery\|Adultery]] #DoNot 
+	   * commits [[Gate of Wisdom/A/Adultery\|Adultery]]  
 		   * with another man's wife
 		   * with a neighbor's wife
 	* the adulterer and the adulteress
-		* shall be put to death #Dos 
+		* shall be put to death  
 
 * **Blessing:**
    * No explicit blessing stated in the verse.
@@ -683,12 +683,12 @@ Why?
 		- accuses her of shameful things
 		- gives her a bad name
 		- and says "I took this woman and when I came near to her I didn't find in her the tokens of virginity"
-	- Then the young lady's father and mother shall #Dos 
+	- Then the young lady's father and mother shall  
 		- take and bring the tokens
 			- of the lady's virginity to the elders of the city gate
 		- tell the elders "I gave my daughter to this man as his wife and he hates her"
 		- spread the cloth before the elders of the city
-	- The elders of the city shall #Dos 
+	- The elders of the city shall  
 		- If Not True
 			- take the man and chastise him
 			- fine him one hundred shekels of silver
@@ -700,7 +700,7 @@ Why?
 				- Because she has done folly in Israel
 				- to play the prostitute in her father's house
 				- So you shall remove the evil from among you
-	- If not true - The young lady shall #Dos 
+	- If not true - The young lady shall  
 		- be his wife
 		- he may not put her away all his days		- 
 - **Blessing:**
@@ -740,7 +740,7 @@ Why?
 			- her former husband may not take her again to be his wife
 				- after she is defiled
 					- that would be an abomination to YHWH
-				- you shall not cause the land to sin #DoNot 
+				- you shall not cause the land to sin  
 					- which YHWH your god gives you for an inheritance
 - **Blessing:**
     - None explicitly stated within the passage
@@ -760,8 +760,8 @@ Why?
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:** 
 	- Do not
-		- women shall not wear men's clothing #DoNot 
-		- man shall not wear women's clothing #DoNot 
+		- women shall not wear men's clothing  
+		- man shall not wear women's clothing  
 	- Who ever does these
 		- is an abomination to YHWH
 - **Blessing:**
@@ -778,15 +778,15 @@ Why?
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - **Outline:**
 	- Do Not
-		- sow vineyard with two kinds of seeds #DoNot 
+		- sow vineyard with two kinds of seeds  
 			- all the fruit will be defiled
 			- all the seed will be defiled
 			- the increase of the vineyard will be defiled
-		- plow with an ox and a donkey together #DoNot 
-		- wear clothes of wool and linen woven together #DoNot 
-		- cross-breed different animals #DoNot 
-		- sow field with two kinds of seeds #DoNot 
-		- wear a garment made of two kinds of material #DoNot 
+		- plow with an ox and a donkey together  
+		- wear clothes of wool and linen woven together  
+		- cross-breed different animals  
+		- sow field with two kinds of seeds  
+		- wear a garment made of two kinds of material  
 - **Blessing:**
     - None explicitly stated
 - **Penalty or Consequence:**
@@ -807,11 +807,11 @@ Why?
 * [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 * **Outline:**
    * Do
-	   * Keep my [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] #Dos 
+	   * Keep my [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]  
    * Do Not
-	   * cross-breed different kinds of animals #DoNot 
-	   * sow your field with two kinds of seeds #DoNot 
-	   * wear a garment made of two kinds of material #DoNot 
+	   * cross-breed different kinds of animals  
+	   * sow your field with two kinds of seeds  
+	   * wear a garment made of two kinds of material  
 
 * **Blessing:**
    * No explicit blessing stated in the verse.

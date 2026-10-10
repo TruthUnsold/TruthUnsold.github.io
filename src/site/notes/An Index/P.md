@@ -35,6 +35,7 @@
 - [[Gate of Wisdom/Beings/Human Beings/Prophet\|Prophet]]
 - [[Gate of Wisdom/P/Punishment\|Punishment]]
 - [[Gate of Wisdom/P/Pure\|Pure]]
+- [[Gate of Foundation/Put His Name\|Put His Name]]
 - [[Gate of Correction/Scripture Survey Shavuot Pentecost\|Scripture Survey Shavuot Pentecost]]
 - [[Gate of Wisdom/P/Shavuot Pentecost – a Convergence of Jewish and Christian Faiths\|Shavuot Pentecost – a Convergence of Jewish and Christian Faiths]]
 - [[Gate of Wisdom/P/Shavuot Pentecost – a Divergence of Jewish and Christian Faiths\|Shavuot Pentecost – a Divergence of Jewish and Christian Faiths]]

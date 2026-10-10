@@ -46,7 +46,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 [Link to Biblegateway for reading](https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&version=WEB;NET;OJB): 
 # April
 
-**April 1**: [Deuteronomy 6:5](https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A5&version=WEB;NET;OJB) – “Love the LORD your God with all your heart...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveGod #Dos#CommandMitzvot 
+**April 1**: [Deuteronomy 6:5](https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A5&version=WEB;NET;OJB) – “Love the LORD your God with all your heart...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveGod #CommandMitzvot 
 - Love ahavta or v’ahavta (אָהַבְתָּ)
 	- emphasizes covenant loyalty, faithful obedience, commitment and total devotion rather than mere emotion
 		- Obeying his commands
@@ -62,7 +62,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 	- In this verse: Translated as "might," "strength," or "power," it refers to all your resources, energy, ability, or capacity — everything you have at your disposal (physical, material, emotional, or otherwise).
 	- loving God with your full effort
 
-**April 2**: [Deuteronomy 10:20](https://www.biblegateway.com/passage/?search=Deuteronomy%2010%3A20&version=WEB;NET;OJB) – “Fear the LORD your God...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveGod #Dos#CommandMitzvot 
+**April 2**: [Deuteronomy 10:20](https://www.biblegateway.com/passage/?search=Deuteronomy%2010%3A20&version=WEB;NET;OJB) – “Fear the LORD your God...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveGod #CommandMitzvot 
 - Fear tîrāʾ (תִּירָ֖א)
 	- to revere, to stand in awe, to be afraid
 	- conveys reverential awe or holy fear—a deep respect, humility, and recognition of God’s holiness and power that leads to obedience, not mere terror
@@ -80,7 +80,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 
 [Leviticus 19](https://www.biblegateway.com/passage/?search=Leviticus%2019&version=WEB;NET;OJB)
 
-**April 3**: Leviticus 19:18 – “Love your neighbor as yourself.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveNeighbor #Dos#DoNot #CommandMitzvot 
+**April 3**: Leviticus 19:18 – “Love your neighbor as yourself.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveNeighbor  #CommandMitzvot 
 - Do not
 	- Take Vengeance tiqqōm or tiqom (תִקֹּם) (an action)
 		- take revenge, avenge, or retaliate personally. It implies active punishment or payback for a perceived wrong.
@@ -95,13 +95,13 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - Do
 	- Love your neighbor/others as yourself
 
-**April 4**: Leviticus 19:16 – “Do not go about spreading slander...” / “Do not stand idly by...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim 
+**April 4**: Leviticus 19:16 – “Do not go about spreading slander...” / “Do not stand idly by...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor  #JudgmentMishpatim 
 - [[Gate of Wisdom/Beings/Human Beings/slanderer\|slanderer]]
 	- The term רָכִיל (rakhil) is traditionally rendered “slanderer” but the exact meaning is uncertain (NET Bible commentary). Some would render it “to go about as a spy.”
 - Endanger the life
 	- suggests that one will not allow a neighbor to be victimized
 
-**April 5**: Leviticus 19:17 – “Do not hate a fellow Israelite in your heart... Rebuke your neighbor frankly...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim  #Dos
+**April 5**: Leviticus 19:17 – “Do not hate a fellow Israelite in your heart... Rebuke your neighbor frankly...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor  #JudgmentMishpatim  
 - Do Not
 	- hate tisnāʾ or tiśnā (תִשְׂנָ֥א)
 		- to be an enemy, to detest, or to feel intense dislike/hostility.
@@ -115,7 +115,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		- to decide, prove, correct, reprove, rebuke, or reason with someone; to set right or declare what is wrong in order to prompt change.
 		- command for constructive confrontation or frank reproof. Instead of hiding hatred, one must openly (but properly) address wrongdoing to prevent resentment from festering. The emphasis (via doubling) stresses that rebuke is mandatory and should be done directly.
 
-**April 6**: Leviticus 19:32 – “Stand up in the presence of the aged... revere your God.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveNeighbor #Dos #CommandMitzvot 
+**April 6**: Leviticus 19:32 – “Stand up in the presence of the aged... revere your God.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveNeighbor  #CommandMitzvot 
 - Do
 	- Stand up before elders
 		- The Hebrew (and many other) culture expected when an older person (visible gray/white hair) came near — whether walking by, entering a room, a gathering, or a home — younger people were expected to stand up as a sign of deference. 
@@ -124,7 +124,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 	- Fear YHWH
 		- Ancient hearers understood that mistreating the weak or aged was not just a social issue - honoring elders was a tangible way to show awe of God.
 
-**April 7**: [Deuteronomy 6:7](https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A7-8&version=WEB;NET;OJB) – “Impress them on your children. Talk about them when you sit at home...” - **[[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]** (teach Torah)  #LoveNeighbor #Dos #PreceptsPikkudim 
+**April 7**: [Deuteronomy 6:7](https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A7-8&version=WEB;NET;OJB) – “Impress them on your children. Talk about them when you sit at home...” - **[[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]** (teach Torah)  #LoveNeighbor  #PreceptsPikkudim 
 - them =  [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]], [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]], and [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 	- teach to children - the word conveys engraving - today we might say, "Drill it into them."
 	- speak of while
@@ -141,11 +141,11 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		- on the door frames of house and gates
 <mark style="background: #CD04BBA6;">Making note here - this is the verse directly after Love the Lord Your God with your mind, soul, and might ... which Jesus said was the greatest commandment. </mark> 
 
-**April 8**: [Deuteronomy 8:7-10](https://www.biblegateway.com/passage/?search=Deuteronomy%208%3A7-10&version=WEB;NET;OJB) – “When you have eaten and are satisfied, praise the LORD your God...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (grace after meals)  #LoveGod #Dos #CommandMitzvot 
+**April 8**: [Deuteronomy 8:7-10](https://www.biblegateway.com/passage/?search=Deuteronomy%208%3A7-10&version=WEB;NET;OJB) – “When you have eaten and are satisfied, praise the LORD your God...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (grace after meals)  #LoveGod  #CommandMitzvot 
 - [[Gate of Wisdom/B/Bless\|Bless]] YHWH
 	- for the good land he has given you
 
-**April 9**: [Exodus 23:25](https://www.biblegateway.com/passage/?search=Exodus%2023%3A25&version=WEB;NET;OJB) – “Worship the LORD your God...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]   #LoveGod #Dos #CommandMitzvot 
+**April 9**: [Exodus 23:25](https://www.biblegateway.com/passage/?search=Exodus%2023%3A25&version=WEB;NET;OJB) – “Worship the LORD your God...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]   #LoveGod  #CommandMitzvot 
 - Do this:
 	- worship/[[Gate of Wisdom/S/Serve\|Serve]] - The Hebrew concept of avad integrates labor, service to another, and worship as one idea. No sharp divide between daily work and sacred worship; both are avad when done in submission.  
 - God will do this:
@@ -153,7 +153,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 	- Bless your water
 	- Take sickness away from among you.
 
-**April 10**: Leviticus 19:9-10 – “Do not reap to the very edges of your field... Leave them for the poor...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**  #LoveNeighbor #DoNot #Dos #JudgmentMishpatim 
+**April 10**: Leviticus 19:9-10 – “Do not reap to the very edges of your field... Leave them for the poor...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**  #LoveNeighbor   #JudgmentMishpatim 
 
 When you reap the harvest of your land ...
 
@@ -171,7 +171,7 @@ Because
 
 <mark style="background: #CD04BBA6;">There is a difference between the word [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]]/ger (גֵּר), [[Gate of Wisdom/Beings/Human Beings/Foreigner\|Foreigner]]/nēkār (נֵכָר), and [[Gate of Wisdom/Beings/Human Beings/Sojourner\|Sojourner]]/toshav (תּוֹשָׁב). A Stranger is one that lives among the people. The Foreigner is one who lives outside. The Sojourner is one dwelling beside. The word used here is ger. </mark>
 
-**April 11**: [Deuteronomy 15:7-11](https://www.biblegateway.com/passage/?search=Deuteronomy%2015%3A7-11&version=WEB;NET;OJB) – “Do not be hardhearted or tightfisted toward your poor brother...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]] #LoveNeighbor #DoNot #Dos #JudgmentMishpatim 
+**April 11**: [Deuteronomy 15:7-11](https://www.biblegateway.com/passage/?search=Deuteronomy%2015%3A7-11&version=WEB;NET;OJB) – “Do not be hardhearted or tightfisted toward your poor brother...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]] #LoveNeighbor   #JudgmentMishpatim 
 
 Your brother, your needy, your poor
 - brother - the Hebrew concept of brother is a relative or a member of your community
@@ -210,7 +210,7 @@ Your brother, your needy, your poor
 - Sues for coat, give cloak - give
 - Give to him who asks, don't turn away him who desires to borrow from you - give what is sufficient and what is lacked. 
 
-**April 12**: [Deuteronomy 10:18-19](https://www.biblegateway.com/passage/?search=Deuteronomy%2010%3A18-19&version=WEB;NET;OJB) – “Love the foreigner, for you yourselves were foreigners...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveNeighbor #Dos #CommandMitzvot 
+**April 12**: [Deuteronomy 10:18-19](https://www.biblegateway.com/passage/?search=Deuteronomy%2010%3A18-19&version=WEB;NET;OJB) – “Love the foreigner, for you yourselves were foreigners...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveNeighbor  #CommandMitzvot 
 
 Yah-god executes Justice (The word Justice is mishpat [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]])
 - for the fatherless and widow
@@ -221,7 +221,7 @@ Do
 Why?
 - you were strangers in the land of Egypt
 
-**April 13**: [Exodus 22:21 / Leviticus 19:33-34](Exodus 22:21, Leviticus 19:33-34) – “Do not mistreat or oppress a foreigner...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #Dos #JudgmentMishpatim #DoNot 
+**April 13**: [Exodus 22:21 / Leviticus 19:33-34](Exodus 22:21, Leviticus 19:33-34) – “Do not mistreat or oppress a foreigner...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor  #JudgmentMishpatim  
 
 Exodus: To a [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]] (one who has integrated)
 - Do not
@@ -243,7 +243,7 @@ If a [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]] (one who has inte
 			- in the land of Egypt
 <mark style="background: #CD04BBA6;">The Stranger has chosen to integrate into the Israelites, to live as one of them. Accepts YHWH as their god.</mark>
 
-**April 14**: [Exodus 23:5 / Deuteronomy 22:4](https://www.biblegateway.com/passage/?search=Exodus%2023%3A5%2C%20Deuteronomy%2022%3A4&version=WEB;NET;OJB) – “If you see your fellow Israelite’s donkey or ox fallen on the road, do not ignore it. Help him...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(help with burden)  #LoveNeighbor #DoNot #Dos #JudgmentMishpatim 
+**April 14**: [Exodus 23:5 / Deuteronomy 22:4](https://www.biblegateway.com/passage/?search=Exodus%2023%3A5%2C%20Deuteronomy%2022%3A4&version=WEB;NET;OJB) – “If you see your fellow Israelite’s donkey or ox fallen on the road, do not ignore it. Help him...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(help with burden)  #LoveNeighbor   #JudgmentMishpatim 
 
 See donkey or ox
 - of a "brother" or "neighbor" in the sense of a fellow covenant member
@@ -254,7 +254,7 @@ See donkey or ox
 		- Do
 			- Help him (the fellow covenant member who hates you) with it.
 
-**April 15**: [Leviticus 19:14](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A14&version=WEB;NET;OJB) – “Do not curse the deaf or put a stumbling block in front of the blind...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #JudgmentMishpatim 
+**April 15**: [Leviticus 19:14](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A14&version=WEB;NET;OJB) – “Do not curse the deaf or put a stumbling block in front of the blind...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor  #JudgmentMishpatim 
 
 Do Not
 - To the Deaf
@@ -265,45 +265,45 @@ Do Not
 Do
 - Fear your god
 
-**April 16**: [Deuteronomy 24:19-21](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A19-21&version=WEB;NET;OJB) – “When you are harvesting... leave what is overlooked for the foreigner, the fatherless and the widow.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(forgotten sheaves)  #LoveNeighbor #Dos #DoNot #JudgmentMishpatim 
+**April 16**: [Deuteronomy 24:19-21](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A19-21&version=WEB;NET;OJB) – “When you are harvesting... leave what is overlooked for the foreigner, the fatherless and the widow.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**(forgotten sheaves)  #LoveNeighbor   #JudgmentMishpatim 
 
 - See April 10th - all similar wordings and meanings. 
 
-**April 17**: [Exodus 23:12](https://www.biblegateway.com/passage/?search=Exodus%2023%3A12&version=WEB;NET;OJB) – “Six days do your work, but on the seventh day do not work...” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]])  #LoveNeighbor #LoveGod #DoNot #Dos #OrdinanceMishmerot 
+**April 17**: [Exodus 23:12](https://www.biblegateway.com/passage/?search=Exodus%2023%3A12&version=WEB;NET;OJB) – “Six days do your work, but on the seventh day do not work...” [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]])  #LoveNeighbor #LoveGod   #OrdinanceMishmerot 
 
 - See [[Gate of Foundation/The Seventh Day Rest/04 The Seventh Day Rest for the Servants (02 Exod 23)\|04 The Seventh Day Rest for the Servants (02 Exod 23)]]
 - See [[Gate of Foundation/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]
 
 
-**April 18**: [Leviticus 23:3](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A3&version=WEB;NET;OJB) – “There are six days when you may work, but the seventh day is a day of sabbath rest...” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** / ordinance (Sabbath)  #LoveGod #Dos #DoNot 
+**April 18**: [Leviticus 23:3](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A3&version=WEB;NET;OJB) – “There are six days when you may work, but the seventh day is a day of sabbath rest...” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** / ordinance (Sabbath)  #LoveGod   
 
 - See [[Gate of Foundation/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]]
 - See [[Gate of Foundation/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]
 
-**April 19**: [Exodus 12:14-20 / Leviticus 23:5-8](https://www.biblegateway.com/passage/?search=Exodus%2012%3A14-20%2C%20Leviticus%2023%3A5-8&version=WEB;NET;OJB) – Observe Passover / eat matzah / rest on holy days (non-sacrifice aspects only). - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  #LoveGod #Dos #DoNot #StatuesChuqim 
+**April 19**: [Exodus 12:14-20 / Leviticus 23:5-8](https://www.biblegateway.com/passage/?search=Exodus%2012%3A14-20%2C%20Leviticus%2023%3A5-8&version=WEB;NET;OJB) – Observe Passover / eat matzah / rest on holy days (non-sacrifice aspects only). - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  #LoveGod   #StatuesChuqim 
 - See [[Gate of Wisdom/Appointed Time/Passover\|Passover]]
 - See [[Gate of Foundation/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]]
 - See [[Gate of Foundation/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]
 
-**April 20**: [Leviticus 23:15-16, 21](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A15-16%2C%2021&version=WEB;NET;OJB) – Count the Omer / rest on Shavuot. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** #LoveGod #Dos #DoNot #StatuesChuqim 
+**April 20**: [Leviticus 23:15-16, 21](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A15-16%2C%2021&version=WEB;NET;OJB) – Count the Omer / rest on Shavuot. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** #LoveGod   #StatuesChuqim 
 
 - See [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]]
 - See [[Gate of Foundation/The Seventh Day Rest/09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)\|09 The Seventh Day Rest is a Set Apart Time of Yah-God (03-Lev 23)]]
 - See [[Gate of Foundation/The Seventh Day Rest/_Seventh Day Rest Scripture Survey\|_Seventh Day Rest Scripture Survey]]
 
-**April 21**: [Leviticus 23:24-25](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A24-25&version=WEB;NET;OJB) – Rest on Rosh Hashanah. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  #LoveGod #Dos #DoNot #StatuesChuqim 
+**April 21**: [Leviticus 23:24-25](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A24-25&version=WEB;NET;OJB) – Rest on Rosh Hashanah. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  #LoveGod   #StatuesChuqim 
 - See [[Gate of Wisdom/Appointed Time/Feast of Trumpets\|Feast of Trumpets]]
 
-**April 22**: [Leviticus 23:27-32](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A27-32&version=WEB;NET;OJB) – Fast and rest on Yom Kippur. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  #LoveGod #Dos #DoNot #StatuesChuqim 
+**April 22**: [Leviticus 23:27-32](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A27-32&version=WEB;NET;OJB) – Fast and rest on Yom Kippur. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  #LoveGod   #StatuesChuqim 
 - See [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]]
 
-**April 23**: [Leviticus 23:34-36, 39-43](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A34-36%2C%2039-43&version=WEB) – Rest / dwell in sukkah on Sukkot (non-lulav aspects). - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  #LoveGod #Dos #DoNot #StatuesChuqim 
+**April 23**: [Leviticus 23:34-36, 39-43](https://www.biblegateway.com/passage/?search=Leviticus%2023%3A34-36%2C%2039-43&version=WEB) – Rest / dwell in sukkah on Sukkot (non-lulav aspects). - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  #LoveGod   #StatuesChuqim 
 - See [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]
 
-**April 24**: [Deuteronomy 16:13-15](https://www.biblegateway.com/passage/?search=Deuteronomy%2016%3A13-15&version=WEB) – Be joyful on the festivals. - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveGod #LoveNeighbor #Dos #CommandMitzvot 
+**April 24**: [Deuteronomy 16:13-15](https://www.biblegateway.com/passage/?search=Deuteronomy%2016%3A13-15&version=WEB) – Be joyful on the festivals. - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveGod #LoveNeighbor  #CommandMitzvot 
 - See [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]
 
-**April 25**: [Leviticus 11:1-47](https://www.biblegateway.com/passage/?search=Leviticus%2011%3A1-47&version=WEB;NET;OJB) “These are the regulations concerning animals...” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**   #LoveGod #StatuesChuqim #Dos #DoNot 
+**April 25**: [Leviticus 11:1-47](https://www.biblegateway.com/passage/?search=Leviticus%2011%3A1-47&version=WEB;NET;OJB) “These are the regulations concerning animals...” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**   #LoveGod #StatuesChuqim   
 
 This is the [[Gate of Wisdom/T/Torah\|Torah]] of
 - the animal
@@ -420,7 +420,7 @@ Cause one to become unclean until evening
 [NET Bible commentary quote](https://www.biblegateway.com/passage/?search=Lev.10.10&version=NET), 
 	"With regard to the animals ([Lev 11](https://www.biblegateway.com/passage/?search=Lev.11&version=NET)), some were by nature “unclean,” so they could never be eaten, but others were by nature “clean” and, therefore, edible ([Lev 11:2](https://www.biblegateway.com/passage/?search=Lev.11.2&version=NET), [46-47](https://www.biblegateway.com/passage/?search=Lev.11.46-Lev.11.47&version=NET)). The meat of clean animals could become inedible by too long of a delay in eating it, in which case the Hebrew term פִּגּוּל (_piggul_) “foul, spoiled” is used to describe it ([Lev 7:18](https://www.biblegateway.com/passage/?search=Lev.7.18&version=NET); [19:7](https://www.biblegateway.com/passage/?search=Lev.19.7&version=NET); cf. also [Ezek 4:14](https://www.biblegateway.com/passage/?search=Ezek.4.14&version=NET) and [Isa 65:4](https://www.biblegateway.com/passage/?search=Isa.65.4&version=NET)), not the term for “unclean” (טָהוֹר, _tahor_). Strictly speaking, therefore, unclean meat never becomes clean, and clean meat never becomes unclean."
 
-**April 26**: [Leviticus 19:19 / Deuteronomy 22:9-11](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A19%2C%20Deuteronomy%2022%3A9-11&version=WEB;NET;OJB) – Do not mix kinds (seeds, animals, fabrics). - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  #DoNot #LoveGod #StatuesChuqim #Dos 
+**April 26**: [Leviticus 19:19 / Deuteronomy 22:9-11](https://www.biblegateway.com/passage/?search=Leviticus%2019%3A19%2C%20Deuteronomy%2022%3A9-11&version=WEB;NET;OJB) – Do not mix kinds (seeds, animals, fabrics). - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**   #LoveGod #StatuesChuqim  
 
 Do
 - Keep Yah's [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
@@ -445,7 +445,7 @@ kinds = kila’yim (כִּלְאַיִם) - diverse kind or two kinds
 
 <mark style="background: #CD04BBA6;">In regard to the two seeds, there isn't really any further information in the Scriptures. If we look out into our fields, Yah, clearly allows nature to plant two kinds of seeds? Scholars often infer that the biblical prohibition (especially the stricter vineyard rule with its forfeiture penalty) may have served to separate Israel from surrounding cultural practices involving agricultural magic or fertility rites, but the supporting ancient manuscripts for the exact custom remain limited or indirect.</mark>
 
-**April 27**: [Deuteronomy 22:5](https://www.biblegateway.com/passage/?search=Deuteronomy%2022%3A5&version=WEB;NET;OJB) – “A woman must not wear men’s clothing, nor a man wear women’s clothing...”  [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveNeighbor #CommandMitzvot #DoNot 
+**April 27**: [Deuteronomy 22:5](https://www.biblegateway.com/passage/?search=Deuteronomy%2022%3A5&version=WEB;NET;OJB) – “A woman must not wear men’s clothing, nor a man wear women’s clothing...”  [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  #LoveNeighbor #CommandMitzvot  
 
 Do not
 - woman wear men's clothing 
@@ -486,7 +486,7 @@ Because
 - Cultures
 	- there were festivals to other gods which specifically involved men dressing up like women and women dressing up like men. 
 
-**April 28**: [Deuteronomy 15:1-2, 9-10](https://www.biblegateway.com/passage/?search=Deuteronomy%2015%3A1-2%2C%209-10&version=WEB;NET;OJB) – Release debts in the seventh year. [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]])  #Dos #DoNot #OrdinanceMishmerot #LoveNeighbor 
+**April 28**: [Deuteronomy 15:1-2, 9-10](https://www.biblegateway.com/passage/?search=Deuteronomy%2015%3A1-2%2C%209-10&version=WEB;NET;OJB) – Release debts in the seventh year. [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]])    #OrdinanceMishmerot #LoveNeighbor 
 
 At the end of every seven years
 
@@ -516,7 +516,7 @@ Because
 
 <mark style="background: #CD04BBA6;">A creditor here is strictly a person who has loaned money, goods, or resources (usually money or produce) to another covenant community member with the expectation of repayment.</mark>
 
-**April 29**: [Deuteronomy 23:19-20](https://www.biblegateway.com/passage/?search=Deuteronomy%2023%3A19-20&version=WEB;NET;OJB) – Do not charge interest to a fellow Israelite. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor #DoNot #Dos 
+**April 29**: [Deuteronomy 23:19-20](https://www.biblegateway.com/passage/?search=Deuteronomy%2023%3A19-20&version=WEB;NET;OJB) – Do not charge interest to a fellow Israelite. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** #LoveNeighbor   
 
 To your brother (ach = kinsman within the covenant community)
 Do not
@@ -532,7 +532,7 @@ To a [[Gate of Wisdom/Beings/Human Beings/Foreigner\|Foreigner]] (foreign, stran
 Do (may)
 - charge interest
 
-**April 30**: [Exodus 22:25 / Leviticus 25:35-37](https://www.biblegateway.com/passage/?search=Exodus%2022%3A25%2C%20Leviticus%2025%3A35-37&version=WEB;NET;OJB) – Lend freely to the poor / do not take interest. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**  #LoveNeighbor #DoNot #Dos 
+**April 30**: [Exodus 22:25 / Leviticus 25:35-37](https://www.biblegateway.com/passage/?search=Exodus%2022%3A25%2C%20Leviticus%2025%3A35-37&version=WEB;NET;OJB) – Lend freely to the poor / do not take interest. - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]**  #LoveNeighbor   
 
 To My //YHWH's// People who are Poor
 If you lend money

@@ -31,6 +31,7 @@
 - [[Gate of Wisdom/Covenant/Noahic\|Noahic]]
 - [[Gate of Wisdom/N/Notes of 14th of Nisan\|Notes of 14th of Nisan]]
 - [[Gate of Discernment/Old, New, and Renewed\|Old, New, and Renewed]]
+- [[Gate of Foundation/Put His Name\|Put His Name]]
 - [[Gate of Wisdom/Appointed Time/The Week of Passover\|The Week of Passover]]
 - [[Gate of Discernment/What is the New Covenant\|What is the New Covenant]]
 
