@@ -3,6 +3,19 @@
 ---
 
 
+```base
+views:
+  - type: table
+    name: View
+    filters:
+      and:
+        - file.tags.containsAny("A")
+
+```
+
+
+
+
 - [[Gate of Wisdom/Beings/Human Beings/Aaron\|Aaron]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Aarons Staff\|Aarons Staff]]
 - [[Gate of Wisdom/Beings/Human Beings/Abimelech\|Abimelech]]
