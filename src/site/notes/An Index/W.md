@@ -15,6 +15,7 @@
 - [[Gate of Wisdom/S/Timeline\|Timeline]]
 - [[Gate of Wisdom/W/Wash\|Wash]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Watchers\|Watchers]]
+- [[Gate of Wisdom/Offering/Wave Offering\|Wave Offering]]
 - [[Gate of Wisdom/R/Wicked Lives vs Righteous Dies\|Wicked Lives vs Righteous Dies]]
 - [[Gate of Wisdom/R/Wicked Turning Back vs Righteous Turning Back\|Wicked Turning Back vs Righteous Turning Back]]
 - [[Gate of Wisdom/W/Will\|Will]]

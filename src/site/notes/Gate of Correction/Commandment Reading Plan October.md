@@ -45,7 +45,42 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 [Link to Biblegateway for reading](https://www.biblegateway.com/passage/?search=Exodus%2020%3A2&version=WEB;NET;OJB): 
 # October
 
-**October 1**: Deuteronomy 12:5-7 (general worship) – “You must seek the place the LORD your God will choose... There bring your burnt offerings...” (general principle of centralized worship, non-Temple specific). - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
+## **October 1**: Bring Your Offerings to the Place Yahweh Chooses: [Deuteronomy 12:5-7](https://www.biblegateway.com/passage/?search=Deuteronomy+12:5-7&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- **Outline:**  
+	- Do
+		- Seek his habitation and come to the place YHWH chooses #Dos 
+			- out of all your tribes
+			- puts his name there
+			- bring there your #Dos 
+				- [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]]
+				- [[Gate of Wisdom/T/Tithe\|Tithe]]
+				- [[Gate of Wisdom/Offering/Wave Offering\|Wave Offering]] of your hand ([[Gate of Wisdom/Offering/Heave Offering\|Heave Offering]])
+				- Vows
+				- [[Gate of Wisdom/Offering/Free Will Offering\|Free Will Offering]]
+				- [[Zunpublished/Firstborn\|Firstborn]] of your herd and of your flock
+			- eat there #Dos
+				- before YHWH
+				- rejoice in all that you put your hand to
+					- you
+					- your household
+					- in which YHWH has blessed you
+- **Blessing:**
+    - Verse 7 — explicit blessing stated within the passage — _"you shall eat before Yahweh your God and you shall rejoice in all that you put your hand to, you and your households, in which Yahweh your God has blessed you"_
+    - The blessing is communal and celebratory — the household eats together before Yahweh at the chosen place; rejoicing (_samachtem_ — שְׂמַחְתֶּם) in His presence is both the blessing and the appropriate response to it
+    - The act of bringing offerings to the chosen place is itself participation in the blessing — Yahweh's presence at the place He names is the source of the rejoicing
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+    - Deuteronomy 12:13-14 makes the consequence more explicit — _"take heed that you do not offer your burnt offerings in every place that you see"_ — unauthorized worship sites are the named violation
+- **Offering or Ransom:**
+    - The passage is itself about offerings — burnt offerings, sacrifices, tithes, heave offerings, vow offerings, freewill offerings, firstborn of herd and flock are all named in the surrounding verses (Deut. 12:6)
+    - The offerings are not prescribed here as remedy for violation — they are the content of the command itself; bringing them to the right place is the act of obedience
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>
+	- The broader context of Deuteronomy 12:2-4 establishes the negative contrast — the places where the nations worship on high mountains, under green trees, must be destroyed; bringing offerings anywhere other than the chosen place implicitly aligns Israel with those practices.
+	- [[Zunpublished/Put His Name\|Put His Name]]
 
 **October 2**: Exodus 23:25 – “Worship the LORD your God, and his blessing will be on your food and water. I will take away sickness from among you.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]  
 

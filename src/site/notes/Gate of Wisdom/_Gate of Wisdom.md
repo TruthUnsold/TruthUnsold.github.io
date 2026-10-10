@@ -150,6 +150,7 @@ These cut through the illusion, denial, and confusion entirely. They reveal real
 | [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]                                                     |
 | [[Gate of Wisdom/H/hardened\|hardened]]                                                                        |
 | [[Gate of Wisdom/H/Hear\|Hear]]                                                                                |
+| [[Gate of Wisdom/Offering/Heave Offering\|Heave Offering]]                                                     |
 | [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]                                                 |
 | [[Gate of Wisdom/Beings/Human Beings/Hebrew\|Hebrew]]                                                          |
 | [[Gate of Wisdom/H/Holy\|Holy]]                                                                                |
@@ -327,6 +328,7 @@ These cut through the illusion, denial, and confusion entirely. They reveal real
 | [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/The Witness\|The Witness]]                    |
 | [[Gate of Wisdom/W/The Word\|The Word]]                                                                        |
 | [[Gate of Wisdom/S/Timeline\|Timeline]]                                                                        |
+| [[Gate of Wisdom/T/Tithe\|Tithe]]                                                                              |
 | [[Gate of Wisdom/T/tongues\|tongues]]                                                                          |
 | [[Gate of Wisdom/T/Torah\|Torah]]                                                                              |
 | [[Gate of Wisdom/Sources/Torah Class\|Torah Class]]                                                            |
@@ -342,6 +344,7 @@ These cut through the illusion, denial, and confusion entirely. They reveal real
 | [[Gate of Wisdom/V/Vain\|Vain]]                                                                                |
 | [[Gate of Wisdom/W/Wash\|Wash]]                                                                                |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Watchers\|Watchers]]                                                   |
+| [[Gate of Wisdom/Offering/Wave Offering\|Wave Offering]]                                                       |
 | [[Gate of Wisdom/W/Will\|Will]]                                                                                |
 | [[Gate of Wisdom/W/works\|works]]                                                                              |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/world\|world]]                                                |

@@ -6,6 +6,7 @@
 - [[Gate of Wisdom/H/58 Heb-12 Yada\|58 Heb-12 Yada]]
 - [[Gate of Wisdom/H/hardened\|hardened]]
 - [[Gate of Wisdom/H/Hear\|Hear]]
+- [[Gate of Wisdom/Offering/Heave Offering\|Heave Offering]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]
 - [[Gate of Wisdom/Beings/Human Beings/Hebrew\|Hebrew]]
 - [[Gate of Discernment/Hierarchical Relationships Addressed by God or Jesus\|Hierarchical Relationships Addressed by God or Jesus]]

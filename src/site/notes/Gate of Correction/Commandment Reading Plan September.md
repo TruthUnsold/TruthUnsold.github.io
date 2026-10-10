@@ -818,17 +818,17 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
    * v.8 — *"you shall offer a food offering to Yahweh seven days"* (WEB) — offerings are appointed for each of the seven days of Unleavened Bread, though the specific details are given in Numbers 28:19-24 rather than here.
    * The Passover lamb itself (Exodus 12:3-7) is the foundational offering of the season — its blood on the doorposts being the original act of covering that gave the feast its meaning and name.
 
-**September 25**: Leviticus 23:15-21 (non-sacrifice) – Count fifty days and observe the Festival of Weeks with rest. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  
+**September 25**: Leviticus 23:15-21 (non-sacrifice) – Count fifty days and observe the Festival of Weeks with rest. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  [[Gate of Wisdom/Appointed Time/Shavuot\|Shavuot]]
 
-**September 26**: Leviticus 23:24-25 – “On the first day of the seventh month you are to have a day of sabbath rest, a sacred assembly commemorated with trumpet blasts.” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** (Rosh Hashanah rest)  
+**September 26**: Leviticus 23:24-25 – “On the first day of the seventh month you are to have a day of [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] rest, a sacred assembly commemorated with trumpet blasts.” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** [[Gate of Wisdom/Appointed Time/Feast of Trumpets\|Feast of Trumpets]]
 
-**September 27**: Leviticus 23:27-32 (non-Temple) – “The tenth day of this seventh month is the Day of Atonement. Hold a sacred assembly and deny yourselves...” (fast and rest). - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  
+**September 27**: Leviticus 23:27-32 (non-Temple) – “The tenth day of this seventh month is the Day of Atonement. Hold a sacred assembly and deny yourselves...”. - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]**  [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]]
 
-**September 28**: Leviticus 23:34-43 (non-lulav aspects) – “The fifteenth day of this seventh month... is the LORD’s Festival of Tabernacles... Live in temporary shelters for seven days...” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** (Sukkot)  
+**September 28**: Leviticus 23:34-43 (non-lulav aspects) – “The fifteenth day of this seventh month... is the LORD’s Festival of Tabernacles... Live in temporary shelters for seven days...” - **[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]** [[Gate of Wisdom/Appointed Time/Sukkot\|Sukkot]]
 
-**September 29**: Deuteronomy 16:13-15 – “Celebrate the Festival of Tabernacles for seven days after you have gathered the produce... Be joyful at your festival...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (joy in festivals)  
+**September 29**: Deuteronomy 16:13-15 – “Celebrate the Festival of Tabernacles for seven days after you have gathered the produce... Be joyful at your festival...” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]
 
-**September 30**: Deuteronomy 16:16-17 – “Three times a year all your men must appear before the LORD... No one should appear before the LORD empty-handed...” (general appearance principle for all). [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]])  
+**September 30**: Deuteronomy 16:16-17 – “Three times a year all your men must appear before the LORD... No one should appear before the LORD empty-handed...” [[Gate of Wisdom/Appointed Time/Appointed Time\|Appointed Time]], [[Gate of Wisdom/Appointed Time/Feast\|Feast]]. [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]/ [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]])  
 
 
 

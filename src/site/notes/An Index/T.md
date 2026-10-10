@@ -30,6 +30,7 @@
 - [[Gate of Wisdom/T/Thanksgiving\|Thanksgiving]]
 - [[Gate of Correction/The Truth – Convergence of Jewish and Christian Faiths\|The Truth – Convergence of Jewish and Christian Faiths]]
 - [[Gate of Wisdom/S/Timeline\|Timeline]]
+- [[Gate of Wisdom/T/Tithe\|Tithe]]
 - [[Gate of Wisdom/T/tongues\|tongues]]
 - [[Gate of Wisdom/T/Torah\|Torah]]
 - [[Gate of Wisdom/T/Torment\|Torment]]

@@ -21,8 +21,8 @@
 
 # Connections
 
-| file.inlinks                                                                                    |
-| ----------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.04.24 Shabbat Reading.md\\|2026.04.24 Shabbat Reading]]</li></ul> |
+| file.inlinks                                                                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Torah Portions/2026.04.24 Shabbat Reading.md\\|2026.04.24 Shabbat Reading]]</li><li>[[Gate of Wisdom/Offering/Wave Offering.md\\|Wave Offering]]</li></ul> |
 
 { .block-language-dataview}

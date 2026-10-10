@@ -31,7 +31,7 @@ Buy the truth, and don’t sell it.
 
 | Latest Drops                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Potluck/Rediscovering Jonah\|Rediscovering Jonah]]                                                                                                                                     |
+| [[Gate of Wisdom/T/Tithe\|Tithe]]                                                                                                                                                        |
 | [[Gate of Foundation/Acts 2 Connections Scripture Survey\|Acts 2 Connections Scripture Survey]]                                                                                          |
 | [[Gate of Correction/The Great Commission\|The Great Commission]]                                                                                                                        |
 | [[Gate of Discernment/The Scroll of Jonah\|The Scroll of Jonah]]                                                                                                                         |
@@ -41,7 +41,6 @@ Buy the truth, and don’t sell it.
 | [[Gate of Wisdom/Beings/Heavenly Beings/Asherah\|Asherah]]                                                                                                                               |
 | [[Gate of Wisdom/P/Punishment\|Punishment]]                                                                                                                                              |
 | [[Gate of Correction/Jesus's Do Nots\|Jesus's Do Nots]]                                                                                                                                  |
-| [[Gate of Wisdom/Numbers/40\|40]]                                                                                                                                                        |
 | [[Gate of Wisdom/Appointed Time/Sukkot Old Testament through the New Testament into the time of Revelation\|Sukkot Old Testament through the New Testament into the time of Revelation]] |
 | [[Gate of Discernment/Study Sheets\|Study Sheets]]                                                                                                                                       |
 | [[Gate of Wisdom/F/Holy Spirit - Filling\|Holy Spirit - Filling]]                                                                                                                        |
@@ -51,6 +50,7 @@ Buy the truth, and don’t sell it.
 | [[Gate of Wisdom/N/Neighbor\|Neighbor]]                                                                                                                                                  |
 | [[Gate of Wisdom/Beings/Human Beings/Jeroboam II\|Jeroboam II]]                                                                                                                          |
 | [[Gate of Wisdom/Sources/Torah Class\|Torah Class]]                                                                                                                                      |
+| [[Gate of Wisdom/T/tongues\|tongues]]                                                                                                                                                    |
 
 { .block-language-dataview}
 

@@ -278,7 +278,7 @@ Man takes a wife
 		- do not cause the land to sin
 			- which YHWH gave you as an inheritance
 	
-**May 16**: [Deuteronomy 22:6-7](https://www.biblegateway.com/passage/?search=Deuteronomy%2022%3A6-7&version=WEB;NET;OJB) – “If you come across a bird’s nest... do not take the mother with the young.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] #DoNot #do #CommandMitzvot 
+**May 16**: [Deuteronomy 22:6-7](https://www.biblegateway.com/passage/?search=Deuteronomy%2022%3A6-7&version=WEB;NET;OJB) – “If you come across a bird’s nest... do not take the mother with the young.” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] #DoNot #Dos  #CommandMitzvot 
 
 Do Not
 - Take the hen with the young
