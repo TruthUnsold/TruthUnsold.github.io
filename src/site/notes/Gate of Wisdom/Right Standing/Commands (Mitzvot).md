@@ -759,6 +759,44 @@
 - **Penalty or Consequence**: General curses (Deuteronomy 28:15-68).
 - **Offering or Ransom?**: Firstfruits offering and tithes (Deuteronomy 26:2, 12).
 
+## #LoveGod #05Deut/Deuteronomy26 This Day Yahweh Commands You: [Deuteronomy 26:16-19](https://www.biblegateway.com/passage/?search=Deuteronomy+26:16-19&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+- **Outline:**  
+	- Today YHWH commands you to
+	- Do
+		- these [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] and [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]] #Dos 
+		- keep and do them with all your heart and with all your soul #Dos 
+	- Today you have declared
+		- YHWH is your [[Gate of Wisdom/Beings/Divine Council/God\|God]]
+		- you will walk in his ways
+			- keep his [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]], [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]], and his [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+		- and listen to his voice
+	- Today YHWH has delcared
+		- you are his people
+			- for his own possession
+			- as he promised you
+		- that you should keep his [[Gate of Wisdom/M/Mitzvot\|Mitzvot]]
+		- he will make you high above all [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]s that he has made
+		- you may be a [[Gate of Wisdom/H/Holy\|Holy]] people to him
+			- as he has spoke
+- **Blessing:**
+    - Verse 18-19 — explicit and covenantal significant blessing stated within the passage:
+        - Yahweh affirms Israel as His treasured people (_am segullah_ — עַם סְגֻלָּה) — a people of particular possession, above all peoples He has made
+        - His people will be high above all nations
+        - Israel shall be a holy people (_am qadosh_ — עַם קָדוֹשׁ) to Yahweh — the identity declaration that underlies all of Deuteronomy's commands 
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+    - The broader Deuteronomic framework applies — failure to walk in His ways, keep His commandments, statutes, and judgments forfeits the _am segullah_ status and the honor among nations (cf. Deut. 28:15; 28:37 — becoming a byword and a proverb among the nations is the direct reversal of v.19)
+- **Offering or Ransom:**
+    - None prescribed
+    - The passage is covenantal declaration in nature — mutual affirmation between Yahweh and Israel; no sacrificial mechanism is attached; the covenant speech itself is the act
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>
+	- The passage a covenant exchange enacted in speech before witnesses — Israel declares Yahweh as their God (v.17) and Yahweh declares Israel as His people (v.18)
+
+
 ## 43. Obey All God’s Commandments
 - **Scripture Reference**: Deuteronomy 27:1
 - **Scripture Text (WEB)**: “Moses and the elders of Israel commanded the people, saying, ‘Keep all the commandment which I command you today.’”
