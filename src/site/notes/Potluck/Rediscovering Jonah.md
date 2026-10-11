@@ -19,9 +19,15 @@ Previously published as _The Prodigal Prophet._
 
 # Personal Observations and Notes
 
+>[!quote] Chapter/Heading
+>Text of quote
+
+>[!Note] My Personal Reflective thoughts
 ## Text that looks like this are direct quotes from the book.
 > Text like this are my reflective thoughts on that comment
 - The rest is supporting data, thoughts, related bible verses, etc for my thoughts or related to the book excerpts.
+
+# Mindset
 
 > In order to fully appreciate Jonah, we have to try to put ourselves into his circumstance which can be difficult today. But let's look at a scenario that should get your mind thinking:
 - A gang from a few cities over enters your city and goes on a rampage. Impaling, flaying and skinning alive, decapitation, mutilation, physical torture, etc. 
@@ -71,19 +77,24 @@ Things to explore before diving into this book.
 
 # Chapter: Prodigal Prophet
 
-## Both episodes show how Jonah, a staunch religious believer, regards and relates to people who are racially and religiously different from him. 
+>[!quote] Kindle Page 4
+>Both episodes show how Jonah, a staunch religious believer, regards and relates to people who are racially and religiously different from him. 
 
-> His anger's trigger is God's action which he clearly stated in Chapter 4: "God relented of the disaster... it displeased Jonah exceedingly, and he was angry" (3:10-4:1) —  the reaction stems from what God did. 
+>[!Note]  No, Jonah clearly states his issue
+>His anger's trigger is God's action which he clearly stated in Chapter 4: "God relented of the disaster... it displeased Jonah exceedingly, and he was angry" (3:10-4:1) —  the reaction stems from what God did. 
 - Matthew 20:1-16. The workers grumble at the landowner's generosity, and he asks, "Is your eye evil because I am good?"
-> 
+
+> [!Note] Jonah wants to decide good and bad
 > Like many throughout the bible, Jonah wants to decide what is tov and ra ([[Gate of Wisdom/G/good\|good]] and [[Gate of Wisdom/B/bad\|bad]]) instead of letting Yah decided. When it's tov to eat the fruit and when it is ra to eat it. When mercy is tov and when mercy is ra. The message of Jonah is the same as everywhere else in Scripture. He sets himself up in the place of Yah. He doesn't trust his god; he wants control. 
 - ==Religious means== relating to religion, having a strong belief in a god or gods, or showing strict devotion to a practice. Having deep faith and actively following the rules and customs of a religion.
-> 	- Jonah sincerely loved God and was a devoted long experienced god-appointed prophet. But he had a knee jerk but deeply felt averse reaction to God's order that is so very human. Yet it also leaves us with how he could entertain rebellion as a legitimate possibility, let alone follow through with it to the death? 
+> [!Note]  Jonah loved YHWH
+Jonah sincerely loved God and was a devoted long experienced god-appointed prophet. But he had a knee jerk but deeply felt averse reaction to God's order that is so very human. Yet it also leaves us with how he could entertain rebellion as a legitimate possibility, let alone follow through with it to the death? 
 - Isaiah 5:20 ("woe to those who call evil good and good evil") and Isaiah 55:8-9
 - Jonah may have hated the Ninevites, but Jonah 4:2 roots his objectionin his prior knowledge of YHWH's revealed character from Sinai ("I knew that you are a gracious God, and merciful...") — the text locates his resistance in theological, not an unrecorded personal grievance.
 	- Chus (חוּס) — "to pity, look upon with compassion, spare" — used twice in the closing verses: "you have had pity (chastah) on the vine... shouldn't I have pity (achus) on Nineveh" (Jonah 4:10-11) — this is the term YHWH uses to frame the entire controversy, and it is a term of sparing/compassion, not the specific vocabulary of "forgiveness" (which in Hebrew would typically be salach, סָלַח, "to forgive, pardon" — not used anywhere in Jonah). The book's own explanation for Jonah's flight and anger is entirely theological, stated in his own words (Jonah 4:2) — not racial, political, tribal, or biographical.
 	- Jeremiah 18:7-10. God announces judgment on a nation, and if it turns, he relents. This explains why Jonah's "overturned in forty days" wasn't a false prophecy, and Jonah knew it (see Deut 18:22).
 - Jesus contrasts the Jews of his generation with the Gentiles of Nineveh (Matt 12:41): those who think themselves God's chosen are worse than the people Jonah warned, and Yeshua is greater than Jonah, whom all Jews revered.
+>[!Note] It is covenantal not racial
 >If Nineveh is the basis of the problem, the difference is **covenantal not racial**. Israel is a "holy nation" (goy qadosh, Exodus 19:6), set apart by covenant relationship with YHWH; all other nations ([[Gate of Wisdom/Beings/Human Beings/Gentile\|Gentile]]s/goyim) stand outside that specific covenant relationship, regardless of shared ancestry through Noah.
 - YHWH himself frequently presents fundamental distinctions:
 	- In Abraham's time it was the Hebrews and everybody else. 
@@ -97,7 +108,8 @@ Things to explore before diving into this book.
 - The door was always open to "the multitude" who follow him:
 	- - A "mixed multitude" left Egypt with Israel (Exod 12:38); one law for native-born and sojourner (Exod 12:48-49; Num 9:14; 15:15-16; Lev 24:22); the sojourner gets an inheritance among the tribes (Ezek 47:22-23); Solomon asks God to answer the foreigner who prays toward the temple (1 Kings 8:41-43); Isa 56:3-8.
 	- Covenant is by allegiance, not descent: Matt 3:9; John 8:39-44; Rom 9:6-8.
-> The Bible never categorizes by race - it categorizes peoples by lineage/nation, most explicitly in the Table of Nations (Genesis 10)
+> [!Note] Race isn't in the Bible
+ The Bible never categorizes by race - it categorizes peoples by lineage/nation, most explicitly in the Table of Nations (Genesis 10)
 - ==Race is== a social and political category used to group people based on perceived physical traits, such as skin color, facial features, and hair texture
 	- "Using our modern, physical definition of **race** (based largely on skin color and continental ancestry), ==there would have been **very little to no racial difference**== between Jonah, the sailors, and the Ninevites."
 - Jonah is a Hebrew (Jonah 1:9), of the tribe of Zebulun, from Gath Hepher (2 Kings 14:25; Joshua 19:10-13)
@@ -109,19 +121,25 @@ Things to explore before diving into this book.
 	- Israel's own covenant standing is itself explicitly described as undeserved in the Torah: "Yahweh didn't set his love on you, nor choose you, because you were more in number than any people... but because Yahweh loves you" (Deuteronomy 7:7-8); "not for your righteousness, or for the uprightness of your heart, do you go in to possess their land... but for the wickedness of these nations Yahweh your God does drive them out" (Deuteronomy 9:5, WEB)
 	- If Israel's own covenant grace was never based on merit to begin with, Jonah's implicit objection — that Nineveh, lacking covenant standing, hasn't earned the same treatment — applies a standard of "earning" that the Torah itself says never applied to Israel's own relationship with YHWH either
 
-## The book of Jonah yields many insights about God’s love for societies and people beyond the community of believers; about his opposition to toxic nationalism and disdain for other races;
-> Yah requires separation of his people on several occasions. But he is very open to anyone joining HIS people if they are willing to follow his rules. If they don't want to follow HIS rules - then they need to be put out. Because a little yeast ruins the whole batch.  Jonah is an Israelite prophet steeped in Torah with an **expected script** for a wicked Gentile power: accumulate sin, reach a limit, receive judgment, with no personal, in-person prophetic offer of escape extended to them as a nation. He is being put into unprecedented circumstances - as Tim Keller states in Chapter 1 *"It was shocking first because it was a call for a Hebrew prophet to leave Israel and go out to a Gentile city. Up until then prophets had been sent only to God’s people.*"
+>[!quote] Kindle page 5
+>The book of Jonah yields many insights about God’s love for societies and people beyond the community of believers; about his opposition to toxic nationalism and disdain for other races;
+
+>[!Note]  Yah requires separation of his people on several occasions. 
+>But he is very open to anyone joining HIS people if they are willing to follow his rules. If they don't want to follow HIS rules - then they need to be put out. Because a little yeast ruins the whole batch.  Jonah is an Israelite prophet steeped in Torah with an **expected script** for a wicked Gentile power: accumulate sin, reach a limit, receive judgment, with no personal, in-person prophetic offer of escape extended to them as a nation. He is being put into unprecedented circumstances - as Tim Keller states in Chapter 1 *"It was shocking first because it was a call for a Hebrew prophet to leave Israel and go out to a Gentile city. Up until then prophets had been sent only to God’s people.*"
 - Numbers 9:14, Leviticus 24:22, Ezekiel 47:22-23. The same law applies to the sojourner, and in Ezekiel 47 he receives an inheritance among the tribes.
 - John 8:39-44, Romans 9:6-8, Matthew 3:9. Abraham's children are those who do Abraham's works, and "not all Israel is Israel." Jesus uses covenant-not-descent language himself.
 - Romans 11:16-24. The olive tree has Gentiles grafted into it, not a new tree.
 - Deuteronomy 7:6 and 14:2, Leviticus 20:24-26. God set Israel apart from the peoples.
 - John 4:22. "Salvation is from the Jews," said to a Samaritan woman.
 
->  Jonah's story can be read as a direct dramatization of a prophet resisting the very principle that Yah is god and mercy and vengeance our his — trying, through flight and then through anger, to assert a judgment that Torah had already declared was not his to render. Jonah knew what Torah taught: "Vengeance is mine, and recompense... their foot will slide in due time" (Deuteronomy 32:35) - this explicitly reserves vengeance as YHWH's own prerogative, not something Israel is to seize for itself. "I will be gracious (chanan) to whom I will be gracious, and I will show mercy (racham) on whom I will show mercy" (Exodus 33:19) — mercy is dispensed at YHWH's own sovereign discretion, not according to any claim or expectation another party might hold. This verse comes immediately before the Exodus 34:6-7 formula Jonah later quotes — meaning Jonah's own cited theology (4:2) sits right next to this explicit statement of YHWH's discretionary right to be merciful to whomever He chooses
+> [!Note] Jonah's story can be read as a direct dramatization of a prophet resisting the very principle that Yah is god and mercy and vengeance our his 
+> Trying, through flight and then through anger, to assert a judgment that Torah had already declared was not his to render. Jonah knew what Torah taught: "Vengeance is mine, and recompense... their foot will slide in due time" (Deuteronomy 32:35) - this explicitly reserves vengeance as YHWH's own prerogative, not something Israel is to seize for itself. "I will be gracious (chanan) to whom I will be gracious, and I will show mercy (racham) on whom I will show mercy" (Exodus 33:19) — mercy is dispensed at YHWH's own sovereign discretion, not according to any claim or expectation another party might hold. This verse comes immediately before the Exodus 34:6-7 formula Jonah later quotes — meaning Jonah's own cited theology (4:2) sits right next to this explicit statement of YHWH's discretionary right to be merciful to whomever He chooses
+
 - Romans 9:15-18 and 9:20. Paul quotes Exodus 33:19 and adds "who are you to answer back to God?"
 - Nahum 1:3. This quotes the other half of Exodus 34:7, "will by no means clear the guilty." Jonah quotes only the mercy half in 4:2, and Nahum supplies the rest.
->  
->  So basically Jonah is a racist and a toxic nationalist? And God is opposed to that? Jonah had a distain for sinful people - he would have had the same distain for an Israelite acting like the Ninevites. And he would have stoned an Israelite without hesitation.
+
+>[!Note] So basically Jonah is a racist and a toxic nationalist? And God is opposed to that? 
+>Jonah had a distain for sinful people - he would have had the same distain for an Israelite acting like the Ninevites. And he would have stoned an Israelite without hesitation.
 - *Toxic nationalism = an extreme and exclusionary form of national loyalty that prioritizes one group over others and divides people into opposing "us versus them" categories*
 - Nahum — directed by Yah at the very same city, Nineveh, No call to repentance. Your injury is fatal" (Nahum 3:19, WEB); "I am against you," says Yahweh of Armies (Nahum 2:13, WEB) - so Nahum and god were racists and toxic nationalists as well? 
 	- Nahum 1:3. This quotes the other half of Exodus 34:7, "will by no means clear the guilty." Jonah quotes only the mercy half in 4:2, and Nahum supplies the rest.
@@ -131,10 +149,15 @@ Things to explore before diving into this book.
 	- The Canaanite nations — judgment deferred for centuries "until the iniquity...is full" (Genesis 15:16), then executed through conquest, again with no prophet sent in person to offer repentance
 	- Amalek — an unconditional decree of blotting out, carried out generations later with no repentance opportunity ever extended (Exodus 17:14; 1 Samuel 15)
 	- Amos, Isaiah, Jeremiah, Ezekiel, Obadiah, and Zephaniah all deliver prophecies against foreign nations (Damascus, Moab, Edom, Tyre, Egypt, Philistia, and others). Those nations never received a live, direct opportunity to repent through prophetic proclamation the way Nineveh did.
-## Jonah wants a God of his own making, a God who simply smites the bad people,
-> God ***does*** just smite "bad" people. Jonah wants to decide WHEN they are smote. As a prophet he might decide to smite his own people.
+>[!quote] Kindle Page 5 
+>Jonah wants a God of his own making, a God who simply smites the bad people,
+
+>[!Note]  God ***does*** just smite "bad" people. 
+>Jonah wants to decide WHEN they are smote. As a prophet he might decide to smite his own people.
 - And eventually Yah destroys them. The prophet Nahum specifically prophesied Nineveh's destruction. “He will make an utter end of the place thereof.” — Nahum 1:8 “She is empty, and void, and waste.” — Nahum 2:10. Nineveh ultimately fell to the Babylonians and Medes in 612 BC.
-> Maybe he can't wrap his mind around how a person can be stoned for breaking the Sabbath by picking up sticks, but a Ninevite get's mercy. Later Yah will say why - it's because they don't know right from left (good from bad). They don't know they shouldn't pick up sticks on the Sabbath. He wants to give them a chance to know - just like he did the Israelites when they came out of Egypt. Let's not forget 3000 people where slaughtered at the Calf that they build to worship Yah. Why? Because he told them like 3 times before they did it not to do it. Jonah wants to decide when god show's mercy and when he doesn't.
+
+> [!Note] Maybe he can't wrap his mind around how a person can be stoned for breaking the Sabbath by picking up sticks, but a Ninevite get's mercy. 
+> Later Yah will say why - it's because they don't know right from left (good from bad). They don't know they shouldn't pick up sticks on the Sabbath. He wants to give them a chance to know - just like he did the Israelites when they came out of Egypt. Let's not forget 3000 people where slaughtered at the Calf that they build to worship Yah. Why? Because he told them like 3 times before they did it not to do it. Jonah wants to decide when god show's mercy and when he doesn't.
 - Acts 17:30, "the times of ignorance God overlooked."
 - Numbers 15:27-31. Unintentional sin has an offering, but high-handed sin is cut off.
 - **Individuals who were smote**
@@ -170,9 +193,11 @@ Things to explore before diving into this book.
 	- [[Gate of Wisdom/Beings/Human Beings/Jonah\|Jonah]] — Nineveh's own generation was spared this fate through repentance (Jonah 3:10), standing in contrast to this list. 
 	- Deuteronomy 28:15-68 — the covenant curse framework underlying many of the group-level judgments on Israel specifically
 	- Leviticus 10:1-3 — Aaron's response to Nadab and Abihu's deaths, "I will be shown to be holy to those who come near me"
-## Prodigal son story "the first half Jonah plays the “prodigal son”" In the second half of the book, however, Jonah is like the “older brother”
-> Nineveh feels like the younger son throughout. Jonah is the older son.
 
+>[!quote] Kindle Page 6
+>Prodigal son story "the first half Jonah plays the “prodigal son”" In the second half of the book, however, Jonah is like the “older brother”
+
+>[!Note]  Nineveh feels like the younger son throughout. Jonah is the older son.
 > The Prodigal son story focuses on how the Older son feels about the father - not about how he feels about the younger brother. Both men treat God's compassion as a grievance against their own standing. Both men have issue with the father, not with the occasion (The younger brother/ninevah are the occasion, not the object).
 - the younger son eventually **embraces the father's restoration**, while Jonah appears to resent God's restoration of Nineveh.
 - "this your brother was dead, and is alive again. He was lost, and is found" (Luke 15:32, WEB) — frame the whole story: it is about restoration of relationship, not merely forgiveness of debt. 
@@ -180,40 +205,58 @@ Things to explore before diving into this book.
 - The younger son's return is what triggers the outburst, but the substance of the complaint — years of service unrewarded, no feast ever given to him — is entirely about the father's treatment of the elder son himself. The brother's wrongdoing is mentioned only once, in passing (Luke 15:30, "devoured your living with prostitutes"), used as ammunition in the elder son's case against the father rather than as the actual wound.
 - Every word Jonah speaks about his motive is aimed at God, not Nineveh: "I knew that you are a gracious God, and merciful, slow to anger, and abundant in loving kindness, and you relent of doing harm" (Jonah 4:2, WEB) — this sentence names God's attributes, not Nineveh's character or worthiness
 # Chapter 1
-## the [[Gate of Wisdom/W/The Word\|The Word]] of the Lord came”
-## It was shocking first because it was a call for a Hebrew prophet to leave Israel and go out to a Gentile city. Up until then prophets had been sent only to God’s people.
+>[quote] Kindle page 9
+>the [[Gate of Wisdom/W/The Word\|The Word]] of the Lord came”
+
+>[!quote] Kindle page 10
+>It was shocking first because it was a call for a Hebrew prophet to leave Israel and go out to a Gentile city. Up until then prophets had been sent only to God’s people.
 - **Elijah and the widow of Zarephath** — 1 Kings 17:8–24  God sends Elijah to a Gentile woman in **Sidon** during the famine. Jesus specifically points to this event in Luke 4:25–26 .
 - Moses to the Pharoah of Egypt
 
-## One group is trying diligently to follow God’s law ... But Paul is saying it is also possible to avoid God by becoming very religious and moral.
-> They weren't following Yah's laws, they taught it but didn't live it 
+>[!quote] Kindle page 18
+>One group is trying diligently to follow God’s law ... But Paul is saying it is also possible to avoid God by becoming very religious and moral.
+
+> [!Note] They weren't following Yah's laws, they taught it but didn't live it 
 - Jonah is exactly like the rabbinical priests at the time of Jesus. Romans 2:17-24 
 	- 17 Indeed you bear the name of a Jew, rest on the law, glory in God, 18 know his will, and approve the things that are excellent, being instructed out of the law, 19 and are confident that you yourself are a guide of the blind, a light to those who are in darkness, 20 a corrector of the foolish, a teacher of babies, having in the law the form of knowledge and of the truth. 21 You therefore who teach another, don’t you teach yourself? You who preach that a man shouldn’t steal, do you steal? 22 You who say a man shouldn’t commit adultery, do you commit adultery? You who abhor idols, do you rob temples? 23 You who glory in the law, do you dishonor God by disobeying the law? 24 For “the name of God is blasphemed among the Gentiles because of you,” just as it is written.
 - They were following man's traditions more than Yah's laws. 
 	- Mark 7:6-9 6 He answered them, “Well did Isaiah prophesy of you hypocrites, as it is written [[_The Scrolls/2. Neviim (Prophets)/23 - Isaiah/Isa-29\|Isa-29]]:13, ‘This people honors me with their lips, but their heart is far from me. 7 They worship me in vain, teaching as doctrines the commandments of men.’ 8 “For you set aside the commandment of God, and hold tightly to the tradition of men—the washing of pitchers and cups, and you do many other such things.” 9 He said to them, “Full well do you reject the commandment of God, that you may keep your tradition.
 		- Colossians 2:8 Be careful that you don’t let anyone rob you through his philosophy and vain deceit, after the tradition of men, after the elemental spirits of the world, and not after Christ.
-## "Jonah bristles with self-righteous anger at God’s graciousness and mercy to sinners." And that is the problem facing Jonah, namely, the mystery of God’s mercy. It is a theological problem, but it is at the same time a heart problem. 
-> He never says "Nineveh doesn't deserve this" — he says, in effect, "You are the kind of God who would do this, and I hate that." He explicitly states that he understands and dislikes what God does with mercy, and structures his entire resistance around preventing that mercy from reaching its intended recipient. His heart problem isn't against a people, it's against his god. 
+>[!quote] Kindle page 20
+>"Jonah bristles with self-righteous anger at God’s graciousness and mercy to sinners." And that is the problem facing Jonah, namely, the mystery of God’s mercy. It is a theological problem, but it is at the same time a heart problem. 
+
+>[!Note]  He never says "Nineveh doesn't deserve this"
+>He says, in effect, "You are the kind of God who would do this, and I hate that." He explicitly states that he understands and dislikes what God does with mercy, and structures his entire resistance around preventing that mercy from reaching its intended recipient. His heart problem isn't against a people, it's against his god. 
 - Nothing in the commission text requires Jonah to feel forgiving, hold no resentment, or personally desire Nineveh's deliverance before, during, or after delivering the message.
 - The obedience of action is sufficient for the commission to succeed.
 - The prophetic office elsewhere in Scripture likewise doesn't show this as a stated requirement — Moses expresses reluctance and even resistance at his own call (Exodus 4:10-14) and is still sent; Jeremiah complains bitterly about his commission ("cursed is the day in which I was born," Jeremiah 20:14) while continuing to prophesy
 - His anger is explicitly triggered by God's action, not by Nineveh's character: "God saw their works... God relented... it displeased Jonah" (3:10-4:1) — the displeasure follows God's relenting, not Nineveh's repenting
 - Even his death-wish is addressed to God, not about Nineveh: "please take my life from me" (4:3) — he's arguing with God, not expressing hatred toward the Ninevites themselves in his recorded words.
 - Even in the end, Yah addresses Jonah about his feelings about how Yah feels - not about how Jonah feels about the people. "Shouldn’t ==I be== concerned for Nineveh, that great city"
-## Unless Jonah can see his own sin, and see himself as living wholly by the mercy of God, he will never understand how God can be merciful to evil people and still be just and faithful.
-> Jonah names God's mercy toward himself — his own prayer from the fish declares "salvation belongs to Yahweh" (2:9) after being delivered from what he calls "the belly of Sheol" (2:2), a mercy extended to him precisely while he was in active disobedience (he was fleeing when the storm hit, 1:3-4). So Jonah has already lived through, and consciously articulated, receiving undeserved deliverance — chapter 2 is that recognition in his own words. Jonah has received mercy, named it clearly, and still resents gods decision to use it toward Nineveh.
+>[!quote] Kindle page 20
+>Unless Jonah can see his own sin, and see himself as living wholly by the mercy of God, he will never understand how God can be merciful to evil people and still be just and faithful.
+
+> [!Note] Jonah names God's mercy toward himself
+> His own prayer from the fish declares "salvation belongs to Yahweh" (2:9) after being delivered from what he calls "the belly of Sheol" (2:2), a mercy extended to him precisely while he was in active disobedience (he was fleeing when the storm hit, 1:3-4). So Jonah has already lived through, and consciously articulated, receiving undeserved deliverance — chapter 2 is that recognition in his own words. Jonah has received mercy, named it clearly, and still resents gods decision to use it toward Nineveh.
 - God's closing question (4:10-11) doesn't ask "do you understand you're also a sinner" — it asks Jonah to extend the same category of pity (chus) he already showed toward a plant to a population of people, using Jonah's own demonstrated capacity for concern as the argument, not an appeal to his unacknowledged guilt.
 - Scripture doesn't treat momentary sin, disobedience, or even sustained wrong attitudes as automatically disqualifying someone from a prophetic calling already given, or even from receiving a new one — the calling is not contingent on the person's moral perfection at any given moment.
-## he will never understand how God can be merciful to evil people and still be just and faithful.
-> He knew and understood god could show mercy to evil people and he also knew god was still just and faithful. He was a HEBREW. And he fully expected Yah to do just that: **“That is why I fled toward Tarshish at the beginning; for I knew that you are a gracious God and merciful, slow to anger and abounding in steadfast love, and relenting from disaster.” — Jonah 4:2**
+>[!quote] Kindle page 20
+>he will never understand how God can be merciful to evil people and still be just and faithful.
+
+>[!Note] He was a HEBREW  
+>He knew and understood god could show mercy to evil people and he also knew god was still just and faithful. And he fully expected Yah to do just that: **“That is why I fled toward Tarshish at the beginning; for I knew that you are a gracious God and merciful, slow to anger and abounding in steadfast love, and relenting from disaster.” — Jonah 4:2**
 - BUT Jonah wanted to decided WHEN Yah was merciful. Jonah new the pattern very well.
 	- Israel sins → God shows mercy: understandable. A fellow covenant member repents → God shows mercy: understandable. This was all understood through the Tabernacle set up. You don't follow Yah, you repent, he shows you mercy. 
 	- This is the first time Yah is giving a Gentile/non-covenant enemy of Israel (Nineveh) a chance to repent. But because Jonah knew Yah was just and faithful, he knew if Nineveh repented, god was going to show mercy. Which is EXACTLY why he ran.
 # Chapter 2
-## It was a “great” (gedola) wind—the same word used to describe Nineveh.
-> The use of "great" is a writing choice. Great, gadol (גָּדוֹל), 14 occurrences (great city, great wind, great storm, great fish, great fear, great evil). Tim Mackie of  [[The Bible Project\|The Bible Project]] points out that the Hebrew word gadol (meaning "great," "large," or "huge") is intentionally repeated over and over to create an over-the-top, satirical effect. Everything is over sized. Ninevah is only a 7 mile oval - it would take less than 3 hours to walk the whole thing.  
+>[!quote] Kindle page 23
+>It was a “great” (gedola) wind—the same word used to describe Nineveh.
+
+> [!Note] The use of "great" is a writing choice. 
+> Great, gadol (גָּדוֹל), 14 occurrences (great city, great wind, great storm, great fish, great fear, great evil). Tim Mackie of  [[The Bible Project\|The Bible Project]] points out that the Hebrew word gadol (meaning "great," "large," or "huge") is intentionally repeated over and over to create an over-the-top, satirical effect. Everything is over sized. Ninevah is only a 7 mile oval - it would take less than 3 hours to walk the whole thing.  
 - wind = [[Gate of Wisdom/Ruach/Ruach\|Ruach]] The word itself carries no built-in distinction between "natural" wind and "spirit"-driven wind — in Hebrew thought, YHWH's ruach sent upon the sea in Jonah 1:4 is not a mere meteorological event but a direct extension of divine will, the same conceptual category as the ruach active in creation.
-## "The dismaying news is that every act of disobedience to God has a storm attached to it." ... We must be careful here. This is not to say that every difficult thing that comes into our lives is the punishment for some particular sin ... The Bible does not say that every difficulty is the result of sin—but it does teach that every sin will bring you into difficulty.
+>[!quote] Kindle page 24
+"The dismaying news is that every act of disobedience to God has a storm attached to it." ... We must be careful here. This is not to say that every difficult thing that comes into our lives is the punishment for some particular sin ... The Bible does not say that every difficulty is the result of sin—but it does teach that every sin will bring you into difficulty.
 - It shall happen, if you shall listen diligently to Yahweh your God’s voice, to observe to do all his [[Gate of Wisdom/Right Standing/Commandments\|Commandments]] which I command you today, that Yahweh your God will set you high above all the nations of the earth. All these blessings will come upon you, and overtake you, if you listen to Yahweh your God’s voice. You shall be blessed in the city, and you shall be blessed in the field ... [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-28\|Deut-28]]- .
 	- [[Gate of Wisdom/P/Punishment\|Punishment]] → emphasizes that God actively deals with the wrongdoing.
 		- The Hebrew word avon (עָוֹן) holds iniquity, guilt, and punishment in one word (Genesis 4:13; Leviticus 26:41). The act and its consequence are treated as one thing.
@@ -234,23 +277,31 @@ Things to explore before diving into this book.
 			- ḥaṭṭāʾt = “sin” – missing the mark
 			- ʿāwōn = “iniquity” – crookedness, guilt, perversion
 			- pesha = “[[Gate of Wisdom/T/Transgression\|Transgression]]/rebellion” – deliberate revolt
-## Christians have the promise that God will use them for their good.
-> The promise applies exclusively to those who have entered into a saving relationship with God and whose lives are aligned with His grand design, rather than their own personal agendas. God will bring order to chaos to bring a set-apart [[Gate of Wisdom/H/Holy\|Holy]] outcome.
+>[!quote] Kindle page 28
+>Christians have the promise that God will use them for their good.
+
+>[!Note] This is a conditional result 
+>The promise applies exclusively to those who have entered into a saving relationship with God and whose lives are aligned with His grand design, rather than their own personal agendas. God will bring order to chaos to bring a set-apart [[Gate of Wisdom/H/Holy\|Holy]] outcome.
 - Romans 8:18: Paul writes that "the sufferings of this present time are not worth comparing with the glory that is to be revealed to us." ... Romans 8:28 We know that all things work together for good for those who love God, **for those who are called according to his purpose.** For those whom he foreknew he also **predestined to be conformed to the image of his Son**...”
 - John 16:33: Jesus states that in this world, believers will have tribulation and trouble, correcting the idea of unbroken worldly ease.
 - Hebrews 11:36-38: Faithful figures faced mocking, flogging, chains, and stoning, not receiving earthly rescue or prosperity in their lifetimes.
 - 2 Timothy 3:12: All who desire to live a godly life in Christ Jesus will be persecuted.
-## Jonah could not see that deep within the terror of the storm God’s mercy was at work, drawing him back to change his heart. It’s not surprising that Jonah missed this initially. He did not know how God would come into the world to save us. 
-> He knew a god that actually DID save his people - he was a Hebrew. He was inside the fish when he stated: "From deep in the realm of the dead I called for help, and you listened to my cry." "But you, Lord my God,   brought my life up from the pit." He literally used a word closely related Mercy. Yah isn't looking for a heart change toward Nineveh - he's looking for a heart change toward himself. He wants Jonah to allow him to be god - to decide what is tov and ra. And for Jonah to trust him. ==Jonah HAD that change of heart== "But I will sacrifice to you with the voice of thanksgiving.   I will pay that which I have vowed. Salvation belongs to Yahweh.”"
+>[!quote] kindle page 30
+>Jonah could not see that deep within the terror of the storm God’s mercy was at work, drawing him back to change his heart. It’s not surprising that Jonah missed this initially. He did not know how God would come into the world to save us. 
+
+> [!Note] He knew a god that actually DID save his people - he was a Hebrew. 
+> He was inside the fish when he stated: "From deep in the realm of the dead I called for help, and you listened to my cry." "But you, Lord my God,   brought my life up from the pit." He literally used a word closely related Mercy. Yah isn't looking for a heart change toward Nineveh - he's looking for a heart change toward himself. He wants Jonah to allow him to be god - to decide what is tov and ra. And for Jonah to trust him. ==Jonah HAD that change of heart== "But I will sacrifice to you with the voice of thanksgiving.   I will pay that which I have vowed. Salvation belongs to Yahweh.”"
 -  Chesed (חֶסֶד) — Jonah 2:8
 	- "Those who regard lying vanities forsake their own loving kindness (chesed)" (Jonah 2:8, WEB)
 	- Chesed — "loving kindness, covenant faithfulness, mercy, steadfast love." Some translations (KJV) render this exact word as "mercy" "loving kindness" — both are legitimate renderings of the same Hebrew term
 	- In chapter 4, mercy (rachum/chanun) becomes something Jonah begrudges being extended to someone else. The same underlying reality — undeserved compassion — is gratefully assumed in his own case and resented in Nineveh's
 # Chapter 3
-## Twice, then, Jonah finds himself in a close encounter with people who are racially and religiously different. In both cases his behavior is dismissive and unhelpful, while the pagans uniformly act more admirably than he does. This is one of the main messages of the book, namely, that God cares how we believers relate to and treat people who are deeply different from us. ... the fuller meaning of Jonah’s interactions with the pagans. God wants us to treat people of different races and faiths in a way that is respectful, loving, generous, and just.
+>[!quote] Kindle page 31
+>Twice, then, Jonah finds himself in a close encounter with people who are racially and religiously different. In both cases his behavior is dismissive and unhelpful, while the pagans uniformly act more admirably than he does. This is one of the main messages of the book, namely, that God cares how we believers relate to and treat people who are deeply different from us. ... the fuller meaning of Jonah’s interactions with the pagans. God wants us to treat people of different races and faiths in a way that is respectful, loving, generous, and just.
 
 
-> So we are trying to make Jonah out to be this terrible person, and make the people who literally skinned people alive and stuck the skins up like flags the good people because they behaved more admirably in this one occasion? Yah did not see them as admirable people. Nothing in Scripture establishes that the pagans have become righteous worshipers of YHWH, just that they have accepted YHWH as a god. For the sailors for all we know it could be adding YHWH as one of their gods.> 
+> [!Note] So we are trying to make Jonah out to be this terrible person, and make the people who literally skinned people alive and stuck the skins up like flags the good people because they behaved more admirably in this one occasion? 
+> Yah did not see them as admirable people. Nothing in Scripture establishes that the pagans have become righteous worshipers of YHWH, just that they have accepted YHWH as a god. For the sailors for all we know it could be adding YHWH as one of their gods.> 
 - The specific sin named in the text is chamas (חָמָס) — "violence": "let them turn everyone from his evil way, and from the violence (chamas) that is in his hands" (Jonah 3:8).  Nineveh's general condition is called ra'ah (רָעָה) — "wickedness" (Jonah 1:2) — a broad term, but chamas is the one concrete named behavior.
 	- "The earth was corrupt before God, and the earth was filled with violence (chamas)... God said to Noah, 'the end of all flesh has come before me, for the earth is filled with violence (chamas) through them. Behold, I will destroy them with the earth'" (Genesis 6:11, 13, WEB)
 	- Torah does articulate a standard for how YHWH deals with Gentile nations under prolonged sin: "it is not for your righteousness... but for the **wickedness of these nations** Yahweh your God does drive them out from before you" (Deuteronomy 9:5, WEB) — establishing that Gentile nations are held accountable for wickedness even without a Sinai covenant, and that expulsion/destruction is the consequence.
@@ -258,6 +309,7 @@ Things to explore before diving into this book.
 - It is worth noting in regard to the Ninevites, Jesus does hold them up as repentant against his own generation (Matt 12:41), and 3:10 says God "saw their works."
 - 2 Kings 5:15-18. Naaman confesses YHWH but still asks pardon for bowing in Rimmon's house, and Elisha says "go in peace."
 
+> [!Note] Yah regulated interactions with those outside the covenant community
 > Interactions with the "pagans" as a covenant member of Yah's community was regulated. 
 - Leviticus 20:23 “You shall not walk in the statutes of the nation which I am casting out before you...”
 - Deuteronomy 6:14 You shall not go after other gods, the gods of the peoples who are all around you.”
@@ -265,12 +317,14 @@ Things to explore before diving into this book.
 - Leviticus 18 Do not defile yourselves with any of these things; for by all these the nations are defiled, which I am casting out before you. ... The native-born and the foreigners residing among you must not do any of these detestable things.
 - Deuteronomy 13 If an entire Israelite city turned to other gods, the Torah prescribed destruction of the city.
 
-> Yah states the purpose of the book of Jonah (Jonah 4:11 )- and it isn't about how we do anything. Both the Prodigal son and Jonah aren't about the sons, Jonah, nor Nineveh, it's about the Father/God. God's compassion extends beyond the boundaries His own people expect or want, and the book leaves it to the reader to decide whether they will resent that mercy, as Jonah did, or embrace it. God's mercy is not limited to Israel, is not earned, and is not subject to human approval — and His willingness to extend it, even to those a prophet believes don't deserve it, reveals His character more fully than judgment would.> 
+> [!Note] Yah states the purpose of the book of Jonah (Jonah 4:11 )
+> It isn't about how we do anything. Both the Prodigal son and Jonah aren't about the sons, Jonah, nor Nineveh, it's about the Father/God. God's compassion extends beyond the boundaries His own people expect or want, and the book leaves it to the reader to decide whether they will resent that mercy, as Jonah did, or embrace it. God's mercy is not limited to Israel, is not earned, and is not subject to human approval — and His willingness to extend it, even to those a prophet believes don't deserve it, reveals His character more fully than judgment would.> 
 - the text gives no basis for reading this as a race-based or even a broadly cultural difference — the operative categories in Jonah are covenant/non-covenant and righteous conduct/violence (chamas, 3:8), not identity-based difference as commonly meant today.
 - The book's own emphasis, based on where its words concentrate, is on how Jonah relates to God's mercy, not primarily on how Jonah relates to or treats the Ninevites directly. Jonah's entire recorded complaint is addressed to God ("I knew that you are a gracious God..."), not framed as a statement about the Ninevites themselves.
 - Jonah never actually mistreats a Ninevite in the narrative — he doesn't insult them or harm them.
 
-> We aren't to mistreat anyone. However, all throughout scripture there is to be a dividing line between followers of Yah and Jesus and those who are not. It doesn't mean we are to be mean to, hate, or treat them badly. But there is to be separation and distinction.>
+> [!Note] We aren't to mistreat anyone. 
+> However, all throughout scripture there is to be a dividing line between followers of Yah and Jesus and those who are not. It doesn't mean we are to be mean to, hate, or treat them badly. But there is to be separation and distinction.>
 - different from us" in the context of Jonah can only be understood narrowly as covenant status and religious/moral standing (Gentile vs. Israelite, not-yet-knowing-YHWH vs. knowing-YHWH). But even then, the book frames this as a demonstration of God's own character and prerogative (Exodus 33:19; 34:6). More than as an ethical instruction to "believers" about their interpersonal conduct toward outsiders. The book shows what God cares about; it doesn't issue a direct behavioral command to the reader about how to treat different peoples the way, say, Leviticus 19:34 does explicitly ("the stranger... you shall love him as yourself").
 - Galatians 6:10 “Do good to all, **especially to those who are of the household of faith**.” 
 - Mark 3:31-35 31 His //Jesus// mother and his brothers came, and standing outside, they sent to him, calling him. 32 A multitude was sitting around him, and they told him, “Behold, your mother, your brothers, and your sisters are outside looking for you.” 33 He answered them, “Who are my mother and my brothers?” 34 Looking around at those who sat around him, he said, “Behold, my mother and my brothers! 35 For whoever does the will of God is my brother, my sister, and mother.”
@@ -281,15 +335,18 @@ Things to explore before diving into this book.
 - 2 Corinthians 6:14–17 “Do not be unequally yoked together with unbelievers ... “Therefore ‘Come out from among them and be separate, says the Lord. Do not touch what is unclean ...
 - John 17:14-16, 2 John 10-11, Revelation 18:4, Romans 12:18-21 and 1 Peter 2:12
 
-> Just according to whose definition? There is a distinct difference between what was just in Jonah's time and a modern ethical framework.  The biblical answer would be according to God's righteous judgment, not according to whatever a later culture defines as justice. Biblically, mercy does not mean declaring wickedness righteous, and justice does not mean refusing compassion. Israel was repeatedly commanded to love the stranger, while simultaneously being commanded not to adopt the stranger's gods or practices. The [[Gate of Wisdom/T/Torah\|Torah]] repeatedly required Israel to remove idolatry from the land.
+> [!Note] Just according to whose definition? 
+> There is a distinct difference between what was just in Jonah's time and a modern ethical framework.  The biblical answer would be according to God's righteous judgment, not according to whatever a later culture defines as justice. Biblically, mercy does not mean declaring wickedness righteous, and justice does not mean refusing compassion. Israel was repeatedly commanded to love the stranger, while simultaneously being commanded not to adopt the stranger's gods or practices. The [[Gate of Wisdom/T/Torah\|Torah]] repeatedly required Israel to remove idolatry from the land.
 - Those in covenant relationship with Yah were commanded:
 	- Exodus 22:21 “You shall neither mistreat a stranger nor oppress him.”
 	- Deuteronomy 10:19 You shall love the stranger, for you were strangers in the land of Egypt
 	- Exodus 31:14 You shall keep the Sabbath, therefore, for it is holy to you. Everyone who profanes it shall surely be put to death
 	- Exodus 22:20 He who sacrifices to any god, except to YHWH only, he shall be utterly destroyed
 
-## Finally, they are not narrow and bigoted. They are open to calling on Jonah’s God. In fact, they are more ready to do this than he is.
-> There is a huge difference between being willing to respond to Jonah's God and being committed to YHWH as the one true God. Jonah knows exactly what he's doing and he knows he is outside of Yah's will. What would he say, YHWH please stop the storm you have sent because I have been disobedient. Jonah had no intention of "repenting" so his call would have be for not. 
+>[!quote] Finally, they are not narrow and bigoted. They are open to calling on Jonah’s God. In fact, they are more ready to do this than he is.
+
+>[!Note]  There is a huge difference between being willing to respond to Jonah's God and being committed to YHWH as the one true God. 
+>Jonah knows exactly what he's doing and he knows he is outside of Yah's will. What would he say, YHWH please stop the storm you have sent because I have been disobedient. Jonah had no intention of "repenting" so his call would have be for not. 
 - ==**Bigoted** means== being stubbornly intolerant of any creed, belief, opinion, or way of life that differs from your own
 - "Pagans" in general are always willing to accept another god. They live in fear of offending any god. 
 - As a prophet, this is EXACTLY who Jonah was supposed to be - someone who was intolerant of any creed, belief, opinion, or way of life that differed from YHWH's. The issue here is that Jonah was being "bigoted" toward YHWH's opinion.
@@ -301,21 +358,28 @@ Things to explore before diving into this book.
 	- 1 Samuel 28:6 And when Saul inquired of YHWH, YHWH did not answer him, either by dreams or by Urim or by the prophet
 	- Psalm 66:18  “If I regard iniquity in my heart,  YHWH will not hear."
 	- Proverbs 28:9 One who turns away his ear from hearing the law, Even his prayer is an abomination. 
+> [!Note] It was not a lasting covenantal conversion
 > The Ninevites were willing to respond to the warning delivered by Jonah and to humble themselves before the God who had threatened their city. The text does not tell us that they abandoned their other gods or entered into covenant with YHWH. Their response therefore should not automatically be characterized as a conversion to exclusive worship of YHWH.
 
-## The doctrine of common grace is the teaching that God bestows gifts of wisdom, moral insight, goodness, and beauty across humanity, regardless of race or religious belief. James 1:17 says, “Every good and perfect gift is from above, coming down from the Father of the heavenly lights.”
-> God's goodness isn't restricted to His covenant people. And God can give wisdom, moral understanding, goodness, creativity, beauty, etc. to people regardless of whether they worship YHWH. God can use a non-covenant person, give him understanding for a particular purpose, and accomplish good through him without making him a covenant person. He worked through a Donkey! Common grace does not mean common covenant. God can genuinely care about, show mercy toward, and recognize good responses from Ninevites without Scripture saying that their pagan religious system was acceptable, that they became covenant members, or that there was no meaningful distinction between them and Israel.
+>[!quote] Kindle page 39
+>The doctrine of common grace is the teaching that God bestows gifts of wisdom, moral insight, goodness, and beauty across humanity, regardless of race or religious belief. James 1:17 says, “Every good and perfect gift is from above, coming down from the Father of the heavenly lights.”
+
+>[!Note]  God's goodness isn't restricted to His covenant people. 
+>And God can give wisdom, moral understanding, goodness, creativity, beauty, etc. to people regardless of whether they worship YHWH. God can use a non-covenant person, give him understanding for a particular purpose, and accomplish good through him without making him a covenant person. He worked through a Donkey! Common grace does not mean common covenant. God can genuinely care about, show mercy toward, and recognize good responses from Ninevites without Scripture saying that their pagan religious system was acceptable, that they became covenant members, or that there was no meaningful distinction between them and Israel.
 - Common grace isn't common covenant
 	- Isaiah 45:1-4. Cyrus is used "though you do not know me."
 	- Genesis 20:6. God restrains Abimelech.
 	- Matthew 5:45 and Acts 14:17. Rain and fruitful seasons fall on all.
 
-> James 1:17 - we can't stop at 17, we need to keep reading because this portion of James ends definingly segregates based on religious belief.  "If anyone among you thinks himself to be religious while he doesn’t bridle his tongue, but deceives his heart, this man’s religion is worthless."
+> [!Note] James 1:17 - we can't stop at 17
+> We need to keep reading because this portion of James ends definingly segregates based on religious belief.  "If anyone among you thinks himself to be religious while he doesn’t bridle his tongue, but deceives his heart, this man’s religion is worthless."
 - 19 So, then, my beloved brothers, let every man be swift to hear, slow to speak, and slow to anger; 20 for the anger of man doesn’t produce the righteousness of God. 21 Therefore, putting away all filthiness and overflowing of wickedness, receive with humility the implanted word, which is able to save your souls. 22 But be doers of the word, and not only hearers, deluding your own selves. 23 For if anyone is a hearer of the word and not a doer, he is like a man looking at his natural face in a mirror; 24 for he sees himself, and goes away, and immediately forgets what kind of man he was. 25 But he who looks into the perfect law of freedom and continues, not being a hearer who forgets but a doer of the work, this man will be blessed in what he does. 26 If anyone among you thinks himself to be religious while he doesn’t bridle his tongue, but deceives his heart, this man’s religion is worthless. 27 Pure religion and undefiled before our God and Father is this: to visit the fatherless and widows in their affliction, and to keep oneself unstained by the world.
 
-## Jesus takes the seemingly pedestrian exhortation “love thy neighbor” and gives it the most radical possible definition. He tells us that all in need, including those of other races and beliefs, are our neighbors.
+>[!quote] Kindle page 41
+>Jesus takes the seemingly pedestrian exhortation “love thy neighbor” and gives it the most radical possible definition. He tells us that all in need, including those of other races and beliefs, are our neighbors.
 
-> YHWH already made that "radical" definition in the Old Testament, Jesus didn't make it anything new. However, over time, man made ideology watered it down. However, Jesus still makes distinctions among people groups, just like Yah did. Yes, help those in need, but there is still some divisions recognized by Jesus. [[Gate of Wisdom/N/Neighbor\|Neighbor]] = in the Hebrew mindset this term does not require kinship or even nationality — it denotes anyone one is in relationship or proximity with.
+> [!Note] YHWH already made that "radical" definition in the Old Testament
+> Jesus didn't make it anything new. However, over time, man made ideology watered it down. However, Jesus still makes distinctions among people groups, just like Yah did. Yes, help those in need, but there is still some divisions recognized by Jesus. [[Gate of Wisdom/N/Neighbor\|Neighbor]] = in the Hebrew mindset this term does not require kinship or even nationality — it denotes anyone one is in relationship or proximity with.
 - Matthew 5:43. "You have heard, hate your enemy" appears nowhere in Torah - it was man made
 - Exodus 23:4-5, returning your enemy's ox
 - Leviticus 19:34, love the sojourner as yourself.
@@ -328,22 +392,30 @@ Things to explore before diving into this book.
 - Matthew 25:31–46 “He will separate them one from another, as a shepherd divides his sheep from the goats.”  
 
 
-## The lack of mercy in Jonah’s attitude and actions toward others reveals that he was a stranger in his heart to the saving mercy and grace of God.
-> Jonah was a PROPHET - literally a spokes person for YHWH! Jonah's own words show he wasn't a stranger in his heart to [[Gate of Wisdom/Consequence/Disobedience/Mercy\|Mercy]] or [[Gate of Wisdom/Consequence/Obedience/Grace\|Grace]]. He was a [[Gate of Wisdom/Beings/Human Beings/Prophet\|Prophet]] and had seen both demonstrated towards his own people.  It is the whole reason he ran! God's character has shown he can be [[Gate of Wisdom/M/Merciful\|Merciful]]. This was the first instance where Yah sent a prophet to a non-covenant people group. 
+>[!quote] Kindle page 42
+>The lack of mercy in Jonah’s attitude and actions toward others reveals that he was a stranger in his heart to the saving mercy and grace of God.
+
+>[!Note]  Jonah was a PROPHET - literally a spokes person for YHWH! 
+>Jonah's own words show he wasn't a stranger in his heart to [[Gate of Wisdom/Consequence/Disobedience/Mercy\|Mercy]] or [[Gate of Wisdom/Consequence/Obedience/Grace\|Grace]]. He was a [[Gate of Wisdom/Beings/Human Beings/Prophet\|Prophet]] and had seen both demonstrated towards his own people.  It is the whole reason he ran! God's character has shown he can be [[Gate of Wisdom/M/Merciful\|Merciful]]. This was the first instance where Yah sent a prophet to a non-covenant people group. 
 - 4:2  He prayed to Yahweh, and said, "Please, Yahweh, wasn't this what I said when I was still in my own country? Therefore I hurried to flee to Tarshish, **for I knew that you are a gracious God, and merciful**, slow to anger, and abundant in loving kindness, and you relent of doing harm. 
 - 1 Kings 21:27-29. Ahab, an Israelite, humbles himself and God relents. Jonah knew the pattern for covenant members
 - 1 Kings 19:4 and Numbers 11:15. Elijah and Moses both ask God to take their lives, as Jonah does in 4:3.
-> Why are we so quick to give sincerely to the words and actions of the Sailors and Nineveh but dismiss Jonah's? The text gives no signal that his prayer is hollow. It is the opposite problem: not that Jonah didn't know or receive mercy, but that he received and named it fully for himself and still resisted extending the same logic to someone else. That's arguably a sharper indictment than "he never really had it" — it's closer to "he had it, used it, and still wanted to withhold it from others"
+> [!Note] Why are we so quick to give sincerely to the words and actions of the Sailors and Nineveh but dismiss Jonah's? 
+> The text gives no signal that his prayer is hollow. It is the opposite problem: not that Jonah didn't know or receive mercy, but that he received and named it fully for himself and still resisted extending the same logic to someone else. That's arguably a sharper indictment than "he never really had it" — it's closer to "he had it, used it, and still wanted to withhold it from others"
 - "I cried because of my affliction to Yahweh. He answered me" (Jonah 2:2, WEB)
 - "Yet you have brought up my life from the pit, Yahweh my God" (Jonah 2:6, WEB)
 - "Those who regard lying vanities forsake their own loving kindness (chesed)" (Jonah 2:8) — implying Jonah, by contrast, has not forsaken it; he's claiming chesed as his own
 - "Salvation belongs to Yahweh" (Jonah 2:9, WEB) — the climactic declaration of his own prayer, crediting his deliverance entirely to God
 
-> God didn't say he had [[Gate of Wisdom/Consequence/Disobedience/Mercy\|Mercy]] for the Ninevites, he says he has chus (חוּס) = "to pity, spare, look on with compassion/regard". Neither rachum (mercy/compassion) nor chanun (grace/favor) is the word used here. Chus is a distinct term, closer to "sparing regard" or "pity that withholds deserved harm," and it's worth placing it precisely rather than folding it into either prior category. Jonah had the very same thing toward the plant, a simple regard for something he benefited from and didn't want to lose.
+> [!Note] God didn't say he had [[Gate of Wisdom/Consequence/Disobedience/Mercy\|Mercy]] for the Ninevites, he says he has chus (חוּס) = "to pity, spare, look on with compassion/regard". 
+> Neither rachum (mercy/compassion) nor chanun (grace/favor) is the word used here. Chus is a distinct term, closer to "sparing regard" or "pity that withholds deserved harm," and it's worth placing it precisely rather than folding it into either prior category. Jonah had the very same thing toward the plant, a simple regard for something he benefited from and didn't want to lose.
 
 # Chapter 4
-## Certainly Christians would agree that there are not multiple, personal, conscious, supernatural beings attached to every profession, place, and race.
-> That is NOT what Scripture indicates. The Scriptures consistently presents a cosmos in which conscious, personal, supernatural beings are assigned to — and active within — specific nations, geographic locations, and spheres of authority.
+>[!quote] Kindle page 47
+>Certainly Christians would agree that there are not multiple, personal, conscious, supernatural beings attached to every profession, place, and race.
+
+> [!Note] That is NOT what Scripture indicates. 
+> The Scriptures consistently presents a cosmos in which conscious, personal, supernatural beings are assigned to — and active within — specific nations, geographic locations, and spheres of authority.
 - other nations were apportioned to "sons of God" — bene elohim (בְּנֵי אֱלֹהִים) — implying each nation had its own supernatural ruler (Deuteronomy 32:8–9, "according to the number of the sons of God")
 - Daniel's vision reveals a "prince of Persia" — sar Paras (שַׂר פָּרַס) — a supernatural being who withstood the messenger sent to Daniel for 21 days, and a "prince of Greece" — sar Yavan (שַׂר יָוָן) — coming after him (Daniel 10:13, 20)
 - Michael is explicitly called "your prince" — referring to Israel's supernatural guardian (Daniel 10:21; 12:1)
@@ -359,8 +431,11 @@ Things to explore before diving into this book.
 - The Tower of Babel account (Genesis 11:1–9) results in YHWH directly scattering and dividing — and the subsequent assignment of nations to the bene elohim follows immediately in the Deuteronomy 32 context, suggesting the division of races and the assignment of supernatural rulers are directly connected events
 
 
-## Though the question about race comes last in the list, Jonah answers it first. “I am a Hebrew,” he says before anything else. In a text so sparing with words, it is significant that he reverses the order and puts his race out front as the most significant part of his identity. As we have seen, an identity has several aspects or layers, some of which are more fundamental to the person than others. As one scholar put it, “Since Jonah identifies himself first ethnically, then religiously, we may infer that his ethnicity is foremost in his self-identity.” While Jonah had faith in God, it appears not to have been as deep and fundamental to his identity as his race and nationality. ... and everything else under the title Spiritually Shallow Identity
-> Jonah answered this first because stating "I am a Hebrew" explains his identity in terms of YHWH, his god.  It is a very strong spiritual identity. It also naturally answered the other background details they asked about. It 100% confirms his deep and fundamental identity IS in YHWH. He is saying I am one of YHWH's people, then he identifies even more strongly with YHWH, "and I fear YHWH, the God of heaven, who made the sea and the dry land.”
+>[!quote] Kindle page 50
+>Though the question about race comes last in the list, Jonah answers it first. “I am a Hebrew,” he says before anything else. In a text so sparing with words, it is significant that he reverses the order and puts his race out front as the most significant part of his identity. As we have seen, an identity has several aspects or layers, some of which are more fundamental to the person than others. As one scholar put it, “Since Jonah identifies himself first ethnically, then religiously, we may infer that his ethnicity is foremost in his self-identity.” While Jonah had faith in God, it appears not to have been as deep and fundamental to his identity as his race and nationality. ... and everything else under the title Spiritually Shallow Identity
+
+>[!Note]  Jonah answered this first because stating "I am a Hebrew" explains his identity in terms of YHWH, his god.  
+>It is a very strong spiritual identity. It also naturally answered the other background details they asked about. It 100% confirms his deep and fundamental identity IS in YHWH. He is saying I am one of YHWH's people, then he identifies even more strongly with YHWH, "and I fear YHWH, the God of heaven, who made the sea and the dry land.”
 - Sailor's reaction to the "Spiritually shallow identity?" “Then the men were exceedingly afraid, and said to him, ‘Why have you done this?’” Jonah 1:10. Jonah's confession actually causes them to take YHWH more seriously. Therefore they cried out to YHWH...” Jonah 1:14.
 - Jonah's prayer in chapter 2 is saturated with Scripture-like theology
 	- Salvation is of YHWH
@@ -368,12 +443,16 @@ Things to explore before diving into this book.
 - Scripture repeatedly shows people identifying themselves ethnically without ethnicity being their ultimate identity
 	- Esther, Daniel, Joseph
 - biblical identity can contain: peoplehood + nationality + family + covenant + faithfulness to God without those being competitors.
-> Jonah's problem wasn't that he didn't know god, he knew his too well. He KNEW God's mercy—and didn't want that mercy extended to Nineveh.
+
+>[!Note]  Jonah's problem wasn't that he didn't know god, he knew his too well. 
+>He KNEW God's mercy—and didn't want that mercy extended to Nineveh.
 - Jonah's very strong covenant identity may actually be part of why God's mercy toward Nineveh offended him. He understood himself as belonging to the people to whom YHWH had revealed Himself, and he apparently struggled with the possibility that the same YHWH would show mercy to a violent pagan city.
 
-## What Jonah is doing is what some have called othering. To categorize people as the Other is to focus on the ways they are different from oneself, to focus on their strangeness and to reduce them to these characteristics until they are dehumanized. ... forcing them to conform to our beliefs and practices, or by requiring them to live in certain poor neighborhoods, or by just driving them out.
+>[!quote] Kindle page 55
+>What Jonah is doing is what some have called othering. To categorize people as the Other is to focus on the ways they are different from oneself, to focus on their strangeness and to reduce them to these characteristics until they are dehumanized. ... forcing them to conform to our beliefs and practices, or by requiring them to live in certain poor neighborhoods, or by just driving them out.
 
-> This is EXACTLY who Yah god is and what he does, consistently throughout the Scriptures. Jesus literally referred to a woman as a dog. There are only two kinds of people, not based on race or ethnicity, those in covenant relationship with YHWH and those who are not. Joining his community is available to anyone who wants to join. However, once you join, you HAVE to live in a certain way or you are driven out. 
+>[!Note]  This is EXACTLY who Yah god is and what he does, consistently throughout the Scriptures. 
+>Jesus literally referred to a woman as a dog. There are only two kinds of people, not based on race or ethnicity, those in covenant relationship with YHWH and those who are not. Joining his community is available to anyone who wants to join. However, once you join, you HAVE to live in a certain way or you are driven out. 
 - “Whoever is not with me is against me, and whoever does not gather with me scatters” is found in ==[Matthew 12:30](https://www.biblegateway.com/verse/en/Matthew%2012%3A30) and [Luke 11:23](https://www.unity.org/en/bible-interpretations/luke-1123-whoever-not-me-against-me-and-whoever-does-not-gather-me-scatters)==
 - **[2 Corinthians 6:14](https://www.biblegateway.com/verse/en/2%20Corinthians%206%3A14):** “Do not be yoked together with unbelievers. For what do righteousness and wickedness have in common? Or what fellowship can light have with darkness?”
 - **[2 Corinthians 6:17](https://www.biblegateway.com/verse/en/2%20Corinthians%206%3A17):** “Therefore, ‘Come out from among them and be separate, says the Lord. Do not touch what is unclean, and I will receive you.’”
@@ -384,8 +463,10 @@ Things to explore before diving into this book.
 
 # Chapter 5
 
-## When Jesus speaks of “the sign of Jonah” and calls himself “greater than Jonah” (Matthew 12:41), he means that, as Jonah was sacrificed to save the sailors, so he would die to save us.
+>[!quote] Kindle page 62
+>When Jesus speaks of “the sign of Jonah” and calls himself “greater than Jonah” (Matthew 12:41), he means that, as Jonah was sacrificed to save the sailors, so he would die to save us.
 
+> [!Note] I don't think that is what he meant?
 > I didn't think this was correct, so I did a little more digging and it seams mainstream biblical scholars would generally disagree with this. 
 
 - Jesus explicitly defines the parallel: "_For as Jonah was three days and three nights in the belly of a huge fish, so the Son of Man will be three days and three nights in the heart of the earth."_
@@ -394,14 +475,17 @@ Things to explore before diving into this book.
 
 # Chapter 6
 
-> Jonah is called to the great city of Ninevah which name means fish - he runs away and is swallowed by a great fish. 
+> [!Note] Jonah is called to the great city of Ninevah which name means fish - he runs away and is swallowed by a great fish. 
 
-## yourself. In a society dominated by such beliefs, the Bible’s persistent message that we are guilty sinners comes across as oppressive if not evil and dangerous. These modern cultural themes make the offer of grace unnecessary, even an insult.
+>[!quote] Kindle page 74
+>yourself. In a society dominated by such beliefs, the Bible’s persistent message that we are guilty sinners comes across as oppressive if not evil and dangerous. These modern cultural themes make the offer of grace unnecessary, even an insult.
 
-> Sad but true
+> [!Note] Sad but true
 
-## The mercy seat was a slab of gold over the top of the Ark of the Covenant, in which resided the tablets of the Ten Commandments. On the Day of Atonement, a priest sprinkled the blood of the atoning sacrifice for the sins of the people on the mercy seat ( #Lev03/Leviticus16:14–15).
+>[!quote] Kindle page 76
+>The mercy seat was a slab of gold over the top of the Ark of the Covenant, in which resided the tablets of the Ten Commandments. On the Day of Atonement, a priest sprinkled the blood of the atoning sacrifice for the sins of the people on the mercy seat ( #Lev03/Leviticus16:14–15).
 
+> [!Note] Atonement
 > He shall make atonement<mark style="background: #E6852CA6;"> for the Holy Place</mark>, because of the uncleanness of the children of Israel, and <mark style="background: #E6852CA6;">because</mark> of their transgressions, even all their sins; and so he shall do for the Tent of Meeting that dwells with them in the middle of their uncleanness. 17 No one shall be in the Tent of Meeting when he enters to make atonement in the Holy Place, until he comes out, and has made atonement <mark style="background: #E6852CA6;">for himself and for his household, and for all the assembly of Israel</mark>.
 
 ### Atonement for Five Elements
@@ -423,39 +507,56 @@ Things to explore before diving into this book.
 - [[Gate of Wisdom/Appointed Time/Day of Atonement\|Day of Atonement]]
 - [[Gate of Wisdom/Good News/Atonement\|Atonement]]
 
-## his perfect moral righteousness represented by the Ten Commandments, which no human being ever has or ever can keep.
-> Scripture states
+>[!quote] Kindle page 77
+>his perfect moral righteousness represented by the Ten Commandments, which no human being ever has or ever can keep.
+
+> [!Note] Scripture states
 
 - **Noah** — Genesis 6:9 — _"Noah was a righteous man, tamim (תָּמִים) among the people of his time, and Noah walked with God."_ (WEB)
 - **Job** — Job 1:1 — _"that man was blameless (tam/תָּם) and upright, and one who feared God and turned away from evil."_ (WEB)
 - **Zacharias and Elizabeth** — Luke 1:6 — _"They were both righteous before God, walking blamelessly in all the commandments and ordinances of the Lord."_ (WEB) — the text explicitly says they walked blamelessly in all the commandments
 - **Paul** — Philippians 3:6 — _"as touching the righteousness which is in the law, found blameless"_ (WEB) — Paul's own self-assessment before his encounter with Yeshua
+
+> [!Note] Commandments impossible?
 > The Ten Commandments in their original context were not presented as an impossible standard — they were given to a redeemed people as the shape of covenant life (Exodus 20:1-2 establishes redemption _before_ the commands)
 1. **Moral perfection** — never sinning at all — which Scripture does reserve for Yeshua alone (Hebrews 4:15; 2 Corinthians 5:21)
 2. **Covenant faithfulness** — walking in the commandments with integrity — which Scripture attributes to multiple people
-> There is a tension here. There is a consistent Torah expectation that the commands are livable. No one keeps them _perfectly and completely_, but that is different from saying no one can keep them at all.
-Deuteronomy 30:11-14 explicitly says the commandments are _not_ too hard or too far away — _"it is not too hard for you, neither is it far off... the word is very near you, in your mouth and in your heart, so that you can do it."_ (WEB)
+
+>[!Note]  There is a tension here. 
+>There is a consistent Torah expectation that the commands are livable. No one keeps them _perfectly and completely_, but that is different from saying no one can keep them at all.
+
+- Deuteronomy 30:11-14 explicitly says the commandments are _not_ too hard or too far away — _"it is not too hard for you, neither is it far off... the word is very near you, in your mouth and in your heart, so that you can do it."_ (WEB)
 
 
-## Won’t the law of God condemn us? Yes it would, except for the blood of the atoning sacrifice on the mercy seat, over the Ten Commandments, shielding us from its condemnation. It is only when the death of another secures our forgiveness that we can speak with God.
-> Several people were able to speak to god without the death of another first. Blood addresses holiness and sin, not communication. Maybe more accurate would be, "_it is only through atonement that we can stand in God's presence without being consumed by his holiness_"
+>[!quote] Kindle page 77
+>Won’t the law of God condemn us? Yes it would, except for the blood of the atoning sacrifice on the mercy seat, over the Ten Commandments, shielding us from its condemnation. It is only when the death of another secures our forgiveness that we can speak with God.
+
+>[!Note]  Several people were able to speak to god without the death of another first.
+> Blood addresses holiness and sin, not communication. Maybe more accurate would be, "_it is only through atonement that we can stand in God's presence without being consumed by his holiness_"
 
 - The Psalms are full of direct speech with God that makes no explicit reference to sacrifice — David speaks with God throughout his life, including after sin (Psalm 51)
 - Abraham spoke with God before any formal sacrificial system existed (Genesis 15; 18)
 - The prophets spoke with God and for God without the statement being framed transactionally
 - Exodus 33:11 — _"Yahweh spoke to Moses face to face, as a man speaks to his friend"_ (WEB) — framed relationally, not transactionally
 
-## Neither Jonah nor any other Israelite at that time understood all that this meant, but a better picture of the gospel of Jesus could hardly be imagined. The temple and the sacrificial system established all three of these “grace truths” as a foundation: We are sinners, unable to save ourselves and able to be saved only through extreme and costly measures. Not until centuries later would it be revealed that atonement could not be effected by the blood of bulls and goats but only by the once-for-all sacrifice of Jesus Christ (Hebrews 10:4–10).
-> None of this is actually in Jonah - nothing in Jonah is about atonement. Nor is there even a hint of temple and sacrificial system.
+>[!quote] Kindle page 77
+>Neither Jonah nor any other Israelite at that time understood all that this meant, but a better picture of the gospel of Jesus could hardly be imagined. The temple and the sacrificial system established all three of these “grace truths” as a foundation: We are sinners, unable to save ourselves and able to be saved only through extreme and costly measures. Not until centuries later would it be revealed that atonement could not be effected by the blood of bulls and goats but only by the once-for-all sacrifice of Jesus Christ (Hebrews 10:4–10).
+
+>[!Note]  None of this is actually in Jonah
+>Nothing in Jonah is about atonement. Nor is there even a hint of temple and sacrificial system.
 - Nineveh's repentance is fasting, sackcloth, and a royal decree (Jonah 3:5-9) — not sacrifice.
 - Jonah's own offering, mentioned once, is a thanksgiving/vow sacrifice after deliverance (Jonah 2:9)
 - The sailors' sacrifice (Jonah 1:16) is a response of worship/fear after the storm calms, not stated as a sin-atoning act.
-> Jonah is about God's actions not Jonahs, the sailors, or the Ninevites. It's about his extension of mercy to Gentiles (Nineveh)
+
+>[!Note]  Jonah is about God's actions 
+>Not Jonahs, the sailors, or the Ninevites. It's about his extension of mercy to Gentiles (Nineveh)
 - “Salvation comes only from the LORD” (verse 9).
 - If someone is saved, it is wholly God’s doing. It is not a matter of God saving you partly and you saving yourself partly. No. God saves us. We do not and cannot save ourselves. - I would add and not a matter of someone else "saving" you either. 
 
-## In verse 8 Jonah says that “those clinging to empty idols forfeit the grace that is theirs.” Jonah rightly says that idolatry blocks people from receiving grace.
+>[!quote] Kindle page 81
+>In verse 8 Jonah says that “those clinging to empty idols forfeit the grace that is theirs.” Jonah rightly says that idolatry blocks people from receiving grace.
 
+> [!Note] Shamar
 > Those who regard //[[shamar\|shamar]]// lying vanities <mark style="background: #CD04BBA6;">//hevel - a puff of breath or vapor - no substance, weight, or lasting presence//</mark> forsake their own [[Zunpublished/Mercy\|Mercy]]. chesed (loving kindness) leans toward covenant loyalty/steadfast love more than chanun's specific sense of unearned favor (grace)
 - The Tanakh consistently applies hevel and shav to idols specifically: "their idols are silver and gold, the work of men's hands... those who make them are like them; so is everyone who trusts in them" (Psalm 115:4, 8, WEB);
 	- The verse sets up a direct contrast with Jonah's own declaration two verses later: "salvation belongs to Yahweh" (Jonah 2:9). Those who cling to (shamar) what is empty (hevel/shav) thereby abandon the one source of real chesed — the very attribute Jonah himself invokes as reason for his anger in 4:2 ("I knew that you are a gracious God, and merciful, slow to anger, and abundant in loving kindness")
@@ -464,16 +565,23 @@ Deuteronomy 30:11-14 explicitly says the commandments are _not_ too hard or too 
 
 # Chapter 7
 
-## For the time being, he expresses favor in response to the city’s intention and effort at social reform. 
+>[!quote] Kindle page 90
+>For the time being, he expresses favor in response to the city’s intention and effort at social reform. 
 
-> Yah said that they didn't know the left from the right. He didn't expect them to right away regardless of who they were. Anymore than he expected the Israelites to at Mt. Sinai. He is always willing to redeem us BEFORE we know tov and ra, and then teach us what is tov and ra. The question is, are we willing to learn what he believes is tov and ra or do we want to decide. Which is basically the whole theme in Jonah.
+>[!Note]  Yah said that they didn't know the left from the right. 
+>He didn't expect them to right away regardless of who they were. Anymore than he expected the Israelites to at Mt. Sinai. He is always willing to redeem us BEFORE we know tov and ra, and then teach us what is tov and ra. The question is, are we willing to learn what he believes is tov and ra or do we want to decide. Which is basically the whole theme in Jonah.
 
-## “In forty days, Nineveh shall be overthrown!” That was what Jonah enthusiastically wanted and predicted. He enjoyed preaching wrath. He did it with glee, not tears, because he couldn’t wait for God’s hammer to fall on them.
->  the hebrew word means to turn something over, it could mean over throw or turn over.  
+>[!quote] Kindle page 96
+>“In forty days, Nineveh shall be overthrown!” That was what Jonah enthusiastically wanted and predicted. He enjoyed preaching wrath. He did it with glee, not tears, because he couldn’t wait for God’s hammer to fall on them.
+
+>[!Note]   The hebrew word means to turn something over, it could mean over throw or turn over.  
 
 - The Greek term in Jonah 3:4 (LXX) for "overthrown" is katastraphesetai (καταστραφήσεται), from katastrepho — "to overturn, overthrow." This same root appears in the Gospels: "Jesus entered into the temple of God, and drove out all of those who sold and bought in the temple, and overthrew (katestrepsen, κατέστρεψεν) the money changers' tables" (Matthew 21:12, WEB)
-## But God responded with mercy. “When God examined their deeds, how they forsook their evil way, he renounced the disaster he had said he would do to them, and he did not carry it out” (verse 10).
 
+>[!quote] Kindle page 96
+>But God responded with mercy. “When God examined their deeds, how they forsook their evil way, he renounced the disaster he had said he would do to them, and he did not carry it out” (verse 10).
+
+>[!Note] Change in deeds
 - What YHWH "saw" was not merely Nineveh's fasting or sackcloth (described in 3:5-8) but the resulting ma'aseh — the actual turning of conduct; the text specifies that it was this observable change in deeds, not ritual alone, that led to YHWH relenting.
 - Hebrew: nacham (נָחַם) — "to relent, be sorry, comfort, be moved to pity, change one's mind/course"; from a root carrying the sense of a deep, emotional shift — often associated with sighing or breathing heavily as an expression of strong feeling. In Hebrew mindset, nacham describes a genuine change in disposition or action in response to a changed situation, not a cold or merely procedural reversal
 - Nacham is also the verb used of God's grief before the Flood — "it grieved (nacham) him at his heart" (Genesis 6:6, WEB) — showing the term's range: it can describe God's sorrow/regret over a prior course as well as His relenting from an announced judgment, depending on the narrative direction
@@ -481,12 +589,16 @@ Deuteronomy 30:11-14 explicitly says the commandments are _not_ too hard or too 
 
 # Chapter 8
 
-## In verse 2 he says, “Oh Lord, is this not what I spoke of when I was still in my homeland?” Readers are now let in on the ongoing argument Jonah has been having with God all along. Verses 2 and 3 give us a brief sample, but it is not hard to imagine the rest of it. “I just knew you might do something like this! These people are evil, and they only changed because they were scared. They didn’t convert and start worshipping you. They merely promised to start changing—and you bestow mercy on them for that! It’s good that you are a God of mercy, but this time you’ve gone too far.”
+>[!quote] Kindle page 99
+>In verse 2 he says, “Oh Lord, is this not what I spoke of when I was still in my homeland?” Readers are now let in on the ongoing argument Jonah has been having with God all along. Verses 2 and 3 give us a brief sample, but it is not hard to imagine the rest of it. “I just knew you might do something like this! These people are evil, and they only changed because they were scared. They didn’t convert and start worshipping you. They merely promised to start changing—and you bestow mercy on them for that! It’s good that you are a God of mercy, but this time you’ve gone too far.”
 
-> Proof that Jonah knew all along what Yah's mercy looks like. 
-## The name “Yahweh” (translated “the Lord”) has not appeared since chapter 2, but now Jonah literally cries, “Alas, Yahweh!” This is the personal, covenant name of God, which he reveals only to his people Israel, and it is the covenant of God with Israel that is much in Jonah’s mind.
+> [!Note] Proof that Jonah knew all along what Yah's mercy looks like. 
 
-> The name is revealed to many non-Israelites as well as adversaries to Yah. It is His personal name first, and it becomes the name under which His covenant with Israel is specifically transacted and invoked
+>[!quote] Kindle Page 100
+>The name “Yahweh” (translated “the Lord”) has not appeared since chapter 2, but now Jonah literally cries, “Alas, Yahweh!” This is the personal, covenant name of God, which he reveals only to his people Israel, and it is the covenant of God with Israel that is much in Jonah’s mind.
+
+> [!Note] The name is revealed to many non-Israelites as well as adversaries to Yah. 
+> It is His personal name first, and it becomes the name under which His covenant with Israel is specifically transacted and invoked
 
 - Pharaoh is told the name directly
 - Rahab, a Canaanite, uses the name
@@ -495,9 +607,11 @@ Deuteronomy 30:11-14 explicitly says the commandments are _not_ too hard or too 
 - Malachi envisions the name known internationally: "from the rising of the sun even to its going down, my name is great among the nations" (Malachi 1:11, WEB)
 - The name is used in narration from Genesis onward, well before Israel exists as a covenant people: "then men began to call on Yahweh's name" (Genesis 4:26, WEB), in the days of Seth — generations before Abraham
 
-## As a missionary, Jonah should have been glad that the Ninevites had taken a first step. Coming to full faith in God does not usually happen overnight, as it did with the sailors in Jonah’s boat. The people of the city showed their willingness to repent, and Jonah should have prepared to help them continue in their journey by teaching them the character of this new God, the Lord, and what it means to be in a covenant relationship with him.
+>[!quote] Kindle page 103
+>As a missionary, Jonah should have been glad that the Ninevites had taken a first step. Coming to full faith in God does not usually happen overnight, as it did with the sailors in Jonah’s boat. The people of the city showed their willingness to repent, and Jonah should have prepared to help them continue in their journey by teaching them the character of this new God, the Lord, and what it means to be in a covenant relationship with him.
 
-> Jonah is never referred to as a Missionary, he was a Prophet. Prophets did not stay around and teach anyone anything. He was not called to do that. 
+> [!Note] Jonah is never referred to as a Missionary, he was a Prophet. 
+> Prophets did not stay around and teach anyone anything. He was not called to do that. 
 
 - A navi's defining function is to deliver YHWH's exact word — "I will raise them up a prophet from among their brothers, like you. I will put my words in his mouth, and he shall speak to them all that I shall command him" (Deuteronomy 18:18, WEB)
 - The navi's task is message-delivery, not necessarily relationship-building, ongoing discipleship, or wanting a specific outcome — he speaks truth as given, and the response is not his to produce or ensure
@@ -507,9 +621,14 @@ Deuteronomy 30:11-14 explicitly says the commandments are _not_ too hard or too 
 	- the consistent biblical pattern for prophets sent to Gentiles is deliver the word and depart (or remain elsewhere in service to their own calling), not settle in to disciple the response. Elisha's "go in peace" to Naaman is the most direct parallel to what a continued relationship might have looked like, and even there, no follow-up instruction is recorded or implied as expected
 - Prophets in Scripture are frequently shown being reluctant, resistant, or even opposed to the outcome of their own message (Jonah is the clearest case; compare also Balaam, who delivers blessing on Israel he would have preferred not to give, Numbers 22-24)
 
-## When Christian believers care more for their own interests and security than for the good and salvation of other races and ethnicities, they are sinning like Jonah. If they value the economic and military flourishing of their country over the good of the human race and the furtherance of God’s work in the world, they are sinning like Jonah. Their identity is more rooted in their race and nationality than in being saved sinners and children of God. Jonah’s rightful love for his country and people had become inordinate, too great, rivaling God. Rightful racial pride can become racism. Rightful national pride and patriotism can become imperialism.
-> Just not an accurate statement of what is going on in Jonah. Let's not forget Yah gave Saul directions to kill every man, woman, child, and livestock. 
+>[!quote] Kindle page 104
+>When Christian believers care more for their own interests and security than for the good and salvation of other races and ethnicities, they are sinning like Jonah. If they value the economic and military flourishing of their country over the good of the human race and the furtherance of God’s work in the world, they are sinning like Jonah. Their identity is more rooted in their race and nationality than in being saved sinners and children of God. Jonah’s rightful love for his country and people had become inordinate, too great, rivaling God. Rightful racial pride can become racism. Rightful national pride and patriotism can become imperialism.
 
-## 4 Whenever we read the Bible in order to say, “Aha! I’m right!”; whenever we read it to feel righteous and wise in our own eyes, we are using the Bible to make ourselves into fools or worse, since the Bible says that the mark of evil fools is to be “wise in their own eyes” (cf. Proverbs 26:12).
-> Something this particular Author has done over and over throughout this book???
+>[!Note]  Just not an accurate statement of what is going on in Jonah. 
+>Let's not forget Yah gave Saul directions to kill every man, woman, child, and livestock. 
+
+>[!quote] Kindle page 106
+>4 Whenever we read the Bible in order to say, “Aha! I’m right!”; whenever we read it to feel righteous and wise in our own eyes, we are using the Bible to make ourselves into fools or worse, since the Bible says that the mark of evil fools is to be “wise in their own eyes” (cf. Proverbs 26:12).
+
+>[!Note]  Something this particular Author has done over and over throughout this book???
 

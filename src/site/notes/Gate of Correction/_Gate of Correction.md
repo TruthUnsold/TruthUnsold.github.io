@@ -112,6 +112,10 @@ When your actions, habits, or environment feel chaotic, these provide the daily 
 	- <mark style="background: #F309DDA6;">General Highlight</mark>
 >[!Note]+ My Thoughts and Observations
 > with the thoughts here
+
+>[!quote] Quotes for texts outside the Bible
+>look like this
+
 - <mark style="background: #E0CC4BA6;">Who</mark>
 	- <mark style="background: #B2A23AA6;">Who 2</mark>
 	- <mark style="background: #A4A089A6;">Who 3</mark>
