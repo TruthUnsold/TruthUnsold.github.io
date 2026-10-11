@@ -16,15 +16,15 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/H/58 Heb-12 Yada.md\\|58 Heb-12 Yada]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Correction/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Correction/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Correction/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Correction/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Correction/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Correction/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Correction/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Correction/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[_Assets/AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Gate of Correction/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Correction/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Correction/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-12.md\\|Heb-12]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[_Assets/AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/H/58 Heb-12 Yada.md\\|58 Heb-12 Yada]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Correction/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Correction/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Correction/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Correction/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Correction/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Correction/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Correction/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Correction/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Correction/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Correction/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Correction/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[_The Scrolls/4. The Gospels and The Apostles/58 - Hebrews/Heb-12.md\\|Heb-12]]</li><li>[[Checklist for Commandment texts.md\\|Checklist for Commandment texts]]</li></ul> |
 
 { .block-language-dataview}
 
 # List of Precepts (*Pikkudim*) in Deuteronomy
 
-#### 1. Precept: Keep and Teach the Commandments
+#### #05Deut/Deuteronomy04 1. Precept: Keep and Teach the Commandments
 - **Scripture Reference**: Deuteronomy 4:2, 4:5-6
 - **Scripture Text (WEB)**:
   - 4:2: "You shall not add to the word which I command you, neither shall you take away from it, that you may keep the commandments of Yahweh your God which I command you."
@@ -34,7 +34,7 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 
-#### 2. Precept: Love and Obey God with All Your Heart
+#### #05Deut/Deuteronomy06 2. Precept: Love and Obey God with All Your Heart
 - **Scripture Reference**: Deuteronomy 6:4-6
 - **Scripture Text (WEB)**:
   - 6:4-6: "Hear, Israel: Yahweh is our God. Yahweh is one. You shall love Yahweh your God with all your heart, with all your soul, and with all your might. These words, which I command you today, shall be on your heart."
@@ -44,7 +44,7 @@
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 
-#### 3. Precept: Teach Children God’s Commandments
+#### #05Deut/Deuteronomy06 3. Precept: Teach Children God’s Commandments
 - **Scripture Reference**: Deuteronomy 6:7
 - **Scripture Text (WEB)**:
   - 6:7: "You shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise up."
@@ -52,14 +52,14 @@
 - **Offering or Ransom**: None specified. Atonement follows Leviticus patterns (e.g., Leviticus 4:27-31, sin offering).
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 
-#### 4. Precept: Bind and Write God’s Words
+#### #05Deut/Deuteronomy06 4. Precept: Bind and Write God’s Words
 - **Scripture Reference**: Deuteronomy 6:8-9
 - **Scripture Text (WEB)**:
   - 6:8-9: "You shall bind them for a sign on your hand, and they shall be for frontlets between your eyes. You shall write them on the door posts of your house and on your gates."
 - **Penalty or Consequence**: None specified in 6:8-9. Deuteronomy 28:15-68 applies for general disobedience.
 - **Offering or Ransom**: None specified. See Leviticus 4:27-31 for atonement.
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
-#### 5. Precept: Observe the Passover
+#### #05Deut/Deuteronomy16 5. Precept: Observe the Passover
 - **Scripture Reference**: Deuteronomy 16:1-3
 - **Scripture Text (WEB)**:
   - 16:1-3: "Observe the month of Abib, and keep the Passover to Yahweh your God; for in the month of Abib Yahweh your God brought you out of Egypt by night. You shall sacrifice the Passover to Yahweh your God, of the flock and the herd, in the place which Yahweh shall choose to cause his name to dwell there. You shall eat no leavened bread with it. Seven days you shall eat unleavened bread with it, even the bread of affliction; for you came out of the land of Egypt in haste; that you may remember the day when you came out of the land of Egypt all the days of your life."
@@ -67,7 +67,7 @@
 - **Offering or Ransom**: The Passover sacrifice itself (lamb or goat) is the offering (Deuteronomy 16:2). No additional atonement specified.
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
-#### 6. Precept: Observe the Feast of Weeks (Shavuot)
+#### #05Deut/Deuteronomy16 6. Precept: Observe the Feast of Weeks (Shavuot)
 - **Scripture Reference**: Deuteronomy 16:9-11
 - **Scripture Text (WEB)**:
   - 16:9-11: "You shall count seven weeks for yourself. From the time you begin to put the sickle to the standing grain, you shall begin to count seven weeks. You shall keep the feast of weeks to Yahweh your God with a tribute of a freewill offering of your hand, which you shall give, according as Yahweh your God blesses you. You shall rejoice before Yahweh your God: you, your son, your daughter, your male servant, your female servant, the Levite who is within your gates, the foreigner, the fatherless, and the widow who are among you, in the place which Yahweh your God shall choose to cause his name to dwell there."
@@ -76,7 +76,7 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 
-#### 7. Precept: Observe the Feast of Booths (Sukkot)
+#### #05Deut/Deuteronomy16 7. Precept: Observe the Feast of Booths (Sukkot)
 - **Scripture Reference**: Deuteronomy 16:13-15
 - **Scripture Text (WEB)**:
   - 16:13-15: "You shall keep the feast of booths seven days, after you have gathered in from your threshing floor and from your wine press. You shall rejoice in your feast, you, your son, your daughter, your male servant, your female servant, the Levite, the foreigner, the fatherless, and the widow, who are within your gates. You shall keep a feast to Yahweh your God seven days in the place which Yahweh shall choose, because Yahweh your God will bless you in all your increase and in all the work of your hands, and you shall be altogether joyful."
@@ -86,7 +86,7 @@
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 
 
-#### 9. Precept: Do Not Pervert Justice
+#### #05Deut/Deuteronomy16 9. Precept: Do Not Pervert Justice
 - **Scripture Reference**: Deuteronomy 16:19-20
 - **Scripture Text (WEB)**:
   - 16:19-20: "You shall not pervert justice. You shall not show partiality. You shall not take a bribe, for a bribe blinds the eyes of the wise and perverts the words of the righteous. You shall follow that which is altogether just, that you may live and inherit the land which Yahweh your God gives you."
@@ -95,7 +95,7 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 
-#### 10. Precept: Do Not Worship Other Gods or Set Up Idols
+#### #05Deut/Deuteronomy16 10. Precept: Do Not Worship Other Gods or Set Up Idols
 - **Scripture Reference**: Deuteronomy 16:21-22
 - **Scripture Text (WEB)**:
   - 16:21-22: "You shall not plant for yourselves an Asherah of any kind of tree beside the altar of Yahweh your God, which you shall make for yourselves. Neither shall you set up a sacred stone, which Yahweh your God hates."
@@ -103,13 +103,13 @@
 - **Offering or Ransom**: None specified. Leviticus 17:7-9 implies atonement for idolatry via repentance and offerings.
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
-#### 11. Precept: Execute Idolaters
+#### #05Deut/Deuteronomy17 11. Precept: Execute Idolaters
 - **Scripture Reference**: Deuteronomy 17:2-5
 - **Scripture Text (WEB)**:
   - 17:2-5: "If there is found among you, within any of your gates which Yahweh your God gives you, a man or woman who does that which is evil in the sight of Yahweh your God, in transgressing his covenant, and has gone and served other gods and worshiped them, or the sun, or the moon, or any of the army of the sky, which I have not commanded, and it is told you, and you have heard of it, then you shall inquire diligently. Behold, if it is true, and the thing certain, that such abomination is committed in Israel, then you shall bring out that man or that woman who has done this evil thing to your gates, even that man or that woman; and you shall stone them to death with stones."
 - **Penalty or Consequence**: Death by stoning (17:5).
 - **Offering or Ransom**: None specified. Idolatry is a capital offense with no atonement in Deuteronomy. [[Gate of Correction/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
-#### 12. Precept: Take Difficult Cases to the Priests or Judge
+#### #05Deut/Deuteronomy17 12. Precept: Take Difficult Cases to the Priests or Judge
 - **Scripture Reference**: Deuteronomy 17:8-9
 - **Scripture Text (WEB)**:
   - 17:8-9: "If there arises a matter too hard for you in judgment, between blood and blood, between plea and plea, and between stroke and stroke, being matters of controversy within your gates, then you shall arise, and go up to the place which Yahweh your God shall choose. You shall come to the priests who are Levites, and to the judge who shall be in those days. You shall inquire, and they shall show you the sentence of judgment."
@@ -117,14 +117,14 @@
 - **Offering or Ransom**: None specified.
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 
-#### 13. Precept: Obey the Priest or Judge
+#### #05Deut/Deuteronomy17 13. Precept: Obey the Priest or Judge
 - **Scripture Reference**: Deuteronomy 17:10-11
 - **Scripture Text (WEB)**:
   - 17:10-11: "You shall do according to the decisions of the verdict which they shall give you from that place which Yahweh shall choose. You shall observe to do according to all that they shall teach you. According to the law which they shall teach you, and according to the judgment which they shall tell you, you shall do. You shall not turn away from the sentence which they announce to you, to the right hand, nor to the left."
 - **Penalty or Consequence**: Death for disobedience (17:12).
 - **Offering or Ransom**: None specified.
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
-#### 14. Precept: Rules for a King
+#### #05Deut/Deuteronomy17 14. Precept: Rules for a King
 - **Scripture Reference**: Deuteronomy 17:18-20
 - **Scripture Text (WEB)**:
   - 17:18-20: "It shall be, when he sits on the throne of his kingdom, that he shall write himself a copy of this law in a book, out of that which is before the priests the Levites. It shall be with him, and he shall read from it all the days of his life, that he may learn to fear Yahweh his God, to keep all the words of this law and these statutes, to do them; that his heart not be lifted up above his brothers, and that he not turn aside from the commandment, to the right hand, or to the left, to the end that he may prolong his days in his kingdom, he and his children, in the middle of Israel."

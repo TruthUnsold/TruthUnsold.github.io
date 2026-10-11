@@ -15,15 +15,15 @@
 
 # Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Foundation/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke).md\\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]</li><li>[[Gate of Foundation/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Discernment/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Gate of Correction/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Correction/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Correction/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Correction/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Correction/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Correction/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Correction/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Correction/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[_Assets/AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Gate of Wisdom/Right Standing/Statutes (Chuqim).md\\|Statutes (Chuqim)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Correction/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Correction/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Correction/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[_Assets/AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Gate of Discernment/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Foundation/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke).md\\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]</li><li>[[Gate of Foundation/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Correction/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Correction/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Correction/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Correction/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Correction/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Correction/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Correction/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Correction/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Wisdom/Right Standing/Statutes (Chuqim).md\\|Statutes (Chuqim)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Correction/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Correction/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Correction/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[Checklist for Commandment texts.md\\|Checklist for Commandment texts]]</li></ul> |
 
 { .block-language-dataview}
 
 # List of Commandments (Mitzvot) in Deuteronomy
 
-## 1. Scripture Reference: Deuteronomy 4:2 [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-04#v2\|Deut-04#v2]]
+## 1. Scripture Reference: #05Deut/Deuteronomy04:2 
 - **Scripture Text (WEB)**: “You <mark style="background: #FF9EF6A6;">shall not add to the word</mark> which I command you, <mark style="background: #FF9EF6A6;">neither shall you take away from it</mark>, that you may keep the commandments of Yahweh your God which I command you.”
 - **Blessing**: General blessings for obedience (Deuteronomy 28:1-14 [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-28#v1\|Deut-28#v1]]
 - **Penalty or Consequence**: General curses for disobedience (Deuteronomy 28:15-68) [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-28#v15\|Deut-28#v15]]
@@ -91,7 +91,7 @@
 
 
 
-## 2. Destroy Idolatrous Places of Worship
+## #05Deut/Deuteronomy12 Destroy Idolatrous Places of Worship
 - **Scripture Reference**: Deuteronomy 12:2-3
 - **Scripture Text (WEB)**: “You shall surely destroy all the places in which the nations that you shall dispossess served their gods: on the high mountains, and on the hills, and under every green tree. You shall break down their altars, dash their pillars in pieces, and burn their Asherim with fire. You shall cut down the engraved images of their gods. You shall destroy their name out of that place.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -139,19 +139,19 @@
 
 
 ## Fear YHWH and Serve Him
-### **Scripture Reference**: [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-06#v13\|Deut-06#v13]]
+### **Scripture Reference**: #05Deut/Deuteronomy06 
 - **Scripture Text (WEB)**: 13 You shall fear Yahweh your God; and you shall serve him, and shall swear by his name. 
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
 - **Penalty or Consequence**: Yahweh’s jealousy and anger, potential destruction (Deuteronomy 6:15).
 - **Offering or Ransom?**: 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
-### **Scripture Reference**: [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-04#v7\|James-04#v7]]
+### **Scripture Reference**: #59James/James04[[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-04#v7\|James-04#v7]]
 - **Scripture Text (WEB):** "Be subject therefore to God. 
 
 ## Do Not Worship Other Gods
 
-## #LoveGod  Fear and Serve Yahweh Alone: [Deuteronomy 6:13](https://www.biblegateway.com/passage/?search=Deuteronomy+6:13&version=WEB;NET;OJB)
+## #LoveGod #05Deut/Deuteronomy06 Fear and Serve Yahweh Alone: [Deuteronomy 6:13](https://www.biblegateway.com/passage/?search=Deuteronomy+6:13&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:** *
@@ -170,7 +170,7 @@
 - <mark style="background: #CD04BBA6;">Personal Observations</mark>:
 	- Jesus quotes this verse directly in response to Satan's temptation (Matt. 4:10) — framing it as the definitive boundary of worship and allegiance
 
- #05Deut/Deuteronomy06   
+ 
 
 ## #LoveGod #05Deut/Deuteronomy10   Fear and Serve Yahweh, Hold Fast, Swear by His Name: [Deuteronomy 10:20](https://www.biblegateway.com/passage/?search=Deuteronomy+10:20&version=WEB;NET;OJB)
 
@@ -193,7 +193,7 @@
 
  
 
-### **Scripture Reference**: [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-06#v14\|Deut-06#v14]]
+### **Scripture Reference**: #05Deut/Deuteronomy06  [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-06#v14\|Deut-06#v14]]
 - **Scripture Text (WEB)**: 14 You shall not go after other gods, of the gods of the peoples who are around you,
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
 - **Penalty or Consequence**: Yahweh’s jealousy and anger, potential destruction (Deuteronomy 6:15).
@@ -223,11 +223,11 @@
    * Repentance and return to covenant are the path back (Deuteronomy 30:1–3)
 #LoveGod   
 
-### **Scripture Reference**: [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-04#v7\|James-04#v7]]
+### **Scripture Reference**: #59James/James04 [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-04#v7\|James-04#v7]]
 - **Scripture Text (WEB):** Resist the devil, and he will flee from you."
 - **Blessing**:  James says, the adversary will flee
 
-## #LoveGod Hear - Yahweh is One [Deuteronomy 6:4](https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A4&version=WEB;NET;OJB)
+## #LoveGod #05Deut/Deuteronomy06 Hear - Yahweh is One [Deuteronomy 6:4](https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A4&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
 	- Do 
@@ -249,8 +249,8 @@
 	- One echad (אֶחָד) = one, unity, alone
 		- In Hebrew mindset of Deuteronomy 6:4, "Yahweh echad" affirms Yahweh as the sole God/El, unique and undivided in loyalty and worship, with no other gods/elohim alongside Him.
  
- #05Deut/Deuteronomy06
-## 4. Love Yahweh Your God
+ 
+## 4. #05Deut/Deuteronomy06 Love Yahweh Your God
 - **Scripture Reference**: Deuteronomy 6:5
 - **Scripture Text (WEB)**: “You shall love Yahweh your God with all your heart, with all your soul, and with all your might.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -258,7 +258,7 @@
 - **Offering or Ransom?**: 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 
-## 5. Teach God’s Commandments to Your Children
+## 5. #05Deut/Deuteronomy06 Teach God’s Commandments to Your Children
 - **Scripture Reference**: Deuteronomy 6:7
 - **Scripture Text (WEB)**: “You shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise up.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -294,7 +294,7 @@
 
 
 
-## 8. Do Not Test Yahweh Your God
+## 8. #05Deut/Deuteronomy06 Do Not Test Yahweh Your God
 - **Scripture Reference**: Deuteronomy 6:16
 - **Scripture Text (WEB)**: “You <mark style="background: #FF9EF6A6;">shall not</mark> tempt Yahweh your God, as you tempted him in Massah.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -302,7 +302,7 @@
 - **Offering or Ransom?**: 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 
-## 9. Make No Covenant the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites Nations
+## 9. #05Deut/Deuteronomy07 Make No Covenant the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites Nations
 - **Scripture Reference**: Deuteronomy 7:2
 - **Scripture Text (WEB)**: “When Yahweh your God delivers them up before you, and you strike them, then you shall utterly destroy them. You <mark style="background: #FF9EF6A6;">shall make no covenant</mark> with them, nor show mercy to them.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -311,7 +311,7 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 - **Note:** It doesn't seem as though making a covenant could ever be unintentional. None specified if intentional.
 
-## 10. Do Not Intermarry with the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites Nations
+## 10. #05Deut/Deuteronomy07 07  Do Not Intermarry with the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites Nations
 - **Scripture Reference**: Deuteronomy 7:3
 - **Scripture Text (WEB)**: “You <mark style="background: #FF9EF6A6;">shall not make</mark> marriages with them. You <mark style="background: #FF9EF6A6;">shall not give</mark> your daughter to their son, nor shall you take their daughter for your son.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -320,7 +320,7 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 - **Note:** Only way it would be unintentional is if they were slaves?
 
-## 11. Destroy Idols and Their Altars
+## 11. #05Deut/Deuteronomy07 teronomy07  Destroy Idols and Their Altars
 - **Scripture Reference**: Deuteronomy 7:5
 - **Scripture Text (WEB)**: “But you shall deal with them like this: you shall break down their altars, dash their pillars in pieces, cut down their Asherim, and burn their engraved images with fire.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -328,7 +328,7 @@
 - **Offering or Ransom?**: 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 
-## #LoveGod Bless Yahweh When You Have Eaten: [Deuteronomy 8:10](https://www.biblegateway.com/passage/?search=Deuteronomy+8:10&version=WEB;NET;OJB)
+## #LoveGod #05Deut/Deuteronomy08 Bless Yahweh When You Have Eaten: [Deuteronomy 8:10](https://www.biblegateway.com/passage/?search=Deuteronomy+8:10&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
@@ -492,7 +492,7 @@
 
  
 
-## 12. Keep the Passover
+## 12. #05Deut/Deuteronomy16  Keep the Passover
 - **Scripture Reference**: Deuteronomy 16:1-2
 - **Scripture Text (WEB)**: “Observe the month of Abib, and keep the Passover to Yahweh your God; for in the month of Abib Yahweh your God brought you out of Egypt by night. You shall sacrifice the Passover to Yahweh your God, of the flock and the herd, in the place which Yahweh shall choose to cause his name to dwell there.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -500,7 +500,7 @@
 - **Offering or Ransom?**: [[Gate of Wisdom/Offering/Passover Offering\|Passover Offering]] (Deuteronomy 16:2).
 - **Note:** No known place chosen by Yah to bring offerings at this time. 
 
-## 13. Do Not Eat Leavened Bread During Passover
+## 13. #05Deut/Deuteronomy16 Do Not Eat Leavened Bread During Passover
 - **Scripture Reference**: Deuteronomy 16:3
 - **Scripture Text (WEB)**: “You <mark style="background: #FF9EF6A6;">shall eat no leavened</mark> bread with it. You shall eat unleavened bread with it seven days, even the bread of affliction (for you came out of the land of Egypt in haste) that you may remember the day when you came out of the land of Egypt all the days of your life.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -509,7 +509,7 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 - **Note:** No known place chosen by Yah to bring offerings at this time. 
 
-## 14. Keep the Feast of Weeks (Shavuot)
+## 14. #05Deut/Deuteronomy16 Keep the Feast of Weeks (Shavuot)
 - **Scripture Reference**: Deuteronomy 16:9-10
 - **Scripture Text (WEB)**: “You shall count for yourselves seven weeks. From the time you begin to put the sickle to the standing grain you shall begin to count seven weeks. You shall keep the feast of weeks to Yahweh your God with a tribute of a free will offering of your hand, which you shall give according as Yahweh your God blesses you.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -518,7 +518,7 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 - **Note:** No known place chosen by Yah to bring offerings at this time. 
 
-## 15. Keep the Feast of Booths (Sukkot)
+## 15. #05Deut/Deuteronomy16 Keep the Feast of Booths (Sukkot)
 - **Scripture Reference**: Deuteronomy 16:13
 - **Scripture Text (WEB)**: “You shall keep the feast of booths seven days, after you have gathered in from your threshing floor and from your wine press.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -527,7 +527,7 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 - **Note:** No known place chosen by Yah to bring offerings at this time. 
 
-## 16. Appear Before Yahweh Three Times a Year
+## 16. #05Deut/Deuteronomy16 Appear Before Yahweh Three Times a Year
 - **Scripture Reference**: Deuteronomy 16:16
 - **Scripture Text (WEB)**: “Three times in a year all of your males shall appear before Yahweh your God in the place which he chooses: in the feast of unleavened bread, in the feast of weeks, and in the feast of booths. They <mark style="background: #FF9EF6A6;">shall not appear</mark> before Yahweh empty.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -536,7 +536,7 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 - **Note:** No known place chosen by Yah to bring offerings at this time. 
 
-## 17. Do Not Offer Blemished Sacrifices
+## 17. #05Deut/Deuteronomy17  Do Not Offer Blemished Sacrifices
 - **Scripture Reference**: Deuteronomy 17:1
 - **Scripture Text (WEB)**: “You <mark style="background: #FF9EF6A6;">shall not sacrifice</mark> to Yahweh your God an ox or a sheep in which is a defect or anything evil; for that is an abomination to Yahweh your God.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -545,7 +545,7 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 - **Note:** No known place chosen by Yah to bring offerings at this time. 
 
-## 18. Do Not Follow False Prophets
+## 18. #05Deut/Deuteronomy13 Do Not Follow False Prophets
 - **Scripture Reference**: Deuteronomy 13:1-3
 - **Scripture Text (WEB)**: “If a prophet or a dreamer of dreams arises among you, and he gives you a sign or a wonder, and the sign or the wonder comes to pass, of which he spoke to you, saying, ‘Let’s go after other gods’ (which you have not known) ‘and let’s serve them,’ you <mark style="background: #FF9EF6A6;">shall not listen</mark> to the words of that prophet or to that dreamer of dreams; for Yahweh your God is testing you.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -554,14 +554,14 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification.
 
-## 19. Put to Death Those Who Entice to Idolatry
+## 19. #05Deut/Deuteronomy13 Put to Death Those Who Entice to Idolatry
 - **Scripture Reference**: Deuteronomy 13:6-9
 - **Scripture Text (WEB)**: “If your brother, the son of your mother, or your son, or your daughter, or the wife of your bosom, or your friend who is as your own soul, entices you secretly, saying, ‘Let’s go and serve other gods’—which you have not known, you, nor your fathers; of the gods of the peoples who are around you, near to you, or far off from you, from the one end of the earth even to the other end of the earth—<mark style="background: #FF9EF6A6;">you shall not consent</mark> to him <mark style="background: #FF9EF6A6;">nor listen </mark>to him; <mark style="background: #FF9EF6A6;">neither shall</mark> your eye pity him, <mark style="background: #FF9EF6A6;">neither shall</mark> you spare, <mark style="background: #FF9EF6A6;">neither shall</mark> you conceal him; but you shall surely kill him.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
 - **Penalty or Consequence**: Death by stoning (Deuteronomy 13:10).
 - **Offering or Ransom?**:[[Gate of Correction/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]] 
 
-## 20. Destroy a City That Turns to Idolatry
+## 20. #05Deut/Deuteronomy13 Destroy a City That Turns to Idolatry
 - **Scripture Reference**: Deuteronomy 13:12-15
 - **Scripture Text (WEB)**: “If you hear about one of your cities, which Yahweh your God gives you to dwell there, that certain wicked men have gone out from among you and have drawn away the inhabitants of their city, saying, ‘Let’s go and serve other gods,’ which you have not known, then you shall inquire, investigate, and ask diligently. Behold, if it is true, and the thing certain, that such abomination is done among you, you shall surely strike the inhabitants of that city with the edge of the sword, destroying it utterly, with all that is in it and its livestock, with the edge of the sword.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -569,7 +569,7 @@
 - **Offering or Ransom?**: 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition? 
 
-## 21. Appoint Judges and Officers
+## 21. #05Deut/Deuteronomy16 Appoint Judges and Officers
 - **Scripture Reference**: Deuteronomy 16:18
 - **Scripture Text (WEB)**: “You shall make judges and officers in all your gates, which Yahweh your God gives you, according to your tribes; and they shall judge the people with righteous judgment.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -577,7 +577,7 @@
 - **Offering or Ransom?**: 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 
-## 22. Do Not Pervert Justice
+## 22. #05Deut/Deuteronomy16 Do Not Pervert Justice
 - **Scripture Reference**: Deuteronomy 16:19
 - **Scripture Text (WEB)**: “You <mark style="background: #FF9EF6A6;">shall not</mark> pervert justice. You <mark style="background: #FF9EF6A6;">shall not</mark> show partiality. You <mark style="background: #FF9EF6A6;">shall not</mark> take a bribe, for a bribe blinds the eyes of the wise and perverts the words of the righteous.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -585,7 +585,7 @@
 - **Offering or Ransom?**: 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?. 
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
-## 23. Do Not Set Up an Asherah or Pillar
+## 23. #05Deut/Deuteronomy16 Do Not Set Up an Asherah or Pillar
 - **Scripture Reference**: Deuteronomy 16:21-22
 - **Scripture Text (WEB)**: “You <mark style="background: #FF9EF6A6;">shall not</mark> plant for yourselves an Asherah of any kind of tree beside the altar of Yahweh your God, which you shall make for yourselves. <mark style="background: #FF9EF6A6;">Neither shall</mark> you set yourself up a sacred pillar, which Yahweh your God hates.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -594,7 +594,7 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition? 
 - **Note:** Seems pretty difficult to plant something and not know it. 
 
-## #LoveGod  No Occult Practices: [Deuteronomy 18:10-12](https://www.biblegateway.com/passage/?search=Deuteronomy+18:10-12&version=WEB;NET;OJB)
+## #LoveGod #05Deut/Deuteronomy18  No Occult Practices: [Deuteronomy 18:10-12](https://www.biblegateway.com/passage/?search=Deuteronomy+18:10-12&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
@@ -626,9 +626,9 @@
 - <mark style="background: #CD04BBA6;">Personal Observations</mark>:
     - Saul's consultation of the medium at En-dor (1 Sam. 28) — his death follows immediately with no path of restoration offered
 
- #05Deut/Deuteronomy18 
+ 
 
-## 24. Execute a Rebellious Son
+## 24. #05Deut/Deuteronomy21 Execute a Rebellious Son
 - **Scripture Reference**: Deuteronomy 21:18-21
 - **Scripture Text (WEB)**: “If a man has a stubborn and rebellious son who will not obey the voice of his father or the voice of his mother, and though they chasten him, will not listen to them, then his father and his mother shall take hold of him and bring him out to the elders of his city and to the gate of his place. They shall tell the elders of his city, ‘This our son is stubborn and rebellious. He will not obey our voice. He is a glutton and a drunkard.’ All the men of his city shall stone him to death with stones. So you shall remove the evil from among you.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -636,7 +636,7 @@
 - **Offering or Ransom?**: [[Gate of Correction/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
 - **Note:** No set elders at the city gates?
 
-## 25. Do Not Leave a Hanged Person on the Tree Overnight
+## 25. #05Deut/Deuteronomy21 Do Not Leave a Hanged Person on the Tree Overnight
 - **Scripture Reference**: Deuteronomy 21:22-23
 - **Scripture Text (WEB)**: “If a man has committed a sin worthy of death, and he is put to death, and you hang him on a tree, his body <mark style="background: #FF9EF6A6;">shall not remain</mark> all night on the tree, but you shall surely bury him the same day; for he who is hanged is accursed of God. Don’t defile your land which Yahweh your God gives you for an inheritance.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -645,7 +645,7 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
 
-## 26. Return Lost Property
+## 26. #05Deut/Deuteronomy22 Return Lost Property
 - **Scripture Reference**: Deuteronomy 22:1-3
 - **Scripture Text (WEB)**: “You <mark style="background: #FF9EF6A6;">shall not see</mark> your brother’s ox or his sheep go astray and hide yourself from them. You shall surely bring them again to your brother. If your brother isn’t near to you, or if you don’t know him, then you shall bring it home to your house, and it shall be with you until your brother looks for it, and you shall restore it to him. So you shall do with his donkey, and so you shall do with his garment, and so you shall do with every lost thing of your brother’s, which he has lost and you have found. You may not hide yourself.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -654,7 +654,7 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition? 
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 
-## 27. Help with a Neighbor’s Burdened Animal
+## 27. #05Deut/Deuteronomy22 Help with a Neighbor’s Burdened Animal
 - **Scripture Reference**: Deuteronomy 22:4
 - **Scripture Text (WEB)**: “You <mark style="background: #FF9EF6A6;">shall not see</mark> your brother’s donkey or his ox fallen down by the way, and hide yourself from them. You shall surely help him to lift them up again.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -663,7 +663,7 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition? 
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 
-## 31. Wear Tassels (Tzitzit) on Garments
+## 31. #05Deut/Deuteronomy22 Wear Tassels (Tzitzit) on Garments
 - **Scripture Reference**: Deuteronomy 22:12
 - **Scripture Text (WEB)**: “You shall make yourselves fringes (tzitzit) on the four corners of your cloak with which you cover yourself.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -671,7 +671,7 @@
 - **Offering or Ransom?**: 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 
-## 32. Laws Concerning Virginity and Marriage
+## 32. #05Deut/Deuteronomy22 Laws Concerning Virginity and Marriage
 - **Scripture Reference**: Deuteronomy 22:13-21
 - **Scripture Text (WEB)**: “If any man takes a wife, and goes in to her, hates her, and accuses her of shameful things, saying, ‘I took this woman, and when I came near to her, I didn’t find in her the tokens of virginity,’ then the young lady’s father and mother shall take and bring the tokens of the young lady’s virginity to the elders of the city in the gate… If this thing is true, that the tokens of virginity weren’t found in the young lady, then they shall bring out the young lady to the door of her father’s house, and the men of her city shall stone her to death with stones, because she has done folly in Israel, to play the prostitute in her father’s house.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -680,7 +680,7 @@
 	- [[Gate of Correction/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
 - **Note:** No set elders at the city gates?
 
-## #LoveNeighbor #LoveGod No Sacred Prostitution: [Deuteronomy 23:17-18](https://www.biblegateway.com/passage/?search=Deuteronomy+23:17-18&version=WEB;NET;OJB)
+## #LoveNeighbor #LoveGod #05Deut/Deuteronomy23 No Sacred Prostitution: [Deuteronomy 23:17-18](https://www.biblegateway.com/passage/?search=Deuteronomy+23:17-18&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
@@ -704,15 +704,15 @@
 	- prostitute in v 17 - refers to the pagan fertility cults that employed female and male prostitutes in various rituals
 	- prostitute (a dog) in v 18 - refers to a regular prostitute
 
- #05Deut/Deuteronomy23  
+  
 
-## 33. Do Not Commit Adultery
+## 33. #05Deut/Deuteronomy22 Do Not Commit Adultery
 - **Scripture Reference**: Deuteronomy 22:22
 - **Scripture Text (WEB)**: “If a man is found lying with a woman married to a husband, then they shall both die, the man who lay with the woman and the woman. So you shall remove the evil from Israel.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
 - **Penalty or Consequence**: Death for both (Deuteronomy 22:22).
 - **Offering or Ransom?**: [[Gate of Correction/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
-## 34. Laws Concerning Rape
+## 34. #05Deut/Deuteronomy22 Laws Concerning Rape
 - **Scripture Reference**: Deuteronomy 22:25-29
 - **Scripture Text (WEB)**: “But if the man finds the lady who is pledged to be married in the field, and the man forces her and lies with her, then only the man who lay with her shall die… If a man finds a lady who is a virgin, who is not pledged to be married, and lays hold of her, and lies with her, and they are found, then the man who lay with her shall give to the lady’s father fifty shekels of silver. She shall be his wife, because he has humbled her. He <mark style="background: #FF9EF6A6;">may not put</mark> her away all his days.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -720,7 +720,7 @@
 - **Offering or Ransom?**: Fine of 50 shekels for non-betrothed (Deuteronomy 22:29).
 	- [[Gate of Correction/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
 
-## 35. Do Not Marry Your Father’s Wife
+## 35. #05Deut/Deuteronomy22 Do Not Marry Your Father’s Wife
 - **Scripture Reference**: Deuteronomy 22:30
 - **Scripture Text (WEB)**: “A man <mark style="background: #FF9EF6A6;">shall not</mark> take his father’s wife, and shall not uncover his father’s skirt.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -729,7 +729,7 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	**Note:** Seems difficult to do unintentionally.
 
-## 36. Leave Gleanings for the Poor
+## 36. #05Deut/Deuteronomy24 Leave Gleanings for the Poor
 - **Scripture Reference**: Deuteronomy 24:19-21
 - **Scripture Text (WEB)**: “When you reap your harvest in your field, and have forgotten a sheaf in the field, you <mark style="background: #FF9EF6A6;">shall not</mark> go again to get it. It shall be for the foreigner, for the fatherless, and for the widow, that Yahweh your God may bless you in all the work of your hands. When you beat your olive tree, you <mark style="background: #FF9EF6A6;">shall not go</mark> over the boughs again. It shall be for the foreigner, for the fatherless, and for the widow. When you harvest your vineyard, you <mark style="background: #FF9EF6A6;">shall not</mark> glean it after yourselves. It shall be for the foreigner, for the fatherless, and for the widow.”
 - **Blessing**: Blessing in all the work of your hands (Deuteronomy 24:19).
@@ -737,7 +737,7 @@
 - **Offering or Ransom?**: 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition? 
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
-## 37. Do Not Take a Widow’s Garment as a Pledge
+## 37. #05Deut/Deuteronomy24 Do Not Take a Widow’s Garment as a Pledge
 - **Scripture Reference**: Deuteronomy 24:17
 - **Scripture Text (WEB)**: “You <mark style="background: #FF9EF6A6;">shall not</mark> pervert the justice due to the foreigner or to the fatherless, <mark style="background: #FF9EF6A6;">nor take</mark> a widow’s clothing in pledge.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -746,7 +746,7 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 
-## 38. Do Not Muzzle an Ox While It Treads Grain
+## 38. #05Deut/Deuteronomy25 Do Not Muzzle an Ox While It Treads Grain
 - **Scripture Reference**: Deuteronomy 25:4
 - **Scripture Text (WEB)**: “You <mark style="background: #FF9EF6A6;">shall not</mark> muzzle the ox when he treads out the grain.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -755,7 +755,7 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	**Note:** Seems difficult to do intentionally. 
 
-## 39. Perform Levirate Marriage
+## 39. #05Deut/Deuteronomy25 Perform Levirate Marriage
 - **Scripture Reference**: Deuteronomy 25:5-6
 - **Scripture Text (WEB)**: “If brothers dwell together, and one of them dies and has no son, the wife of the dead <mark style="background: #FF9EF6A6;">shall not</mark> be married outside to a stranger. Her husband’s brother shall go in to her, and take her as his wife, and perform the duty of a husband’s brother to her. It shall be that the firstborn whom she bears shall succeed in the name of his brother who is dead, that his name not be blotted out of Israel.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -763,7 +763,7 @@
 - **Offering or Ransom?**: 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 
-## 40. Do Not Use Dishonest Weights and Measures
+## 40. #05Deut/Deuteronomy25 Do Not Use Dishonest Weights and Measures
 - **Scripture Reference**: Deuteronomy 25:13-15
 - **Scripture Text (WEB)**: “You <mark style="background: #FF9EF6A6;">shall not</mark> have in your bag diverse weights, a great and a small. You <mark style="background: #FF9EF6A6;">shall not</mark> have in your house diverse measures, a great and a small. You shall have a perfect and just weight. You shall have a perfect and just measure, that your days may be long in the land which Yahweh your God gives you.”
 - **Blessing**: Long life in the land (Deuteronomy 25:15).
@@ -772,14 +772,14 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit..
 
-## 41. Remember to Blot Out Amalek
+## 41. #05Deut/Deuteronomy25 Remember to Blot Out Amalek
 - **Scripture Reference**: Deuteronomy 25:17-19
 - **Scripture Text (WEB)**: “Remember what <mark style="background: #E0CC4BA6;">Amalek</mark> did to you by the way as you came out of Egypt, how he met you by the way, and struck the rearmost of you, all who were feeble behind you, when you were faint and weary; and he didn’t fear God. Therefore it shall be, when Yahweh your God has given you rest from all your enemies all around, in the land which Yahweh your God gives you for an inheritance to possess it, that you shall blot out the memory of Amalek from under the sky. You shall not forget.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
 - **Penalty or Consequence**: General curses (Deuteronomy 28:15-68).
 - **Offering or Ransom?**: None specified.
 
-## 42. Bring Firstfruits and Declare Them
+## 42. #05Deut/Deuteronomy26 Bring Firstfruits and Declare Them
 - **Scripture Reference**: Deuteronomy 26:1-2, 12-15
 - **Scripture Text (WEB)**: “It shall be, when you have <mark style="background: #4DA6EDA6;">come in to the land</mark> which Yahweh your God gives you for an inheritance, possess it, and dwell in it, that you shall take some of the first of all the fruit of the ground, which you shall bring in from your land that Yahweh your God gives you. You shall put it in a basket, and shall go to the place which Yahweh your God shall choose to cause his name to dwell there… When you have finished tithing all the tithe of your increase in the third year, which is the year of tithing, then you shall give it to the Levite, to the foreigner, to the fatherless, and to the widow, that they may eat within your gates and be filled.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -824,7 +824,7 @@
 	- The passage a covenant exchange enacted in speech before witnesses — Israel declares Yahweh as their God (v.17) and Yahweh declares Israel as His people (v.18)
 
 
-## 43. Obey All God’s Commandments
+## 43. #05Deut/Deuteronomy27 Obey All God’s Commandments
 - **Scripture Reference**: Deuteronomy 27:1
 - **Scripture Text (WEB)**: “Moses and the elders of Israel commanded the people, saying, ‘Keep all the commandment which I command you today.’”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
@@ -962,7 +962,7 @@
 
 ---
 
-1. **Let My People Go**
+1. #02Exod/Exodus05 **Let My People Go**
 
 - **Scripture Reference:** Exodus 5:1
 - **Scripture Text (WEB):** "Let my people go, that they may hold a feast to me in the wilderness."
@@ -1217,7 +1217,7 @@
   
 ---
 
-12. **Do Not Make Gods of Silver or Gold**
+12. #02Exod/Exodus20 **Do Not Make Gods of Silver or Gold**
 
 - **Scripture Reference:** Exodus 20:23
 - **Scripture Text (WEB):** "You shall not make alongside me gods of silver, or gods of gold for yourselves."
@@ -1227,7 +1227,7 @@
 
 ---
 
-13. **Build the Altar of Earth or Uncut Stone**
+13. #02Exod/Exodus20 **Build the Altar of Earth or Uncut Stone**
 
 - **Scripture Reference:** Exodus 20:24–25
 - **Scripture Text (WEB):** "You shall make an altar of earth for me, and shall sacrifice on it your burnt offerings and your peace offerings, your sheep and your cattle. In every place where I record my name I will come to you and I will bless you. If you make me an altar of stone, you shall not build it of cut stones; for if you lift up your tool on it, you have polluted it."
@@ -1237,7 +1237,7 @@
 
 ---
 
-14. **Do Not Go Up by Steps to the Altar**
+14. #02Exod/Exodus20 **Do Not Go Up by Steps to the Altar**
 
 - **Scripture Reference:** Exodus 20:26
 - **Scripture Text (WEB):** "You shall not go up by steps to my altar, that your nakedness may not be exposed on it."
@@ -1247,7 +1247,7 @@
 
 ---
 
-15. **Hebrew Servants Must Be Released in the Seventh Year**
+15. #02Exod/Exodus21**Hebrew Servants Must Be Released in the Seventh Year**
 
 - **Scripture Reference:** Exodus 21:2
 - **Scripture Text (WEB):** "If you buy a Hebrew servant, he shall serve six years and in the seventh he shall go out free without paying anything."
@@ -1257,7 +1257,7 @@
 
 ---
 
-16. **The Servant Who Chooses to Stay Must Be Marked at the Door**
+16. #02Exod/Exodus21 **The Servant Who Chooses to Stay Must Be Marked at the Door**
 
 - **Scripture Reference:** Exodus 21:5–6
 - **Scripture Text (WEB):** "But if the servant shall plainly say, 'I love my master, my wife, and my children. I will not go out free;' then his master shall bring him to God, and shall bring him to the door or to the doorpost, and his master shall bore his ear through with an awl, and he shall serve him forever."
@@ -1267,7 +1267,7 @@
 
 ---
 
-17. **A Daughter Sold as a Servant Has Specific Rights**
+17. #02Exod/Exodus21 **A Daughter Sold as a Servant Has Specific Rights**
 
 - **Scripture Reference:** Exodus 21:7–11
 - **Scripture Text (WEB):** "If a man sells his daughter to be a female servant, she shall not go out as the male servants do. If she doesn't please her master, who has married her to himself, then he shall let her be redeemed. He shall have no right to sell her to a foreign people, since he has dealt deceitfully with her. If he marries another wife, her food, her clothing, and her marital rights shall not be diminished. If he doesn't do these three things for her, she shall go out for nothing, without payment of money."
@@ -1277,7 +1277,7 @@
 
 ---
 
-18. **One Who Strikes and Kills a Man Shall Be Put to Death**
+18. #02Exod/Exodus21 **One Who Strikes and Kills a Man Shall Be Put to Death**
 
 - **Scripture Reference:** Exodus 21:12
 - **Scripture Text (WEB):** "One who strikes a man so that he dies shall surely be put to death."
@@ -1287,7 +1287,7 @@
 
 ---
 
-19. **The Premeditated Murderer Shall Be Taken from the Altar to Die**
+19. #02Exod/Exodus21 **The Premeditated Murderer Shall Be Taken from the Altar to Die**
 
 - **Scripture Reference:** Exodus 21:14
 - **Scripture Text (WEB):** "But if a man schemes against his neighbor, to kill him with cunning, you shall take him from my altar, that he may die."
@@ -1297,7 +1297,7 @@
 
 ---
 
-20. **One Who Strikes Father or Mother Shall Be Put to Death**
+20. #02Exod/Exodus21 **One Who Strikes Father or Mother Shall Be Put to Death**
 
 - **Scripture Reference:** Exodus 21:15
 - **Scripture Text (WEB):** "Anyone who attacks his father or his mother shall be surely put to death."
@@ -1307,7 +1307,7 @@
 
 ---
 
-21. **Kidnapping Carries the Death Penalty**
+21. #02Exod/Exodus21 **Kidnapping Carries the Death Penalty**
 
 - **Scripture Reference:** Exodus 21:16
 - **Scripture Text (WEB):** "Anyone who kidnaps a man, whether he sells him or is found with him in his hand, shall surely be put to death."
@@ -1317,7 +1317,7 @@
 
 ---
 
-22. **One Who Curses Father or Mother Shall Be Put to Death**
+22. #02Exod/Exodus21 **One Who Curses Father or Mother Shall Be Put to Death**
 
 - **Scripture Reference:** Exodus 21:17
 - **Scripture Text (WEB):** "Anyone who curses his father or his mother shall surely be put to death."
@@ -1327,7 +1327,7 @@
 
 ---
 
-23. **Restitution for Injuring Another in a Fight**
+23. #02Exod/Exodus21  **Restitution for Injuring Another in a Fight**
 
 - **Scripture Reference:** Exodus 21:18–19
 - **Scripture Text (WEB):** "If men quarrel and one strikes the other with a stone, or with his fist, and he doesn't die, but is confined to bed; if he rises again and walks around with his staff, then he who struck him shall be cleared; only he shall pay for the loss of his time, and shall provide for his healing until he is thoroughly healed."
@@ -1337,7 +1337,7 @@
 
 ---
 
-24. **Owner of a Slave Who Dies Under the Rod Shall Be Punished**
+24. #02Exod/Exodus21  **Owner of a Slave Who Dies Under the Rod Shall Be Punished**
 
 - **Scripture Reference:** Exodus 21:20
 - **Scripture Text (WEB):** "If a man strikes his servant or his maid with a rod, and he dies under his hand, he shall surely be punished."
@@ -1347,7 +1347,7 @@
 
 ---
 
-25. **A Slave Freed If Permanently Injured by Owner**
+25. #02Exod/Exodus21  **A Slave Freed If Permanently Injured by Owner**
 
 - **Scripture Reference:** Exodus 21:26–27
 - **Scripture Text (WEB):** "If a man strikes his servant's eye, or his maid's eye, and destroys it, he shall let him go free for his eye's sake. If he strikes out his male servant's tooth, or his female servant's tooth, he shall let him go free for his tooth's sake."
@@ -1357,7 +1357,7 @@
 
 ---
 
-26. **Restitution for an Ox That Gores**
+26. #02Exod/Exodus21 **Restitution for an Ox That Gores**
 
 - **Scripture Reference:** Exodus 21:28–32
 - **Scripture Text (WEB):** "If a bull gores a man or a woman to death, the bull shall surely be stoned, and its meat shall not be eaten; but the owner of the bull shall not be held responsible. But if the bull had a habit of goring in the past, and it has been testified to its owner, and he has not kept it in, but it has killed a man or a woman, the bull shall be stoned, and its owner shall also be put to death. If a ransom is laid on him, then he shall give for the redemption of his life whatever is laid on him."
@@ -1367,7 +1367,7 @@
 
 ---
 
-27. **Restitution for an Ox Falling into an Uncovered Pit**
+27. #02Exod/Exodus21  **Restitution for an Ox Falling into an Uncovered Pit**
 
 - **Scripture Reference:** Exodus 21:33–34
 - **Scripture Text (WEB):** "If a man opens a pit, or if a man digs a pit and doesn't cover it, and an ox or a donkey falls into it, the owner of the pit shall make it good. He shall give money to its owner, and the dead animal shall be his."
@@ -1377,7 +1377,7 @@
 
 ---
 
-28. **Restitution When One Man's Ox Kills Another's**
+28. #02Exod/Exodus21  **Restitution When One Man's Ox Kills Another's**
 
 - **Scripture Reference:** Exodus 21:35–36
 - **Scripture Text (WEB):** "If one man's bull injures another's, so that it dies, then they shall sell the live bull, and divide its price; and they shall also divide the dead animal. Or if it is known that the bull was in the habit of goring in the past, and its owner has not kept it in, he shall surely pay bull for bull, and the dead animal shall be his own."
@@ -1387,7 +1387,7 @@
 
 ---
 
-29. **Restitution for Theft of Ox or Sheep**
+29. #02Exod/Exodus22 **Restitution for Theft of Ox or Sheep**
 
 - **Scripture Reference:** Exodus 22:1
 - **Scripture Text (WEB):** "If a man steals an ox or a sheep, and kills it or sells it, he shall pay five oxen for an ox, and four sheep for a sheep."
@@ -1397,7 +1397,7 @@
 
 ---
 
-30. **A Thief Found Breaking In — Self-Defense Provision**
+30. #02Exod/Exodus22  **A Thief Found Breaking In — Self-Defense Provision**
 
 - **Scripture Reference:** Exodus 22:2–3
 - **Scripture Text (WEB):** "If the thief is found breaking in, and is struck so that he dies, there shall be no guilt of bloodshed for him. If the sun has risen on him, there shall be guilt of bloodshed for him. He shall make restitution. If he has nothing, then he shall be sold for his theft."
@@ -1407,7 +1407,7 @@
 
 ---
 
-31. **Restitution for Grazing Animals in Another's Field**
+31. #02Exod/Exodus22  **Restitution for Grazing Animals in Another's Field**
 
 - **Scripture Reference:** Exodus 22:5
 - **Scripture Text (WEB):** "If a man grazes his livestock in a field or vineyard, and lets them loose so that they graze in another man's field, he shall make restitution from the best of his own field and from the best of his own vineyard."
@@ -1417,7 +1417,7 @@
 
 ---
 
-32. **Restitution for Fire That Spreads and Destroys**
+32. #02Exod/Exodus22  **Restitution for Fire That Spreads and Destroys**
 
 - **Scripture Reference:** Exodus 22:6
 - **Scripture Text (WEB):** "If fire breaks out and catches in thorns so that the shocks of grain, or the standing grain, or the field are consumed, he who kindled the fire shall surely make restitution."
@@ -1427,7 +1427,7 @@
 
 ---
 
-33. **Restitution for Goods Stolen While in Another's Keeping**
+33. #02Exod/Exodus22 **Restitution for Goods Stolen While in Another's Keeping**
 
 - **Scripture Reference:** Exodus 22:7–8
 - **Scripture Text (WEB):** "If a man delivers to his neighbor money or stuff to keep, and it is stolen out of the man's house, if the thief is found, he shall pay double. If the thief is not found, then the master of the house shall come near to God, to find out if he hasn't put his hand on his neighbor's goods."
@@ -1437,7 +1437,7 @@
 
 ---
 
-34. **Disputes Over Lost Animals Must Come Before God**
+34. #02Exod/Exodus22 **Disputes Over Lost Animals Must Come Before God**
 
 - **Scripture Reference:** Exodus 22:9
 - **Scripture Text (WEB):** "For every matter of trespass, whether it is for ox, for donkey, for sheep, for clothing, or for any kind of lost thing, about which one says, 'This is mine,' the cause of both parties shall come before God. He whom God condemns shall pay double to his neighbor."
@@ -1447,7 +1447,7 @@
 
 ---
 
-35. **No Restitution for an Animal That Dies in Another's Care Naturally**
+35. #02Exod/Exodus22  **No Restitution for an Animal That Dies in Another's Care Naturally**
 
 - **Scripture Reference:** Exodus 22:10–11
 - **Scripture Text (WEB):** "If a man delivers to his neighbor a donkey, an ox, a sheep, or any animal to keep, and it dies or is injured, or is driven away, no man seeing it; the oath of Yahweh shall be between them both, that he has not put his hand on his neighbor's goods; and its owner shall accept this, and he shall not make restitution."
@@ -1457,7 +1457,7 @@
 
 ---
 
-36. **Restitution If a Borrowed Animal Is Harmed**
+36 #02Exod/Exodus22  **Restitution If a Borrowed Animal Is Harmed**
 
 - **Scripture Reference:** Exodus 22:14
 - **Scripture Text (WEB):** "If a man borrows anything of his neighbor's, and it is injured, or dies, its owner not being with it, he shall surely make restitution."
@@ -1467,7 +1467,7 @@
 
 ---
 
-37. **A Man Who Seduces an Unbetrothed Virgin Must Marry Her or Pay the Bride Price**
+37. #02Exod/Exodus22 **A Man Who Seduces an Unbetrothed Virgin Must Marry Her or Pay the Bride Price**
 
 - **Scripture Reference:** Exodus 22:16–17
 - **Scripture Text (WEB):** "If a man entices a virgin who isn't pledged to be married, and lies with her, he shall surely pay a dowry for her to be his wife. If her father utterly refuses to give her to him, he shall pay money according to the dowry of virgins."
@@ -1477,7 +1477,7 @@
 
 ---
 
-38. **Do Not Permit a Sorceress to Live**
+38. #02Exod/Exodus22  **Do Not Permit a Sorceress to Live**
 
 - **Scripture Reference:** Exodus 22:18
 - **Scripture Text (WEB):** "You shall not allow a sorceress to live."
@@ -1487,7 +1487,7 @@
 
 ---
 
-39. **Whoever Lies with an Animal Shall Be Put to Death**
+39. #02Exod/Exodus22 **Whoever Lies with an Animal Shall Be Put to Death**
 
 - **Scripture Reference:** Exodus 22:19
 - **Scripture Text (WEB):** "Whoever has sex with an animal shall surely be put to death."
@@ -1497,7 +1497,7 @@
 
 ---
 
-40. **Whoever Sacrifices to Any God but Yahweh Shall Be Destroyed**
+40. #02Exod/Exodus22  **Whoever Sacrifices to Any God but Yahweh Shall Be Destroyed**
 
 - **Scripture Reference:** Exodus 22:20
 - **Scripture Text (WEB):** "He who sacrifices to any god, except to Yahweh only, shall be utterly destroyed."
@@ -1531,7 +1531,7 @@
 
 ---
 
-42. **Do Not Afflict Any Widow or Fatherless Child**
+42. #02Exod/Exodus22 **Do Not Afflict Any Widow or Fatherless Child**
 
 - **Scripture Reference:** Exodus 22:22
 - **Scripture Text (WEB):** "You shall not afflict any widow or fatherless child."
@@ -1541,7 +1541,7 @@
 
 ---
 
-43. **Do Not Charge Interest to a Poor Brother**
+43. #02Exod/Exodus22  **Do Not Charge Interest to a Poor Brother**
 
 - **Scripture Reference:** Exodus 22:25
 - **Scripture Text (WEB):** "If you lend money to any of my people with you who is poor, you shall not be to him as a creditor; neither shall you charge him interest."
@@ -1551,7 +1551,7 @@
 
 ---
 
-44. **Return a Neighbor's Cloak Before Sunset**
+44. #02Exod/Exodus22 **Return a Neighbor's Cloak Before Sunset**
 
 - **Scripture Reference:** Exodus 22:26–27
 - **Scripture Text (WEB):** "If you take your neighbor's garment as collateral, you shall restore it to him before the sun goes down, for that is his only covering, it is his garment for his skin. What will he sleep in? It will happen, when he cries to me, that I will hear, for I am gracious."
@@ -1561,7 +1561,7 @@
 
 ---
 
-45. **Do Not Revile God or Curse a Ruler of Your People**
+45. #02Exod/Exodus22 **Do Not Revile God or Curse a Ruler of Your People**
 
 - **Scripture Reference:** Exodus 22:28
 - **Scripture Text (WEB):** "You shall not blaspheme God, nor curse a ruler of your people."
@@ -1571,7 +1571,7 @@
 
 ---
 
-46. **Do Not Delay Offering Your Firstfruits and Firstborn**
+46. #02Exod/Exodus22  **Do Not Delay Offering Your Firstfruits and Firstborn**
 
 - **Scripture Reference:** Exodus 22:29–30
 - **Scripture Text (WEB):** "You shall not delay to offer from your harvest and from the outflow of your presses. You shall give the firstborn of your sons to me. You shall do likewise with your cattle and with your sheep. Seven days it shall be with its mother, then on the eighth day you shall give it to me."
@@ -1581,7 +1581,7 @@
 
 ---
 
-47. **Be Holy Men — Do Not Eat Flesh Torn by Wild Beasts**
+47. #02Exod/Exodus22  **Be Holy Men — Do Not Eat Flesh Torn by Wild Beasts**
 
 - **Scripture Reference:** Exodus 22:31
 - **Scripture Text (WEB):** "You shall be holy men to me, therefore you shall not eat any meat that is torn by animals in the field. You shall cast it to the dogs."
@@ -1591,7 +1591,7 @@
 
 ---
 
-48. **Do Not Spread a False Report**
+48. #02Exod/Exodus23  **Do Not Spread a False Report**
 
 - **Scripture Reference:** Exodus 23:1
 - **Scripture Text (WEB):** "You shall not spread a false report. Don't join your hand with the wicked to be a malicious witness."
@@ -1601,7 +1601,7 @@
 
 ---
 
-49. **Do Not Follow a Crowd to Do Evil or Pervert Justice**
+49. #02Exod/Exodus23 **Do Not Follow a Crowd to Do Evil or Pervert Justice**
 
 - **Scripture Reference:** Exodus 23:2
 - **Scripture Text (WEB):** "You shall not follow a crowd to do evil; neither shall you testify in court to side with a crowd to pervert justice."
@@ -1611,7 +1611,7 @@
 
 ---
 
-50. **Do Not Show Partiality to a Poor Man in His Dispute**
+50. #02Exod/Exodus23  **Do Not Show Partiality to a Poor Man in His Dispute**
 
 - **Scripture Reference:** Exodus 23:3
 - **Scripture Text (WEB):** "and you shall not favor a poor man in his dispute."
@@ -1621,7 +1621,7 @@
 
 ---
 
-51. **Return Your Enemy's Lost Animal**
+51. #02Exod/Exodus23 **Return Your Enemy's Lost Animal**
 
 - **Scripture Reference:** Exodus 23:4
 - **Scripture Text (WEB):** "If you meet your enemy's ox or his donkey going astray, you shall surely bring it back to him again."
@@ -1631,7 +1631,7 @@
 
 ---
 
-52. **Help Your Enemy's Fallen Animal**
+52. #02Exod/Exodus23  **Help Your Enemy's Fallen Animal**
 
 - **Scripture Reference:** Exodus 23:5
 - **Scripture Text (WEB):** "If you see the donkey of him who hates you fallen down under his burden, don't leave him. You shall surely help him with it."
@@ -1641,7 +1641,7 @@
 
 ---
 
-53. **Do Not Deny Justice to the Poor in Their Disputes**
+53. #02Exod/Exodus23 **Do Not Deny Justice to the Poor in Their Disputes**
 
 - **Scripture Reference:** Exodus 23:6
 - **Scripture Text (WEB):** "You shall not deny justice to your poor people in their lawsuits."
@@ -1651,7 +1651,7 @@
 
 ---
 
-54. **Keep Far from a False Matter — Do Not Kill the Innocent**
+54. #02Exod/Exodus23  **Keep Far from a False Matter — Do Not Kill the Innocent**
 
 - **Scripture Reference:** Exodus 23:7
 - **Scripture Text (WEB):** "Keep far from a false charge, and don't kill the innocent and righteous: for I will not justify the wicked."
@@ -1661,7 +1661,7 @@
 
 ---
 
-55. **Do Not Take a Bribe**
+55. #02Exod/Exodus23 **Do Not Take a Bribe**
 
 - **Scripture Reference:** Exodus 23:8
 - **Scripture Text (WEB):** "You shall take no bribe, for a bribe blinds those who have sight and perverts the words of the righteous."
@@ -1671,7 +1671,7 @@
 
 ---
 
-56. **Do Not Oppress a Foreigner**
+56. #02Exod/Exodus23  **Do Not Oppress a Foreigner**
 
 - **Scripture Reference:** Exodus 23:9
 - **Scripture Text (WEB):** "You shall not oppress a foreigner, for you know the heart of a foreigner, since you were foreigners in the land of Egypt."
@@ -1681,7 +1681,7 @@
 
 ---
 
-57. **Let the Land Rest in the Seventh Year**
+57. #02Exod/Exodus23  **Let the Land Rest in the Seventh Year**
 
 - **Scripture Reference:** Exodus 23:10–11
 - **Scripture Text (WEB):** "For six years you shall sow your land, and shall gather in its increase, but the seventh year you shall let it rest and lie fallow, that the poor of your people may eat; and what they leave the animal of the field shall eat. In the same way, you shall deal with your vineyard and with your olive grove."
@@ -1691,7 +1691,7 @@
 
 ---
 
-58. **Rest on the Seventh Day — Including Animals and Servants**
+58. #02Exod/Exodus23  **Rest on the Seventh Day — Including Animals and Servants**
 
 - **Scripture Reference:** Exodus 23:12
 - **Scripture Text (WEB):** "Six days you shall do your work, and on the seventh day you shall rest, that your ox and your donkey may have rest, and the son of your handmaid, and the foreigner may be refreshed."
@@ -1701,7 +1701,7 @@
 
 ---
 
-59. **Do Not Mention the Names of Other Gods**
+59. #02Exod/Exodus23  **Do Not Mention the Names of Other Gods**
 
 - **Scripture Reference:** Exodus 23:13
 - **Scripture Text (WEB):** "Be careful to do all things that I have said to you; and don't invoke the name of other gods, nor let them be heard out of your mouth."
@@ -1711,7 +1711,7 @@
 
 ---
 
-60. **Three Times a Year You Shall Keep a Feast to Yahweh**
+60. #02Exod/Exodus23  **Three Times a Year You Shall Keep a Feast to Yahweh**
 
 - **Scripture Reference:** Exodus 23:14
 - **Scripture Text (WEB):** "You shall observe a feast to me three times a year."
@@ -1721,7 +1721,7 @@
 
 ---
 
-61. **Keep the Feast of Unleavened Bread (Passover)**
+61. #02Exod/Exodus23  **Keep the Feast of Unleavened Bread (Passover)**
 
 - **Scripture Reference:** Exodus 23:15
 - **Scripture Text (WEB):** "You shall observe the feast of unleavened bread. Seven days you shall eat unleavened bread, as I commanded you, at the time appointed in the month Abib (for in it you came out of Egypt), and no one shall appear before me empty."
@@ -1731,7 +1731,7 @@
 
 ---
 
-62. **Keep the Feast of Harvest (Shavuot/Weeks)**
+62. #02Exod/Exodus23  **Keep the Feast of Harvest (Shavuot/Weeks)**
 
 - **Scripture Reference:** Exodus 23:16a
 - **Scripture Text (WEB):** "and the feast of harvest, the first fruits of your labors, which you sow in the field."
@@ -1741,7 +1741,7 @@
 
 ---
 
-63. **Keep the Feast of Ingathering (Sukkot/Tabernacles)**
+63. #02Exod/Exodus23  **Keep the Feast of Ingathering (Sukkot/Tabernacles)**
 
 - **Scripture Reference:** Exodus 23:16b
 - **Scripture Text (WEB):** "and the feast of ingathering, at the end of the year, when you gather in your labors out of the field."
@@ -1751,7 +1751,7 @@
 
 ---
 
-64. **All Males Shall Appear Before Yahweh Three Times a Year**
+64. #02Exod/Exodus23  **All Males Shall Appear Before Yahweh Three Times a Year**
 
 - **Scripture Reference:** Exodus 23:17
 - **Scripture Text (WEB):** "Three times in the year all your males shall appear before the Lord Yahweh."
@@ -1761,7 +1761,7 @@
 
 ---
 
-65. **Do Not Offer the Blood of a Sacrifice with Leavened Bread**
+65.  #02Exod/Exodus23 **Do Not Offer the Blood of a Sacrifice with Leavened Bread**
 
 - **Scripture Reference:** Exodus 23:18a
 - **Scripture Text (WEB):** "You shall not offer the blood of my sacrifice with leavened bread."
@@ -1771,7 +1771,7 @@
 
 ---
 
-66. **Do Not Let the Fat of the Feast Remain Until Morning**
+66. #02Exod/Exodus23  **Do Not Let the Fat of the Feast Remain Until Morning**
 
 - **Scripture Reference:** Exodus 23:18b
 - **Scripture Text (WEB):** "The fat of my feast shall not remain all night until the morning."
@@ -1781,7 +1781,7 @@
 
 ---
 
-67. **Bring the Best Firstfruits to the House of Yahweh**
+67.  #02Exod/Exodus23 **Bring the Best Firstfruits to the House of Yahweh**
 
 - **Scripture Reference:** Exodus 23:19a
 - **Scripture Text (WEB):** "You shall bring the first of the first fruits of your ground into the house of Yahweh your God."
@@ -1792,7 +1792,7 @@
 
 ---
 
-69. **Obey the Angel Yahweh Sends — Do Not Rebel Against Him**
+69. #02Exod/Exodus23 **Obey the Angel Yahweh Sends — Do Not Rebel Against Him**
 
 - **Scripture Reference:** Exodus 23:21
 - **Scripture Text (WEB):** "Pay attention to him, and listen to his voice. Don't provoke him, for he will not pardon your disobedience, for my name is in him."
@@ -1802,7 +1802,7 @@
 
 ---
 
-70. **Do Not Bow Down to the Gods of Canaan or Serve Them**
+70. #02Exod/Exodus23 **Do Not Bow Down to the Gods of Canaan or Serve Them**
 
 - **Scripture Reference:** Exodus 23:24
 - **Scripture Text (WEB):** "You shall not bow down to their gods, nor serve them, nor follow their practices, but you shall utterly overthrow them and demolish their pillars."
@@ -1812,7 +1812,7 @@
 
 ---
 
-71. **Utterly Overthrow Canaanite Gods and Demolish Their Pillars**
+71. #02Exod/Exodus23 **Utterly Overthrow Canaanite Gods and Demolish Their Pillars**
 
 - **Scripture Reference:** Exodus 23:24b
 - **Scripture Text (WEB):** "you shall utterly overthrow them and demolish their pillars."
@@ -1844,7 +1844,7 @@
 
 ---
 
-72. **Make No Covenant with the Inhabitants of Canaan**
+72. #02Exod/Exodus23  **Make No Covenant with the Inhabitants of Canaan**
 
 - **Scripture Reference:** Exodus 23:32
 - **Scripture Text (WEB):** "You shall make no covenant with them, nor with their gods."
@@ -1854,7 +1854,7 @@
 
 ---
 
-73. **Do Not Let Them Dwell in the Land**
+73. #02Exod/Exodus23  **Do Not Let Them Dwell in the Land**
 
 - **Scripture Reference:** Exodus 23:33
 - **Scripture Text (WEB):** "They shall not dwell in your land, lest they make you sin against me, for if you serve their gods, it will surely be a snare to you."
@@ -1864,7 +1864,7 @@
 
 ---
 
-74. **Build the Tabernacle and Its Furnishings According to the Pattern**
+74. #02Exod/Exodus25 Build the Tabernacle and Its Furnishings According to the Pattern**
 
 - **Scripture Reference:** Exodus 25:8–9
 - **Scripture Text (WEB):** "Let them make me a sanctuary, that I may dwell among them. According to all that I show you, the pattern of the tabernacle, and the pattern of all of its furniture, even so you shall make it."
@@ -1874,7 +1874,7 @@
 
 ---
 
-75. **Make the Ark of the Covenant According to the Pattern**
+75. #02Exod/Exodus25  **Make the Ark of the Covenant According to the Pattern**
 
 - **Scripture Reference:** Exodus 25:10–22
 - **Scripture Text (WEB):** "They shall make an ark of acacia wood. Its length shall be two and a half cubits, its width a cubit and a half, and a cubit and a half its height..."
@@ -1884,7 +1884,7 @@
 
 ---
 
-76. **Make the Table of Showbread According to the Pattern**
+76. #02Exod/Exodus25  **Make the Table of Showbread According to the Pattern**
 
 - **Scripture Reference:** Exodus 25:23–30
 - **Scripture Text (WEB):** "You shall make a table of acacia wood... You shall set the bread of the presence on the table before me always."
@@ -1894,7 +1894,7 @@
 
 ---
 
-77. **Make the Menorah (Lampstand) According to the Pattern**
+77. #02Exod/Exodus25 **Make the Menorah (Lampstand) According to the Pattern**
 
 - **Scripture Reference:** Exodus 25:31–40
 - **Scripture Text (WEB):** "You shall make a lampstand of pure gold... See that you make them after the pattern for them, which has been shown to you on the mountain."
@@ -1904,7 +1904,7 @@
 
 ---
 
-78. **Make the Tabernacle with Curtains and Coverings According to the Pattern**
+78. #02Exod/Exodus26 **Make the Tabernacle with Curtains and Coverings According to the Pattern**
 
 - **Scripture Reference:** Exodus 26:1–37
 - **Scripture Text (WEB):** "Moreover you shall make the tabernacle with ten curtains of fine twined linen, and blue, purple, and scarlet..."
@@ -1914,7 +1914,7 @@
 
 ---
 
-79. **Make the Altar of Burnt Offering According to the Pattern**
+79. #02Exod/Exodus27 **Make the Altar of Burnt Offering According to the Pattern**
 
 - **Scripture Reference:** Exodus 27:1–8
 - **Scripture Text (WEB):** "You shall make the altar of acacia wood, five cubits long, and five cubits wide; the altar shall be square; and its height shall be three cubits."
@@ -1924,7 +1924,7 @@
 
 ---
 
-80. **Make the Court of the Tabernacle According to the Pattern**
+80. #02Exod/Exodus27 **Make the Court of the Tabernacle According to the Pattern**
 
 - **Scripture Reference:** Exodus 27:9–19
 - **Scripture Text (WEB):** "Moreover you shall make the court of the tabernacle..."
@@ -1934,7 +1934,7 @@
 
 ---
 
-81. **Command Israel to Bring Pure Olive Oil for the Lamp**
+81. #02Exod/Exodus27 **Command Israel to Bring Pure Olive Oil for the Lamp**
 
 - **Scripture Reference:** Exodus 27:20
 - **Scripture Text (WEB):** "You shall command the children of Israel, that they bring to you pure olive oil beaten for the light, to cause a lamp to burn continually."
@@ -1944,7 +1944,7 @@
 
 ---
 
-82. **Make the Priestly Garments for Aaron and His Sons**
+82. #02Exod/Exodus28 **Make the Priestly Garments for Aaron and His Sons**
 
 - **Scripture Reference:** Exodus 28:2–4
 - **Scripture Text (WEB):** "You shall make holy garments for Aaron your brother, for glory and for beauty. You shall speak to all who are wise-hearted, whom I have filled with the spirit of wisdom, that they make Aaron's garments to consecrate him, that he may minister to me in the priest's office."
@@ -1954,7 +1954,7 @@
 
 ---
 
-83. **Aaron Shall Bear the Names of Israel on His Shoulders Before Yahweh**
+83. #02Exod/Exodus28 **Aaron Shall Bear the Names of Israel on His Shoulders Before Yahweh**
 
 - **Scripture Reference:** Exodus 28:12
 - **Scripture Text (WEB):** "You shall put the two stones on the shoulder straps of the ephod, to be stones of memorial for the children of Israel. Aaron shall bear their names before Yahweh on his two shoulders for a memorial."
@@ -1964,7 +1964,7 @@
 
 ---
 
-84. **The Breastplate of Judgment Shall Be on Aaron's Heart When He Enters Before Yahweh**
+84. #02Exod/Exodus28 **The Breastplate of Judgment Shall Be on Aaron's Heart When He Enters Before Yahweh**
 
 - **Scripture Reference:** Exodus 28:29–30
 - **Scripture Text (WEB):** "Aaron shall bear the names of the children of Israel in the breastplate of judgment on his heart, when he goes in to the holy place, for a memorial before Yahweh continually. You shall put in the breastplate of judgment the Urim and the Thummim; and they shall be on Aaron's heart, when he goes in before Yahweh..."
@@ -1974,7 +1974,7 @@
 
 ---
 
-85. **Aaron Shall Bear the Iniquity of the Holy Things**
+85. #02Exod/Exodus28 **Aaron Shall Bear the Iniquity of the Holy Things**
 
 - **Scripture Reference:** Exodus 28:38
 - **Scripture Text (WEB):** "It shall be on Aaron's forehead, and Aaron shall bear the iniquity of the holy things, which the children of Israel shall hallow in all their holy gifts; and it shall be always on his forehead, that they may be accepted before Yahweh."
@@ -1984,7 +1984,7 @@
 
 ---
 
-86. **Priests Must Not Minister Without Proper Garments — or They Die**
+86 #02Exod/Exodus28  **Priests Must Not Minister Without Proper Garments — or They Die**
 
 - **Scripture Reference:** Exodus 28:43
 - **Scripture Text (WEB):** "They shall be on Aaron, and on his sons, when they go into the Tent of Meeting, or when they come near to the altar to minister in the holy place, that they don't bear iniquity, and die. It shall be a statute forever to him and to his descendants after him."
@@ -1994,7 +1994,7 @@
 
 ---
 
-87. **Consecrate Aaron and His Sons — Seven Days**
+87. #02Exod/Exodus29  **Consecrate Aaron and His Sons — Seven Days**
 
 - **Scripture Reference:** Exodus 29:35
 - **Scripture Text (WEB):** "Thus you shall do to Aaron, and to his sons, according to all that I have commanded you. You shall consecrate them seven days."
@@ -2004,7 +2004,7 @@
 
 ---
 
-88. **Offer Two Lambs Daily — The Continual Burnt Offering (Tamid)**
+88. #02Exod/Exodus29 **Offer Two Lambs Daily — The Continual Burnt Offering (Tamid)**
 
 - **Scripture Reference:** Exodus 29:38–42
 - **Scripture Text (WEB):** "Now this is that which you shall offer on the altar: two lambs a year old day by day continually. The one lamb you shall offer in the morning; and the other lamb you shall offer at evening..."
@@ -2014,7 +2014,7 @@
 
 ---
 
-89. **Make the Altar of Incense According to the Pattern**
+89. #02Exod/Exodus30  **Make the Altar of Incense According to the Pattern**
 
 - **Scripture Reference:** Exodus 30:1–10
 - **Scripture Text (WEB):** "You shall make an altar to burn incense on. You shall make it of acacia wood... Aaron shall burn incense of sweet spices on it every morning. When he tends the lamps, he shall burn it."
@@ -2024,7 +2024,7 @@
 
 ---
 
-90. **Every Man Shall Give a Ransom for His Soul When Numbered**
+90. #02Exod/Exodus30  **Every Man Shall Give a Ransom for His Soul When Numbered**
 
 - **Scripture Reference:** Exodus 30:12–13
 - **Scripture Text (WEB):** "When you take a census of the children of Israel, according to those who are numbered among them, then each man shall give a ransom for his soul to Yahweh when you number them, that there be no plague among them when you number them. They shall give this — everyone who passes over to those who are numbered — half a shekel..."
@@ -2034,7 +2034,7 @@
 
 ---
 
-91. **Make the Bronze Laver and Its Stand for Washing**
+91. #02Exod/Exodus30 **Make the Bronze Laver and Its Stand for Washing**
 
 - **Scripture Reference:** Exodus 30:18–21
 - **Scripture Text (WEB):** "You shall also make a basin of brass, and its base of brass, in which to wash. You shall put it between the Tent of Meeting and the altar, and you shall put water in it. Aaron and his sons shall wash their hands and their feet from it... so that they won't die..."
@@ -2044,7 +2044,7 @@
 
 ---
 
-92. **Make the Holy Anointing Oil According to the Formula**
+92. #02Exod/Exodus30 **Make the Holy Anointing Oil According to the Formula**
 
 - **Scripture Reference:** Exodus 30:22–25
 - **Scripture Text (WEB):** "Moreover Yahweh spoke to Moses, saying, 'Also take fine spices: of liquid myrrh, five hundred shekels; and of fragrant cinnamon half as much, even two hundred and fifty; and of fragrant cane, two hundred and fifty; and of cassia, five hundred, after the shekel of the sanctuary; and a hin of olive oil. You shall make it a holy anointing oil...'"
@@ -2054,7 +2054,7 @@
 
 ---
 
-93. **Do Not Pour the Holy Anointing Oil on an Outsider or Replicate It**
+93. #02Exod/Exodus30 **Do Not Pour the Holy Anointing Oil on an Outsider or Replicate It**
 
 - **Scripture Reference:** Exodus 30:32–33
 - **Scripture Text (WEB):** "It shall not be poured on man's flesh, neither shall you make any like it according to its composition. It is holy, and it shall be holy to you. Whoever compounds any like it, or whoever puts any of it on a stranger, he shall be cut off from his people."
@@ -2064,7 +2064,7 @@
 
 ---
 
-94. **Make the Holy Incense According to the Formula — Do Not Replicate It**
+94. #02Exod/Exodus30 **Make the Holy Incense According to the Formula — Do Not Replicate It**
 
 - **Scripture Reference:** Exodus 30:34–38
 - **Scripture Text (WEB):** "Yahweh said to Moses, 'Take to yourself sweet spices... You shall make of these a perfume, a confection after the art of the perfumer, seasoned with salt, pure and holy. You shall beat some of it very small, and put some of it before the covenant in the Tent of Meeting, where I will meet with you. It shall be to you most holy. The perfume which you shall make, you shall not make for yourselves according to its composition. It shall be to you holy for Yahweh. Whoever shall make any like it to smell of it, he shall be cut off from his people.'"
@@ -2076,7 +2076,7 @@
 
 95. **Keep the Sabbath — It Is a Sign Between Yahweh and Israel Forever**
 
-- **Scripture Reference:** Exodus 31:13–14
+- **Scripture Reference:** #02Exod/Exodus31 :13–14
 - **Scripture Text (WEB):** "Surely you shall keep my Sabbaths, for it is a sign between me and you throughout your generations, that you may know that I am Yahweh who sanctifies you. You shall keep the Sabbath therefore, for it is holy to you. Everyone who profanes it shall surely be put to death; for whoever does any work on it, that soul shall be cut off from among his people."
 - **Blessing:** The Sabbath as the covenant sign of sanctification between Yahweh and Israel.
 - **Penalty or Consequence:** Death; being cut off from the people (Exodus 31:14–15).
@@ -2084,7 +2084,7 @@
 
 ---
 
-96. **Whoever Does Work on the Sabbath Shall Be Put to Death**
+96. #02Exod/Exodus31 **Whoever Does Work on the Sabbath Shall Be Put to Death**
 
 - **Scripture Reference:** Exodus 31:15
 - **Scripture Text (WEB):** "Six days shall work be done, but on the seventh day is a Sabbath of solemn rest, holy to Yahweh. Whoever does any work on the Sabbath day shall surely be put to death."
@@ -2094,7 +2094,7 @@
 
 ---
 
-97. **Do Not Make a Molten God**
+97. #02Exod/Exodus34  **Do Not Make a Molten God**
 
 - **Scripture Reference:** Exodus 34:17
 - **Scripture Text (WEB):** "You shall make no molten gods for yourselves."
@@ -2104,7 +2104,7 @@
 
 ---
 
-98. **Keep the Feast of Unleavened Bread (Repeated Covenant)**
+98. #02Exod/Exodus34 **Keep the Feast of Unleavened Bread (Repeated Covenant)**
 
 - **Scripture Reference:** Exodus 34:18
 - **Scripture Text (WEB):** "You shall keep the feast of unleavened bread. Seven days you shall eat unleavened bread, as I commanded you, in the time of the month Abib; for in the month Abib you came out of Egypt."
@@ -2116,7 +2116,7 @@
 
 99. **Redeem Every Firstborn of a Donkey with a Lamb or Break Its Neck**
 
-- **Scripture Reference:** Exodus 34:20a
+- #02Exod/Exodus34 4 **Scripture Reference:** Exodus 34:20a
 - **Scripture Text (WEB):** "All the firstborn of your donkeys you shall redeem with a lamb, and if you will not redeem it, then you shall break its neck."
 - **Blessing:** Acknowledging Yahweh as owner of all firstborn.
 - **Penalty or Consequence:** The animal's neck is broken if not redeemed.
@@ -2124,7 +2124,7 @@
 
 ---
 
-100. **Redeem Every Firstborn Son**
+100. #02Exod/Exodus34  **Redeem Every Firstborn Son**
 
 - **Scripture Reference:** Exodus 34:20b
 - **Scripture Text (WEB):** "All the firstborn of your sons you shall redeem."
@@ -2134,7 +2134,7 @@
 
 ---
 
-101. **No One Shall Appear Before Yahweh Empty**
+101. #02Exod/Exodus34  **No One Shall Appear Before Yahweh Empty**
 
 - **Scripture Reference:** Exodus 34:20c
 - **Scripture Text (WEB):** "None shall appear before me empty."
@@ -2144,7 +2144,7 @@
 
 ---
 
-102. **Six Days You Shall Work, the Seventh You Shall Rest — Even in Plowing and Harvest**
+102. #02Exod/Exodus34 **Six Days You Shall Work, the Seventh You Shall Rest — Even in Plowing and Harvest**
 
 - **Scripture Reference:** Exodus 34:21
 - **Scripture Text (WEB):** "Six days you shall work, but on the seventh day you shall rest. In plowing time and in harvest you shall rest."
@@ -2154,7 +2154,7 @@
 
 ---
 
-103. **Keep the Feast of Weeks — the Firstfruits of Wheat Harvest**
+103. #02Exod/Exodus34  **Keep the Feast of Weeks — the Firstfruits of Wheat Harvest**
 
 - **Scripture Reference:** Exodus 34:22a
 - **Scripture Text (WEB):** "You shall observe the feast of weeks with the first fruits of wheat harvest..."
@@ -2164,7 +2164,7 @@
 
 ---
 
-104. **Keep the Feast of Ingathering at the Year's End**
+104. #02Exod/Exodus34  **Keep the Feast of Ingathering at the Year's End**
 
 - **Scripture Reference:** Exodus 34:22b
 - **Scripture Text (WEB):** "...and the feast of ingathering at the year's end."
@@ -2174,7 +2174,7 @@
 
 ---
 
-105. **Do Not Offer the Blood of a Sacrifice with Leaven**
+105. #02Exod/Exodus34 **Do Not Offer the Blood of a Sacrifice with Leaven**
 
 - **Scripture Reference:** Exodus 34:25a
 - **Scripture Text (WEB):** "You shall not offer the blood of my sacrifice with leavened bread."
@@ -2184,7 +2184,7 @@
 
 ---
 
-106. **The Passover Sacrifice Shall Not Remain Until Morning**
+106. #02Exod/Exodus34  **The Passover Sacrifice Shall Not Remain Until Morning**
 
 - **Scripture Reference:** Exodus 34:25b
 - **Scripture Text (WEB):** "The sacrifice of the feast of the Passover shall not be left until the morning."
@@ -2194,7 +2194,7 @@
 
 ---
 
-107. **Bring the Best Firstfruits to the House of Yahweh (Repeated)**
+107. #02Exod/Exodus34  **Bring the Best Firstfruits to the House of Yahweh (Repeated)**
 
 - **Scripture Reference:** Exodus 34:26a
 - **Scripture Text (WEB):** "You shall bring the first of the first fruits of your ground to the house of Yahweh your God."
@@ -2204,7 +2204,7 @@
 
 ---
 
-108. **Do Not Boil a Young Goat in Its Mother's Milk (Repeated)**
+108. #02Exod/Exodus34  **Do Not Boil a Young Goat in Its Mother's Milk (Repeated)**
 
 - **Scripture Reference:** Exodus 34:26b
 - **Scripture Text (WEB):** "You shall not boil a young goat in its mother's milk."
