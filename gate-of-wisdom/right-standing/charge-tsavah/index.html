@@ -3626,7 +3626,7 @@
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,a=arguments,s=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,a)}),t),s&&e.apply(i,a)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="<code>⌘</code>&nbsp;+&nbsp;<code>K</code>"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const a=Math.max(0,i-50),s=Math.min(r.length,a+n);let o=r.substring(a,s);return a>0&&(o="..."+o),s<r.length&&(o+="..."),o}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),a=i?i.innerHTML:"";return previewCache.set(e,a),a}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),a=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const s=document.querySelector(`.searchresult[data-index="${e}"]`);s&&s.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),a.style.display="none";const o=await fetchPreviewContent(n.url),c=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${c}\n            <div class="preview-body">${o}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>(e=>e.toLowerCase().normalize("NFD").replace(/n\u0303/g,"ñ").replace(/[\u0300-\u036f]/g,"").normalize("NFC"))(e).split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-10-11T00:07:28.572Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="<span><i>Enter your search text in the box above</i></span>",hidePreview(),void(t&&t.classList.add("no-preview"));window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),a=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${a}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,a=arguments,s=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,a)}),t),s&&e.apply(i,a)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="<code>⌘</code>&nbsp;+&nbsp;<code>K</code>"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const a=Math.max(0,i-50),s=Math.min(r.length,a+n);let o=r.substring(a,s);return a>0&&(o="..."+o),s<r.length&&(o+="..."),o}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),a=i?i.innerHTML:"";return previewCache.set(e,a),a}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),a=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const s=document.querySelector(`.searchresult[data-index="${e}"]`);s&&s.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),a.style.display="none";const o=await fetchPreviewContent(n.url),c=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${c}\n            <div class="preview-body">${o}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>(e=>e.toLowerCase().normalize("NFD").replace(/n\u0303/g,"ñ").replace(/[\u0300-\u036f]/g,"").normalize("NFC"))(e).split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-10-11T21:00:38.182Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="<span><i>Enter your search text in the box above</i></span>",hidePreview(),void(t&&t.classList.add("no-preview"));window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),a=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${a}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
 <main class="content cm-s-obsidian print">
 <header>
 <h1 data-note-icon="">Charge (Tsavah)</h1>
@@ -3671,14 +3671,14 @@
 </thead>
 <tbody class="table-view-tbody">
 <tr>
-<td><ul><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/ordinances-mishmerot/">Ordinances (Mishmerot)</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commandments/">Commandments</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/charge-tsavah/">Charge (Tsavah)</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan October</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan November</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan May</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan March</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan July</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan January</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan December</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan April</a></li><li><a class="internal-link is-unresolved" href="/404" target="">AI Bible Study Instructions</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan September</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan June</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan August</a></li></ul></td>
+<td><ul><li><a class="internal-link is-unresolved" href="/404" target="">AI Bible Study Instructions</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/ordinances-mishmerot/">Ordinances (Mishmerot)</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commandments/">Commandments</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/charge-tsavah/">Charge (Tsavah)</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan October</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan May</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan November</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan March</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan July</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan January</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan December</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan April</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan September</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan June</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan August</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Checklist for Commandment texts</a></li></ul></td>
 </tr>
 </tbody>
 </table></div>
 <h3 id="list-of-charges-tsavah-in-deuteronomy" tabindex="-1">List of Charges (Tsavah) in Deuteronomy</h3>
 <ol>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 1:3</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy01">#05Deut/Deuteronomy01</a> <strong>Scripture Reference</strong>: Deuteronomy 1:3</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 1:1-4: &quot;These are the words which Moses spoke to all Israel beyond the Jordan in the wilderness... It happened in the fortieth year, in the eleventh month, on the first day of the month, that Moses spoke to the children of Israel according to all that Yahweh had given him in commandment to them, after he had struck Sihon the king of the Amorites...&quot;</li>
 <li><strong>Penalty or Consequence</strong>: None explicitly stated in this verse. The context implies that obedience ensures possession of the land (Deut 1:8), while disobedience risks God’s judgment (see Deut 28:15-68 for general curses).</li>
@@ -3690,7 +3690,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 1:16</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy01">#05Deut/Deuteronomy01</a> <strong>Scripture Reference</strong>: Deuteronomy 1:16</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 1:15-17: &quot;So I took the heads of your tribes, wise and known men, and made them heads over you... I commanded your judges at that time, saying, ‘Hear the causes between your brothers, and judge righteously between a man and his brother, and the foreigner who is living with him. You shall not show partiality in judgment...’&quot;</li>
 <li><strong>Penalty or Consequence</strong>: None directly stated. Unjust judgment could lead to societal disorder or divine disapproval (implied in Deut 16:20, justice ensures life in the land).</li>
@@ -3702,7 +3702,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 1:18</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy01">#05Deut/Deuteronomy01</a> <strong>Scripture Reference</strong>: Deuteronomy 1:18</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 1:17-19: &quot;You shall not show partiality in judgment; you shall hear the small and the great alike... I commanded you at that time all the things which you should do. We traveled from Horeb, and went through all that great and terrible wilderness...&quot;</li>
 <li><strong>Penalty or Consequence</strong>: None explicit. Disobedience to God’s commands risks failure to inherit the land (Deut 1:34-36).</li>
@@ -3714,7 +3714,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 3:18</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy03">#05Deut/Deuteronomy03</a> <strong>Scripture Reference</strong>: Deuteronomy 3:18</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 3:17-19: &quot;...the Arabah also, and the Jordan and its border... I commanded you at that time, saying, ‘Yahweh your God has given you this land to possess it. You shall pass over armed before your brothers, the children of Israel, all the men of valor.’&quot;</li>
 <li><strong>Penalty or Consequence</strong>: None directly stated. Failure to assist in conquest could lead to loss of tribal inheritance (implied in Deut 3:20).</li>
@@ -3726,7 +3726,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 4:2</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy04">#05Deut/Deuteronomy04</a> <strong>Scripture Reference</strong>: Deuteronomy 4:2</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 4:1-3: &quot;Now, Israel, listen to the statutes and to the ordinances which I teach you, to do them, that you may live, and go in and possess the land... You shall not add to the word which I command you, neither shall you take away from it, that you may keep the commandments of Yahweh your God which I command you. Your eyes have seen what Yahweh did because of Baal Peor...&quot;</li>
 <li><strong>Penalty or Consequence</strong>: Adding or subtracting from commands risks God’s judgment, as seen with Baal Peor (Deut 4:3, destruction of idolaters).</li>
@@ -3739,7 +3739,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 4:40</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy04">#05Deut/Deuteronomy04</a> <strong>Scripture Reference</strong>: Deuteronomy 4:40</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 4:39-40: &quot;Know therefore today, and take it to heart, that Yahweh himself is God in heaven above and on the earth beneath. There is no one else. You shall keep his statutes and his commandments which I command you today, that it may go well with you and with your children after you, and that you may prolong your days in the land...&quot;</li>
 <li><strong>Penalty or Consequence</strong>: Disobedience risks shortened days in the land (Deut 4:26-27, exile).</li>
@@ -3751,7 +3751,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 6:2</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy06">#05Deut/Deuteronomy06</a> <strong>Scripture Reference</strong>: Deuteronomy 6:2</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 6:1-3: &quot;Now this is the commandment, the statutes, and the ordinances, which Yahweh your God commanded to teach you, that you might do them in the land where you go over to possess it, that you might fear Yahweh your God, to keep all his statutes and his commandments, which I command you—you, your son, and your son’s son, all the days of your life, and that your days may be prolonged.&quot;</li>
 <li><strong>Penalty or Consequence</strong>: Disobedience risks loss of blessings and land (Deut 6:15, God’s anger).</li>
@@ -3763,7 +3763,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 6:17</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy06">#05Deut/Deuteronomy06</a> <strong>Scripture Reference</strong>: Deuteronomy 6:17</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 6:16-18: &quot;You shall not tempt Yahweh your God, as you tempted him in Massah. You shall diligently keep the commandments of Yahweh your God, and his testimonies, and his statutes, which he has commanded you. You shall do that which is right and good in Yahweh’s sight, that it may be well with you...&quot;</li>
 <li><strong>Penalty or Consequence</strong>: Testing God risks his wrath (Deut 6:15, destruction).</li>
@@ -3775,7 +3775,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 7:11</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy07">#05Deut/Deuteronomy07</a> <strong>Scripture Reference</strong>: Deuteronomy 7:11</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 7:9-12: &quot;Know therefore that Yahweh your God himself is God, the faithful God, who keeps covenant and loving kindness to a thousand generations with those who love him and keep his commandments... Therefore you shall keep the commandments, the statutes, and the judgments which I command you today, to do them. It shall happen, because you listen to these judgments and keep and do them, that Yahweh your God will keep with you the covenant...&quot;</li>
 <li><strong>Penalty or Consequence</strong>: Disobedience risks loss of covenant blessings (Deut 7:12-15, contrasted with curses in Deut 28:15-68).</li>
@@ -3787,7 +3787,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 8:1</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy08">#05Deut/Deuteronomy08</a> <strong>Scripture Reference</strong>: Deuteronomy 8:1</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 8:1-3: &quot;You shall observe to do all the commandments which I command you today, that you may live, and multiply, and go in and possess the land which Yahweh swore to your fathers... He humbled you, allowed you to be hungry, and fed you with manna... that he might make you know that man does not live by bread only...&quot;</li>
 <li><strong>Penalty or Consequence</strong>: Disobedience risks failure to possess the land (Deut 8:19-20, destruction like other nations).</li>
@@ -3878,7 +3878,7 @@
 </li>
 </ul>
 <ol start="11">
-<li><strong>Scripture Reference</strong>: Deuteronomy 10:13
+<li><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy10">#05Deut/Deuteronomy10</a> <strong>Scripture Reference</strong>: Deuteronomy 10:13
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 10:12-14: &quot;Now, Israel, what does Yahweh your God require of you, but to fear Yahweh your God, to walk in all his ways, to love him, and to serve Yahweh your God with all your heart and with all your soul, to keep Yahweh’s commandments and statutes, which I command you today for your good? Behold, to Yahweh your God belongs heaven...&quot;</li>
 <li><strong>Penalty or Consequence</strong>: Implied loss of God’s favor (Deut 10:16-17, God’s impartial judgment).</li>
@@ -3924,7 +3924,7 @@
 </ul>
 <ol start="12">
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 11:8</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy11">#05Deut/Deuteronomy11</a> <strong>Scripture Reference</strong>: Deuteronomy 11:8</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 11:7-9: &quot;But your eyes have seen all the great work of Yahweh which he did. Therefore you shall keep the entire commandment which I command you today, that you may be strong, and go in and possess the land that you go over to possess; and that you may prolong your days in the land which Yahweh swore to your fathers...&quot;</li>
 <li><strong>Penalty or Consequence</strong>: Disobedience risks loss of land and blessings (Deut 11:16-17, God’s anger and drought).</li>
@@ -3936,7 +3936,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 11:13</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy11">#05Deut/Deuteronomy11</a> <strong>Scripture Reference</strong>: Deuteronomy 11:13</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 11:12-14: &quot;...a land which Yahweh your God cares for... It shall happen, if you shall listen diligently to my commandments which I command you today, to love Yahweh your God, and to serve him with all your heart and with all your soul, that I will give the rain of your land in its season...&quot;</li>
 <li><strong>Penalty or Consequence</strong>: Disobedience leads to drought and perishing (Deut 11:17).</li>
@@ -3948,7 +3948,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 11:27-28</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy11">#05Deut/Deuteronomy11</a> <strong>Scripture Reference</strong>: Deuteronomy 11:27-28</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 11:26-29: &quot;Behold, I set before you today a blessing and a curse: the blessing, if you listen to the commandments of Yahweh your God, which I command you today; and the curse, if you do not listen to the commandments of Yahweh your God, but turn away out of the way which I command you today, to go after other gods which you have not known.&quot;</li>
 <li><strong>Penalty or Consequence</strong>: Explicit curse for disobedience, detailed in Deut 28:15-68 (e.g., exile, disease).</li>
@@ -3956,7 +3956,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 12:11</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy12">#05Deut/Deuteronomy12</a> <strong>Scripture Reference</strong>: Deuteronomy 12:11</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 12:10-12: &quot;But when you go over the Jordan and dwell in the land which Yahweh your God causes you to inherit... then it shall happen that to the place which Yahweh your God shall choose, to cause his name to dwell there, there you shall bring all that I command you: your burnt offerings, your sacrifices, your tithes...&quot;</li>
 <li><strong>Penalty or Consequence</strong>: None directly stated. Disobedience risks loss of God’s presence (implied in Deut 12:29-31).</li>
@@ -3964,7 +3964,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 12:14</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy12">#05Deut/Deuteronomy12</a> <strong>Scripture Reference</strong>: Deuteronomy 12:14</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 12:13-15: &quot;Be careful that you don’t offer your burnt offerings in every place that you see, but in the place which Yahweh shall choose in one of your tribes, there you shall offer your burnt offerings, and there you shall do all that I command you.&quot;</li>
 <li><strong>Penalty or Consequence</strong>: None explicit. Improper worship risks God’s disapproval (Deut 12:31, abomination).</li>
@@ -3977,7 +3977,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 12:28</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy12">#05Deut/Deuteronomy12</a> <strong>Scripture Reference</strong>: Deuteronomy 12:28</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 12:27-29: &quot;...your burnt offerings, the meat and the blood, shall be poured out on Yahweh your God’s altar... Observe and hear all these words which I command you, that it may go well with you and with your children after you forever, when you do that which is good and right in Yahweh your God’s eyes.&quot;</li>
 <li><strong>Penalty or Consequence</strong>: Disobedience risks loss of blessings (implied, Deut 28:15-68).</li>
@@ -3993,7 +3993,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 13:18</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy13">#05Deut/Deuteronomy13</a> <strong>Scripture Reference</strong>: Deuteronomy 13:18</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 13:17-18: &quot;Nothing of the devoted thing shall cling to your hand, that Yahweh may turn from the fierceness of his anger and show you mercy... when you listen to Yahweh your God’s voice, to keep all his commandments which I command you today, to do that which is right in Yahweh your God’s eyes.&quot;</li>
 <li><strong>Penalty or Consequence</strong>: Retaining devoted things risks God’s anger (Deut 13:17).</li>
@@ -4009,7 +4009,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 15:5</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy15">#05Deut/Deuteronomy15</a> <strong>Scripture Reference</strong>: Deuteronomy 15:5</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 15:4-6: &quot;...there shall be no poor among you; for Yahweh will surely bless you in the land... if only you diligently listen to Yahweh your God’s voice, to observe to do all this commandment which I command you today.&quot;</li>
 <li><strong>Penalty or Consequence</strong>: Disobedience risks loss of prosperity (Deut 15:9-10, implied hardship).</li>
@@ -4025,7 +4025,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 17:3</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy17">#05Deut/Deuteronomy17</a> <strong>Scripture Reference</strong>: Deuteronomy 17:3</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 17:2-4: &quot;If there is found among you... a man or woman who does that which is evil in Yahweh your God’s sight in transgressing his covenant, and has gone and served other gods and worshiped them... which I have commanded not to do...&quot;</li>
 <li><strong>Penalty or Consequence</strong>: Death by stoning (Deut 17:5).</li>
@@ -4037,7 +4037,7 @@
 </ul>
 </li>
 </ol>
-<h2 id="love-god-be-blameless-before-yahweh-a-href-https-www-biblegateway-com-passage-search-deuteronomy-18-3-a13-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-18-13-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> Be Blameless Before Yahweh: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+18%3A13&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 18:13</a></h2>
+<h2 id="love-god-05-deut-deuteronomy18-be-blameless-before-yahweh-a-href-https-www-biblegateway-com-passage-search-deuteronomy-18-3-a13-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-18-13-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy18">#05Deut/Deuteronomy18</a> Be Blameless Before Yahweh: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+18%3A13&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 18:13</a></h2>
 <ul>
 <li>
 <p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
@@ -4084,12 +4084,11 @@
 <ul>
 <li>Jesus uses this same word and concept in Matthew 5:48 — <em>&quot;You therefore shall be teleios as your heavenly Father is teleios&quot;</em></li>
 </ul>
-<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy18">#05Deut/Deuteronomy18</a></p>
 </li>
 </ul>
 <ol start="21">
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 18:20</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy18">#05Deut/Deuteronomy18</a> <strong>Scripture Reference</strong>: Deuteronomy 18:20</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 18:19-21: &quot;It shall happen, that whoever will not listen to my words which he shall speak in my name, I will require it of him. But the prophet who speaks a word presumptuously in my name, which I have not commanded him to speak... that prophet shall die.&quot;</li>
 <li><strong>Penalty or Consequence</strong>: Death for false prophets; God will judge those who ignore true prophets (Deut 18:19).</li>
@@ -4097,7 +4096,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 24:8</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy24">#05Deut/Deuteronomy24</a> <strong>Scripture Reference</strong>: Deuteronomy 24:8</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 24:8-9: &quot;Be careful in the plague of leprosy, that you observe diligently and do according to all that the Levitical priests teach you. As I commanded them, so you shall observe to do. Remember what Yahweh your God did to Miriam...&quot;</li>
 <li><strong>Penalty or Consequence</strong>: Leprosy or divine judgment (Deut 24:9, Miriam’s punishment, Num 12:10).</li>
@@ -4109,7 +4108,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 26:13</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy26">#05Deut/Deuteronomy26</a> <strong>Scripture Reference</strong>: Deuteronomy 26:13</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 26:12-14: &quot;When you have finished tithing all the tithe of your increase... you shall say before Yahweh your God, ‘I have put away the holy things out of my house... I have listened to Yahweh my God’s voice. I have done according to all that you have commanded me.’&quot;</li>
 <li><strong>Penalty or Consequence</strong>: None explicit. Failure to tithe properly risks loss of blessings (Deut 26:15, implied).</li>
@@ -4121,7 +4120,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 26:16</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy26">#05Deut/Deuteronomy26</a> <strong>Scripture Reference</strong>: Deuteronomy 26:16</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 26:16-18: &quot;Today Yahweh your God commands you to do these statutes and ordinances. You shall therefore keep and do them with all your heart and with all your soul... Yahweh has declared today that you are a people for his own possession, as he has promised you, and that you should keep all his commandments.&quot;</li>
 <li><strong>Penalty or Consequence</strong>: Disobedience risks breaking the covenant (Deut 28:15-68).</li>
@@ -4133,7 +4132,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 27:1</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy27">#05Deut/Deuteronomy27</a> <strong>Scripture Reference</strong>: Deuteronomy 27:1</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 27:1-3: &quot;Moses and the elders of Israel commanded the people, saying, ‘Keep all the commandment which I command you today. It shall be on the day when you shall pass over the Jordan to the land which Yahweh your God gives you, that you shall set up great stones...’&quot;</li>
 <li><strong>Penalty or Consequence</strong>: Disobedience risks curses (Deut 27:15-26).</li>
@@ -4145,7 +4144,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 28:1</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy28">#05Deut/Deuteronomy28</a> <strong>Scripture Reference</strong>: Deuteronomy 28:1</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 28:1-3: &quot;It shall happen, if you shall listen diligently to Yahweh your God’s voice, to observe to do all his commandments which I command you today, that Yahweh your God will set you high above all the nations of the earth. All these blessings will come upon you...&quot;</li>
 <li><strong>Penalty or Consequence</strong>: Disobedience brings curses (Deut 28:15-68).</li>
@@ -4201,7 +4200,7 @@
 </ul>
 <ol start="27">
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 28:15</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy28">#05Deut/Deuteronomy28</a> <strong>Scripture Reference</strong>: Deuteronomy 28:15</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 28:15-17: &quot;But it shall come to pass, if you will not listen to Yahweh your God’s voice, to observe to do all his commandments and his statutes which I command you today, that all these curses will come on you and overtake you...&quot;</li>
 <li><strong>Penalty or Consequence</strong>: Detailed curses (Deut 28:16-68, e.g., exile, disease, famine).</li>
@@ -4215,7 +4214,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 30:11</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy30">#05Deut/Deuteronomy30</a> <strong>Scripture Reference</strong>: Deuteronomy 30:11</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 30:10-12: &quot;...if you turn to Yahweh your God with all your heart and with all your soul. For this commandment which I command you today is not too hard for you or too far off.&quot;</li>
 <li><strong>Penalty or Consequence</strong>: Disobedience risks death and exile (Deut 30:17-18).</li>
@@ -4227,7 +4226,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 31:5</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy31">#05Deut/Deuteronomy31</a> <strong>Scripture Reference</strong>: Deuteronomy 31:5</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 31:4-6: &quot;Yahweh will do to them as he did to Sihon and to Og... Yahweh will deliver them up before you, and you shall do to them according to all the commandment which I have commanded you. Be strong and courageous...&quot;</li>
 <li><strong>Penalty or Consequence</strong>: None explicit. Failure to obey risks defeat (implied, Deut 31:17).</li>
@@ -4239,7 +4238,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 31:10</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy31">#05Deut/Deuteronomy31</a> <strong>Scripture Reference</strong>: Deuteronomy 31:10</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 31:9-11: &quot;Moses wrote this law and delivered it to the priests... Moses commanded them, saying, ‘At the end of every seven years, in the set time of the year of release, in the feast of booths, when all Israel has come to appear before Yahweh your God in the place which he will choose, you shall read this law...’&quot;</li>
 <li><strong>Penalty or Consequence</strong>: None explicit. Neglect risks ignorance of the law, leading to curses (Deut 31:16-17).</li>
@@ -4251,7 +4250,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 31:25</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy31">#05Deut/Deuteronomy31</a> <strong>Scripture Reference</strong>: Deuteronomy 31:25</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 31:24-26: &quot;When Moses had finished writing the words of this law in a book... Moses commanded the Levites, who bore the ark of Yahweh’s covenant, saying, ‘Take this book of the law, and put it by the side of the ark...’&quot;</li>
 <li><strong>Penalty or Consequence</strong>: None explicit. Implied risk of disobedience if law is ignored (Deut 31:27-29).</li>
@@ -4263,7 +4262,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 32:46</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy32">#05Deut/Deuteronomy32</a> <strong>Scripture Reference</strong>: Deuteronomy 32:46</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 32:45-47: &quot;Moses finished speaking all these words to all Israel. He said to them, ‘Set your heart to all the words which I testify to you today, which you shall command your children to observe to do, all the words of this law. For it is no vain thing for you, because it is your life...’&quot;</li>
 <li><strong>Penalty or Consequence</strong>: Disobedience shortens life in the land (Deut 32:47, implied; see Deut 28:15-68).</li>
@@ -4275,7 +4274,7 @@
 </ul>
 </li>
 <li>
-<p><strong>Scripture Reference</strong>: Deuteronomy 33:4</p>
+<p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy33">#05Deut/Deuteronomy33</a> <strong>Scripture Reference</strong>: Deuteronomy 33:4</p>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: Deuteronomy 33:3-5: &quot;Yes, he loves the people. All his saints are in your hand... Moses commanded us a law, an inheritance for the assembly of Jacob.&quot;</li>
 <li><strong>Penalty or Consequence</strong>: None explicit. Disobedience risks loss of covenant status (implied, Deut 28).</li>
@@ -4460,7 +4459,7 @@ Charge (Tsavah)
 </li>
 <li><a href="#love-god-05-deut-deuteronomy11-love-yahweh-and-keep-his-charge-a-href-https-www-biblegateway-com-passage-search-deuteronomy-11-1-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-11-1-a">#LoveGod #05Deut/Deuteronomy11 Love Yahweh and Keep His Charge: Deuteronomy 11:1</a>
 </li>
-<li><a href="#love-god-be-blameless-before-yahweh-a-href-https-www-biblegateway-com-passage-search-deuteronomy-18-3-a13-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-18-13-a">#LoveGod Be Blameless Before Yahweh: Deuteronomy 18:13</a>
+<li><a href="#love-god-05-deut-deuteronomy18-be-blameless-before-yahweh-a-href-https-www-biblegateway-com-passage-search-deuteronomy-18-3-a13-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-18-13-a">#LoveGod #05Deut/Deuteronomy18 Be Blameless Before Yahweh: Deuteronomy 18:13</a>
 </li>
 <li><a href="#love-god-05-deut-deuteronomy28-walk-in-his-ways-a-href-https-www-biblegateway-com-passage-search-deuteronomy-28-9-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-28-9-a">#LoveGod #05Deut/Deuteronomy28 Walk in His Ways: Deuteronomy 28:9</a>
 </li>
