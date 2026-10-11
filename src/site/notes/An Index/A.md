@@ -3,21 +3,6 @@
 ---
 
 
-```base
-views:
-  - type: cards
-    name: View
-    filters:
-      and:
-        - file.tags.containsAny("A")
-    order:
-      - file.name
-    sort: []
-
-```
-
-
-
 
 - [[Gate of Wisdom/Beings/Human Beings/Aaron\|Aaron]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Aarons Staff\|Aarons Staff]]
