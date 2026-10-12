@@ -23,8 +23,7 @@ Previously published as _The Prodigal Prophet._
 >Text of quote
 
 >[!Note] My Personal Reflective thoughts
-## Text that looks like this are direct quotes from the book.
-> Text like this are my reflective thoughts on that comment
+
 - The rest is supporting data, thoughts, related bible verses, etc for my thoughts or related to the book excerpts.
 
 # Mindset
@@ -630,5 +629,5 @@ Jonah sincerely loved God and was a devoted long experienced god-appointed proph
 >[!quote] Kindle page 106
 >4 Whenever we read the Bible in order to say, “Aha! I’m right!”; whenever we read it to feel righteous and wise in our own eyes, we are using the Bible to make ourselves into fools or worse, since the Bible says that the mark of evil fools is to be “wise in their own eyes” (cf. Proverbs 26:12).
 
->[!Note]  Something this particular Author has done over and over throughout this book???
+>[!Note]  It's not any better to stretch scripture to fit a point being made - even if ultimately the point is correct. For example calling Jonah a racist and toxic nationalist when the text doesn't support that. We can assume something to that affect, but the text does not support that. Or stating the Jonah doesn't know god's mercy when the whole reason he ran was because he knew god had mercy. Etc. 
 
