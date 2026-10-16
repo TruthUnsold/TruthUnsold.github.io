@@ -631,3 +631,12 @@ Jonah sincerely loved God and was a devoted long experienced god-appointed proph
 
 >[!Note]  It's not any better to stretch scripture to fit a point being made - even if ultimately the point is correct. For example calling Jonah a racist and toxic nationalist when the text doesn't support that. We can assume something to that affect, but the text does not support that. Or stating the Jonah doesn't know god's mercy when the whole reason he ran was because he knew god had mercy. Etc. 
 
+## Chapter 9
+
+>[!quote]Kindle Page 127 
+>If we lived at the same point in redemptive history as Moses or Jonah, we would, like them, see no real way forward. Moses saw only the “back parts” of his goodness. It remained a mystery to him, as it was to Jonah. ... If you don’t believe in the gospel of Jesus Christ,
+
+>[!note] The Gospel was in the Old Testament, in Moses and Jonah's time
+>Acts 17:2 As was his custom, Paul went into the synagogue, and on three Sabbath days he reasoned with them from the Scriptures, 3 explaining and proving that the Messiah had to suffer and rise from the dead. 
+>Luke 24:27 And beginning with Moses and all the Prophets, he explained to them what was said in all the Scriptures concerning himself.
+

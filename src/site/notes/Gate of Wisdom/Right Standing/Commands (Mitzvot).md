@@ -17,13 +17,39 @@
 
 | file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[_Assets/AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Foundation/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke).md\\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]</li><li>[[Gate of Foundation/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Discernment/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Gate of Correction/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Correction/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Correction/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Correction/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Correction/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Correction/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Correction/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Correction/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Checklist for Commandment texts.md\\|Checklist for Commandment texts]]</li><li>[[Gate of Wisdom/Right Standing/Statutes (Chuqim).md\\|Statutes (Chuqim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Correction/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Correction/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Correction/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li></ul> |
+| <ul><li>[[Gate of Discernment/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Gate of Foundation/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke).md\\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]</li><li>[[Gate of Foundation/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Correction/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Correction/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Correction/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Correction/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Correction/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Correction/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Correction/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Gate of Correction/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Correction/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Correction/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[Gate of Wisdom/Right Standing/Statutes (Chuqim).md\\|Statutes (Chuqim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[_Assets/AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Checklist for Commandment texts.md\\|Checklist for Commandment texts]]</li><li>[[Gate of Correction/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li></ul> |
 
 { .block-language-dataview}
 
+## #LoveNeighbor #03Lev/Leviticus25  Do Not Wrong One Another: [Leviticus 25:17](https://www.biblegateway.com/passage/?search=Leviticus+25%3A17&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+* **Outline:**
+   * Do not
+	   * oppress a fellow citizen #DoNot 
+   * Do
+	   * [[Gate of Wisdom/F/fear (yirah)\|fear (yirah)]] your god #Dos 
+   * Because
+	   * I am YHWH your god
+
+* **Blessing:**
+   * No explicit blessing stated in the verse.
+   * The implicit blessing is the inverse of the warning — those who fear God and refrain from wronging one another live within the covenant relationship that produces the abundance promised in vv.18-22.
+
+* **Penalty or Consequence:**
+   * No civil penalty stated directly in this verse.
+   * The consequence is framed theologically rather than judicially — *"but you shall fear your God, for I am Yahweh your God"* (v.17, WEB) — God himself is the enforcer and witness, the same closing formula used in Leviticus 19:14 where the vulnerable cannot defend themselves.
+   * The immediate context of Leviticus 25 concerns economic wronging in land transactions during the Jubilee cycle — selling or buying at inflated prices knowing the Jubilee will return the land (vv.14-16) — making this a prohibition on exploitation of the covenant calendar for personal gain.
+
+* **Offering or Ransom:**
+   * No offering or ransom stated. The fear of God is presented as the restraint and the sufficient motivation — *"I am Yahweh your God"* functions as both identity declaration and warning, consistent with its use throughout Leviticus 19 and 25.
+
+
+
 # List of Commandments (Mitzvot) in Deuteronomy
 
-## 1. Scripture Reference: #05Deut/Deuteronomy04:2 
+## Scripture Reference: #05Deut/Deuteronomy04:2 
 - **Scripture Text (WEB)**: “You <mark style="background: #FF9EF6A6;">shall not add to the word</mark> which I command you, <mark style="background: #FF9EF6A6;">neither shall you take away from it</mark>, that you may keep the commandments of Yahweh your God which I command you.”
 - **Blessing**: General blessings for obedience (Deuteronomy 28:1-14 [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-28#v1\|Deut-28#v1]]
 - **Penalty or Consequence**: General curses for disobedience (Deuteronomy 28:15-68) [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-28#v15\|Deut-28#v15]]
@@ -91,67 +117,42 @@
 
 
 
-## #05Deut/Deuteronomy12 Destroy Idolatrous Places of Worship
-- **Scripture Reference**: Deuteronomy 12:2-3
-- **Scripture Text (WEB)**: “You shall surely destroy all the places in which the nations that you shall dispossess served their gods: on the high mountains, and on the hills, and under every green tree. You shall break down their altars, dash their pillars in pieces, and burn their Asherim with fire. You shall cut down the engraved images of their gods. You shall destroy their name out of that place.”
-- **Blessing**: General blessings (Deuteronomy 28:1-14).
-- **Penalty or Consequence**: General curses for idolatry (Deuteronomy 28:15-68).
-- **Offering or Ransom?**: 
-	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
-
-## #LoveGod #05Deut/Deuteronomy12 Bring Your Offerings to the Place Yahweh Chooses: [Deuteronomy 12:5-7](https://www.biblegateway.com/passage/?search=Deuteronomy+12:5-7&version=WEB;NET;OJB)
+## #LoveGod #05Deut/Deuteronomy05  Oh That They Had Such a Heart: [Deuteronomy 5:29](https://www.biblegateway.com/passage/?search=Deuteronomy+5:29&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
-- [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
-- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
 - **Outline:**  
-	- Do
-		- Seek his habitation and come to the place YHWH chooses #Dos 
-			- out of all your tribes
-			- puts his name there
-			- bring there your #Dos 
-				- [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]]
-				- [[Gate of Wisdom/T/Tithe\|Tithe]]
-				- [[Gate of Wisdom/Offering/Wave Offering\|Wave Offering]] of your hand ([[Gate of Wisdom/Offering/Heave Offering\|Heave Offering]])
-				- Vows
-				- [[Gate of Wisdom/Offering/Free Will Offering\|Free Will Offering]]
-				- [[Zunpublished/Firstborn\|Firstborn]] of your herd and of your flock
-			- eat there #Dos
-				- before YHWH
-				- rejoice in all that you put your hand to
-					- you
-					- your household
-					- in which YHWH has blessed you
+	- Oh that there was such a heart in them
+		- so that they would [[Gate of Wisdom/F/fear (yirah)\|fear (yirah)]] me #Dos 
+			- and keep all my [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] always #Dos 
+	- So that
+		- it might be well with them
+			- and with their children 
+		- forever
 - **Blessing:**
-    - Verse 7 — explicit blessing stated within the passage — _"you shall eat before Yahweh your God and you shall rejoice in all that you put your hand to, you and your households, in which Yahweh your God has blessed you"_
-    - The blessing is communal and celebratory — the household eats together before Yahweh at the chosen place; rejoicing (_samachtem_ — שְׂמַחְתֶּם) in His presence is both the blessing and the appropriate response to it
-    - The act of bringing offerings to the chosen place is itself participation in the blessing — Yahweh's presence at the place He names is the source of the rejoicing
+    - Verse 29 — explicit blessing stated within the passage — _"that it might be well with them and with their children forever"_
+    - The blessing is generational and permanent — _kol hayamim_ (כָּל הַיָּמִים) — all the days; a heart oriented toward fear and keeping produces wellbeing that extends beyond the individual to children and descendants
+    - The blessing is not territorial here as in many Deuteronomy passages — it is relational and existential — _"that it might be well"_ (_yitav_ — יִיטַב) covering the totality of flourishing
 - **Penalty or Consequence:**
-    - None explicitly stated within the passage
-    - Deuteronomy 12:13-14 makes the consequence more explicit — _"take heed that you do not offer your burnt offerings in every place that you see"_ — unauthorized worship sites are the named violation
+    - None explicitly stated within the verse
+    - The _mi yiten_ (מִי יִתֵּן) — _"Oh that"_ — construction implies the absence of such a heart is already the problem; the consequence is embedded in the longing itself — a people without this heart are already on the path away from the wellbeing named in the blessing
+    - The broader Sinai context is immediate — Israel has just asked for distance from Yahweh's voice (Deut. 5:25-27); the consequence of a heart not oriented toward fear is precisely that distancing — which becomes the pattern of the entire wilderness generation
 - **Offering or Ransom:**
-    - The passage is itself about offerings — burnt offerings, sacrifices, tithes, heave offerings, vow offerings, freewill offerings, firstborn of herd and flock are all named in the surrounding verses (Deut. 12:6)
-    - The offerings are not prescribed here as remedy for violation — they are the content of the command itself; bringing them to the right place is the act of obedience
-- <mark style="background: #CD04BBA6;">Personal Observations</mark>
-	- The broader context of Deuteronomy 12:2-4 establishes the negative contrast — the places where the nations worship on high mountains, under green trees, must be destroyed; bringing offerings anywhere other than the chosen place implicitly aligns Israel with those practices.
-	- [[Gate of Foundation/Put His Name\|Put His Name]]
+    - None prescribed
+    - This verse is Yahweh's own longing expressed — not a judicial command with mechanisms attached; the response it calls for is internal and dispositional; the answer Torah ultimately points toward is not sacrifice but **circumcision of the heart** (Deut. 30:6) and Torah written within (Jer. 31:33)
 
 
 
-## Fear YHWH and Serve Him
-### **Scripture Reference**: #05Deut/Deuteronomy06 
+## Fear YHWH and Serve Him  **Scripture Reference**: #05Deut/Deuteronomy06 
 - **Scripture Text (WEB)**: 13 You shall fear Yahweh your God; and you shall serve him, and shall swear by his name. 
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
 - **Penalty or Consequence**: Yahweh’s jealousy and anger, potential destruction (Deuteronomy 6:15).
 - **Offering or Ransom?**: 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
-### **Scripture Reference**: #59James/James04[[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-04#v7\|James-04#v7]]
-- **Scripture Text (WEB):** "Be subject therefore to God. 
+- **Scripture Reference**: #59James/James04[[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-04#v7\|James-04#v7]] **Scripture Text (WEB):** "Be subject therefore to God. 
 
-## Do Not Worship Other Gods
-
-## #LoveGod #05Deut/Deuteronomy06 Fear and Serve Yahweh Alone: [Deuteronomy 6:13](https://www.biblegateway.com/passage/?search=Deuteronomy+6:13&version=WEB;NET;OJB)
+## Do Not Worship Other Gods ## #LoveGod #05Deut/Deuteronomy06 Fear and Serve Yahweh Alone: [Deuteronomy 6:13](https://www.biblegateway.com/passage/?search=Deuteronomy+6:13&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:** *
@@ -171,61 +172,6 @@
 	- Jesus quotes this verse directly in response to Satan's temptation (Matt. 4:10) — framing it as the definitive boundary of worship and allegiance
 
  
-
-## #LoveGod #05Deut/Deuteronomy10   Fear and Serve Yahweh, Hold Fast, Swear by His Name: [Deuteronomy 10:20](https://www.biblegateway.com/passage/?search=Deuteronomy+10:20&version=WEB;NET;OJB)
-
-- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
-- **Outline:** *
-	- Do
-		- fear YHWH
-		- serve him
-		- cling to him
-		- swear by his name
-- **Blessing:**
-    - None explicitly stated within the verse
-    - The surrounding context (Deut. 10:12-22) frames obedience as the natural response to Yahweh's greatness — the blessing is the relationship itself
-- **Penalty or Consequence:**
-    - None explicitly stated within the verse
-    - Consistent with Deuteronomy 6:13 — the broader Deuteronomic framework applies; departure from these commands leads to loss of land and covenant standing
-- **Offering or Ransom:**
-    - None prescribed
-    - Violation is covenantal in nature, not sacrificial
-
- 
-
-### **Scripture Reference**: #05Deut/Deuteronomy06  [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-06#v14\|Deut-06#v14]]
-- **Scripture Text (WEB)**: 14 You shall not go after other gods, of the gods of the peoples who are around you,
-- **Blessing**: General blessings (Deuteronomy 28:1-14).
-- **Penalty or Consequence**: Yahweh’s jealousy and anger, potential destruction (Deuteronomy 6:15).
-- **Offering or Ransom?**: 
-	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
-	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
-
-## #LoveGod #02Exod/Exodus20 I Am Yahweh Your God: [Exodus 20:2](https://www.biblegateway.com/passage/?search=Exodus+20:2&version=WEB;NET;OJB) 
-
-* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
-* **Outline:**
-   * YHWH (יְהוָה) (The god of Abraham, Isaac, and Jacob's personal covenant name)
-	- Your God = ĕlōheykā
-	- Brought you out of the land
-	- Brought you out of the house of slavery (brutely oppressed, forced labor)
-* **Blessing:**
-   * Yahweh's steadfast love to thousands of those who love Him and keep His commandments (Exodus 20:6)
-   * Long life in the land (Exodus 20:12)
-   * General blessings for covenant obedience (Deuteronomy 28:1–14)
-   * Yahweh Himself as the blessing — "I will be your God and you shall be my people" (Exodus 6:7; Leviticus 26:12)
-* **Penalty or Consequence:**
-   * Rejection of Yahweh as God leads to covenant curses (Deuteronomy 28:15–68)
-   * Yahweh visits iniquity on those who hate Him to the third and fourth generation (Exodus 20:5)
-   * Destruction and exile for abandoning the covenant (Leviticus 26:27–33)
-* **Offering or Ransom?:**
-   * No offering covers the deliberate rejection of Yahweh as God (Numbers 15:30–31)
-   * Repentance and return to covenant are the path back (Deuteronomy 30:1–3)
-#LoveGod   
-
-### **Scripture Reference**: #59James/James04 [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-04#v7\|James-04#v7]]
-- **Scripture Text (WEB):** Resist the devil, and he will flee from you."
-- **Blessing**:  James says, the adversary will flee
 
 ## #LoveGod #05Deut/Deuteronomy06 Hear - Yahweh is One [Deuteronomy 6:4](https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A4&version=WEB;NET;OJB)
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
@@ -351,6 +297,35 @@
 
   #05Deut/Deuteronomy08 
 
+## #LoveGod #05Deut/Deuteronomy10   Fear and Serve Yahweh, Hold Fast, Swear by His Name: [Deuteronomy 10:20](https://www.biblegateway.com/passage/?search=Deuteronomy+10:20&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** *
+	- Do
+		- fear YHWH
+		- serve him
+		- cling to him
+		- swear by his name
+- **Blessing:**
+    - None explicitly stated within the verse
+    - The surrounding context (Deut. 10:12-22) frames obedience as the natural response to Yahweh's greatness — the blessing is the relationship itself
+- **Penalty or Consequence:**
+    - None explicitly stated within the verse
+    - Consistent with Deuteronomy 6:13 — the broader Deuteronomic framework applies; departure from these commands leads to loss of land and covenant standing
+- **Offering or Ransom:**
+    - None prescribed
+    - Violation is covenantal in nature, not sacrificial
+
+ 
+
+### **Scripture Reference**: #05Deut/Deuteronomy06  [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-06#v14\|Deut-06#v14]]
+- **Scripture Text (WEB)**: 14 You shall not go after other gods, of the gods of the peoples who are around you,
+- **Blessing**: General blessings (Deuteronomy 28:1-14).
+- **Penalty or Consequence**: Yahweh’s jealousy and anger, potential destruction (Deuteronomy 6:15).
+- **Offering or Ransom?**: 
+	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
+	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
+
 ## #LoveGod #05Deut/Deuteronomy11 Bind These Words as a Sign: [Deuteronomy 11:18-21](https://www.biblegateway.com/passage/?search=Deuteronomy+11:18-21&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
@@ -410,6 +385,54 @@
     - The command is relational and covenantal — three verbs of intimacy and loyalty; no sacrificial mechanism is attached
 
 
+
+## #LoveGod #05Deut/Deuteronomy12 Bring Your Offerings to the Place Yahweh Chooses: [Deuteronomy 12:5-7](https://www.biblegateway.com/passage/?search=Deuteronomy+12:5-7&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- **Outline:**  
+	- Do
+		- Seek his habitation and come to the place YHWH chooses #Dos 
+			- out of all your tribes
+			- puts his name there
+			- bring there your #Dos 
+				- [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]]
+				- [[Gate of Wisdom/T/Tithe\|Tithe]]
+				- [[Gate of Wisdom/Offering/Wave Offering\|Wave Offering]] of your hand ([[Gate of Wisdom/Offering/Heave Offering\|Heave Offering]])
+				- Vows
+				- [[Gate of Wisdom/Offering/Free Will Offering\|Free Will Offering]]
+				- [[Zunpublished/Firstborn\|Firstborn]] of your herd and of your flock
+			- eat there #Dos
+				- before YHWH
+				- rejoice in all that you put your hand to
+					- you
+					- your household
+					- in which YHWH has blessed you
+- **Blessing:**
+    - Verse 7 — explicit blessing stated within the passage — _"you shall eat before Yahweh your God and you shall rejoice in all that you put your hand to, you and your households, in which Yahweh your God has blessed you"_
+    - The blessing is communal and celebratory — the household eats together before Yahweh at the chosen place; rejoicing (_samachtem_ — שְׂמַחְתֶּם) in His presence is both the blessing and the appropriate response to it
+    - The act of bringing offerings to the chosen place is itself participation in the blessing — Yahweh's presence at the place He names is the source of the rejoicing
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+    - Deuteronomy 12:13-14 makes the consequence more explicit — _"take heed that you do not offer your burnt offerings in every place that you see"_ — unauthorized worship sites are the named violation
+- **Offering or Ransom:**
+    - The passage is itself about offerings — burnt offerings, sacrifices, tithes, heave offerings, vow offerings, freewill offerings, firstborn of herd and flock are all named in the surrounding verses (Deut. 12:6)
+    - The offerings are not prescribed here as remedy for violation — they are the content of the command itself; bringing them to the right place is the act of obedience
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>
+	- The broader context of Deuteronomy 12:2-4 establishes the negative contrast — the places where the nations worship on high mountains, under green trees, must be destroyed; bringing offerings anywhere other than the chosen place implicitly aligns Israel with those practices.
+	- [[Gate of Foundation/Put His Name\|Put His Name]]
+
+
+
+## #05Deut/Deuteronomy12 Destroy Idolatrous Places of Worship
+- **Scripture Reference**: Deuteronomy 12:2-3
+- **Scripture Text (WEB)**: “You shall surely destroy all the places in which the nations that you shall dispossess served their gods: on the high mountains, and on the hills, and under every green tree. You shall break down their altars, dash their pillars in pieces, and burn their Asherim with fire. You shall cut down the engraved images of their gods. You shall destroy their name out of that place.”
+- **Blessing**: General blessings (Deuteronomy 28:1-14).
+- **Penalty or Consequence**: General curses for idolatry (Deuteronomy 28:15-68).
+- **Offering or Ransom?**: 
+	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
+
 ## #LoveGod  #05Deut/Deuteronomy13  Do Not Follow False Prophets: [Deuteronomy 13:1-5](https://www.biblegateway.com/passage/?search=Deuteronomy+13:1-5&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
@@ -458,39 +481,29 @@
 
  
 
-## #LoveGod  #05Deut/Deuteronomy18 The Test of a True Prophet: [Deuteronomy 18:20-22](https://www.biblegateway.com/passage/?search=Deuteronomy+18:20-22&version=WEB;NET;OJB)
+## 18. #05Deut/Deuteronomy13 Do Not Follow False Prophets
+- **Scripture Reference**: Deuteronomy 13:1-3
+- **Scripture Text (WEB)**: “If a prophet or a dreamer of dreams arises among you, and he gives you a sign or a wonder, and the sign or the wonder comes to pass, of which he spoke to you, saying, ‘Let’s go after other gods’ (which you have not known) ‘and let’s serve them,’ you <mark style="background: #FF9EF6A6;">shall not listen</mark> to the words of that prophet or to that dreamer of dreams; for Yahweh your God is testing you.”
+- **Blessing**: General blessings (Deuteronomy 28:1-14).
+- **Penalty or Consequence**: False prophet to be put to death (Deuteronomy 13:5).
+- **Offering or Ransom?**: [[Gate of Correction/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
+	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
+	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification.
 
-- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
-- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
-- **Outline:** *
-	- If a prophet
-		- speaks a word presumptuously in my name
-		- which I have not commanded to speak
-		- who speaks in the name of other gods
-	- Do
-		- He shall die
-	- If you say in your heart
-		- how shall we know the word which YHWH has not spoke
-			- if that thing doesn't follow nor happen
-				- that is the thing which YHWH has not spoken
-				- the prophet has spoken it presumptuously
-	- Do Not
-		- be afraid of him
-- **Blessing:**
-    - None explicitly stated within the passage
-    - The implied blessing is discernment and protection from false prophets
-- **Penalty or Consequence:**
-    - Verse 20 — the prophet who speaks presumptuously in Yahweh's name what Yahweh has not commanded, **or** who speaks in the name of other gods, shall die
-    - Two distinct capital offenses named:
-        - Speaking falsely in Yahweh's name
-        - Speaking in the name of other gods
-    - Verse 22 — the word that does not come to pass is identified as something Yahweh did not speak — the prophet has spoken presumptuously (_zadon_ — זָדוֹן) and Israel is told do not be afraid of him
-- **Offering or Ransom:**
-    - None prescribed
-    - Consistent with Deuteronomy 13:1-5 — false prophecy carries a capital sentence with no ransom or offering path provided
-    - The presumption (_zadon_ — זָדוֹן) language connects directly to Deuteronomy 17:12 — the same word used for defying the court of final appeal, which likewise carried no offering remedy
+## 19. #05Deut/Deuteronomy13 Put to Death Those Who Entice to Idolatry
+- **Scripture Reference**: Deuteronomy 13:6-9
+- **Scripture Text (WEB)**: “If your brother, the son of your mother, or your son, or your daughter, or the wife of your bosom, or your friend who is as your own soul, entices you secretly, saying, ‘Let’s go and serve other gods’—which you have not known, you, nor your fathers; of the gods of the peoples who are around you, near to you, or far off from you, from the one end of the earth even to the other end of the earth—<mark style="background: #FF9EF6A6;">you shall not consent</mark> to him <mark style="background: #FF9EF6A6;">nor listen </mark>to him; <mark style="background: #FF9EF6A6;">neither shall</mark> your eye pity him, <mark style="background: #FF9EF6A6;">neither shall</mark> you spare, <mark style="background: #FF9EF6A6;">neither shall</mark> you conceal him; but you shall surely kill him.”
+- **Blessing**: General blessings (Deuteronomy 28:1-14).
+- **Penalty or Consequence**: Death by stoning (Deuteronomy 13:10).
+- **Offering or Ransom?**:[[Gate of Correction/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]] 
 
- 
+## 20. #05Deut/Deuteronomy13 Destroy a City That Turns to Idolatry
+- **Scripture Reference**: Deuteronomy 13:12-15
+- **Scripture Text (WEB)**: “If you hear about one of your cities, which Yahweh your God gives you to dwell there, that certain wicked men have gone out from among you and have drawn away the inhabitants of their city, saying, ‘Let’s go and serve other gods,’ which you have not known, then you shall inquire, investigate, and ask diligently. Behold, if it is true, and the thing certain, that such abomination is done among you, you shall surely strike the inhabitants of that city with the edge of the sword, destroying it utterly, with all that is in it and its livestock, with the edge of the sword.”
+- **Blessing**: General blessings (Deuteronomy 28:1-14).
+- **Penalty or Consequence**: Destruction of the city (Deuteronomy 13:15).
+- **Offering or Ransom?**: 
+	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition? 
 
 ## 12. #05Deut/Deuteronomy16  Keep the Passover
 - **Scripture Reference**: Deuteronomy 16:1-2
@@ -527,48 +540,6 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 - **Note:** No known place chosen by Yah to bring offerings at this time. 
 
-## 16. #05Deut/Deuteronomy16 Appear Before Yahweh Three Times a Year
-- **Scripture Reference**: Deuteronomy 16:16
-- **Scripture Text (WEB)**: “Three times in a year all of your males shall appear before Yahweh your God in the place which he chooses: in the feast of unleavened bread, in the feast of weeks, and in the feast of booths. They <mark style="background: #FF9EF6A6;">shall not appear</mark> before Yahweh empty.”
-- **Blessing**: General blessings (Deuteronomy 28:1-14).
-- **Penalty or Consequence**: General curses (Deuteronomy 28:15-68).
-- **Offering or Ransom?**: Offerings as per ability (Deuteronomy 16:17). 
-	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
-- **Note:** No known place chosen by Yah to bring offerings at this time. 
-
-## 17. #05Deut/Deuteronomy17  Do Not Offer Blemished Sacrifices
-- **Scripture Reference**: Deuteronomy 17:1
-- **Scripture Text (WEB)**: “You <mark style="background: #FF9EF6A6;">shall not sacrifice</mark> to Yahweh your God an ox or a sheep in which is a defect or anything evil; for that is an abomination to Yahweh your God.”
-- **Blessing**: General blessings (Deuteronomy 28:1-14).
-- **Penalty or Consequence**: Abomination, implying general curses (Deuteronomy 28:15-68).
-- **Offering or Ransom?**: 
-	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
-- **Note:** No known place chosen by Yah to bring offerings at this time. 
-
-## 18. #05Deut/Deuteronomy13 Do Not Follow False Prophets
-- **Scripture Reference**: Deuteronomy 13:1-3
-- **Scripture Text (WEB)**: “If a prophet or a dreamer of dreams arises among you, and he gives you a sign or a wonder, and the sign or the wonder comes to pass, of which he spoke to you, saying, ‘Let’s go after other gods’ (which you have not known) ‘and let’s serve them,’ you <mark style="background: #FF9EF6A6;">shall not listen</mark> to the words of that prophet or to that dreamer of dreams; for Yahweh your God is testing you.”
-- **Blessing**: General blessings (Deuteronomy 28:1-14).
-- **Penalty or Consequence**: False prophet to be put to death (Deuteronomy 13:5).
-- **Offering or Ransom?**: [[Gate of Correction/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
-	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
-	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification.
-
-## 19. #05Deut/Deuteronomy13 Put to Death Those Who Entice to Idolatry
-- **Scripture Reference**: Deuteronomy 13:6-9
-- **Scripture Text (WEB)**: “If your brother, the son of your mother, or your son, or your daughter, or the wife of your bosom, or your friend who is as your own soul, entices you secretly, saying, ‘Let’s go and serve other gods’—which you have not known, you, nor your fathers; of the gods of the peoples who are around you, near to you, or far off from you, from the one end of the earth even to the other end of the earth—<mark style="background: #FF9EF6A6;">you shall not consent</mark> to him <mark style="background: #FF9EF6A6;">nor listen </mark>to him; <mark style="background: #FF9EF6A6;">neither shall</mark> your eye pity him, <mark style="background: #FF9EF6A6;">neither shall</mark> you spare, <mark style="background: #FF9EF6A6;">neither shall</mark> you conceal him; but you shall surely kill him.”
-- **Blessing**: General blessings (Deuteronomy 28:1-14).
-- **Penalty or Consequence**: Death by stoning (Deuteronomy 13:10).
-- **Offering or Ransom?**:[[Gate of Correction/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]] 
-
-## 20. #05Deut/Deuteronomy13 Destroy a City That Turns to Idolatry
-- **Scripture Reference**: Deuteronomy 13:12-15
-- **Scripture Text (WEB)**: “If you hear about one of your cities, which Yahweh your God gives you to dwell there, that certain wicked men have gone out from among you and have drawn away the inhabitants of their city, saying, ‘Let’s go and serve other gods,’ which you have not known, then you shall inquire, investigate, and ask diligently. Behold, if it is true, and the thing certain, that such abomination is done among you, you shall surely strike the inhabitants of that city with the edge of the sword, destroying it utterly, with all that is in it and its livestock, with the edge of the sword.”
-- **Blessing**: General blessings (Deuteronomy 28:1-14).
-- **Penalty or Consequence**: Destruction of the city (Deuteronomy 13:15).
-- **Offering or Ransom?**: 
-	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition? 
-
 ## 21. #05Deut/Deuteronomy16 Appoint Judges and Officers
 - **Scripture Reference**: Deuteronomy 16:18
 - **Scripture Text (WEB)**: “You shall make judges and officers in all your gates, which Yahweh your God gives you, according to your tribes; and they shall judge the people with righteous judgment.”
@@ -593,6 +564,58 @@
 - **Offering or Ransom?**: 
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition? 
 - **Note:** Seems pretty difficult to plant something and not know it. 
+
+## 16. #05Deut/Deuteronomy16 Appear Before Yahweh Three Times a Year
+- **Scripture Reference**: Deuteronomy 16:16
+- **Scripture Text (WEB)**: “Three times in a year all of your males shall appear before Yahweh your God in the place which he chooses: in the feast of unleavened bread, in the feast of weeks, and in the feast of booths. They <mark style="background: #FF9EF6A6;">shall not appear</mark> before Yahweh empty.”
+- **Blessing**: General blessings (Deuteronomy 28:1-14).
+- **Penalty or Consequence**: General curses (Deuteronomy 28:15-68).
+- **Offering or Ransom?**: Offerings as per ability (Deuteronomy 16:17). 
+	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
+- **Note:** No known place chosen by Yah to bring offerings at this time. 
+
+## 17. #05Deut/Deuteronomy17  Do Not Offer Blemished Sacrifices
+- **Scripture Reference**: Deuteronomy 17:1
+- **Scripture Text (WEB)**: “You <mark style="background: #FF9EF6A6;">shall not sacrifice</mark> to Yahweh your God an ox or a sheep in which is a defect or anything evil; for that is an abomination to Yahweh your God.”
+- **Blessing**: General blessings (Deuteronomy 28:1-14).
+- **Penalty or Consequence**: Abomination, implying general curses (Deuteronomy 28:15-68).
+- **Offering or Ransom?**: 
+	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
+- **Note:** No known place chosen by Yah to bring offerings at this time. 
+
+## #LoveGod  #05Deut/Deuteronomy18 The Test of a True Prophet: [Deuteronomy 18:20-22](https://www.biblegateway.com/passage/?search=Deuteronomy+18:20-22&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** *
+	- If a prophet
+		- speaks a word presumptuously in my name
+		- which I have not commanded to speak
+		- who speaks in the name of other gods
+	- Do
+		- He shall die
+	- If you say in your heart
+		- how shall we know the word which YHWH has not spoke
+			- if that thing doesn't follow nor happen
+				- that is the thing which YHWH has not spoken
+				- the prophet has spoken it presumptuously
+	- Do Not
+		- be afraid of him
+- **Blessing:**
+    - None explicitly stated within the passage
+    - The implied blessing is discernment and protection from false prophets
+- **Penalty or Consequence:**
+    - Verse 20 — the prophet who speaks presumptuously in Yahweh's name what Yahweh has not commanded, **or** who speaks in the name of other gods, shall die
+    - Two distinct capital offenses named:
+        - Speaking falsely in Yahweh's name
+        - Speaking in the name of other gods
+    - Verse 22 — the word that does not come to pass is identified as something Yahweh did not speak — the prophet has spoken presumptuously (_zadon_ — זָדוֹן) and Israel is told do not be afraid of him
+- **Offering or Ransom:**
+    - None prescribed
+    - Consistent with Deuteronomy 13:1-5 — false prophecy carries a capital sentence with no ransom or offering path provided
+    - The presumption (_zadon_ — זָדוֹן) language connects directly to Deuteronomy 17:12 — the same word used for defying the court of final appeal, which likewise carried no offering remedy
+
+ 
 
 ## #LoveGod #05Deut/Deuteronomy18  No Occult Practices: [Deuteronomy 18:10-12](https://www.biblegateway.com/passage/?search=Deuteronomy+18:10-12&version=WEB;NET;OJB)
 
@@ -1215,7 +1238,8 @@
 	-  Covet hāmad or ḥāmaḏ (חָמַד) - To desire, to take pleasure in, to delight in, or to long for something. It implies a strong craving or lust that goes beyond mere admiration and can lead to actions like theft, adultery, or other violations of the commandments. 
 	- Internal matter of the heart and mind, not just an action.
   
----
+
+
 
 12. #02Exod/Exodus20 **Do Not Make Gods of Silver or Gold**
 
@@ -2212,6 +2236,32 @@
 - **Penalty or Consequence:** Not specified; covenant defilement implied.
 - **Offering or Ransom?:** Not applicable.
 
+## #LoveGod #02Exod/Exodus20 I Am Yahweh Your God: [Exodus 20:2](https://www.biblegateway.com/passage/?search=Exodus+20:2&version=WEB;NET;OJB) 
+
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* **Outline:**
+   * YHWH (יְהוָה) (The god of Abraham, Isaac, and Jacob's personal covenant name)
+	- Your God = ĕlōheykā
+	- Brought you out of the land
+	- Brought you out of the house of slavery (brutely oppressed, forced labor)
+* **Blessing:**
+   * Yahweh's steadfast love to thousands of those who love Him and keep His commandments (Exodus 20:6)
+   * Long life in the land (Exodus 20:12)
+   * General blessings for covenant obedience (Deuteronomy 28:1–14)
+   * Yahweh Himself as the blessing — "I will be your God and you shall be my people" (Exodus 6:7; Leviticus 26:12)
+* **Penalty or Consequence:**
+   * Rejection of Yahweh as God leads to covenant curses (Deuteronomy 28:15–68)
+   * Yahweh visits iniquity on those who hate Him to the third and fourth generation (Exodus 20:5)
+   * Destruction and exile for abandoning the covenant (Leviticus 26:27–33)
+* **Offering or Ransom?:**
+   * No offering covers the deliberate rejection of Yahweh as God (Numbers 15:30–31)
+   * Repentance and return to covenant are the path back (Deuteronomy 30:1–3)
+#LoveGod   
+
+### **Scripture Reference**: #59James/James04 [[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-04#v7\|James-04#v7]]
+- **Scripture Text (WEB):** Resist the devil, and he will flee from you."
+- **Blessing**:  James says, the adversary will flee
+
 # List in Leviticus
 
 ## #LoveGod  #03Lev/Leviticus19 Do Not Seek Mediums or Spiritists: [Leviticus 19:31](https://www.biblegateway.com/passage/?search=Leviticus+19%3A31&version=WEB;NET;OJB)
@@ -2240,6 +2290,36 @@
    * No offering or ransom stated in the passage or immediate context. The gravity of the command — closed with *"I am Yahweh your God"* — implies no substitution is available; the act itself is the violation of the covenant relationship.
 
  [[Gate of Wisdom/Offering/Offerings\|Offerings]]
+
+## #LoveNeighbor #03Lev/Leviticus19  Use Honest Weights and Measures: [Leviticus 19:36](https://www.biblegateway.com/passage/?search=Leviticus+19%3A36&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+* **Outline:**
+   * Do
+	   * have honest #Dos 
+		   * balances
+		   * weights
+		   * ephah
+		   * hin
+   * Because
+	   * I am YHWH
+		   * your god
+		   * who brought you out from the land of Egypt
+
+* **Blessing:**
+   * No explicit blessing stated in the verse.
+
+* **Penalty or Consequence:**
+   * No penalty stated directly in this verse.
+
+* **Offering or Ransom:**
+   * No offering or ransom stated. The verse grounds the command in the exodus — *"I am Yahweh your God, who brought you out of the land of Egypt."* (WEB) — making honest commerce an act of covenant memory and fidelity rather than mere legal compliance. The one who redeemed Israel from exploitation is the same one who forbids Israel from exploiting others through dishonest measure.
+* <mark style="background: #CD04BBA6;">Personal Observations</mark>
+	* Deuteronomy 25:13-16 — carrying two kinds of weights — large and small — is called an abomination (to'evah/תּוֹעֵבָה) to Yahweh, and those who do so are connected to being cut short in the land — *"that your days may be long in the land which Yahweh your God gives you."* (WEB) — implying the reverse for dishonest practice.
+	* Amos 8:4-7 — God declares he will never forget the deeds of those who use dishonest scales — placed in the context of covenant judgment against Israel.
+	* Micah 6:11-13 — dishonest weights listed among the sins for which God brings affliction and desolation.
+
 
 ## #LoveGod #03Lev/Leviticus19  Keep All My Statutes and Judgments: [Leviticus 19:37](https://www.biblegateway.com/passage/?search=Leviticus+19%3A37&version=WEB;NET;OJB)
 

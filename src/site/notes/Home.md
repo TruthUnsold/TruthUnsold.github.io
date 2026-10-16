@@ -31,6 +31,8 @@ Buy the truth, and don’t sell it.
 
 | Latest Drops                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gate of Wisdom/F/fear (yirah)\|fear (yirah)]]                                                                                                                                          |
+| [[Gate of Wisdom/F/fear (tirau)\|fear (tirau)]]                                                                                                                                          |
 | [[Gate of Wisdom/T/Tithe\|Tithe]]                                                                                                                                                        |
 | [[Gate of Foundation/Put His Name\|Put His Name]]                                                                                                                                        |
 | [[Gate of Foundation/Acts 2 Connections Scripture Survey\|Acts 2 Connections Scripture Survey]]                                                                                          |
@@ -49,8 +51,6 @@ Buy the truth, and don’t sell it.
 | [[Gate of Discernment/The Prodigal Son and Jonah\|The Prodigal Son and Jonah]]                                                                                                           |
 | [[Gate of Discernment/The Exodus and Jonah\|The Exodus and Jonah]]                                                                                                                       |
 | [[Gate of Wisdom/N/Neighbor\|Neighbor]]                                                                                                                                                  |
-| [[Gate of Wisdom/Beings/Human Beings/Jeroboam II\|Jeroboam II]]                                                                                                                          |
-| [[Gate of Wisdom/Sources/Torah Class\|Torah Class]]                                                                                                                                      |
 
 { .block-language-dataview}
 

@@ -52,17 +52,17 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - **Outline:**  
 	- Do
-		- Seek his habitation and come to the place YHWH chooses #Dos 
+		- Seek his habitation and come to the place YHWH chooses 
 			- out of all your tribes
 			- puts his name there
-			- bring there your #Dos 
+			- bring there your 
 				- [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]]
 				- [[Gate of Wisdom/T/Tithe\|Tithe]]
 				- [[Gate of Wisdom/Offering/Wave Offering\|Wave Offering]] of your hand ([[Gate of Wisdom/Offering/Heave Offering\|Heave Offering]])
 				- Vows
 				- [[Gate of Wisdom/Offering/Free Will Offering\|Free Will Offering]]
 				- [[Zunpublished/Firstborn\|Firstborn]] of your herd and of your flock
-			- eat there #Dos
+			- eat there 
 				- before YHWH
 				- rejoice in all that you put your hand to
 					- you
@@ -87,7 +87,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
 	- Do
-		- [[Gate of Wisdom/S/Serve\|Serve]] Yah #Dos 
+		- [[Gate of Wisdom/S/Serve\|Serve]] Yah 
 	- He will
 		- [[Gate of Wisdom/B/Bless\|Bless]] your 
 			- bread
@@ -127,12 +127,12 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
 - **Outline:**  
 	- Do
-		- Diligently keep all these [[Gate of Wisdom/Right Standing/Commandments\|Commandments]] #Dos 
+		- Diligently keep all these [[Gate of Wisdom/Right Standing/Commandments\|Commandments]] 
 			- which I command you
 			- do them
-		- Love YHWH #Dos 
-		- Walk in all his ways #Dos 
-		- Cling to him #Dos 
+		- Love YHWH 
+		- Walk in all his ways 
+		- Cling to him  
 - **Blessing:**
     - None explicitly stated within the verse
     - The immediate context of Deuteronomy 11:23-25 delivers the blessing directly — Yahweh will drive out all these nations before you, you will dispossess nations greater and mightier than yourselves, every place the sole of your foot treads shall be yours, no man shall stand against you
@@ -150,20 +150,20 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 * [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
 * **Outline:**
 	- Do
-		- keep and do all my [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] #Dos 
-		- keep and do all my [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]] #Dos 
+		- keep and do all my [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] 
+		- keep and do all my [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]] 
 			- that the land where I bring you to dwell will not vomit you out
-		- make a distinction between [[Gate of Wisdom/C/Clean\|Clean]] and [[Gate of Wisdom/U/Unclean\|Unclean]] animals #Dos 
-		- make a distinction between clean and unclean fowl #Dos 
+		- make a distinction between [[Gate of Wisdom/C/Clean\|Clean]] and [[Gate of Wisdom/U/Unclean\|Unclean]] animals 
+		- make a distinction between clean and unclean fowl 
 		- be [[Gate of Wisdom/H/Holy\|Holy]] to me
 	- Do Not
-		- walk in the customs of the [[Gate of Wisdom/Beings/Human Beings/nation\|nation]] which I am casting out before you #DoNot 
+		- walk in the customs of the [[Gate of Wisdom/Beings/Human Beings/nation\|nation]] which I am casting out before you
 			- for they did all these things
 				- therefore I abhorred them
 			- you will inherit their land
 				- I give it to you to possess
 				- a land flowing with milk and hone
-		- make yourselves an [[Gate of Wisdom/Abomination/Abomination\|Abomination]] by //[[Gate of Wisdom/U/Unclean\|Unclean]]// animal, bird, or anything with which the ground teems #DoNot 
+		- make yourselves an [[Gate of Wisdom/Abomination/Abomination\|Abomination]] by //[[Gate of Wisdom/U/Unclean\|Unclean]]// animal, bird, or anything with which the ground teems 
 			- which I have separated from you as unclean for you
 	- Because
 		- I am YHWH
@@ -220,9 +220,9 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 		- life and prosperity
 		- death and disaster
 	- Do (I command you today)
-		- to love YHWH #Dos 
-		- walk in his ways #Dos 
-		- keep his [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]], [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]], [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]] #Dos 
+		- to love YHWH 
+		- walk in his ways 
+		- keep his [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]], [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]], [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]] 
 	- So that
 		- you may live and multiply
 		- YHWH may bless you in the land where you go in to possess it
@@ -247,7 +247,7 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 * [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
 * **Outline:**
 	* Do
-		* Obey all my [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] and [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]] #Dos 
+		* Obey all my [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] and [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]] 
 	* Because I am YHWH
 
 * **Blessing:**
@@ -270,8 +270,8 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - **Outline:**  
 	- Today YHWH commands you to
 	- Do
-		- these [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] and [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]] #Dos 
-		- keep and do them with all your heart and with all your soul #Dos 
+		- these [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] and [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]] 
+		- keep and do them with all your heart and with all your soul 
 	- Today you have declared
 		- YHWH is your [[Gate of Wisdom/Beings/Divine Council/God\|God]]
 		- you will walk in his ways
@@ -306,8 +306,8 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
 - **Outline:**  
 	- I have taught you [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] and [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]] just as YHWH told me to do
 	- Do
-		- that you should do so in the middle of the land where you go in to possess it #Dos 
-		- keep and do them #Dos 
+		- that you should do so in the middle of the land where you go in to possess it 
+		- keep and do them 
 	- Because
 		- this is your wisdom and understanding
 			- in the sight of the [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]s who will hear all these [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
@@ -325,19 +325,140 @@ And having come near, Jesus spake to them, saying, Given to me was all authority
     - None prescribed
     - The command is formational and missional — keep and do in the sight of the nations; no sacrificial mechanism is attached
 
-**October 11**: Exodus 20:20 – “Moses said to the people, ‘Do not be afraid. God has come to test you, so that the fear of God will be with you to keep you from sinning.’” - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] (fear God to avoid sin)  
+## **October 11**: Do Not Fear, but Keep His Fear Before You: [Exodus 20:20](https://www.biblegateway.com/passage/?search=Exodus%2020:20&version=WEB;NET;OJB)
 
-**October 12**: Deuteronomy 5:29 – “Oh, that their hearts would be inclined to fear me and keep all my commands always, so that it might go well with them...” - **[[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]**  
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:**  
+	- Moses said
+		- to the people
+	- Do not
+		- fear [[Gate of Wisdom/F/fear (tirau)\|fear (tirau)]]
+	- Because
+		- God has come to prove you
+			- so that the fear [[Gate of Wisdom/F/fear (yirah)\|fear (yirah)]] of him
+				- may be before you
+					- so that you do not [[Gate of Wisdom/S/Sin\|Sin]]
+- **Blessing:**
+    - His fear kept before their faces so that they do not sin, which is the stated purpose of the command (Exodus 20:20)
+    - God's testing (nasah) is meant to establish this fear in them (Exodus 20:20)
+- **Penalty or Consequence:**
+    - None stated directly in this passage
+    - Context: the people trembled and stood far off at the thunder, lightning, trumpet, and smoking mountain (Exodus 20:18-19); sin is the outcome the fear of God is meant to prevent (Exodus 20:20)
+- **Offering or Ransom:**
+    - None specified in this verse
 
-**October 13**: Leviticus 25:17 – “Do not take advantage of each other, but fear your God. I am the LORD your God.” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+## **October 12**:  Oh That They Had Such a Heart: [Deuteronomy 5:29](https://www.biblegateway.com/passage/?search=Deuteronomy+5:29&version=WEB;NET;OJB)
 
-**October 14**: Deuteronomy 25:17-19 – “Remember what the Amalekites did to you... When the LORD your God gives you rest... you shall blot out the name of Amalek...” (historical remembrance principle). - **[[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]**  
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:**  
+	- Oh that there was such a heart in them
+		- so that they would [[Gate of Wisdom/F/fear (yirah)\|fear (yirah)]] me
+			- and keep all my [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] always
+	- So that
+		- it might be well with them
+			- and with their children 
+		- forever
+- **Blessing:**
+    - Verse 29 — explicit blessing stated within the passage — _"that it might be well with them and with their children forever"_
+    - The blessing is generational and permanent — _kol hayamim_ (כָּל הַיָּמִים) — all the days; a heart oriented toward fear and keeping produces wellbeing that extends beyond the individual to children and descendants
+    - The blessing is not territorial here as in many Deuteronomy passages — it is relational and existential — _"that it might be well"_ (_yitav_ — יִיטַב) covering the totality of flourishing
+- **Penalty or Consequence:**
+    - None explicitly stated within the verse
+    - The _mi yiten_ (מִי יִתֵּן) — _"Oh that"_ — construction implies the absence of such a heart is already the problem; the consequence is embedded in the longing itself — a people without this heart are already on the path away from the wellbeing named in the blessing
+    - The broader Sinai context is immediate — Israel has just asked for distance from Yahweh's voice (Deut. 5:25-27); the consequence of a heart not oriented toward fear is precisely that distancing — which becomes the pattern of the entire wilderness generation
+- **Offering or Ransom:**
+    - None prescribed
+    - This verse is Yahweh's own longing expressed — not a judicial command with mechanisms attached; the response it calls for is internal and dispositional; the answer Torah ultimately points toward is not sacrifice but **circumcision of the heart** (Deut. 30:6) and Torah written within (Jer. 31:33)
 
-**October 15**: Deuteronomy 9:4-6 – “After the LORD your God has driven them out... do not say to yourself, ‘The LORD has brought me here to take possession of this land because of my righteousness.’” - **[[Gate of Wisdom/Right Standing/Precepts (Pikkudim)\|Precepts (Pikkudim)]]** (humility, not self-righteousness)  
+## **October 13**:  Do Not Wrong One Another: [Leviticus 25:17](https://www.biblegateway.com/passage/?search=Leviticus+25%3A17&version=WEB;NET;OJB)
 
-**October 16**: Leviticus 19:36 – “Use honest scales and honest weights, an honest ephah and an honest hin. I am the LORD your God...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+* **Outline:**
+   * Do not
+	   * oppress a fellow citizen
+   * Do
+	   * [[Gate of Wisdom/F/fear (yirah)\|fear (yirah)]] your god
+   * Because
+	   * I am YHWH your god
 
-**October 17**: Proverbs is not in Torah; stay with Torah: Deuteronomy 16:20 – “Follow justice and justice alone, so that you may live and possess the land...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
+* **Blessing:**
+   * No explicit blessing stated in the verse.
+   * The implicit blessing is the inverse of the warning — those who fear God and refrain from wronging one another live within the covenant relationship that produces the abundance promised in vv.18-22.
+
+* **Penalty or Consequence:**
+   * No civil penalty stated directly in this verse.
+   * The consequence is framed theologically rather than judicially — *"but you shall fear your God, for I am Yahweh your God"* (v.17, WEB) — God himself is the enforcer and witness, the same closing formula used in Leviticus 19:14 where the vulnerable cannot defend themselves.
+   * The immediate context of Leviticus 25 concerns economic wronging in land transactions during the Jubilee cycle — selling or buying at inflated prices knowing the Jubilee will return the land (vv.14-16) — making this a prohibition on exploitation of the covenant calendar for personal gain.
+
+* **Offering or Ransom:**
+   * No offering or ransom stated. The fear of God is presented as the restraint and the sufficient motivation — *"I am Yahweh your God"* functions as both identity declaration and warning, consistent with its use throughout Leviticus 19 and 25.
+
+## **October 16**:  Use Honest Weights and Measures: [Leviticus 19:36](https://www.biblegateway.com/passage/?search=Leviticus+19%3A36&version=WEB;NET;OJB)
+
+* [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+* [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+* **Outline:**
+   * Do
+	   * have honest 
+		   * balances
+		   * weights
+		   * ephah
+		   * hin
+   * Because
+	   * I am YHWH
+		   * your god
+		   * who brought you out from the land of Egypt
+
+* **Blessing:**
+   * No explicit blessing stated in the verse.
+
+* **Penalty or Consequence:**
+   * No penalty stated directly in this verse.
+
+* **Offering or Ransom:**
+   * No offering or ransom stated. The verse grounds the command in the exodus — *"I am Yahweh your God, who brought you out of the land of Egypt."* (WEB) — making honest commerce an act of covenant memory and fidelity rather than mere legal compliance. The one who redeemed Israel from exploitation is the same one who forbids Israel from exploiting others through dishonest measure.
+* <mark style="background: #CD04BBA6;">Personal Observations</mark>
+	* Deuteronomy 25:13-16 — carrying two kinds of weights — large and small — is called an abomination (to'evah/תּוֹעֵבָה) to Yahweh, and those who do so are connected to being cut short in the land — *"that your days may be long in the land which Yahweh your God gives you."* (WEB) — implying the reverse for dishonest practice.
+	* Amos 8:4-7 — God declares he will never forget the deeds of those who use dishonest scales — placed in the context of covenant judgment against Israel.
+	* Micah 6:11-13 — dishonest weights listed among the sins for which God brings affliction and desolation.
+
+## **October 17**: Appoint Just Judges: [Deuteronomy 16:18-20](https://www.biblegateway.com/passage/?search=Deuteronomy+16:18-20&version=WEB;NET;OJB)
+
+- [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:** *
+	- Do
+		- Make judges and officers 
+			- in all your gates
+				- which YHWH gives you
+				- according to your tribes
+			- they shall [[Gate of Wisdom/J/Judge\|Judge]] the people with [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] Judgement
+		- Follow that which is altogether just 
+
+	- Do Not
+		- pervert justice 
+		- show partiality 
+		- take a bribe 
+			- because a bribe
+				- blinds the eyes of the wise
+				- perverts the words of the righteous
+
+	- So
+		- you may live and inherit the land which YHWH gives you
+- **Blessing:**
+    - Verse 20 — life and possession of the land tied directly to pursuing justice — _"that you may live and inherit the land which Yahweh your God gives you"_
+    - Justice pursued faithfully is framed as the condition for remaining in the land — one of the most significant covenant blessings in Deuteronomy
+- **Penalty or Consequence:**
+    - None explicitly stated within the passage
+    - The broader Deuteronomic framework implies that perversion of justice is among the conditions that lead to exile and loss of the land (cf. Deut. 28:15ff)
+    - Bribery is singled out — _"a bribe blinds the eyes of the wise and perverts the words of the righteous"_ (v.19) — the consequence named is corruption of perception and speech in the judge himself
+- **Offering or Ransom:**
+    - None prescribed
+    - No sacrificial remedy is given for corrupt judgment — the corruption of justice falls into the category of sin against persons and community for which Torah provides no offering path
+- <mark style="background: #CD04BBA6;">**Personal Observation**</mark>:
+	- Judges - gates - tribes - brings to mind [Revelation 21:12-13](
 
 **October 18**: Exodus 23:2 – “Do not follow the crowd in doing wrong. When you give testimony in a lawsuit, do not pervert justice by siding with the crowd...” - **[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]** 
 

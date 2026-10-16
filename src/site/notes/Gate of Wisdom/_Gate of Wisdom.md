@@ -124,6 +124,8 @@ These cut through the illusion, denial, and confusion entirely. They reveal real
 | [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]                                                         |
 | [[Gate of Wisdom/F/Fast\|Fast]]                                                                                |
 | [[Gate of Wisdom/Consequence/Obedience/Favor\|Favor]]                                                          |
+| [[Gate of Wisdom/F/fear (tirau)\|fear (tirau)]]                                                                |
+| [[Gate of Wisdom/F/fear (yirah)\|fear (yirah)]]                                                                |
 | [[Gate of Wisdom/Appointed Time/Feast\|Feast]]                                                                 |
 | [[Gate of Wisdom/Appointed Time/Feast of Tabernacles\|Feast of Tabernacles]]                                   |
 | [[Gate of Wisdom/Appointed Time/Feast of Trumpets\|Feast of Trumpets]]                                         |
