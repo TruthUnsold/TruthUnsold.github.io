@@ -2434,6 +2434,16 @@
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
 <div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/f/fear-tirau/">fear (tirau) </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/f/fear-yirah/">fear (yirah) </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
 <a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/f/forgive/">Forgive </a>
 </div>
 </div>
@@ -3626,7 +3636,7 @@
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,a=arguments,s=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,a)}),t),s&&e.apply(i,a)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="<code>⌘</code>&nbsp;+&nbsp;<code>K</code>"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const a=Math.max(0,i-50),s=Math.min(r.length,a+n);let o=r.substring(a,s);return a>0&&(o="..."+o),s<r.length&&(o+="..."),o}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),a=i?i.innerHTML:"";return previewCache.set(e,a),a}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),a=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const s=document.querySelector(`.searchresult[data-index="${e}"]`);s&&s.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),a.style.display="none";const o=await fetchPreviewContent(n.url),c=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${c}\n            <div class="preview-body">${o}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>(e=>e.toLowerCase().normalize("NFD").replace(/n\u0303/g,"ñ").replace(/[\u0300-\u036f]/g,"").normalize("NFC"))(e).split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-10-12T21:20:13.726Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="<span><i>Enter your search text in the box above</i></span>",hidePreview(),void(t&&t.classList.add("no-preview"));window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),a=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${a}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,a=arguments,s=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,a)}),t),s&&e.apply(i,a)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="<code>⌘</code>&nbsp;+&nbsp;<code>K</code>"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const a=Math.max(0,i-50),s=Math.min(r.length,a+n);let o=r.substring(a,s);return a>0&&(o="..."+o),s<r.length&&(o+="..."),o}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),a=i?i.innerHTML:"";return previewCache.set(e,a),a}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),a=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const s=document.querySelector(`.searchresult[data-index="${e}"]`);s&&s.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),a.style.display="none";const o=await fetchPreviewContent(n.url),c=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${c}\n            <div class="preview-body">${o}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>(e=>e.toLowerCase().normalize("NFD").replace(/n\u0303/g,"ñ").replace(/[\u0300-\u036f]/g,"").normalize("NFC"))(e).split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-10-16T23:09:43.672Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="<span><i>Enter your search text in the box above</i></span>",hidePreview(),void(t&&t.classList.add("no-preview"));window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),a=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${a}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
 <main class="content cm-s-obsidian print">
 <header>
 <h1 data-note-icon="">Commandment Reading Plan October</h1>
@@ -3687,11 +3697,11 @@ Starting March 20; 365 day</p>
 <ul>
 <li>Do
 <ul>
-<li>Seek his habitation and come to the place YHWH chooses <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
+<li>Seek his habitation and come to the place YHWH chooses
 <ul>
 <li>out of all your tribes</li>
 <li>puts his name there</li>
-<li>bring there your <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
+<li>bring there your
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/burnt-offering/">Burnt Offering</a></li>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/t/tithe/">Tithe</a></li>
@@ -3701,7 +3711,7 @@ Starting March 20; 365 day</p>
 <li><a class="internal-link is-unresolved" href="/404" target="">Firstborn</a> of your herd and of your flock</li>
 </ul>
 </li>
-<li>eat there <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
+<li>eat there
 <ul>
 <li>before YHWH</li>
 <li>rejoice in all that you put your hand to
@@ -3752,7 +3762,7 @@ Starting March 20; 365 day</p>
 <ul>
 <li>Do
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/s/serve/">Serve</a> Yah <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/s/serve/">Serve</a> Yah</li>
 </ul>
 </li>
 <li>He will
@@ -3828,15 +3838,15 @@ Starting March 20; 365 day</p>
 <ul>
 <li>Do
 <ul>
-<li>Diligently keep all these <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commandments/">Commandments</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
+<li>Diligently keep all these <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commandments/">Commandments</a>
 <ul>
 <li>which I command you</li>
 <li>do them</li>
 </ul>
 </li>
-<li>Love YHWH <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
-<li>Walk in all his ways <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
-<li>Cling to him <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+<li>Love YHWH</li>
+<li>Walk in all his ways</li>
+<li>Cling to him</li>
 </ul>
 </li>
 </ul>
@@ -3876,20 +3886,20 @@ Starting March 20; 365 day</p>
 <ul>
 <li>Do
 <ul>
-<li>keep and do all my <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
-<li>keep and do all my <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/ordinances-mishmerot/">Ordinances (Mishmerot)</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
+<li>keep and do all my <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></li>
+<li>keep and do all my <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/ordinances-mishmerot/">Ordinances (Mishmerot)</a>
 <ul>
 <li>that the land where I bring you to dwell will not vomit you out</li>
 </ul>
 </li>
-<li>make a distinction between <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/c/clean/">Clean</a> and <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/u/unclean/">Unclean</a> animals <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
-<li>make a distinction between clean and unclean fowl <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+<li>make a distinction between <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/c/clean/">Clean</a> and <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/u/unclean/">Unclean</a> animals</li>
+<li>make a distinction between clean and unclean fowl</li>
 <li>be <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/h/holy/">Holy</a> to me</li>
 </ul>
 </li>
 <li>Do Not
 <ul>
-<li>walk in the customs of the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/nation/">nation</a> which I am casting out before you <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a>
+<li>walk in the customs of the <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/beings/human-beings/nation/">nation</a> which I am casting out before you
 <ul>
 <li>for they did all these things
 <ul>
@@ -3904,7 +3914,7 @@ Starting March 20; 365 day</p>
 </li>
 </ul>
 </li>
-<li>make yourselves an <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/abomination/abomination/">Abomination</a> by //<a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/u/unclean/">Unclean</a>// animal, bird, or anything with which the ground teems <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a>
+<li>make yourselves an <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/abomination/abomination/">Abomination</a> by //<a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/u/unclean/">Unclean</a>// animal, bird, or anything with which the ground teems
 <ul>
 <li>which I have separated from you as unclean for you</li>
 </ul>
@@ -4016,9 +4026,9 @@ Starting March 20; 365 day</p>
 </li>
 <li>Do (I command you today)
 <ul>
-<li>to love YHWH <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
-<li>walk in his ways <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
-<li>keep his <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a>, <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a>, <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+<li>to love YHWH</li>
+<li>walk in his ways</li>
+<li>keep his <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a>, <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a>, <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
 </ul>
 </li>
 <li>So that
@@ -4072,7 +4082,7 @@ Starting March 20; 365 day</p>
 <ul>
 <li>Do
 <ul>
-<li>Obey all my <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a> and <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+<li>Obey all my <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a> and <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
 </ul>
 </li>
 <li>Because I am YHWH</li>
@@ -4110,8 +4120,8 @@ Starting March 20; 365 day</p>
 <li>Today YHWH commands you to</li>
 <li>Do
 <ul>
-<li>these <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a> and <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/ordinances-mishmerot/">Ordinances (Mishmerot)</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
-<li>keep and do them with all your heart and with all your soul <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+<li>these <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a> and <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/ordinances-mishmerot/">Ordinances (Mishmerot)</a></li>
+<li>keep and do them with all your heart and with all your soul</li>
 </ul>
 </li>
 <li>Today you have declared
@@ -4182,8 +4192,8 @@ Starting March 20; 365 day</p>
 <li>I have taught you <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a> and <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/ordinances-mishmerot/">Ordinances (Mishmerot)</a> just as YHWH told me to do</li>
 <li>Do
 <ul>
-<li>that you should do so in the middle of the land where you go in to possess it <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
-<li>keep and do them <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+<li>that you should do so in the middle of the land where you go in to possess it</li>
+<li>keep and do them</li>
 </ul>
 </li>
 <li>Because
@@ -4226,13 +4236,291 @@ Starting March 20; 365 day</p>
 </ul>
 </li>
 </ul>
-<p><strong>October 11</strong>: Exodus 20:20 – “Moses said to the people, ‘Do not be afraid. God has come to test you, so that the fear of God will be with you to keep you from sinning.’” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> (fear God to avoid sin)</p>
-<p><strong>October 12</strong>: Deuteronomy 5:29 – “Oh, that their hearts would be inclined to fear me and keep all my commands always, so that it might go well with them...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/precepts-pikkudim/">Precepts (Pikkudim)</a></strong></p>
-<p><strong>October 13</strong>: Leviticus 25:17 – “Do not take advantage of each other, but fear your God. I am the LORD your God.” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong></p>
-<p><strong>October 14</strong>: Deuteronomy 25:17-19 – “Remember what the Amalekites did to you... When the LORD your God gives you rest... you shall blot out the name of Amalek...” (historical remembrance principle). - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/precepts-pikkudim/">Precepts (Pikkudim)</a></strong></p>
-<p><strong>October 15</strong>: Deuteronomy 9:4-6 – “After the LORD your God has driven them out... do not say to yourself, ‘The LORD has brought me here to take possession of this land because of my righteousness.’” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/precepts-pikkudim/">Precepts (Pikkudim)</a></strong> (humility, not self-righteousness)</p>
-<p><strong>October 16</strong>: Leviticus 19:36 – “Use honest scales and honest weights, an honest ephah and an honest hin. I am the LORD your God...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong></p>
-<p><strong>October 17</strong>: Proverbs is not in Torah; stay with Torah: Deuteronomy 16:20 – “Follow justice and justice alone, so that you may live and possess the land...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong></p>
+<h2 id="strong-october-11-strong-do-not-fear-but-keep-his-fear-before-you-a-href-https-www-biblegateway-com-passage-search-exodus-2020-20-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-20-a" tabindex="-1"><strong>October 11</strong>: Do Not Fear, but Keep His Fear Before You: <a href="https://www.biblegateway.com/passage/?search=Exodus%2020:20&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:20</a></h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/charge-tsavah/">Charge (Tsavah)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>Moses said
+<ul>
+<li>to the people</li>
+</ul>
+</li>
+<li>Do not
+<ul>
+<li>fear <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/f/fear-tirau/">fear (tirau)</a></li>
+</ul>
+</li>
+<li>Because
+<ul>
+<li>God has come to prove you
+<ul>
+<li>so that the fear <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/f/fear-yirah/">fear (yirah)</a> of him
+<ul>
+<li>may be before you
+<ul>
+<li>so that you do not <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/s/sin/">Sin</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>His fear kept before their faces so that they do not sin, which is the stated purpose of the command (Exodus 20:20)</li>
+<li>God's testing (nasah) is meant to establish this fear in them (Exodus 20:20)</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>None stated directly in this passage</li>
+<li>Context: the people trembled and stood far off at the thunder, lightning, trumpet, and smoking mountain (Exodus 20:18-19); sin is the outcome the fear of God is meant to prevent (Exodus 20:20)</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None specified in this verse</li>
+</ul>
+</li>
+</ul>
+<h2 id="strong-october-12-strong-oh-that-they-had-such-a-heart-a-href-https-www-biblegateway-com-passage-search-deuteronomy-5-29-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-5-29-a" tabindex="-1"><strong>October 12</strong>: Oh That They Had Such a Heart: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+5:29&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 5:29</a></h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/charge-tsavah/">Charge (Tsavah)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>Oh that there was such a heart in them
+<ul>
+<li>so that they would <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/f/fear-yirah/">fear (yirah)</a> me
+<ul>
+<li>and keep all my <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> always</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>So that
+<ul>
+<li>it might be well with them
+<ul>
+<li>and with their children</li>
+</ul>
+</li>
+<li>forever</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>Verse 29 — explicit blessing stated within the passage — <em>&quot;that it might be well with them and with their children forever&quot;</em></li>
+<li>The blessing is generational and permanent — <em>kol hayamim</em> (כָּל הַיָּמִים) — all the days; a heart oriented toward fear and keeping produces wellbeing that extends beyond the individual to children and descendants</li>
+<li>The blessing is not territorial here as in many Deuteronomy passages — it is relational and existential — <em>&quot;that it might be well&quot;</em> (<em>yitav</em> — יִיטַב) covering the totality of flourishing</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>None explicitly stated within the verse</li>
+<li>The <em>mi yiten</em> (מִי יִתֵּן) — <em>&quot;Oh that&quot;</em> — construction implies the absence of such a heart is already the problem; the consequence is embedded in the longing itself — a people without this heart are already on the path away from the wellbeing named in the blessing</li>
+<li>The broader Sinai context is immediate — Israel has just asked for distance from Yahweh's voice (Deut. 5:25-27); the consequence of a heart not oriented toward fear is precisely that distancing — which becomes the pattern of the entire wilderness generation</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None prescribed</li>
+<li>This verse is Yahweh's own longing expressed — not a judicial command with mechanisms attached; the response it calls for is internal and dispositional; the answer Torah ultimately points toward is not sacrifice but <strong>circumcision of the heart</strong> (Deut. 30:6) and Torah written within (Jer. 31:33)</li>
+</ul>
+</li>
+</ul>
+<h2 id="strong-october-13-strong-do-not-wrong-one-another-a-href-https-www-biblegateway-com-passage-search-leviticus-25-3-a17-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-25-17-a" tabindex="-1"><strong>October 13</strong>: Do Not Wrong One Another: <a href="https://www.biblegateway.com/passage/?search=Leviticus+25%3A17&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 25:17</a></h2>
+<ul>
+<li>
+<p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
+</li>
+<li>
+<p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></p>
+</li>
+<li>
+<p><strong>Outline:</strong></p>
+<ul>
+<li>Do not
+<ul>
+<li>oppress a fellow citizen</li>
+</ul>
+</li>
+<li>Do
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/f/fear-yirah/">fear (yirah)</a> your god</li>
+</ul>
+</li>
+<li>Because
+<ul>
+<li>I am YHWH your god</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Blessing:</strong></p>
+<ul>
+<li>No explicit blessing stated in the verse.</li>
+<li>The implicit blessing is the inverse of the warning — those who fear God and refrain from wronging one another live within the covenant relationship that produces the abundance promised in vv.18-22.</li>
+</ul>
+</li>
+<li>
+<p><strong>Penalty or Consequence:</strong></p>
+<ul>
+<li>No civil penalty stated directly in this verse.</li>
+<li>The consequence is framed theologically rather than judicially — <em>&quot;but you shall fear your God, for I am Yahweh your God&quot;</em> (v.17, WEB) — God himself is the enforcer and witness, the same closing formula used in Leviticus 19:14 where the vulnerable cannot defend themselves.</li>
+<li>The immediate context of Leviticus 25 concerns economic wronging in land transactions during the Jubilee cycle — selling or buying at inflated prices knowing the Jubilee will return the land (vv.14-16) — making this a prohibition on exploitation of the covenant calendar for personal gain.</li>
+</ul>
+</li>
+<li>
+<p><strong>Offering or Ransom:</strong></p>
+<ul>
+<li>No offering or ransom stated. The fear of God is presented as the restraint and the sufficient motivation — <em>&quot;I am Yahweh your God&quot;</em> functions as both identity declaration and warning, consistent with its use throughout Leviticus 19 and 25.</li>
+</ul>
+</li>
+</ul>
+<h2 id="strong-october-16-strong-use-honest-weights-and-measures-a-href-https-www-biblegateway-com-passage-search-leviticus-19-3-a36-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-36-a" tabindex="-1"><strong>October 16</strong>: Use Honest Weights and Measures: <a href="https://www.biblegateway.com/passage/?search=Leviticus+19%3A36&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 19:36</a></h2>
+<ul>
+<li>
+<p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
+</li>
+<li>
+<p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></p>
+</li>
+<li>
+<p><strong>Outline:</strong></p>
+<ul>
+<li>Do
+<ul>
+<li>have honest
+<ul>
+<li>balances</li>
+<li>weights</li>
+<li>ephah</li>
+<li>hin</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Because
+<ul>
+<li>I am YHWH
+<ul>
+<li>your god</li>
+<li>who brought you out from the land of Egypt</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Blessing:</strong></p>
+<ul>
+<li>No explicit blessing stated in the verse.</li>
+</ul>
+</li>
+<li>
+<p><strong>Penalty or Consequence:</strong></p>
+<ul>
+<li>No penalty stated directly in this verse.</li>
+</ul>
+</li>
+<li>
+<p><strong>Offering or Ransom:</strong></p>
+<ul>
+<li>No offering or ransom stated. The verse grounds the command in the exodus — <em>&quot;I am Yahweh your God, who brought you out of the land of Egypt.&quot;</em> (WEB) — making honest commerce an act of covenant memory and fidelity rather than mere legal compliance. The one who redeemed Israel from exploitation is the same one who forbids Israel from exploiting others through dishonest measure.</li>
+</ul>
+</li>
+<li>
+<p><mark style="background:#cd04BBA6">Personal Observations</mark></p>
+<ul>
+<li>Deuteronomy 25:13-16 — carrying two kinds of weights — large and small — is called an abomination (to'evah/תּוֹעֵבָה) to Yahweh, and those who do so are connected to being cut short in the land — <em>&quot;that your days may be long in the land which Yahweh your God gives you.&quot;</em> (WEB) — implying the reverse for dishonest practice.</li>
+<li>Amos 8:4-7 — God declares he will never forget the deeds of those who use dishonest scales — placed in the context of covenant judgment against Israel.</li>
+<li>Micah 6:11-13 — dishonest weights listed among the sins for which God brings affliction and desolation.</li>
+</ul>
+</li>
+</ul>
+<h2 id="strong-october-17-strong-appoint-just-judges-a-href-https-www-biblegateway-com-passage-search-deuteronomy-16-18-20-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-16-18-20-a" tabindex="-1"><strong>October 17</strong>: Appoint Just Judges: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+16:18-20&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 16:18-20</a></h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/charge-tsavah/">Charge (Tsavah)</a></li>
+<li><strong>Outline:</strong> *
+<ul>
+<li>
+<p>Do</p>
+<ul>
+<li>Make judges and officers
+<ul>
+<li>in all your gates
+<ul>
+<li>which YHWH gives you</li>
+<li>according to your tribes</li>
+</ul>
+</li>
+<li>they shall <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/j/judge/">Judge</a> the people with <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/righteous/">Righteous</a> Judgement</li>
+</ul>
+</li>
+<li>Follow that which is altogether just</li>
+</ul>
+</li>
+<li>
+<p>Do Not</p>
+<ul>
+<li>pervert justice</li>
+<li>show partiality</li>
+<li>take a bribe
+<ul>
+<li>because a bribe
+<ul>
+<li>blinds the eyes of the wise</li>
+<li>perverts the words of the righteous</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>So</p>
+<ul>
+<li>you may live and inherit the land which YHWH gives you</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>Verse 20 — life and possession of the land tied directly to pursuing justice — <em>&quot;that you may live and inherit the land which Yahweh your God gives you&quot;</em></li>
+<li>Justice pursued faithfully is framed as the condition for remaining in the land — one of the most significant covenant blessings in Deuteronomy</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>None explicitly stated within the passage</li>
+<li>The broader Deuteronomic framework implies that perversion of justice is among the conditions that lead to exile and loss of the land (cf. Deut. 28:15ff)</li>
+<li>Bribery is singled out — <em>&quot;a bribe blinds the eyes of the wise and perverts the words of the righteous&quot;</em> (v.19) — the consequence named is corruption of perception and speech in the judge himself</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None prescribed</li>
+<li>No sacrificial remedy is given for corrupt judgment — the corruption of justice falls into the category of sin against persons and community for which Torah provides no offering path</li>
+</ul>
+</li>
+<li><mark style="background:#cd04BBA6"><strong>Personal Observation</strong></mark>:
+<ul>
+<li>Judges - gates - tribes - brings to mind [Revelation 21:12-13](</li>
+</ul>
+</li>
+</ul>
 <p><strong>October 18</strong>: Exodus 23:2 – “Do not follow the crowd in doing wrong. When you give testimony in a lawsuit, do not pervert justice by siding with the crowd...” - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong></p>
 <p><strong>October 19</strong>: Leviticus 19:32 – “Stand up in the presence of the aged, show respect for the elderly and revere your God. I am the LORD.” - <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
 <p><strong>October 20</strong>: Deuteronomy 27:19 – “Cursed is anyone who withholds justice from the foreigner, the fatherless or the widow.” (inverse: give justice). - <strong><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></strong></p>
@@ -4304,6 +4592,16 @@ Commandment Reading Plan October
 <li><a href="#strong-october-9-strong-this-day-yahweh-commands-you-a-href-https-www-biblegateway-com-passage-search-deuteronomy-26-16-19-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-26-16-19-a">October 9: This Day Yahweh Commands You: Deuteronomy 26:16-19</a>
 </li>
 <li><a href="#strong-october-10-strong-keep-and-do-this-is-your-wisdom-a-href-https-www-biblegateway-com-passage-search-deuteronomy-4-5-6-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-4-5-6-a">October 10: Keep and Do — This Is Your Wisdom: Deuteronomy 4:5-6</a>
+</li>
+<li><a href="#strong-october-11-strong-do-not-fear-but-keep-his-fear-before-you-a-href-https-www-biblegateway-com-passage-search-exodus-2020-20-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-20-a">October 11: Do Not Fear, but Keep His Fear Before You: Exodus 20:20</a>
+</li>
+<li><a href="#strong-october-12-strong-oh-that-they-had-such-a-heart-a-href-https-www-biblegateway-com-passage-search-deuteronomy-5-29-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-5-29-a">October 12: Oh That They Had Such a Heart: Deuteronomy 5:29</a>
+</li>
+<li><a href="#strong-october-13-strong-do-not-wrong-one-another-a-href-https-www-biblegateway-com-passage-search-leviticus-25-3-a17-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-25-17-a">October 13: Do Not Wrong One Another: Leviticus 25:17</a>
+</li>
+<li><a href="#strong-october-16-strong-use-honest-weights-and-measures-a-href-https-www-biblegateway-com-passage-search-leviticus-19-3-a36-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-36-a">October 16: Use Honest Weights and Measures: Leviticus 19:36</a>
+</li>
+<li><a href="#strong-october-17-strong-appoint-just-judges-a-href-https-www-biblegateway-com-passage-search-deuteronomy-16-18-20-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-16-18-20-a">October 17: Appoint Just Judges: Deuteronomy 16:18-20</a>
 </li>
 </ol>
 </li>

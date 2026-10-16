@@ -2434,6 +2434,16 @@
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
 <div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/f/fear-tirau/">fear (tirau) </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/f/fear-yirah/">fear (yirah) </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
 <a data-note-icon="" style="text-decoration:none" class="filename" href="/gate-of-wisdom/f/forgive/">Forgive </a>
 </div>
 </div>
@@ -3626,7 +3636,7 @@
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,a=arguments,s=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,a)}),t),s&&e.apply(i,a)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="<code>⌘</code>&nbsp;+&nbsp;<code>K</code>"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const a=Math.max(0,i-50),s=Math.min(r.length,a+n);let o=r.substring(a,s);return a>0&&(o="..."+o),s<r.length&&(o+="..."),o}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),a=i?i.innerHTML:"";return previewCache.set(e,a),a}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),a=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const s=document.querySelector(`.searchresult[data-index="${e}"]`);s&&s.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),a.style.display="none";const o=await fetchPreviewContent(n.url),c=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${c}\n            <div class="preview-body">${o}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>(e=>e.toLowerCase().normalize("NFD").replace(/n\u0303/g,"ñ").replace(/[\u0300-\u036f]/g,"").normalize("NFC"))(e).split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-10-12T21:20:13.726Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="<span><i>Enter your search text in the box above</i></span>",hidePreview(),void(t&&t.classList.add("no-preview"));window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),a=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${a}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,a=arguments,s=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,a)}),t),s&&e.apply(i,a)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="<code>⌘</code>&nbsp;+&nbsp;<code>K</code>"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const a=Math.max(0,i-50),s=Math.min(r.length,a+n);let o=r.substring(a,s);return a>0&&(o="..."+o),s<r.length&&(o+="..."),o}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),a=i?i.innerHTML:"";return previewCache.set(e,a),a}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),a=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const s=document.querySelector(`.searchresult[data-index="${e}"]`);s&&s.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),a.style.display="none";const o=await fetchPreviewContent(n.url),c=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${c}\n            <div class="preview-body">${o}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>(e=>e.toLowerCase().normalize("NFD").replace(/n\u0303/g,"ñ").replace(/[\u0300-\u036f]/g,"").normalize("NFC"))(e).split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-10-16T23:09:43.672Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="<span><i>Enter your search text in the box above</i></span>",hidePreview(),void(t&&t.classList.add("no-preview"));window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),a=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${a}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
 <main class="content cm-s-obsidian print">
 <header>
 <h1 data-note-icon="">Commands (Mitzvot)</h1>
@@ -3667,12 +3677,62 @@
 </thead>
 <tbody class="table-view-tbody">
 <tr>
-<td><ul><li><a class="internal-link is-unresolved" href="/404" target="">AI Bible Study Instructions</a></li><li><a class="internal-link is-unresolved" href="/404" target="">No Other Gods</a></li><li><a class="internal-link is-unresolved" href="/404" target="">2026.05.16 Shabbat Reading</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/ordinances-mishmerot/">Ordinances (Mishmerot)</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commandments/">Commandments</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/charge-tsavah/">Charge (Tsavah)</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Tablets of Testimony</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-foundation/the-seventh-day-rest/38-the-seventh-day-is-a-rest-day-after-the-crucifixion-42-luke/">38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-foundation/the-seventh-day-rest/16-the-seventh-day-rest-is-yhwh-gods-16-nehemiah-09/">16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)</a></li><li><a class="internal-link is-unresolved" href="/404" target="">59 James-04 Yada Yada</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan October</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan March</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan November</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan May</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan July</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan January</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan December</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan April</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Checklist for Commandment texts</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan September</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan June</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan August</a></li></ul></td>
+<td><ul><li><a class="internal-link is-unresolved" href="/404" target="">59 James-04 Yada Yada</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-foundation/the-seventh-day-rest/38-the-seventh-day-is-a-rest-day-after-the-crucifixion-42-luke/">38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-foundation/the-seventh-day-rest/16-the-seventh-day-rest-is-yhwh-gods-16-nehemiah-09/">16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan March</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan November</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan May</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan January</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan July</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan December</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan April</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/ordinances-mishmerot/">Ordinances (Mishmerot)</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commandments/">Commandments</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/charge-tsavah/">Charge (Tsavah)</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Tablets of Testimony</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan</a></li><li><a class="internal-link is-unresolved" href="/404" target="">2026.05.16 Shabbat Reading</a></li><li><a class="internal-link is-unresolved" href="/404" target="">No Other Gods</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan September</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan June</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan August</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li><li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li><li><a class="internal-link is-unresolved" href="/404" target="">AI Bible Study Instructions</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Checklist for Commandment texts</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Commandment Reading Plan October</a></li></ul></td>
 </tr>
 </tbody>
 </table></div>
+<h2 id="love-neighbor-03-lev-leviticus25-do-not-wrong-one-another-a-href-https-www-biblegateway-com-passage-search-leviticus-25-3-a17-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-25-17-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#03Lev/Leviticus25">#03Lev/Leviticus25</a> Do Not Wrong One Another: <a href="https://www.biblegateway.com/passage/?search=Leviticus+25%3A17&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 25:17</a></h2>
+<ul>
+<li>
+<p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
+</li>
+<li>
+<p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></p>
+</li>
+<li>
+<p><strong>Outline:</strong></p>
+<ul>
+<li>Do not
+<ul>
+<li>oppress a fellow citizen <a class="tag" onclick="toggleTagSearch(this)" data-content="#DoNot">#DoNot</a></li>
+</ul>
+</li>
+<li>Do
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/f/fear-yirah/">fear (yirah)</a> your god <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
+</ul>
+</li>
+<li>Because
+<ul>
+<li>I am YHWH your god</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Blessing:</strong></p>
+<ul>
+<li>No explicit blessing stated in the verse.</li>
+<li>The implicit blessing is the inverse of the warning — those who fear God and refrain from wronging one another live within the covenant relationship that produces the abundance promised in vv.18-22.</li>
+</ul>
+</li>
+<li>
+<p><strong>Penalty or Consequence:</strong></p>
+<ul>
+<li>No civil penalty stated directly in this verse.</li>
+<li>The consequence is framed theologically rather than judicially — <em>&quot;but you shall fear your God, for I am Yahweh your God&quot;</em> (v.17, WEB) — God himself is the enforcer and witness, the same closing formula used in Leviticus 19:14 where the vulnerable cannot defend themselves.</li>
+<li>The immediate context of Leviticus 25 concerns economic wronging in land transactions during the Jubilee cycle — selling or buying at inflated prices knowing the Jubilee will return the land (vv.14-16) — making this a prohibition on exploitation of the covenant calendar for personal gain.</li>
+</ul>
+</li>
+<li>
+<p><strong>Offering or Ransom:</strong></p>
+<ul>
+<li>No offering or ransom stated. The fear of God is presented as the restraint and the sufficient motivation — <em>&quot;I am Yahweh your God&quot;</em> functions as both identity declaration and warning, consistent with its use throughout Leviticus 19 and 25.</li>
+</ul>
+</li>
+</ul>
 <h1 id="list-of-commandments-mitzvot-in-deuteronomy" tabindex="-1">List of Commandments (Mitzvot) in Deuteronomy</h1>
-<h2 id="1-scripture-reference-05-deut-deuteronomy04-2" tabindex="-1">1. Scripture Reference: <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy04">#05Deut/Deuteronomy04</a>:2</h2>
+<h2 id="scripture-reference-05-deut-deuteronomy04-2" tabindex="-1">Scripture Reference: <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy04">#05Deut/Deuteronomy04</a>:2</h2>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: “You <mark style="background:#ff9EF6A6">shall not add to the word</mark> which I command you, <mark style="background:#ff9EF6A6">neither shall you take away from it</mark>, that you may keep the commandments of Yahweh your God which I command you.”</li>
 <li><strong>Blessing</strong>: General blessings for obedience (Deuteronomy 28:1-14 <a class="internal-link is-unresolved" href="/404" target="">Deut-28#v1</a></li>
@@ -3804,87 +3864,55 @@
 </ul>
 </li>
 </ul>
-<h2 id="05-deut-deuteronomy12-destroy-idolatrous-places-of-worship" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy12">#05Deut/Deuteronomy12</a> Destroy Idolatrous Places of Worship</h2>
-<ul>
-<li><strong>Scripture Reference</strong>: Deuteronomy 12:2-3</li>
-<li><strong>Scripture Text (WEB)</strong>: “You shall surely destroy all the places in which the nations that you shall dispossess served their gods: on the high mountains, and on the hills, and under every green tree. You shall break down their altars, dash their pillars in pieces, and burn their Asherim with fire. You shall cut down the engraved images of their gods. You shall destroy their name out of that place.”</li>
-<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
-<li><strong>Penalty or Consequence</strong>: General curses for idolatry (Deuteronomy 28:15-68).</li>
-<li><strong>Offering or Ransom?</strong>:
-<ul>
-<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
-</ul>
-</li>
-</ul>
-<h2 id="love-god-05-deut-deuteronomy12-bring-your-offerings-to-the-place-yahweh-chooses-a-href-https-www-biblegateway-com-passage-search-deuteronomy-12-5-7-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-12-5-7-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy12">#05Deut/Deuteronomy12</a> Bring Your Offerings to the Place Yahweh Chooses: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+12:5-7&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 12:5-7</a></h2>
+<h2 id="love-god-05-deut-deuteronomy05-oh-that-they-had-such-a-heart-a-href-https-www-biblegateway-com-passage-search-deuteronomy-5-29-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-5-29-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy05">#05Deut/Deuteronomy05</a> Oh That They Had Such a Heart: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+5:29&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 5:29</a></h2>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/ordinances-mishmerot/">Ordinances (Mishmerot)</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/charge-tsavah/">Charge (Tsavah)</a></li>
 <li><strong>Outline:</strong>
 <ul>
-<li>Do
+<li>Oh that there was such a heart in them
 <ul>
-<li>Seek his habitation and come to the place YHWH chooses <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
+<li>so that they would <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/f/fear-yirah/">fear (yirah)</a> me <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
 <ul>
-<li>out of all your tribes</li>
-<li>puts his name there</li>
-<li>bring there your <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/burnt-offering/">Burnt Offering</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/t/tithe/">Tithe</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/wave-offering/">Wave Offering</a> of your hand (<a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/heave-offering/">Heave Offering</a>)</li>
-<li>Vows</li>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/free-will-offering/">Free Will Offering</a></li>
-<li><a class="internal-link is-unresolved" href="/404" target="">Firstborn</a> of your herd and of your flock</li>
-</ul>
-</li>
-<li>eat there <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
-<ul>
-<li>before YHWH</li>
-<li>rejoice in all that you put your hand to
-<ul>
-<li>you</li>
-<li>your household</li>
-<li>in which YHWH has blessed you</li>
+<li>and keep all my <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a> always <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a></li>
 </ul>
 </li>
 </ul>
 </li>
+<li>So that
+<ul>
+<li>it might be well with them
+<ul>
+<li>and with their children</li>
 </ul>
 </li>
+<li>forever</li>
 </ul>
 </li>
 </ul>
 </li>
 <li><strong>Blessing:</strong>
 <ul>
-<li>Verse 7 — explicit blessing stated within the passage — <em>&quot;you shall eat before Yahweh your God and you shall rejoice in all that you put your hand to, you and your households, in which Yahweh your God has blessed you&quot;</em></li>
-<li>The blessing is communal and celebratory — the household eats together before Yahweh at the chosen place; rejoicing (<em>samachtem</em> — שְׂמַחְתֶּם) in His presence is both the blessing and the appropriate response to it</li>
-<li>The act of bringing offerings to the chosen place is itself participation in the blessing — Yahweh's presence at the place He names is the source of the rejoicing</li>
+<li>Verse 29 — explicit blessing stated within the passage — <em>&quot;that it might be well with them and with their children forever&quot;</em></li>
+<li>The blessing is generational and permanent — <em>kol hayamim</em> (כָּל הַיָּמִים) — all the days; a heart oriented toward fear and keeping produces wellbeing that extends beyond the individual to children and descendants</li>
+<li>The blessing is not territorial here as in many Deuteronomy passages — it is relational and existential — <em>&quot;that it might be well&quot;</em> (<em>yitav</em> — יִיטַב) covering the totality of flourishing</li>
 </ul>
 </li>
 <li><strong>Penalty or Consequence:</strong>
 <ul>
-<li>None explicitly stated within the passage</li>
-<li>Deuteronomy 12:13-14 makes the consequence more explicit — <em>&quot;take heed that you do not offer your burnt offerings in every place that you see&quot;</em> — unauthorized worship sites are the named violation</li>
+<li>None explicitly stated within the verse</li>
+<li>The <em>mi yiten</em> (מִי יִתֵּן) — <em>&quot;Oh that&quot;</em> — construction implies the absence of such a heart is already the problem; the consequence is embedded in the longing itself — a people without this heart are already on the path away from the wellbeing named in the blessing</li>
+<li>The broader Sinai context is immediate — Israel has just asked for distance from Yahweh's voice (Deut. 5:25-27); the consequence of a heart not oriented toward fear is precisely that distancing — which becomes the pattern of the entire wilderness generation</li>
 </ul>
 </li>
 <li><strong>Offering or Ransom:</strong>
 <ul>
-<li>The passage is itself about offerings — burnt offerings, sacrifices, tithes, heave offerings, vow offerings, freewill offerings, firstborn of herd and flock are all named in the surrounding verses (Deut. 12:6)</li>
-<li>The offerings are not prescribed here as remedy for violation — they are the content of the command itself; bringing them to the right place is the act of obedience</li>
-</ul>
-</li>
-<li><mark style="background:#cd04BBA6">Personal Observations</mark>
-<ul>
-<li>The broader context of Deuteronomy 12:2-4 establishes the negative contrast — the places where the nations worship on high mountains, under green trees, must be destroyed; bringing offerings anywhere other than the chosen place implicitly aligns Israel with those practices.</li>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-foundation/put-his-name/">Put His Name</a></li>
+<li>None prescribed</li>
+<li>This verse is Yahweh's own longing expressed — not a judicial command with mechanisms attached; the response it calls for is internal and dispositional; the answer Torah ultimately points toward is not sacrifice but <strong>circumcision of the heart</strong> (Deut. 30:6) and Torah written within (Jer. 31:33)</li>
 </ul>
 </li>
 </ul>
-<h2 id="fear-yhwh-and-serve-him" tabindex="-1">Fear YHWH and Serve Him</h2>
-<h3 id="strong-scripture-reference-strong-05-deut-deuteronomy06" tabindex="-1"><strong>Scripture Reference</strong>: <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy06">#05Deut/Deuteronomy06</a></h3>
+<h2 id="fear-yhwh-and-serve-him-strong-scripture-reference-strong-05-deut-deuteronomy06" tabindex="-1">Fear YHWH and Serve Him <strong>Scripture Reference</strong>: <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy06">#05Deut/Deuteronomy06</a></h2>
 <ul>
 <li><strong>Scripture Text (WEB)</strong>: 13 You shall fear Yahweh your God; and you shall serve him, and shall swear by his name.</li>
 <li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
@@ -3895,13 +3923,9 @@
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/sin-offering/">Sin Offering</a>?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification.</li>
 </ul>
 </li>
+<li><strong>Scripture Reference</strong>: <a class="tag" onclick="toggleTagSearch(this)" data-content="#59James/James04">#59James/James04</a><a class="internal-link is-unresolved" href="/404" target="">James-04#v7</a> <strong>Scripture Text (WEB):</strong> &quot;Be subject therefore to God.</li>
 </ul>
-<h3 id="strong-scripture-reference-strong-59-james-james04-the-scrolls-4-the-gospels-and-the-apostles-59-james-james-04-v7-james-04-v7" tabindex="-1"><strong>Scripture Reference</strong>: <a class="tag" onclick="toggleTagSearch(this)" data-content="#59James/James04">#59James/James04</a><a class="internal-link is-unresolved" href="/404" target="">James-04#v7</a></h3>
-<ul>
-<li><strong>Scripture Text (WEB):</strong> &quot;Be subject therefore to God.</li>
-</ul>
-<h2 id="do-not-worship-other-gods" tabindex="-1">Do Not Worship Other Gods</h2>
-<h2 id="love-god-05-deut-deuteronomy06-fear-and-serve-yahweh-alone-a-href-https-www-biblegateway-com-passage-search-deuteronomy-6-13-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-6-13-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy06">#05Deut/Deuteronomy06</a> Fear and Serve Yahweh Alone: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+6:13&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 6:13</a></h2>
+<h2 id="do-not-worship-other-gods-love-god-05-deut-deuteronomy06-fear-and-serve-yahweh-alone-a-href-https-www-biblegateway-com-passage-search-deuteronomy-6-13-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-6-13-a" tabindex="-1">Do Not Worship Other Gods ## <a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy06">#05Deut/Deuteronomy06</a> Fear and Serve Yahweh Alone: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+6:13&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 6:13</a></h2>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
 <li><strong>Outline:</strong> *
@@ -3937,93 +3961,6 @@
 <li>Jesus quotes this verse directly in response to Satan's temptation (Matt. 4:10) — framing it as the definitive boundary of worship and allegiance</li>
 </ul>
 </li>
-</ul>
-<h2 id="love-god-05-deut-deuteronomy10-fear-and-serve-yahweh-hold-fast-swear-by-his-name-a-href-https-www-biblegateway-com-passage-search-deuteronomy-10-20-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-10-20-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy10">#05Deut/Deuteronomy10</a> Fear and Serve Yahweh, Hold Fast, Swear by His Name: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+10:20&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 10:20</a></h2>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
-<li><strong>Outline:</strong> *
-<ul>
-<li>Do
-<ul>
-<li>fear YHWH</li>
-<li>serve him</li>
-<li>cling to him</li>
-<li>swear by his name</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><strong>Blessing:</strong>
-<ul>
-<li>None explicitly stated within the verse</li>
-<li>The surrounding context (Deut. 10:12-22) frames obedience as the natural response to Yahweh's greatness — the blessing is the relationship itself</li>
-</ul>
-</li>
-<li><strong>Penalty or Consequence:</strong>
-<ul>
-<li>None explicitly stated within the verse</li>
-<li>Consistent with Deuteronomy 6:13 — the broader Deuteronomic framework applies; departure from these commands leads to loss of land and covenant standing</li>
-</ul>
-</li>
-<li><strong>Offering or Ransom:</strong>
-<ul>
-<li>None prescribed</li>
-<li>Violation is covenantal in nature, not sacrificial</li>
-</ul>
-</li>
-</ul>
-<h3 id="strong-scripture-reference-strong-05-deut-deuteronomy06-the-scrolls-1-torah-law-of-moses-05-deuteronomy-deut-06-v14-deut-06-v14" tabindex="-1"><strong>Scripture Reference</strong>: <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy06">#05Deut/Deuteronomy06</a> <a class="internal-link is-unresolved" href="/404" target="">Deut-06#v14</a></h3>
-<ul>
-<li><strong>Scripture Text (WEB)</strong>: 14 You shall not go after other gods, of the gods of the peoples who are around you,</li>
-<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
-<li><strong>Penalty or Consequence</strong>: Yahweh’s jealousy and anger, potential destruction (Deuteronomy 6:15).</li>
-<li><strong>Offering or Ransom?</strong>:
-<ul>
-<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/sin-offering/">Sin Offering</a>?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification.</li>
-</ul>
-</li>
-</ul>
-<h2 id="love-god-02-exod-exodus20-i-am-yahweh-your-god-a-href-https-www-biblegateway-com-passage-search-exodus-20-2-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-2-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#02Exod/Exodus20">#02Exod/Exodus20</a> I Am Yahweh Your God: <a href="https://www.biblegateway.com/passage/?search=Exodus+20:2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:2</a></h2>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
-<li><strong>Outline:</strong>
-<ul>
-<li>YHWH (יְהוָה) (The god of Abraham, Isaac, and Jacob's personal covenant name)</li>
-</ul>
-<ul>
-<li>Your God = ĕlōheykā</li>
-<li>Brought you out of the land</li>
-<li>Brought you out of the house of slavery (brutely oppressed, forced labor)</li>
-</ul>
-</li>
-<li><strong>Blessing:</strong>
-<ul>
-<li>Yahweh's steadfast love to thousands of those who love Him and keep His commandments (Exodus 20:6)</li>
-<li>Long life in the land (Exodus 20:12)</li>
-<li>General blessings for covenant obedience (Deuteronomy 28:1–14)</li>
-<li>Yahweh Himself as the blessing — &quot;I will be your God and you shall be my people&quot; (Exodus 6:7; Leviticus 26:12)</li>
-</ul>
-</li>
-<li><strong>Penalty or Consequence:</strong>
-<ul>
-<li>Rejection of Yahweh as God leads to covenant curses (Deuteronomy 28:15–68)</li>
-<li>Yahweh visits iniquity on those who hate Him to the third and fourth generation (Exodus 20:5)</li>
-<li>Destruction and exile for abandoning the covenant (Leviticus 26:27–33)</li>
-</ul>
-</li>
-<li><strong>Offering or Ransom?:</strong>
-<ul>
-<li>No offering covers the deliberate rejection of Yahweh as God (Numbers 15:30–31)</li>
-<li>Repentance and return to covenant are the path back (Deuteronomy 30:1–3)<br>
-<a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a></li>
-</ul>
-</li>
-</ul>
-<h3 id="strong-scripture-reference-strong-59-james-james04-the-scrolls-4-the-gospels-and-the-apostles-59-james-james-04-v7-james-04-v7-1" tabindex="-1"><strong>Scripture Reference</strong>: <a class="tag" onclick="toggleTagSearch(this)" data-content="#59James/James04">#59James/James04</a> <a class="internal-link is-unresolved" href="/404" target="">James-04#v7</a></h3>
-<ul>
-<li><strong>Scripture Text (WEB):</strong> Resist the devil, and he will flee from you.&quot;</li>
-<li><strong>Blessing</strong>: James says, the adversary will flee</li>
 </ul>
 <h2 id="love-god-05-deut-deuteronomy06-hear-yahweh-is-one-a-href-https-www-biblegateway-com-passage-search-deuteronomy-206-3-a4-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-6-4-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy06">#05Deut/Deuteronomy06</a> Hear - Yahweh is One <a href="https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A4&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 6:4</a></h2>
 <ul>
@@ -4250,6 +4187,52 @@
 <p><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy08">#05Deut/Deuteronomy08</a></p>
 </li>
 </ul>
+<h2 id="love-god-05-deut-deuteronomy10-fear-and-serve-yahweh-hold-fast-swear-by-his-name-a-href-https-www-biblegateway-com-passage-search-deuteronomy-10-20-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-10-20-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy10">#05Deut/Deuteronomy10</a> Fear and Serve Yahweh, Hold Fast, Swear by His Name: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+10:20&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 10:20</a></h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
+<li><strong>Outline:</strong> *
+<ul>
+<li>Do
+<ul>
+<li>fear YHWH</li>
+<li>serve him</li>
+<li>cling to him</li>
+<li>swear by his name</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>None explicitly stated within the verse</li>
+<li>The surrounding context (Deut. 10:12-22) frames obedience as the natural response to Yahweh's greatness — the blessing is the relationship itself</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>None explicitly stated within the verse</li>
+<li>Consistent with Deuteronomy 6:13 — the broader Deuteronomic framework applies; departure from these commands leads to loss of land and covenant standing</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>None prescribed</li>
+<li>Violation is covenantal in nature, not sacrificial</li>
+</ul>
+</li>
+</ul>
+<h3 id="strong-scripture-reference-strong-05-deut-deuteronomy06-the-scrolls-1-torah-law-of-moses-05-deuteronomy-deut-06-v14-deut-06-v14" tabindex="-1"><strong>Scripture Reference</strong>: <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy06">#05Deut/Deuteronomy06</a> <a class="internal-link is-unresolved" href="/404" target="">Deut-06#v14</a></h3>
+<ul>
+<li><strong>Scripture Text (WEB)</strong>: 14 You shall not go after other gods, of the gods of the peoples who are around you,</li>
+<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
+<li><strong>Penalty or Consequence</strong>: Yahweh’s jealousy and anger, potential destruction (Deuteronomy 6:15).</li>
+<li><strong>Offering or Ransom?</strong>:
+<ul>
+<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/sin-offering/">Sin Offering</a>?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification.</li>
+</ul>
+</li>
+</ul>
 <h2 id="love-god-05-deut-deuteronomy11-bind-these-words-as-a-sign-a-href-https-www-biblegateway-com-passage-search-deuteronomy-11-18-21-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-11-18-21-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy11">#05Deut/Deuteronomy11</a> Bind These Words as a Sign: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+11:18-21&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 11:18-21</a></h2>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
@@ -4354,6 +4337,85 @@
 </ul>
 </li>
 </ul>
+<h2 id="love-god-05-deut-deuteronomy12-bring-your-offerings-to-the-place-yahweh-chooses-a-href-https-www-biblegateway-com-passage-search-deuteronomy-12-5-7-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-12-5-7-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy12">#05Deut/Deuteronomy12</a> Bring Your Offerings to the Place Yahweh Chooses: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+12:5-7&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 12:5-7</a></h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/ordinances-mishmerot/">Ordinances (Mishmerot)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/statutes-chuqim/">Statutes (Chuqim)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>Do
+<ul>
+<li>Seek his habitation and come to the place YHWH chooses <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
+<ul>
+<li>out of all your tribes</li>
+<li>puts his name there</li>
+<li>bring there your <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/burnt-offering/">Burnt Offering</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/t/tithe/">Tithe</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/wave-offering/">Wave Offering</a> of your hand (<a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/heave-offering/">Heave Offering</a>)</li>
+<li>Vows</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/free-will-offering/">Free Will Offering</a></li>
+<li><a class="internal-link is-unresolved" href="/404" target="">Firstborn</a> of your herd and of your flock</li>
+</ul>
+</li>
+<li>eat there <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
+<ul>
+<li>before YHWH</li>
+<li>rejoice in all that you put your hand to
+<ul>
+<li>you</li>
+<li>your household</li>
+<li>in which YHWH has blessed you</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>Verse 7 — explicit blessing stated within the passage — <em>&quot;you shall eat before Yahweh your God and you shall rejoice in all that you put your hand to, you and your households, in which Yahweh your God has blessed you&quot;</em></li>
+<li>The blessing is communal and celebratory — the household eats together before Yahweh at the chosen place; rejoicing (<em>samachtem</em> — שְׂמַחְתֶּם) in His presence is both the blessing and the appropriate response to it</li>
+<li>The act of bringing offerings to the chosen place is itself participation in the blessing — Yahweh's presence at the place He names is the source of the rejoicing</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>None explicitly stated within the passage</li>
+<li>Deuteronomy 12:13-14 makes the consequence more explicit — <em>&quot;take heed that you do not offer your burnt offerings in every place that you see&quot;</em> — unauthorized worship sites are the named violation</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom:</strong>
+<ul>
+<li>The passage is itself about offerings — burnt offerings, sacrifices, tithes, heave offerings, vow offerings, freewill offerings, firstborn of herd and flock are all named in the surrounding verses (Deut. 12:6)</li>
+<li>The offerings are not prescribed here as remedy for violation — they are the content of the command itself; bringing them to the right place is the act of obedience</li>
+</ul>
+</li>
+<li><mark style="background:#cd04BBA6">Personal Observations</mark>
+<ul>
+<li>The broader context of Deuteronomy 12:2-4 establishes the negative contrast — the places where the nations worship on high mountains, under green trees, must be destroyed; bringing offerings anywhere other than the chosen place implicitly aligns Israel with those practices.</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-foundation/put-his-name/">Put His Name</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="05-deut-deuteronomy12-destroy-idolatrous-places-of-worship" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy12">#05Deut/Deuteronomy12</a> Destroy Idolatrous Places of Worship</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Deuteronomy 12:2-3</li>
+<li><strong>Scripture Text (WEB)</strong>: “You shall surely destroy all the places in which the nations that you shall dispossess served their gods: on the high mountains, and on the hills, and under every green tree. You shall break down their altars, dash their pillars in pieces, and burn their Asherim with fire. You shall cut down the engraved images of their gods. You shall destroy their name out of that place.”</li>
+<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
+<li><strong>Penalty or Consequence</strong>: General curses for idolatry (Deuteronomy 28:15-68).</li>
+<li><strong>Offering or Ransom?</strong>:
+<ul>
+<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
+</ul>
+</li>
+</ul>
 <h2 id="love-god-05-deut-deuteronomy13-do-not-follow-false-prophets-a-href-https-www-biblegateway-com-passage-search-deuteronomy-13-1-5-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-13-1-5-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy13">#05Deut/Deuteronomy13</a> Do Not Follow False Prophets: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+13:1-5&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 13:1-5</a></h2>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
@@ -4454,6 +4516,151 @@
 </ul>
 </li>
 </ul>
+<h2 id="18-05-deut-deuteronomy13-do-not-follow-false-prophets" tabindex="-1">18. <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy13">#05Deut/Deuteronomy13</a> Do Not Follow False Prophets</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Deuteronomy 13:1-3</li>
+<li><strong>Scripture Text (WEB)</strong>: “If a prophet or a dreamer of dreams arises among you, and he gives you a sign or a wonder, and the sign or the wonder comes to pass, of which he spoke to you, saying, ‘Let’s go after other gods’ (which you have not known) ‘and let’s serve them,’ you <mark style="background:#ff9EF6A6">shall not listen</mark> to the words of that prophet or to that dreamer of dreams; for Yahweh your God is testing you.”</li>
+<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
+<li><strong>Penalty or Consequence</strong>: False prophet to be put to death (Deuteronomy 13:5).</li>
+<li><strong>Offering or Ransom?</strong>: <a class="internal-link" target="" data-note-icon="" href="/gate-of-correction/sins-requiring-death-no-offering/">Sins Requiring Death - No Offering</a>
+<ul>
+<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/sin-offering/">Sin Offering</a>?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification.</li>
+</ul>
+</li>
+</ul>
+<h2 id="19-05-deut-deuteronomy13-put-to-death-those-who-entice-to-idolatry" tabindex="-1">19. <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy13">#05Deut/Deuteronomy13</a> Put to Death Those Who Entice to Idolatry</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Deuteronomy 13:6-9</li>
+<li><strong>Scripture Text (WEB)</strong>: “If your brother, the son of your mother, or your son, or your daughter, or the wife of your bosom, or your friend who is as your own soul, entices you secretly, saying, ‘Let’s go and serve other gods’—which you have not known, you, nor your fathers; of the gods of the peoples who are around you, near to you, or far off from you, from the one end of the earth even to the other end of the earth—<mark style="background:#ff9EF6A6">you shall not consent</mark> to him <mark style="background:#ff9EF6A6">nor listen </mark>to him; <mark style="background:#ff9EF6A6">neither shall</mark> your eye pity him, <mark style="background:#ff9EF6A6">neither shall</mark> you spare, <mark style="background:#ff9EF6A6">neither shall</mark> you conceal him; but you shall surely kill him.”</li>
+<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
+<li><strong>Penalty or Consequence</strong>: Death by stoning (Deuteronomy 13:10).</li>
+<li><strong>Offering or Ransom?</strong>:<a class="internal-link" target="" data-note-icon="" href="/gate-of-correction/sins-requiring-death-no-offering/">Sins Requiring Death - No Offering</a></li>
+</ul>
+<h2 id="20-05-deut-deuteronomy13-destroy-a-city-that-turns-to-idolatry" tabindex="-1">20. <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy13">#05Deut/Deuteronomy13</a> Destroy a City That Turns to Idolatry</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Deuteronomy 13:12-15</li>
+<li><strong>Scripture Text (WEB)</strong>: “If you hear about one of your cities, which Yahweh your God gives you to dwell there, that certain wicked men have gone out from among you and have drawn away the inhabitants of their city, saying, ‘Let’s go and serve other gods,’ which you have not known, then you shall inquire, investigate, and ask diligently. Behold, if it is true, and the thing certain, that such abomination is done among you, you shall surely strike the inhabitants of that city with the edge of the sword, destroying it utterly, with all that is in it and its livestock, with the edge of the sword.”</li>
+<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
+<li><strong>Penalty or Consequence</strong>: Destruction of the city (Deuteronomy 13:15).</li>
+<li><strong>Offering or Ransom?</strong>:
+<ul>
+<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
+</ul>
+</li>
+</ul>
+<h2 id="12-05-deut-deuteronomy16-keep-the-passover" tabindex="-1">12. <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy16">#05Deut/Deuteronomy16</a> Keep the Passover</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Deuteronomy 16:1-2</li>
+<li><strong>Scripture Text (WEB)</strong>: “Observe the month of Abib, and keep the Passover to Yahweh your God; for in the month of Abib Yahweh your God brought you out of Egypt by night. You shall sacrifice the Passover to Yahweh your God, of the flock and the herd, in the place which Yahweh shall choose to cause his name to dwell there.”</li>
+<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
+<li><strong>Penalty or Consequence</strong>: None in Deuteronomy; being cut off for eating leaven (Exodus 12:15).</li>
+<li><strong>Offering or Ransom?</strong>: <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/passover-offering/">Passover Offering</a> (Deuteronomy 16:2).</li>
+<li><strong>Note:</strong> No known place chosen by Yah to bring offerings at this time.</li>
+</ul>
+<h2 id="13-05-deut-deuteronomy16-do-not-eat-leavened-bread-during-passover" tabindex="-1">13. <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy16">#05Deut/Deuteronomy16</a> Do Not Eat Leavened Bread During Passover</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Deuteronomy 16:3</li>
+<li><strong>Scripture Text (WEB)</strong>: “You <mark style="background:#ff9EF6A6">shall eat no leavened</mark> bread with it. You shall eat unleavened bread with it seven days, even the bread of affliction (for you came out of the land of Egypt in haste) that you may remember the day when you came out of the land of Egypt all the days of your life.”</li>
+<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
+<li><strong>Penalty or Consequence</strong>: None in Deuteronomy; being cut off for eating leaven (Exodus 12:15).</li>
+<li><strong>Offering or Ransom?</strong>: <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/passover-offering/">Passover Offering</a> (Deuteronomy 16:2).
+<ul>
+<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
+</ul>
+</li>
+<li><strong>Note:</strong> No known place chosen by Yah to bring offerings at this time.</li>
+</ul>
+<h2 id="14-05-deut-deuteronomy16-keep-the-feast-of-weeks-shavuot" tabindex="-1">14. <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy16">#05Deut/Deuteronomy16</a> Keep the Feast of Weeks (Shavuot)</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Deuteronomy 16:9-10</li>
+<li><strong>Scripture Text (WEB)</strong>: “You shall count for yourselves seven weeks. From the time you begin to put the sickle to the standing grain you shall begin to count seven weeks. You shall keep the feast of weeks to Yahweh your God with a tribute of a free will offering of your hand, which you shall give according as Yahweh your God blesses you.”</li>
+<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
+<li><strong>Penalty or Consequence</strong>: General curses (Deuteronomy 28:15-68).</li>
+<li><strong>Offering or Ransom?</strong>: Freewill offering (Deuteronomy 16:10).
+<ul>
+<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
+</ul>
+</li>
+<li><strong>Note:</strong> No known place chosen by Yah to bring offerings at this time.</li>
+</ul>
+<h2 id="15-05-deut-deuteronomy16-keep-the-feast-of-booths-sukkot" tabindex="-1">15. <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy16">#05Deut/Deuteronomy16</a> Keep the Feast of Booths (Sukkot)</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Deuteronomy 16:13</li>
+<li><strong>Scripture Text (WEB)</strong>: “You shall keep the feast of booths seven days, after you have gathered in from your threshing floor and from your wine press.”</li>
+<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
+<li><strong>Penalty or Consequence</strong>: General curses (Deuteronomy 28:15-68).</li>
+<li><strong>Offering or Ransom?</strong>: Offerings implied (Leviticus 23:36).
+<ul>
+<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
+</ul>
+</li>
+<li><strong>Note:</strong> No known place chosen by Yah to bring offerings at this time.</li>
+</ul>
+<h2 id="21-05-deut-deuteronomy16-appoint-judges-and-officers" tabindex="-1">21. <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy16">#05Deut/Deuteronomy16</a> Appoint Judges and Officers</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Deuteronomy 16:18</li>
+<li><strong>Scripture Text (WEB)</strong>: “You shall make judges and officers in all your gates, which Yahweh your God gives you, according to your tribes; and they shall judge the people with righteous judgment.”</li>
+<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
+<li><strong>Penalty or Consequence</strong>: General curses for injustice (Deuteronomy 28:15-68).</li>
+<li><strong>Offering or Ransom?</strong>:
+<ul>
+<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
+</ul>
+</li>
+</ul>
+<h2 id="22-05-deut-deuteronomy16-do-not-pervert-justice" tabindex="-1">22. <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy16">#05Deut/Deuteronomy16</a> Do Not Pervert Justice</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Deuteronomy 16:19</li>
+<li><strong>Scripture Text (WEB)</strong>: “You <mark style="background:#ff9EF6A6">shall not</mark> pervert justice. You <mark style="background:#ff9EF6A6">shall not</mark> show partiality. You <mark style="background:#ff9EF6A6">shall not</mark> take a bribe, for a bribe blinds the eyes of the wise and perverts the words of the righteous.”</li>
+<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
+<li><strong>Penalty or Consequence</strong>: General curses (Deuteronomy 28:15-68).</li>
+<li><strong>Offering or Ransom?</strong>:
+<ul>
+<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?.</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/guilt-offering/">Guilt Offering</a>?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.</li>
+</ul>
+</li>
+</ul>
+<h2 id="23-05-deut-deuteronomy16-do-not-set-up-an-asherah-or-pillar" tabindex="-1">23. <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy16">#05Deut/Deuteronomy16</a> Do Not Set Up an Asherah or Pillar</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Deuteronomy 16:21-22</li>
+<li><strong>Scripture Text (WEB)</strong>: “You <mark style="background:#ff9EF6A6">shall not</mark> plant for yourselves an Asherah of any kind of tree beside the altar of Yahweh your God, which you shall make for yourselves. <mark style="background:#ff9EF6A6">Neither shall</mark> you set yourself up a sacred pillar, which Yahweh your God hates.”</li>
+<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
+<li><strong>Penalty or Consequence</strong>: Abomination, implying general curses (Deuteronomy 28:15-68).</li>
+<li><strong>Offering or Ransom?</strong>:
+<ul>
+<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
+</ul>
+</li>
+<li><strong>Note:</strong> Seems pretty difficult to plant something and not know it.</li>
+</ul>
+<h2 id="16-05-deut-deuteronomy16-appear-before-yahweh-three-times-a-year" tabindex="-1">16. <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy16">#05Deut/Deuteronomy16</a> Appear Before Yahweh Three Times a Year</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Deuteronomy 16:16</li>
+<li><strong>Scripture Text (WEB)</strong>: “Three times in a year all of your males shall appear before Yahweh your God in the place which he chooses: in the feast of unleavened bread, in the feast of weeks, and in the feast of booths. They <mark style="background:#ff9EF6A6">shall not appear</mark> before Yahweh empty.”</li>
+<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
+<li><strong>Penalty or Consequence</strong>: General curses (Deuteronomy 28:15-68).</li>
+<li><strong>Offering or Ransom?</strong>: Offerings as per ability (Deuteronomy 16:17).
+<ul>
+<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
+</ul>
+</li>
+<li><strong>Note:</strong> No known place chosen by Yah to bring offerings at this time.</li>
+</ul>
+<h2 id="17-05-deut-deuteronomy17-do-not-offer-blemished-sacrifices" tabindex="-1">17. <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy17">#05Deut/Deuteronomy17</a> Do Not Offer Blemished Sacrifices</h2>
+<ul>
+<li><strong>Scripture Reference</strong>: Deuteronomy 17:1</li>
+<li><strong>Scripture Text (WEB)</strong>: “You <mark style="background:#ff9EF6A6">shall not sacrifice</mark> to Yahweh your God an ox or a sheep in which is a defect or anything evil; for that is an abomination to Yahweh your God.”</li>
+<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
+<li><strong>Penalty or Consequence</strong>: Abomination, implying general curses (Deuteronomy 28:15-68).</li>
+<li><strong>Offering or Ransom?</strong>:
+<ul>
+<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
+</ul>
+</li>
+<li><strong>Note:</strong> No known place chosen by Yah to bring offerings at this time.</li>
+</ul>
 <h2 id="love-god-05-deut-deuteronomy18-the-test-of-a-true-prophet-a-href-https-www-biblegateway-com-passage-search-deuteronomy-18-20-22-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-18-20-22-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy18">#05Deut/Deuteronomy18</a> The Test of a True Prophet: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+18:20-22&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 18:20-22</a></h2>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></li>
@@ -4518,151 +4725,6 @@
 <li>The presumption (<em>zadon</em> — זָדוֹן) language connects directly to Deuteronomy 17:12 — the same word used for defying the court of final appeal, which likewise carried no offering remedy</li>
 </ul>
 </li>
-</ul>
-<h2 id="12-05-deut-deuteronomy16-keep-the-passover" tabindex="-1">12. <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy16">#05Deut/Deuteronomy16</a> Keep the Passover</h2>
-<ul>
-<li><strong>Scripture Reference</strong>: Deuteronomy 16:1-2</li>
-<li><strong>Scripture Text (WEB)</strong>: “Observe the month of Abib, and keep the Passover to Yahweh your God; for in the month of Abib Yahweh your God brought you out of Egypt by night. You shall sacrifice the Passover to Yahweh your God, of the flock and the herd, in the place which Yahweh shall choose to cause his name to dwell there.”</li>
-<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
-<li><strong>Penalty or Consequence</strong>: None in Deuteronomy; being cut off for eating leaven (Exodus 12:15).</li>
-<li><strong>Offering or Ransom?</strong>: <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/passover-offering/">Passover Offering</a> (Deuteronomy 16:2).</li>
-<li><strong>Note:</strong> No known place chosen by Yah to bring offerings at this time.</li>
-</ul>
-<h2 id="13-05-deut-deuteronomy16-do-not-eat-leavened-bread-during-passover" tabindex="-1">13. <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy16">#05Deut/Deuteronomy16</a> Do Not Eat Leavened Bread During Passover</h2>
-<ul>
-<li><strong>Scripture Reference</strong>: Deuteronomy 16:3</li>
-<li><strong>Scripture Text (WEB)</strong>: “You <mark style="background:#ff9EF6A6">shall eat no leavened</mark> bread with it. You shall eat unleavened bread with it seven days, even the bread of affliction (for you came out of the land of Egypt in haste) that you may remember the day when you came out of the land of Egypt all the days of your life.”</li>
-<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
-<li><strong>Penalty or Consequence</strong>: None in Deuteronomy; being cut off for eating leaven (Exodus 12:15).</li>
-<li><strong>Offering or Ransom?</strong>: <a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/passover-offering/">Passover Offering</a> (Deuteronomy 16:2).
-<ul>
-<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
-</ul>
-</li>
-<li><strong>Note:</strong> No known place chosen by Yah to bring offerings at this time.</li>
-</ul>
-<h2 id="14-05-deut-deuteronomy16-keep-the-feast-of-weeks-shavuot" tabindex="-1">14. <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy16">#05Deut/Deuteronomy16</a> Keep the Feast of Weeks (Shavuot)</h2>
-<ul>
-<li><strong>Scripture Reference</strong>: Deuteronomy 16:9-10</li>
-<li><strong>Scripture Text (WEB)</strong>: “You shall count for yourselves seven weeks. From the time you begin to put the sickle to the standing grain you shall begin to count seven weeks. You shall keep the feast of weeks to Yahweh your God with a tribute of a free will offering of your hand, which you shall give according as Yahweh your God blesses you.”</li>
-<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
-<li><strong>Penalty or Consequence</strong>: General curses (Deuteronomy 28:15-68).</li>
-<li><strong>Offering or Ransom?</strong>: Freewill offering (Deuteronomy 16:10).
-<ul>
-<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
-</ul>
-</li>
-<li><strong>Note:</strong> No known place chosen by Yah to bring offerings at this time.</li>
-</ul>
-<h2 id="15-05-deut-deuteronomy16-keep-the-feast-of-booths-sukkot" tabindex="-1">15. <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy16">#05Deut/Deuteronomy16</a> Keep the Feast of Booths (Sukkot)</h2>
-<ul>
-<li><strong>Scripture Reference</strong>: Deuteronomy 16:13</li>
-<li><strong>Scripture Text (WEB)</strong>: “You shall keep the feast of booths seven days, after you have gathered in from your threshing floor and from your wine press.”</li>
-<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
-<li><strong>Penalty or Consequence</strong>: General curses (Deuteronomy 28:15-68).</li>
-<li><strong>Offering or Ransom?</strong>: Offerings implied (Leviticus 23:36).
-<ul>
-<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
-</ul>
-</li>
-<li><strong>Note:</strong> No known place chosen by Yah to bring offerings at this time.</li>
-</ul>
-<h2 id="16-05-deut-deuteronomy16-appear-before-yahweh-three-times-a-year" tabindex="-1">16. <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy16">#05Deut/Deuteronomy16</a> Appear Before Yahweh Three Times a Year</h2>
-<ul>
-<li><strong>Scripture Reference</strong>: Deuteronomy 16:16</li>
-<li><strong>Scripture Text (WEB)</strong>: “Three times in a year all of your males shall appear before Yahweh your God in the place which he chooses: in the feast of unleavened bread, in the feast of weeks, and in the feast of booths. They <mark style="background:#ff9EF6A6">shall not appear</mark> before Yahweh empty.”</li>
-<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
-<li><strong>Penalty or Consequence</strong>: General curses (Deuteronomy 28:15-68).</li>
-<li><strong>Offering or Ransom?</strong>: Offerings as per ability (Deuteronomy 16:17).
-<ul>
-<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
-</ul>
-</li>
-<li><strong>Note:</strong> No known place chosen by Yah to bring offerings at this time.</li>
-</ul>
-<h2 id="17-05-deut-deuteronomy17-do-not-offer-blemished-sacrifices" tabindex="-1">17. <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy17">#05Deut/Deuteronomy17</a> Do Not Offer Blemished Sacrifices</h2>
-<ul>
-<li><strong>Scripture Reference</strong>: Deuteronomy 17:1</li>
-<li><strong>Scripture Text (WEB)</strong>: “You <mark style="background:#ff9EF6A6">shall not sacrifice</mark> to Yahweh your God an ox or a sheep in which is a defect or anything evil; for that is an abomination to Yahweh your God.”</li>
-<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
-<li><strong>Penalty or Consequence</strong>: Abomination, implying general curses (Deuteronomy 28:15-68).</li>
-<li><strong>Offering or Ransom?</strong>:
-<ul>
-<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
-</ul>
-</li>
-<li><strong>Note:</strong> No known place chosen by Yah to bring offerings at this time.</li>
-</ul>
-<h2 id="18-05-deut-deuteronomy13-do-not-follow-false-prophets" tabindex="-1">18. <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy13">#05Deut/Deuteronomy13</a> Do Not Follow False Prophets</h2>
-<ul>
-<li><strong>Scripture Reference</strong>: Deuteronomy 13:1-3</li>
-<li><strong>Scripture Text (WEB)</strong>: “If a prophet or a dreamer of dreams arises among you, and he gives you a sign or a wonder, and the sign or the wonder comes to pass, of which he spoke to you, saying, ‘Let’s go after other gods’ (which you have not known) ‘and let’s serve them,’ you <mark style="background:#ff9EF6A6">shall not listen</mark> to the words of that prophet or to that dreamer of dreams; for Yahweh your God is testing you.”</li>
-<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
-<li><strong>Penalty or Consequence</strong>: False prophet to be put to death (Deuteronomy 13:5).</li>
-<li><strong>Offering or Ransom?</strong>: <a class="internal-link" target="" data-note-icon="" href="/gate-of-correction/sins-requiring-death-no-offering/">Sins Requiring Death - No Offering</a>
-<ul>
-<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/sin-offering/">Sin Offering</a>?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification.</li>
-</ul>
-</li>
-</ul>
-<h2 id="19-05-deut-deuteronomy13-put-to-death-those-who-entice-to-idolatry" tabindex="-1">19. <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy13">#05Deut/Deuteronomy13</a> Put to Death Those Who Entice to Idolatry</h2>
-<ul>
-<li><strong>Scripture Reference</strong>: Deuteronomy 13:6-9</li>
-<li><strong>Scripture Text (WEB)</strong>: “If your brother, the son of your mother, or your son, or your daughter, or the wife of your bosom, or your friend who is as your own soul, entices you secretly, saying, ‘Let’s go and serve other gods’—which you have not known, you, nor your fathers; of the gods of the peoples who are around you, near to you, or far off from you, from the one end of the earth even to the other end of the earth—<mark style="background:#ff9EF6A6">you shall not consent</mark> to him <mark style="background:#ff9EF6A6">nor listen </mark>to him; <mark style="background:#ff9EF6A6">neither shall</mark> your eye pity him, <mark style="background:#ff9EF6A6">neither shall</mark> you spare, <mark style="background:#ff9EF6A6">neither shall</mark> you conceal him; but you shall surely kill him.”</li>
-<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
-<li><strong>Penalty or Consequence</strong>: Death by stoning (Deuteronomy 13:10).</li>
-<li><strong>Offering or Ransom?</strong>:<a class="internal-link" target="" data-note-icon="" href="/gate-of-correction/sins-requiring-death-no-offering/">Sins Requiring Death - No Offering</a></li>
-</ul>
-<h2 id="20-05-deut-deuteronomy13-destroy-a-city-that-turns-to-idolatry" tabindex="-1">20. <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy13">#05Deut/Deuteronomy13</a> Destroy a City That Turns to Idolatry</h2>
-<ul>
-<li><strong>Scripture Reference</strong>: Deuteronomy 13:12-15</li>
-<li><strong>Scripture Text (WEB)</strong>: “If you hear about one of your cities, which Yahweh your God gives you to dwell there, that certain wicked men have gone out from among you and have drawn away the inhabitants of their city, saying, ‘Let’s go and serve other gods,’ which you have not known, then you shall inquire, investigate, and ask diligently. Behold, if it is true, and the thing certain, that such abomination is done among you, you shall surely strike the inhabitants of that city with the edge of the sword, destroying it utterly, with all that is in it and its livestock, with the edge of the sword.”</li>
-<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
-<li><strong>Penalty or Consequence</strong>: Destruction of the city (Deuteronomy 13:15).</li>
-<li><strong>Offering or Ransom?</strong>:
-<ul>
-<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
-</ul>
-</li>
-</ul>
-<h2 id="21-05-deut-deuteronomy16-appoint-judges-and-officers" tabindex="-1">21. <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy16">#05Deut/Deuteronomy16</a> Appoint Judges and Officers</h2>
-<ul>
-<li><strong>Scripture Reference</strong>: Deuteronomy 16:18</li>
-<li><strong>Scripture Text (WEB)</strong>: “You shall make judges and officers in all your gates, which Yahweh your God gives you, according to your tribes; and they shall judge the people with righteous judgment.”</li>
-<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
-<li><strong>Penalty or Consequence</strong>: General curses for injustice (Deuteronomy 28:15-68).</li>
-<li><strong>Offering or Ransom?</strong>:
-<ul>
-<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
-</ul>
-</li>
-</ul>
-<h2 id="22-05-deut-deuteronomy16-do-not-pervert-justice" tabindex="-1">22. <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy16">#05Deut/Deuteronomy16</a> Do Not Pervert Justice</h2>
-<ul>
-<li><strong>Scripture Reference</strong>: Deuteronomy 16:19</li>
-<li><strong>Scripture Text (WEB)</strong>: “You <mark style="background:#ff9EF6A6">shall not</mark> pervert justice. You <mark style="background:#ff9EF6A6">shall not</mark> show partiality. You <mark style="background:#ff9EF6A6">shall not</mark> take a bribe, for a bribe blinds the eyes of the wise and perverts the words of the righteous.”</li>
-<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
-<li><strong>Penalty or Consequence</strong>: General curses (Deuteronomy 28:15-68).</li>
-<li><strong>Offering or Ransom?</strong>:
-<ul>
-<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?.</li>
-<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/guilt-offering/">Guilt Offering</a>?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.</li>
-</ul>
-</li>
-</ul>
-<h2 id="23-05-deut-deuteronomy16-do-not-set-up-an-asherah-or-pillar" tabindex="-1">23. <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy16">#05Deut/Deuteronomy16</a> Do Not Set Up an Asherah or Pillar</h2>
-<ul>
-<li><strong>Scripture Reference</strong>: Deuteronomy 16:21-22</li>
-<li><strong>Scripture Text (WEB)</strong>: “You <mark style="background:#ff9EF6A6">shall not</mark> plant for yourselves an Asherah of any kind of tree beside the altar of Yahweh your God, which you shall make for yourselves. <mark style="background:#ff9EF6A6">Neither shall</mark> you set yourself up a sacred pillar, which Yahweh your God hates.”</li>
-<li><strong>Blessing</strong>: General blessings (Deuteronomy 28:1-14).</li>
-<li><strong>Penalty or Consequence</strong>: Abomination, implying general curses (Deuteronomy 28:15-68).</li>
-<li><strong>Offering or Ransom?</strong>:
-<ul>
-<li>Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?</li>
-</ul>
-</li>
-<li><strong>Note:</strong> Seems pretty difficult to plant something and not know it.</li>
 </ul>
 <h2 id="love-god-05-deut-deuteronomy18-no-occult-practices-a-href-https-www-biblegateway-com-passage-search-deuteronomy-18-10-12-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-18-10-12-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#05Deut/Deuteronomy18">#05Deut/Deuteronomy18</a> No Occult Practices: <a href="https://www.biblegateway.com/passage/?search=Deuteronomy+18:10-12&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Deuteronomy 18:10-12</a></h2>
 <ul>
@@ -5775,7 +5837,6 @@
 </ul>
 </li>
 </ul>
-<hr>
 <ol start="12">
 <li><a class="tag" onclick="toggleTagSearch(this)" data-content="#02Exod/Exodus20">#02Exod/Exodus20</a> <strong>Do Not Make Gods of Silver or Gold</strong></li>
 </ol>
@@ -6898,6 +6959,47 @@
 <li><strong>Penalty or Consequence:</strong> Not specified; covenant defilement implied.</li>
 <li><strong>Offering or Ransom?:</strong> Not applicable.</li>
 </ul>
+<h2 id="love-god-02-exod-exodus20-i-am-yahweh-your-god-a-href-https-www-biblegateway-com-passage-search-exodus-20-2-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-2-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#02Exod/Exodus20">#02Exod/Exodus20</a> I Am Yahweh Your God: <a href="https://www.biblegateway.com/passage/?search=Exodus+20:2&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Exodus 20:2</a></h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></li>
+<li><strong>Outline:</strong>
+<ul>
+<li>YHWH (יְהוָה) (The god of Abraham, Isaac, and Jacob's personal covenant name)</li>
+</ul>
+<ul>
+<li>Your God = ĕlōheykā</li>
+<li>Brought you out of the land</li>
+<li>Brought you out of the house of slavery (brutely oppressed, forced labor)</li>
+</ul>
+</li>
+<li><strong>Blessing:</strong>
+<ul>
+<li>Yahweh's steadfast love to thousands of those who love Him and keep His commandments (Exodus 20:6)</li>
+<li>Long life in the land (Exodus 20:12)</li>
+<li>General blessings for covenant obedience (Deuteronomy 28:1–14)</li>
+<li>Yahweh Himself as the blessing — &quot;I will be your God and you shall be my people&quot; (Exodus 6:7; Leviticus 26:12)</li>
+</ul>
+</li>
+<li><strong>Penalty or Consequence:</strong>
+<ul>
+<li>Rejection of Yahweh as God leads to covenant curses (Deuteronomy 28:15–68)</li>
+<li>Yahweh visits iniquity on those who hate Him to the third and fourth generation (Exodus 20:5)</li>
+<li>Destruction and exile for abandoning the covenant (Leviticus 26:27–33)</li>
+</ul>
+</li>
+<li><strong>Offering or Ransom?:</strong>
+<ul>
+<li>No offering covers the deliberate rejection of Yahweh as God (Numbers 15:30–31)</li>
+<li>Repentance and return to covenant are the path back (Deuteronomy 30:1–3)<br>
+<a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="strong-scripture-reference-strong-59-james-james04-the-scrolls-4-the-gospels-and-the-apostles-59-james-james-04-v7-james-04-v7" tabindex="-1"><strong>Scripture Reference</strong>: <a class="tag" onclick="toggleTagSearch(this)" data-content="#59James/James04">#59James/James04</a> <a class="internal-link is-unresolved" href="/404" target="">James-04#v7</a></h3>
+<ul>
+<li><strong>Scripture Text (WEB):</strong> Resist the devil, and he will flee from you.&quot;</li>
+<li><strong>Blessing</strong>: James says, the adversary will flee</li>
+</ul>
 <h1 id="list-in-leviticus" tabindex="-1">List in Leviticus</h1>
 <h2 id="love-god-03-lev-leviticus19-do-not-seek-mediums-or-spiritists-a-href-https-www-biblegateway-com-passage-search-leviticus-19-3-a31-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-31-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#03Lev/Leviticus19">#03Lev/Leviticus19</a> Do Not Seek Mediums or Spiritists: <a href="https://www.biblegateway.com/passage/?search=Leviticus+19%3A31&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 19:31</a></h2>
 <ul>
@@ -6951,6 +7053,68 @@
 </li>
 </ul>
 <p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/offering/offerings/">Offerings</a></p>
+<h2 id="love-neighbor-03-lev-leviticus19-use-honest-weights-and-measures-a-href-https-www-biblegateway-com-passage-search-leviticus-19-3-a36-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-36-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveNeighbor">#LoveNeighbor</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#03Lev/Leviticus19">#03Lev/Leviticus19</a> Use Honest Weights and Measures: <a href="https://www.biblegateway.com/passage/?search=Leviticus+19%3A36&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 19:36</a></h2>
+<ul>
+<li>
+<p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/commands-mitzvot/">Commands (Mitzvot)</a></p>
+</li>
+<li>
+<p><a class="internal-link" target="" data-note-icon="" href="/gate-of-wisdom/right-standing/judgments-mishpatim/">Judgments (Mishpatim)</a></p>
+</li>
+<li>
+<p><strong>Outline:</strong></p>
+<ul>
+<li>Do
+<ul>
+<li>have honest <a class="tag" onclick="toggleTagSearch(this)" data-content="#Dos">#Dos</a>
+<ul>
+<li>balances</li>
+<li>weights</li>
+<li>ephah</li>
+<li>hin</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Because
+<ul>
+<li>I am YHWH
+<ul>
+<li>your god</li>
+<li>who brought you out from the land of Egypt</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Blessing:</strong></p>
+<ul>
+<li>No explicit blessing stated in the verse.</li>
+</ul>
+</li>
+<li>
+<p><strong>Penalty or Consequence:</strong></p>
+<ul>
+<li>No penalty stated directly in this verse.</li>
+</ul>
+</li>
+<li>
+<p><strong>Offering or Ransom:</strong></p>
+<ul>
+<li>No offering or ransom stated. The verse grounds the command in the exodus — <em>&quot;I am Yahweh your God, who brought you out of the land of Egypt.&quot;</em> (WEB) — making honest commerce an act of covenant memory and fidelity rather than mere legal compliance. The one who redeemed Israel from exploitation is the same one who forbids Israel from exploiting others through dishonest measure.</li>
+</ul>
+</li>
+<li>
+<p><mark style="background:#cd04BBA6">Personal Observations</mark></p>
+<ul>
+<li>Deuteronomy 25:13-16 — carrying two kinds of weights — large and small — is called an abomination (to'evah/תּוֹעֵבָה) to Yahweh, and those who do so are connected to being cut short in the land — <em>&quot;that your days may be long in the land which Yahweh your God gives you.&quot;</em> (WEB) — implying the reverse for dishonest practice.</li>
+<li>Amos 8:4-7 — God declares he will never forget the deeds of those who use dishonest scales — placed in the context of covenant judgment against Israel.</li>
+<li>Micah 6:11-13 — dishonest weights listed among the sins for which God brings affliction and desolation.</li>
+</ul>
+</li>
+</ul>
 <h2 id="love-god-03-lev-leviticus19-keep-all-my-statutes-and-judgments-a-href-https-www-biblegateway-com-passage-search-leviticus-19-3-a37-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-37-a" tabindex="-1"><a class="tag" onclick="toggleTagSearch(this)" data-content="#LoveGod">#LoveGod</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#03Lev/Leviticus19">#03Lev/Leviticus19</a> Keep All My Statutes and Judgments: <a href="https://www.biblegateway.com/passage/?search=Leviticus+19%3A37&amp;version=WEB;NET;OJB" target="_blank" class="external-link">Leviticus 19:37</a></h2>
 <ul>
 <li>
@@ -7046,42 +7210,24 @@ Commands (Mitzvot)
 <li><a href="#related-words">Related words</a>
 </li>
 <li><a href="#connections">Connections</a>
+<ol>
+<li><a href="#love-neighbor-03-lev-leviticus25-do-not-wrong-one-another-a-href-https-www-biblegateway-com-passage-search-leviticus-25-3-a17-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-25-17-a">#LoveNeighbor #03Lev/Leviticus25 Do Not Wrong One Another: Leviticus 25:17</a>
+</li>
+</ol>
 </li>
 <li><a href="#list-of-commandments-mitzvot-in-deuteronomy">List of Commandments (Mitzvot) in Deuteronomy</a>
 <ol>
-<li><a href="#1-scripture-reference-05-deut-deuteronomy04-2">1. Scripture Reference: #05Deut/Deuteronomy04:2</a>
+<li><a href="#scripture-reference-05-deut-deuteronomy04-2">Scripture Reference: #05Deut/Deuteronomy04:2</a>
 </li>
 <li><a href="#love-god-love-neighbor-05-deut-deuteronomy04-keep-and-do-this-is-your-wisdom-a-href-https-www-biblegateway-com-passage-search-deuteronomy-4-5-6-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-4-5-6-a">#LoveGod #LoveNeighbor #05Deut/Deuteronomy04 Keep and Do — This Is Your Wisdom: Deuteronomy 4:5-6</a>
 </li>
 <li><a href="#love-god-05-deut-deuteronomy04-know-and-take-it-to-heart-a-href-https-www-biblegateway-com-passage-search-deuteronomy-4-39-40-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-4-39-40-a">#LoveGod #05Deut/Deuteronomy04 Know and Take It to Heart: Deuteronomy 4:39-40</a>
 </li>
-<li><a href="#05-deut-deuteronomy12-destroy-idolatrous-places-of-worship">#05Deut/Deuteronomy12 Destroy Idolatrous Places of Worship</a>
+<li><a href="#love-god-05-deut-deuteronomy05-oh-that-they-had-such-a-heart-a-href-https-www-biblegateway-com-passage-search-deuteronomy-5-29-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-5-29-a">#LoveGod #05Deut/Deuteronomy05 Oh That They Had Such a Heart: Deuteronomy 5:29</a>
 </li>
-<li><a href="#love-god-05-deut-deuteronomy12-bring-your-offerings-to-the-place-yahweh-chooses-a-href-https-www-biblegateway-com-passage-search-deuteronomy-12-5-7-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-12-5-7-a">#LoveGod #05Deut/Deuteronomy12 Bring Your Offerings to the Place Yahweh Chooses: Deuteronomy 12:5-7</a>
+<li><a href="#fear-yhwh-and-serve-him-strong-scripture-reference-strong-05-deut-deuteronomy06">Fear YHWH and Serve Him Scripture Reference: #05Deut/Deuteronomy06</a>
 </li>
-<li><a href="#fear-yhwh-and-serve-him">Fear YHWH and Serve Him</a>
-<ol>
-<li><a href="#strong-scripture-reference-strong-05-deut-deuteronomy06">Scripture Reference: #05Deut/Deuteronomy06</a>
-</li>
-<li><a href="#strong-scripture-reference-strong-59-james-james04-the-scrolls-4-the-gospels-and-the-apostles-59-james-james-04-v7-james-04-v7">Scripture Reference: #59James/James04James-04#v7</a>
-</li>
-</ol>
-</li>
-<li><a href="#do-not-worship-other-gods">Do Not Worship Other Gods</a>
-</li>
-<li><a href="#love-god-05-deut-deuteronomy06-fear-and-serve-yahweh-alone-a-href-https-www-biblegateway-com-passage-search-deuteronomy-6-13-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-6-13-a">#LoveGod #05Deut/Deuteronomy06 Fear and Serve Yahweh Alone: Deuteronomy 6:13</a>
-</li>
-<li><a href="#love-god-05-deut-deuteronomy10-fear-and-serve-yahweh-hold-fast-swear-by-his-name-a-href-https-www-biblegateway-com-passage-search-deuteronomy-10-20-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-10-20-a">#LoveGod #05Deut/Deuteronomy10 Fear and Serve Yahweh, Hold Fast, Swear by His Name: Deuteronomy 10:20</a>
-<ol>
-<li><a href="#strong-scripture-reference-strong-05-deut-deuteronomy06-the-scrolls-1-torah-law-of-moses-05-deuteronomy-deut-06-v14-deut-06-v14">Scripture Reference: #05Deut/Deuteronomy06 Deut-06#v14</a>
-</li>
-</ol>
-</li>
-<li><a href="#love-god-02-exod-exodus20-i-am-yahweh-your-god-a-href-https-www-biblegateway-com-passage-search-exodus-20-2-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-2-a">#LoveGod #02Exod/Exodus20 I Am Yahweh Your God: Exodus 20:2</a>
-<ol>
-<li><a href="#strong-scripture-reference-strong-59-james-james04-the-scrolls-4-the-gospels-and-the-apostles-59-james-james-04-v7-james-04-v7-1">Scripture Reference: #59James/James04 James-04#v7</a>
-</li>
-</ol>
+<li><a href="#do-not-worship-other-gods-love-god-05-deut-deuteronomy06-fear-and-serve-yahweh-alone-a-href-https-www-biblegateway-com-passage-search-deuteronomy-6-13-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-6-13-a">Do Not Worship Other Gods ## #LoveGod #05Deut/Deuteronomy06 Fear and Serve Yahweh Alone: Deuteronomy 6:13</a>
 </li>
 <li><a href="#love-god-05-deut-deuteronomy06-hear-yahweh-is-one-a-href-https-www-biblegateway-com-passage-search-deuteronomy-206-3-a4-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-6-4-a">#LoveGod #05Deut/Deuteronomy06 Hear - Yahweh is One Deuteronomy 6:4</a>
 </li>
@@ -7101,13 +7247,27 @@ Commands (Mitzvot)
 </li>
 <li><a href="#love-god-05-deut-deuteronomy08-bless-yahweh-when-you-have-eaten-a-href-https-www-biblegateway-com-passage-search-deuteronomy-8-10-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-8-10-a">#LoveGod #05Deut/Deuteronomy08 Bless Yahweh When You Have Eaten: Deuteronomy 8:10</a>
 </li>
+<li><a href="#love-god-05-deut-deuteronomy10-fear-and-serve-yahweh-hold-fast-swear-by-his-name-a-href-https-www-biblegateway-com-passage-search-deuteronomy-10-20-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-10-20-a">#LoveGod #05Deut/Deuteronomy10 Fear and Serve Yahweh, Hold Fast, Swear by His Name: Deuteronomy 10:20</a>
+<ol>
+<li><a href="#strong-scripture-reference-strong-05-deut-deuteronomy06-the-scrolls-1-torah-law-of-moses-05-deuteronomy-deut-06-v14-deut-06-v14">Scripture Reference: #05Deut/Deuteronomy06 Deut-06#v14</a>
+</li>
+</ol>
+</li>
 <li><a href="#love-god-05-deut-deuteronomy11-bind-these-words-as-a-sign-a-href-https-www-biblegateway-com-passage-search-deuteronomy-11-18-21-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-11-18-21-a">#LoveGod #05Deut/Deuteronomy11 Bind These Words as a Sign: Deuteronomy 11:18-21</a>
 </li>
 <li><a href="#love-god-05-deut-deuteronomy11-hold-fast-love-walk-cleave-a-href-https-www-biblegateway-com-passage-search-deuteronomy-11-22-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-11-22-a">#LoveGod #05Deut/Deuteronomy11 Hold Fast — Love, Walk, Cleave: Deuteronomy 11:22</a>
 </li>
+<li><a href="#love-god-05-deut-deuteronomy12-bring-your-offerings-to-the-place-yahweh-chooses-a-href-https-www-biblegateway-com-passage-search-deuteronomy-12-5-7-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-12-5-7-a">#LoveGod #05Deut/Deuteronomy12 Bring Your Offerings to the Place Yahweh Chooses: Deuteronomy 12:5-7</a>
+</li>
+<li><a href="#05-deut-deuteronomy12-destroy-idolatrous-places-of-worship">#05Deut/Deuteronomy12 Destroy Idolatrous Places of Worship</a>
+</li>
 <li><a href="#love-god-05-deut-deuteronomy13-do-not-follow-false-prophets-a-href-https-www-biblegateway-com-passage-search-deuteronomy-13-1-5-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-13-1-5-a">#LoveGod #05Deut/Deuteronomy13 Do Not Follow False Prophets: Deuteronomy 13:1-5</a>
 </li>
-<li><a href="#love-god-05-deut-deuteronomy18-the-test-of-a-true-prophet-a-href-https-www-biblegateway-com-passage-search-deuteronomy-18-20-22-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-18-20-22-a">#LoveGod #05Deut/Deuteronomy18 The Test of a True Prophet: Deuteronomy 18:20-22</a>
+<li><a href="#18-05-deut-deuteronomy13-do-not-follow-false-prophets">18. #05Deut/Deuteronomy13 Do Not Follow False Prophets</a>
+</li>
+<li><a href="#19-05-deut-deuteronomy13-put-to-death-those-who-entice-to-idolatry">19. #05Deut/Deuteronomy13 Put to Death Those Who Entice to Idolatry</a>
+</li>
+<li><a href="#20-05-deut-deuteronomy13-destroy-a-city-that-turns-to-idolatry">20. #05Deut/Deuteronomy13 Destroy a City That Turns to Idolatry</a>
 </li>
 <li><a href="#12-05-deut-deuteronomy16-keep-the-passover">12. #05Deut/Deuteronomy16 Keep the Passover</a>
 </li>
@@ -7117,21 +7277,17 @@ Commands (Mitzvot)
 </li>
 <li><a href="#15-05-deut-deuteronomy16-keep-the-feast-of-booths-sukkot">15. #05Deut/Deuteronomy16 Keep the Feast of Booths (Sukkot)</a>
 </li>
-<li><a href="#16-05-deut-deuteronomy16-appear-before-yahweh-three-times-a-year">16. #05Deut/Deuteronomy16 Appear Before Yahweh Three Times a Year</a>
-</li>
-<li><a href="#17-05-deut-deuteronomy17-do-not-offer-blemished-sacrifices">17. #05Deut/Deuteronomy17 Do Not Offer Blemished Sacrifices</a>
-</li>
-<li><a href="#18-05-deut-deuteronomy13-do-not-follow-false-prophets">18. #05Deut/Deuteronomy13 Do Not Follow False Prophets</a>
-</li>
-<li><a href="#19-05-deut-deuteronomy13-put-to-death-those-who-entice-to-idolatry">19. #05Deut/Deuteronomy13 Put to Death Those Who Entice to Idolatry</a>
-</li>
-<li><a href="#20-05-deut-deuteronomy13-destroy-a-city-that-turns-to-idolatry">20. #05Deut/Deuteronomy13 Destroy a City That Turns to Idolatry</a>
-</li>
 <li><a href="#21-05-deut-deuteronomy16-appoint-judges-and-officers">21. #05Deut/Deuteronomy16 Appoint Judges and Officers</a>
 </li>
 <li><a href="#22-05-deut-deuteronomy16-do-not-pervert-justice">22. #05Deut/Deuteronomy16 Do Not Pervert Justice</a>
 </li>
 <li><a href="#23-05-deut-deuteronomy16-do-not-set-up-an-asherah-or-pillar">23. #05Deut/Deuteronomy16 Do Not Set Up an Asherah or Pillar</a>
+</li>
+<li><a href="#16-05-deut-deuteronomy16-appear-before-yahweh-three-times-a-year">16. #05Deut/Deuteronomy16 Appear Before Yahweh Three Times a Year</a>
+</li>
+<li><a href="#17-05-deut-deuteronomy17-do-not-offer-blemished-sacrifices">17. #05Deut/Deuteronomy17 Do Not Offer Blemished Sacrifices</a>
+</li>
+<li><a href="#love-god-05-deut-deuteronomy18-the-test-of-a-true-prophet-a-href-https-www-biblegateway-com-passage-search-deuteronomy-18-20-22-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-18-20-22-a">#LoveGod #05Deut/Deuteronomy18 The Test of a True Prophet: Deuteronomy 18:20-22</a>
 </li>
 <li><a href="#love-god-05-deut-deuteronomy18-no-occult-practices-a-href-https-www-biblegateway-com-passage-search-deuteronomy-18-10-12-and-amp-version-web-net-ojb-target-blank-class-external-link-deuteronomy-18-10-12-a">#LoveGod #05Deut/Deuteronomy18 No Occult Practices: Deuteronomy 18:10-12</a>
 </li>
@@ -7209,11 +7365,19 @@ Commands (Mitzvot)
 </li>
 <li><a href="#love-god-02-exod-exodus23-serve-yahweh-alone-a-href-https-www-biblegateway-com-passage-search-exodus-2023-25-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-23-25-a">#LoveGod #02Exod/Exodus23 Serve Yahweh Alone: Exodus 23:25</a>
 </li>
+<li><a href="#love-god-02-exod-exodus20-i-am-yahweh-your-god-a-href-https-www-biblegateway-com-passage-search-exodus-20-2-and-amp-version-web-net-ojb-target-blank-class-external-link-exodus-20-2-a">#LoveGod #02Exod/Exodus20 I Am Yahweh Your God: Exodus 20:2</a>
+<ol>
+<li><a href="#strong-scripture-reference-strong-59-james-james04-the-scrolls-4-the-gospels-and-the-apostles-59-james-james-04-v7-james-04-v7">Scripture Reference: #59James/James04 James-04#v7</a>
+</li>
+</ol>
+</li>
 </ol>
 </li>
 <li><a href="#list-in-leviticus">List in Leviticus</a>
 <ol>
 <li><a href="#love-god-03-lev-leviticus19-do-not-seek-mediums-or-spiritists-a-href-https-www-biblegateway-com-passage-search-leviticus-19-3-a31-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-31-a">#LoveGod #03Lev/Leviticus19 Do Not Seek Mediums or Spiritists: Leviticus 19:31</a>
+</li>
+<li><a href="#love-neighbor-03-lev-leviticus19-use-honest-weights-and-measures-a-href-https-www-biblegateway-com-passage-search-leviticus-19-3-a36-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-36-a">#LoveNeighbor #03Lev/Leviticus19 Use Honest Weights and Measures: Leviticus 19:36</a>
 </li>
 <li><a href="#love-god-03-lev-leviticus19-keep-all-my-statutes-and-judgments-a-href-https-www-biblegateway-com-passage-search-leviticus-19-3-a37-and-amp-version-web-net-ojb-target-blank-class-external-link-leviticus-19-37-a">#LoveGod #03Lev/Leviticus19 Keep All My Statutes and Judgments: Leviticus 19:37</a>
 <ol>
