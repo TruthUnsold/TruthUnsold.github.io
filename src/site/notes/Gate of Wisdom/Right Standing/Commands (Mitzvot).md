@@ -51,15 +51,42 @@ You shall not wrong one another, but you shall fear your God; for I am Yahweh yo
 
 # Deuteronomy
 
-## Scripture Reference: #05Deut/Deuteronomy04:2 
-- **Scripture Text (WEB)**: “You <mark style="background: #FF9EF6A6;">shall not add to the word</mark> which I command you, <mark style="background: #FF9EF6A6;">neither shall you take away from it</mark>, that you may keep the commandments of Yahweh your God which I command you.”
-- **Blessing**: General blessings for obedience (Deuteronomy 28:1-14 [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-28#v1\|Deut-28#v1]]
-- **Penalty or Consequence**: General curses for disobedience (Deuteronomy 28:15-68) [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-28#v15\|Deut-28#v15]]
-- **Offering or Ransom?**: 
-	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
-	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
+##  Do Not Add or Take Away: [Deuteronomy 4:2](https://www.biblegateway.com/passage/?search=Deuteronomy+4:2&version=WEB;NET;OJB)
 
-##  Keep and Do — This Is Your Wisdom: [Deuteronomy 4:5-6](https://www.biblegateway.com/passage/?search=Deuteronomy+4:5-6&version=WEB;NET;OJB)
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+###### v2 
+You shall not add to the word which I command you, neither shall you take away from it, that you may keep the commandments of Yahweh your God which I command you. 
+
+
+</div></div>
+
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- **Outline:**  
+	- Do Not
+		- add to  [[Gate of Wisdom/W/The Word\|The Word]] #DoNot 
+			- which I command you
+		- take away from it #DoNot 
+	- So that you may keep the [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
+		- of YHWH your god
+- **Blessing:**
+    - None explicitly stated within the verse
+    - The immediate context of Deuteronomy 4:1 provides the blessing — life and possession of the land tied to hearing and doing; keeping the word intact is the condition for entering and possessing what Yahweh promised
+- **Penalty or Consequence:**
+    - None explicitly stated as a court-administered penalty within the verse
+- **Offering or Ransom:**
+    - None prescribed
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>
+	- The immediate context provides the consequence by example — v.3 references Baal Peor; every man who followed Baal Peor Yahweh destroyed from among the people; adding to the word by adopting foreign worship is the illustrated violation and destruction is the named result
+    - Revelation 22:18-19 closes the canon with the same command in the same terms — adding brings the plagues written in the book; taking away removes the person's portion from the tree of life and the holy city; the bookends of Scripture hold the same prohibition
+
+
+##   Keep and Do — This Is Your Wisdom: [Deuteronomy 4:5-6](https://www.biblegateway.com/passage/?search=Deuteronomy+4:5-6&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -161,9 +188,19 @@ You shall keep his statutes and his commandments which I command you today, that
     - None prescribed
     - The command is **cognitive and covenantal** in nature — know, take to heart, keep; the response called for is internal disposition expressed in obedience; no sacrificial mechanism is attached
 
+##  Oh That They Had Such a Heart: [Deuteronomy 5:29](https://www.biblegateway.com/passage/?search=Deuteronomy+5:29&version=WEB;NET;OJB)
 
 
-## #LoveGod #05Deut/Deuteronomy05  Oh That They Had Such a Heart: [Deuteronomy 5:29](https://www.biblegateway.com/passage/?search=Deuteronomy+5:29&version=WEB;NET;OJB)
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+###### v29 
+Oh that there were such a heart in them that they would fear me and keep all my commandments always, that it might be well with them and with their children forever! 
+
+
+</div></div>
+
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
@@ -186,8 +223,6 @@ You shall keep his statutes and his commandments which I command you today, that
 - **Offering or Ransom:**
     - None prescribed
     - This verse is Yahweh's own longing expressed — not a judicial command with mechanisms attached; the response it calls for is internal and dispositional; the answer Torah ultimately points toward is not sacrifice but **circumcision of the heart** (Deut. 30:6) and Torah written within (Jer. 31:33)
-
-
 
 ## Fear YHWH and Serve Him  **Scripture Reference**: #05Deut/Deuteronomy06 
 - **Scripture Text (WEB)**: 13 You shall fear Yahweh your God; and you shall serve him, and shall swear by his name. 
