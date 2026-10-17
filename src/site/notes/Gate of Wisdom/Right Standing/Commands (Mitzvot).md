@@ -12,16 +12,20 @@
 - [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
 - [[Gate of Wisdom/Offering/Offerings\|Offerings]]
 
+# Leviticus
+##    Do Not Wrong One Another [Leviticus 25:17](https://www.biblegateway.com/passage/?search=Leviticus+25%3A17&version=WEB;NET;OJB)
 
-# Connections
 
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[_Assets/AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Torah Portions/2026.05.16 Shabbat Reading.md\\|2026.05.16 Shabbat Reading]]</li><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Foundation/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke).md\\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]</li><li>[[Gate of Foundation/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Discernment/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Gate of Correction/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Correction/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Correction/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Correction/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Correction/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Correction/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Correction/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Correction/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Checklist for Commandment texts.md\\|Checklist for Commandment texts]]</li><li>[[Gate of Wisdom/Right Standing/Statutes (Chuqim).md\\|Statutes (Chuqim)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Correction/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Correction/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Correction/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li></ul> |
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-{ .block-language-dataview}
 
-## #LoveNeighbor #03Lev/Leviticus25  Do Not Wrong One Another: [Leviticus 25:17](https://www.biblegateway.com/passage/?search=Leviticus+25%3A17&version=WEB;NET;OJB)
+
+###### v17 
+You shall not wrong one another, but you shall fear your God; for I am Yahweh your God. 
+
+
+</div></div>
+
 
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 * [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
@@ -45,19 +49,7 @@
 * **Offering or Ransom:**
    * No offering or ransom stated. The fear of God is presented as the restraint and the sufficient motivation — *"I am Yahweh your God"* functions as both identity declaration and warning, consistent with its use throughout Leviticus 19 and 25.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-###### v17 
-You shall not wrong one another, but you shall fear your God; for I am Yahweh your God. 
-
-
-</div></div>
-
-
-# List of Commandments (Mitzvot) in Deuteronomy
+# Deuteronomy
 
 ## Scripture Reference: #05Deut/Deuteronomy04:2 
 - **Scripture Text (WEB)**: “You <mark style="background: #FF9EF6A6;">shall not add to the word</mark> which I command you, <mark style="background: #FF9EF6A6;">neither shall you take away from it</mark>, that you may keep the commandments of Yahweh your God which I command you.”
@@ -67,7 +59,29 @@ You shall not wrong one another, but you shall fear your God; for I am Yahweh yo
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
 
-## #LoveGod #LoveNeighbor #05Deut/Deuteronomy04 Keep and Do — This Is Your Wisdom: [Deuteronomy 4:5-6](https://www.biblegateway.com/passage/?search=Deuteronomy+4:5-6&version=WEB;NET;OJB)
+##  Keep and Do — This Is Your Wisdom: [Deuteronomy 4:5-6](https://www.biblegateway.com/passage/?search=Deuteronomy+4:5-6&version=WEB;NET;OJB)
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+###### v5 
+Behold, I have taught you statutes and ordinances, even as Yahweh my God commanded me, that you should do so in the middle of the land where you go in to possess it. 
+
+
+</div></div>
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+###### v6 
+Keep therefore and do them; for this is your wisdom and your understanding in the sight of the peoples who shall hear all these statutes and say, "Surely this great nation is a wise and understanding people." 
+
+
+</div></div>
+
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
@@ -93,8 +107,30 @@ You shall not wrong one another, but you shall fear your God; for I am Yahweh yo
     - None prescribed
     - The command is formational and missional — keep and do in the sight of the nations; no sacrificial mechanism is attached
 
+##  Know and Take It to Heart: [Deuteronomy 4:39-40](https://www.biblegateway.com/passage/?search=Deuteronomy+4:39-40&version=WEB;NET;OJB)
 
-## #LoveGod #05Deut/Deuteronomy04 Know and Take It to Heart: [Deuteronomy 4:39-40](https://www.biblegateway.com/passage/?search=Deuteronomy+4:39-40&version=WEB;NET;OJB)
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+###### v39 
+Know therefore today, and take it to heart, that Yahweh himself is God in heaven above and on the earth beneath. There is no one else. 
+
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+###### v40 
+You shall keep his statutes and his commandments which I command you today, that it may go well with you and with your children after you, and that you may prolong your days in the land which Yahweh your God gives you for all time. 
+
+
+</div></div>
+
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]

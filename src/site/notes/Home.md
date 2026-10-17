@@ -31,6 +31,7 @@ Buy the truth, and don’t sell it.
 
 | Latest Drops                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gate of Wisdom/L/Love Neighbor\|Love Neighbor]]                                                                                                                                        |
 | [[Gate of Wisdom/F/fear (yirah)\|fear (yirah)]]                                                                                                                                          |
 | [[Gate of Wisdom/F/fear (tirau)\|fear (tirau)]]                                                                                                                                          |
 | [[Gate of Wisdom/T/Tithe\|Tithe]]                                                                                                                                                        |
@@ -50,7 +51,6 @@ Buy the truth, and don’t sell it.
 | [[Gate of Wisdom/N/Neighbor\|Neighbor]]                                                                                                                                                  |
 | [[Gate of Wisdom/Beings/Human Beings/Jeroboam II\|Jeroboam II]]                                                                                                                          |
 | [[Gate of Wisdom/Sources/Torah Class\|Torah Class]]                                                                                                                                      |
-| [[Gate of Foundation/The Seventh Day Rest/The Seventh Day Rest Old Testament Survey Findings\|The Seventh Day Rest Old Testament Survey Findings]]                                       |
 
 { .block-language-dataview}
 

@@ -201,6 +201,7 @@ These cut through the illusion, denial, and confusion entirely. They reveal real
 | [[Gate of Wisdom/Beings/Animals/living creature\|living creature]]                                             |
 | [[Gate of Wisdom/L/Lord’s Prayer\|Lord’s Prayer]]                                                              |
 | [[Gate of Wisdom/Ruach/Fruit/Love\|Love]]                                                                      |
+| [[Gate of Wisdom/L/Love Neighbor\|Love Neighbor]]                                                              |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Lucifer\|Lucifer]]                                                     |
 | [[Gate of Wisdom/L/Lust\|Lust]]                                                                                |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mamre\|Mamre]]                                                |
