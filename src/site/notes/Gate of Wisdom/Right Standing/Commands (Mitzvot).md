@@ -224,37 +224,20 @@ Oh that there were such a heart in them that they would fear me and keep all my 
     - None prescribed
     - This verse is Yahweh's own longing expressed — not a judicial command with mechanisms attached; the response it calls for is internal and dispositional; the answer Torah ultimately points toward is not sacrifice but **circumcision of the heart** (Deut. 30:6) and Torah written within (Jer. 31:33)
 
-## Fear YHWH and Serve Him  **Scripture Reference**: #05Deut/Deuteronomy06 
-- **Scripture Text (WEB)**: 13 You shall fear Yahweh your God; and you shall serve him, and shall swear by his name. 
-- **Blessing**: General blessings (Deuteronomy 28:1-14).
-- **Penalty or Consequence**: Yahweh’s jealousy and anger, potential destruction (Deuteronomy 6:15).
-- **Offering or Ransom?**: 
-	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
-	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
-- **Scripture Reference**: #59James/James04[[_The Scrolls/4. The Gospels and The Apostles/59 - James/James-04#v7\|James-04#v7]] **Scripture Text (WEB):** "Be subject therefore to God. 
+##   Hear - Yahweh is One [Deuteronomy 6:4](https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A4&version=WEB;NET;OJB)
 
-## Do Not Worship Other Gods ## #LoveGod #05Deut/Deuteronomy06 Fear and Serve Yahweh Alone: [Deuteronomy 6:13](https://www.biblegateway.com/passage/?search=Deuteronomy+6:13&version=WEB;NET;OJB)
 
-- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
-- **Outline:** *
-	- Do
-		- fear YHWH
-		- serve him
-		- swear by his name
-- **Blessing:**
-    - None explicitly stated
-    - The immediate context of Deuteronomy 6 ties covenant faithfulness to life, prosperity, and remaining in the land (Deut. 6:2-3; 6:24)
-- **Penalty or Consequence:**
-    - None explicitly stated within the verse
-    - The broader context makes clear that going after other gods provokes Yahweh's anger and leads to destruction from the land (**Deut. 6:14-15)
-- **Offering or Ransom:**
-    - None prescribed
-- <mark style="background: #CD04BBA6;">Personal Observations</mark>:
-	- Jesus quotes this verse directly in response to Satan's temptation (Matt. 4:10) — framing it as the definitive boundary of worship and allegiance
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
- 
 
-## #LoveGod #05Deut/Deuteronomy06 Hear - Yahweh is One [Deuteronomy 6:4](https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A4&version=WEB;NET;OJB)
+
+###### v4 
+Hear, Israel: Yahweh is our God. Yahweh is one. 
+
+
+</div></div>
+
+
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
 	- Do 
@@ -275,9 +258,84 @@ Oh that there were such a heart in them that they would fear me and keep all my 
 	- Hear in Hebrew isn't just about listening, it carries the implied meaning of action as well. Hear, obey. If you do not do something after hearing - you never heard in the first place.
 	- One echad (אֶחָד) = one, unity, alone
 		- In Hebrew mindset of Deuteronomy 6:4, "Yahweh echad" affirms Yahweh as the sole God/El, unique and undivided in loyalty and worship, with no other gods/elohim alongside Him.
- 
- 
-## 4. #05Deut/Deuteronomy06 Love Yahweh Your God
+
+##   Fear and Serve Yahweh Alone: [Deuteronomy 6:13](https://www.biblegateway.com/passage/?search=Deuteronomy+6:13&version=WEB;NET;OJB)
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+###### v13 
+You shall fear Yahweh your God; and you shall serve him, and shall swear by his name. 
+
+
+</div></div>
+
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:** *
+	- Do
+		- fear YHWH #Dos 
+		- serve him #Dos 
+		- swear by his name #Dos 
+- **Blessing:**
+    - None explicitly stated
+    - The immediate context of Deuteronomy 6 ties covenant faithfulness to life, prosperity, and remaining in the land (Deut. 6:2-3; 6:24)
+- **Penalty or Consequence:**
+    - None explicitly stated within the verse
+    - The broader context makes clear that going after other gods provokes Yahweh's anger and leads to destruction from the land (**Deut. 6:14-15)
+- **Offering or Ransom:**
+    - None prescribed
+- <mark style="background: #CD04BBA6;">Personal Observations</mark>:
+	- Jesus quotes this verse directly in response to Satan's temptation (Matt. 4:10) — framing it as the definitive boundary of worship and allegiance
+	-   
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+###### v7 
+Be subject therefore to God. Resist the devil <mark style="background: #CD04BBA6;">//Accuser, slanderer (one who attacks with false or malicious charges)//</mark>, and he will flee from you. 
+
+
+</div></div>
+
+
+##   Love Yahweh with All Your Heart, Soul, and Might: [Deuteronomy 6:5](https://www.biblegateway.com/passage/?search=Deuteronomy+6:5&version=WEB;NET;OJB)
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+###### v5 
+You shall love Yahweh your God with all your heart, with all your soul, and with all your might. 
+
+
+</div></div>
+
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+- **Outline:**  
+	- Do
+		- Love YHWH with all your #Dos 
+			- heart
+			- [[Gate of Wisdom/S/Soul\|Soul]]
+			- might
+- **Blessing:**
+    - None explicitly stated within the verse
+    - The immediate context of Deuteronomy 6:2-3 ties the Shema and its commands to long life, multiplied days, and prosperity — _"that it may go well with you and that you may multiply greatly"_
+    - The broader Deuteronomic framework places this command at the root of all blessing — love expressed through keeping produces every covenant benefit named in Deuteronomy 28:1-14
+- **Penalty or Consequence:**
+    - None explicitly stated within the verse
+    - Deuteronomy 6:14-15 provides the immediate consequence of its violation — going after other gods provokes Yahweh's anger and brings destruction from off the face of the land
+    - The three-fold totality of the command — **all** your heart, **all** your soul, **all** your might — implies that partial love is the named failure; a divided heart is the root of idolatry throughout Deuteronomy
+- **Offering or Ransom:**
+    - None prescribed
+- Personal Observations
+    - This is the first and greatest command by Yeshua's own declaration (Matt. 22:37-38) — it is the root from which all Torah flows; no sacrificial mechanism attaches to the root itself; love expressed through the whole person is the only response the command calls for
+## #05Deut/Deuteronomy06 Love Yahweh Your God
 - **Scripture Reference**: Deuteronomy 6:5
 - **Scripture Text (WEB)**: “You shall love Yahweh your God with all your heart, with all your soul, and with all your might.”
 - **Blessing**: General blessings (Deuteronomy 28:1-14).
