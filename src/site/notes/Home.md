@@ -38,19 +38,19 @@ Buy the truth, and don’t sell it.
 | [[Gate of Foundation/Acts 2 Connections Scripture Survey\|Acts 2 Connections Scripture Survey]]                                                                                          |
 | [[Gate of Correction/The Great Commission\|The Great Commission]]                                                                                                                        |
 | [[Gate of Discernment/The Scroll of Jonah\|The Scroll of Jonah]]                                                                                                                         |
-| [[Gate of Correction/Summary of Tongues\|Summary of Tongues]]                                                                                                                            |
 | [[Gate of Foundation/Prayer Language Scripture Survey\|Prayer Language Scripture Survey]]                                                                                                |
 | [[Gate of Correction/Commands Israel Broke\|Commands Israel Broke]]                                                                                                                      |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Asherah\|Asherah]]                                                                                                                               |
 | [[Gate of Wisdom/P/Punishment\|Punishment]]                                                                                                                                              |
 | [[Gate of Correction/Jesus's Do Nots\|Jesus's Do Nots]]                                                                                                                                  |
 | [[Gate of Wisdom/Appointed Time/Sukkot Old Testament through the New Testament into the time of Revelation\|Sukkot Old Testament through the New Testament into the time of Revelation]] |
-| [[Gate of Discernment/Study Sheets\|Study Sheets]]                                                                                                                                       |
-| [[Gate of Wisdom/F/Holy Spirit - Filling\|Holy Spirit - Filling]]                                                                                                                        |
 | [[Gate of Correction/Jonah and The Disciples\|Jonah and The Disciples]]                                                                                                                  |
 | [[Gate of Discernment/The Prodigal Son and Jonah\|The Prodigal Son and Jonah]]                                                                                                           |
 | [[Gate of Discernment/The Exodus and Jonah\|The Exodus and Jonah]]                                                                                                                       |
 | [[Gate of Wisdom/N/Neighbor\|Neighbor]]                                                                                                                                                  |
+| [[Gate of Wisdom/Beings/Human Beings/Jeroboam II\|Jeroboam II]]                                                                                                                          |
+| [[Gate of Wisdom/Sources/Torah Class\|Torah Class]]                                                                                                                                      |
+| [[Gate of Foundation/The Seventh Day Rest/The Seventh Day Rest Old Testament Survey Findings\|The Seventh Day Rest Old Testament Survey Findings]]                                       |
 
 { .block-language-dataview}
 
