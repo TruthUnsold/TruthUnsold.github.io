@@ -21,7 +21,7 @@ Mishpatim is plural
 
 | file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[_Assets/AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Gate of Wisdom/T/Torah.md\\|Torah]]</li><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/J/Judge.md\\|Judge]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Judgment.md\\|Judgment]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Foundation/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Discernment/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Checklist for Commandment texts.md\\|Checklist for Commandment texts]]</li><li>[[Gate of Correction/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Correction/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Correction/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Correction/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Correction/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Correction/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Correction/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Correction/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Wisdom/Right Standing/Statutes (Chuqim).md\\|Statutes (Chuqim)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Correction/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Correction/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Correction/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/T/Torah.md\\|Torah]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/J/Judge.md\\|Judge]]</li><li>[[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tablets of Testimony.md\\|Tablets of Testimony]]</li><li>[[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Judgment.md\\|Judgment]]</li><li>[[Gate of Foundation/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Discernment/59 James-04 Yada Yada.md\\|59 James-04 Yada Yada]]</li><li>[[Gate of Correction/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Correction/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Correction/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Correction/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Correction/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Correction/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Correction/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Correction/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Checklist for Commandment texts.md\\|Checklist for Commandment texts]]</li><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[_Assets/AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/Right Standing/Statutes (Chuqim).md\\|Statutes (Chuqim)]]</li><li>[[Gate of Correction/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Correction/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Correction/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li></ul> |
 
 { .block-language-dataview}
 
@@ -54,8 +54,8 @@ Mishpatim is plural
 		- harden your heart #DoNot 
 		- shut your hand from him #DoNot 
 	- Do
-		- open your hand to him #Dos 
-		- lend him sufficient for his needs #Dos 
+		- open your hand to him #Do 
+		- lend him sufficient for his needs #Do 
 			- which he lacks
 	- Beware
 		- Do not
@@ -96,12 +96,12 @@ Mishpatim is plural
 - [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
 - **Outline:** *
 	- Do
-		- Make judges and officers #Dos 
+		- Make judges and officers #Do 
 			- in all your gates
 				- which YHWH gives you
 				- according to your tribes
 			- they shall [[Gate of Wisdom/J/Judge\|Judge]] the people with [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] Judgement
-		- Follow that which is altogether just #Dos 
+		- Follow that which is altogether just #Do 
 
 	- Do Not
 		- pervert justice #DoNot 
@@ -139,12 +139,12 @@ Mishpatim is plural
 		- stroke and stroke
 		- matters of controversy within your gates
 	- Do
-		- go to the place which YHWH chooses #Dos 
+		- go to the place which YHWH chooses #Do 
 			- come to the priests
 				- who are Levites
 			- and to the judge
 				- who shall be in those days
-		- inquire and they will give you a verdict #Dos 
+		- inquire and they will give you a verdict #Do 
 			- do according to their decision
 			- observe to do according to all that they shall teach you
 				- according to the decisions of the law
@@ -192,9 +192,9 @@ Mishpatim is plural
 		- chop down it's trees #DoNot 
 			- a tree is not a human that you should besiege it
 	- Do
-		- eat fruit from them #Dos 
-		- chop down any tree not suitable for food #Dos 
-			- us it to build siege works against the city #Dos 
+		- eat fruit from them #Do 
+		- chop down any tree not suitable for food #Do 
+			- us it to build siege works against the city #Do 
 				- until the city falls
 - **Blessing:**
     - None explicitly stated
@@ -246,7 +246,7 @@ Mishpatim is plural
 				- donkey or ox
 					- fallen down by the way
 	- Do
-		- bring them again #Dos 
+		- bring them again #Do 
 			- to your brother
 				- if the brother 
 					- isn't near
@@ -254,7 +254,7 @@ Mishpatim is plural
 				- then bring it to your home
 					- it will be with  you until your brother comes looking for it
 						- then you will restore it to him.
-		- lift them up again #Dos 
+		- lift them up again #Do 
 - **Blessing:**
     - None explicitly stated
     - The implied blessing is **communal trust and social cohesion** — a community where lost property is returned and fallen animals are helped back up is one where neighbors bear genuine responsibility for one another
@@ -284,7 +284,7 @@ Mishpatim is plural
 - **Outline:** 
 	- When you build a new house
 	- Do
-		- make a railing around your roof #Dos 
+		- make a railing around your roof #Do 
 	- So that
 		- you don't bring blood on your house
 			- if someone falls from there
@@ -313,12 +313,12 @@ Mishpatim is plural
 		- accuses her of shameful things
 		- gives her a bad name
 		- and says "I took this woman and when I came near to her I didn't find in her the tokens of virginity"
-	- Then the young lady's father and mother shall #Dos 
+	- Then the young lady's father and mother shall #Do 
 		- take and bring the tokens
 			- of the lady's virginity to the elders of the city gate
 		- tell the elders "I gave my daughter to this man as his wife and he hates her"
 		- spread the cloth before the elders of the city
-	- The elders of the city shall #Dos 
+	- The elders of the city shall #Do 
 		- If Not True
 			- take the man and chastise him
 			- fine him one hundred shekels of silver
@@ -330,7 +330,7 @@ Mishpatim is plural
 				- Because she has done folly in Israel
 				- to play the prostitute in her father's house
 				- So you shall remove the evil from among you
-	- If not true - The young lady shall #Dos 
+	- If not true - The young lady shall #Do 
 		- be his wife
 		- he may not put her away all his days		- 
 - **Blessing:**
@@ -394,7 +394,7 @@ Mishpatim is plural
 			- to his master
 		- oppress him #DoNot 
 	- Do
-		- he will dwell with you #Dos 
+		- he will dwell with you #Do 
 			- among you
 			- in a place of his choose
 				- within your gates
@@ -421,7 +421,7 @@ Mishpatim is plural
 				- food
 				- anything that is lent
 	- Do (you may)
-		- charge a [[Gate of Wisdom/Beings/Human Beings/Foreigner\|Foreigner]] interest #Dos 
+		- charge a [[Gate of Wisdom/Beings/Human Beings/Foreigner\|Foreigner]] interest #Do 
 	- So that
 		- YHWH may bless you
 			- in all that you put your hand to
@@ -448,9 +448,9 @@ Mishpatim is plural
 		- vineyard
 		- standing grain
 	- Do
-		- eat your fill of grapes #Dos 
+		- eat your fill of grapes #Do 
 			- at your own pleasure
-		- pluck the ears with your hand #Dos 
+		- pluck the ears with your hand #Do 
 			- with your hand
 	- Do Not
 		- put any in your container #DoNot 
@@ -556,7 +556,7 @@ Mishpatim is plural
 			- to get his pledge
 		- if he is poor do not sleep with his pledge #DoNot 
 	- Do
-		- stand outside #Dos 
+		- stand outside #Do 
 			- the man to whom you lend
 				- will bring the pledge outside to you	
 		- if he is poor restore him to him the pledge
@@ -590,7 +590,7 @@ Mishpatim is plural
 		- let sun go down on his wages #DoNot 
 		
 	- Do
-		- in his day given him  his wages #Dos 
+		- in his day given him  his wages #Do 
 		
 	- Because
 		- he is poor
@@ -626,8 +626,8 @@ Mishpatim is plural
 		- take widows clothing in pledge #DoNot 
 
 	- Do
-		- remember you were a slave in Egypt #Dos 
-		- remember YHWH redeemed you #Dos 
+		- remember you were a slave in Egypt #Do 
+		- remember YHWH redeemed you #Do 
 - **Penalty or Consequence**: 
 	- No explicit penalty, but risks divine judgment (Deut. 28:15-68).
 - **Offering or Ransom**: 
@@ -650,11 +650,11 @@ Mishpatim is plural
 		- go over the boughs again #DoNot 
 		- do not glean it after #DoNot 
 	- Do
-		- the sheaf, bough, fruit will be for #Dos 
+		- the sheaf, bough, fruit will be for #Do 
 			- the [[Gate of Wisdom/Beings/Human Beings/Foreigner\|Foreigner]]
 			- the fatherless
 			- the widow
-		- remember that you were a slave in the land of Egypt #Dos 
+		- remember that you were a slave in the land of Egypt #Do 
 	- So that
 		- YHWH may bless you in all the work of your hands
 - **Penalty or Consequence**: 
@@ -674,8 +674,8 @@ Mishpatim is plural
 		- the judges judge them
 		
 	- Do
-		- justify the righteous #Dos 
-		- condemn the wicked #Dos 
+		- justify the righteous #Do 
+		- condemn the wicked #Do 
 			- if worth to be beaten
 				- judge will 
 					- cause him to lie down
@@ -748,9 +748,9 @@ Mishpatim is plural
 	- Do
 		- establish the matter 
 			- at the mouth of 
-				- two witnesses #Dos 
+				- two witnesses #Do 
 				- or three witnesses
-		- if an [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] witness testifies #Dos 
+		- if an [[Gate of Wisdom/Right Standing/Unrighteous\|Unrighteous]] witness testifies #Do 
 			- against him of wrongdoing
 				- both the men (man accused of iniquity or sin and the unrighteous witness)
 					- stand before
@@ -762,7 +762,7 @@ Mishpatim is plural
 							- has testified falsely against his brother (fellow member of his covenant community)
 							- do to him as he thought to do to his brother (the man accused of iniquity or sin)
 							- remove the evil from among you
-			- those who remain shall #Dos 
+			- those who remain shall #Do 
 				- hear
 				- fear
 				- never again commit any such evil (false witness) among you
@@ -1105,14 +1105,14 @@ Mishpatim is plural
 			- ox
 			- donkey
 	- Do
-		- bring it back to him again #Dos 
+		- bring it back to him again #Do 
 	- if you see ... fallen down under his burden
 		- someone who hates you
 			- donkey
 	- Do Not
 		- leave him #DoNot 
 	- Do
-		- help him with it #Dos 
+		- help him with it #Do 
 - **Blessing:**
     - None specified
 - **Penalty or Consequence:**
@@ -1140,7 +1140,7 @@ Mishpatim is plural
 			- Because you know their heart since you were foreigners in the land of Egypt.
 		
 	- Do
-		- keep far from a false charge  #Dos 
+		- keep far from a false charge  #Do 
 - **Penalty or Consequence**: 
 	- Yahweh will not acquit the one who justifies the wicked; bribery perverts justice.
 - **Offering or Ransom**: 
@@ -1172,9 +1172,9 @@ Mishpatim is plural
 		- glean your vineyard #DoNot
 		- gather the fallen grapes from your vineyard #DoNot
 	- Do
-		- leave //the corners of your field// for the [[Gate of Wisdom/P/Poor\|Poor]] and the [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]] #Dos 
-		- leave //the [[Gate of Wisdom/G/gleaning\|gleaning]]s of your harvest and vineyard for the poor and the Stranger #Dos 
-		- leave //the fallen grapes// for the poor and the stranger #Dos 
+		- leave //the corners of your field// for the [[Gate of Wisdom/P/Poor\|Poor]] and the [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]] #Do 
+		- leave //the [[Gate of Wisdom/G/gleaning\|gleaning]]s of your harvest and vineyard for the poor and the Stranger #Do 
+		- leave //the fallen grapes// for the poor and the stranger #Do 
 	- Because
 		- YHWH is your god
 - **Penalty or Consequence**: 
@@ -1250,7 +1250,7 @@ Mishpatim is plural
 	   * be partial to the poor #DoNot 
 	   * show favoritism to the great #DoNot 
    * Do
-	   * judge your neighbor in [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]] #Dos 
+	   * judge your neighbor in [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]] #Do 
 
 * **Blessing:**
    * No explicit blessing stated in the verse.
@@ -1273,7 +1273,7 @@ Mishpatim is plural
 * [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 * **Outline:**
    * Do
-	   * Keep my [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] #Dos 
+	   * Keep my [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] #Do 
    * Do Not
 	   * cross-breed different kinds of animals #DoNot 
 	   * sow your field with two kinds of seeds #DoNot 

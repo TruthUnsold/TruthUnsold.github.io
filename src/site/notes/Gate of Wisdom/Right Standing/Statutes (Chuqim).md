@@ -21,8 +21,8 @@
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - **Outline:**  
 	- Do
-		- for six days work #Dos 
-		- on seventh day rest #Dos 
+		- for six days work #Do 
+		- on seventh day rest #Do 
 	- So that
 		- may rest
 			- ox
@@ -67,8 +67,8 @@ and when Yahweh your God delivers them up before you, and you strike them, then 
 - **Outline:**  
 	- When YHWH delivers them //the seven nations// before you
 	- Do
-		- strike them #Dos 
-		- utterly destroy them #Dos 
+		- strike them #Do 
+		- utterly destroy them #Do 
 	- Do Not
 		- make no covenant with them #DoNot 
 		- show mercy #DoNot 
@@ -152,8 +152,8 @@ and when Yahweh your God delivers them up before you, and you strike them, then 
 	- Do not
 		- take the hen with the young #DoNot 
 	- Do
-		- let the hen go #Dos 
-		- take the young for yourself #Dos 
+		- let the hen go #Do 
+		- take the young for yourself #Do 
 	- So that
 		- it may be well with you
 		- you may prolong your days. 
@@ -207,16 +207,16 @@ and when Yahweh your God delivers them up before you, and you strike them, then 
    * When you enter the land and plant any fruit tree
 	   * for three years
 		   * Do
-			   * consider it's fruit to be uncircumcised //[[Gate of Wisdom/Good News/Uncircumcised\|Uncircumcised]]// #Dos 
+			   * consider it's fruit to be uncircumcised //[[Gate of Wisdom/Good News/Uncircumcised\|Uncircumcised]]// #Do 
 		   * Do not
 			   * it will be forbidden to you #DoNot 
 			   * it must not be eaten #DoNot 
 	   * In the fourth year
 		   * all it's fruit will be
-			   * [[Gate of Wisdom/H/Holy\|Holy]] //set apart// #Dos 
-			   * praise offerings to YHWH #Dos 
+			   * [[Gate of Wisdom/H/Holy\|Holy]] //set apart// #Do 
+			   * praise offerings to YHWH #Do 
 	   * In the fifth year
-		   * you shall eat its fruit #Dos 
+		   * you shall eat its fruit #Do 
 			   * that it may yield it's increase to you
    * I am YHWH
 	   * your god
@@ -332,7 +332,7 @@ and when Yahweh your God delivers them up before you, and you strike them, then 
 		- anything that dies of itself
 			- give it to the [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]] living among you who is within your gates
 			- sell it to a [[Gate of Wisdom/Beings/Human Beings/Foreigner\|Foreigner]]
-	- Do Eat #Dos 
+	- Do Eat #Do 
 		- ox
 		- sheep
 		- goat
@@ -402,7 +402,7 @@ and when Yahweh your God delivers them up before you, and you strike them, then 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:** 
 	- This is the law of the animal, and of the bird, and of every living creature that moves in the waters, and of every creature that creeps on the earth, 47 to make a distinction between the unclean and the clean, and between the living thing that may be eaten and the living thing that may not be eaten.’
-	- Do Eat (living things which are food) #Dos 
+	- Do Eat (living things which are food) #Do 
 		- Animals: which parts the hoof and is cloven-footed, and chews the cud
 		- In the waters, seas, rivers: whatever has fins and scales
 		- Insects: all winged creeping things that go on all fours, which have long, jointed legs for hopping on the earth. Even of these you may eat: any kind of locust, any kind of katydid, any kind of cricket, and any kind of grasshopper
@@ -515,7 +515,7 @@ and when Yahweh your God delivers them up before you, and you strike them, then 
 		- I have given you an altar to make [[Gate of Wisdom/Consequence/Disobedience/Atonement\|Atonement]] for your souls
 			- for it is the blood that makes atonement by reason of the life
 	- Do
-		- When hunting any animal or bird that may be eaten #Dos 
+		- When hunting any animal or bird that may be eaten #Do 
 			- poor out its blood
 			- cover the blood with dust
 - **Blessing:**
@@ -558,8 +558,8 @@ and when Yahweh your God delivers them up before you, and you strike them, then 
 * [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 * **Outline:**
    * Do
-	   * Respect mother and father #Dos 
-	   * keep my [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] #Dos 
+	   * Respect mother and father #Do 
+	   * keep my [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] #Do 
    * Because
 	   * I am YHWH
 		   * your [[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]]
@@ -590,7 +590,7 @@ and when Yahweh your God delivers them up before you, and you strike them, then 
 		   * with another man's wife
 		   * with a neighbor's wife
 	* the adulterer and the adulteress
-		* shall be put to death #Dos 
+		* shall be put to death #Do 
 
 * **Blessing:**
    * No explicit blessing stated in the verse.
@@ -613,11 +613,11 @@ and when Yahweh your God delivers them up before you, and you strike them, then 
 * [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
 * **Outline:**
 	- Do
-		- keep and do all my [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] #Dos 
-		- keep and do all my [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]] #Dos 
+		- keep and do all my [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] #Do 
+		- keep and do all my [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]] #Do 
 			- that the land where I bring you to dwell will not vomit you out
-		- make a distinction between [[Gate of Wisdom/C/Clean\|Clean]] and [[Gate of Wisdom/U/Unclean\|Unclean]] animals #Dos 
-		- make a distinction between clean and unclean fowl #Dos 
+		- make a distinction between [[Gate of Wisdom/C/Clean\|Clean]] and [[Gate of Wisdom/U/Unclean\|Unclean]] animals #Do 
+		- make a distinction between clean and unclean fowl #Do 
 		- be [[Gate of Wisdom/H/Holy\|Holy]] to me
 	- Do Not
 		- walk in the customs of the [[Gate of Wisdom/Beings/Human Beings/nation\|nation]] which I am casting out before you #DoNot 
@@ -658,10 +658,10 @@ and when Yahweh your God delivers them up before you, and you strike them, then 
 * [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
 * **Outline:**
    * Do
-	   * six days shall work be done #Dos 
+	   * six days shall work be done #Do 
 	   * the seventh day is 
-		   * a [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] of solemn rest #Dos 
-		   * a [[Gate of Wisdom/H/Holy\|Holy]] convocation #Dos 
+		   * a [[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] of solemn rest #Do 
+		   * a [[Gate of Wisdom/H/Holy\|Holy]] convocation #Do 
    * Do not
 	   * on the seventh day do no kind of work #DoNot 
    * Because
@@ -694,9 +694,9 @@ and when Yahweh your God delivers them up before you, and you strike them, then 
 		- On the [[15\|15]]th day is [[Gate of Wisdom/Appointed Time/Feast of Unleavened Bread\|Feast of Unleavened Bread]]
 			- to YHWH
 	- Do
-		- [[Gate of Wisdom/Numbers/07\|07]] days you eat unleavened bread #Dos 
-		- In the [[Gate of Wisdom/Numbers/01\|01]]st and [[Gate of Wisdom/Numbers/07\|07]]th day you shall have a holy convocation. #Dos 
-		- offer an offering made by fire [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]] #Dos 
+		- [[Gate of Wisdom/Numbers/07\|07]] days you eat unleavened bread #Do 
+		- In the [[Gate of Wisdom/Numbers/01\|01]]st and [[Gate of Wisdom/Numbers/07\|07]]th day you shall have a holy convocation. #Do 
+		- offer an offering made by fire [[Gate of Wisdom/Offering/Burnt Offering\|Burnt Offering]] #Do 
 			- to YHWH
 			- for seven days
 	- Do Not
@@ -724,10 +724,10 @@ and when Yahweh your God delivers them up before you, and you strike them, then 
 * [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
 * **Outline:**
    * Do
-	   * make the fiftieth year [[Gate of Wisdom/H/Holy\|Holy]] #Dos 
-	   * proclaim liberty throughout the land #Dos 
+	   * make the fiftieth year [[Gate of Wisdom/H/Holy\|Holy]] #Do 
+	   * proclaim liberty throughout the land #Do 
 		   * to all its inhabitants
-	   * it will be a [[Gate of Wisdom/Appointed Time/Jubilee\|Jubilee]] to you #Dos 
+	   * it will be a [[Gate of Wisdom/Appointed Time/Jubilee\|Jubilee]] to you #Do 
 		   * return to your own property
 		   * return to your family
 

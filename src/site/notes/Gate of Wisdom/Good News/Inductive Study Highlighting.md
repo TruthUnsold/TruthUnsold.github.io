@@ -3,7 +3,6 @@
 ---
 
 
-
 | Name (type in Hilo)                                    | Color  |
 | ------------------------------------------------------ | ------ |
 | #who                                                   |        |
@@ -16,6 +15,8 @@
 | =={character-minor}character-minor==                   | BFD6F2 |
 | =={david}david==                                       | 2F5FD0 |
 | =={disciple-apostle}disciple-apostle==                 | 9B3FD9 |
+| #Do  Instructions                                     | 129088 |
+| #donot  Instructions                                   | ff4d4d |
 | =={ezekiel}ezekiel==                                   | F58FC0 |
 | =={follower-believer}follower-believer==               | 3FC14F |
 | =={god}god==                                           | F5D84A |

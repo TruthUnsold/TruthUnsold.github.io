@@ -18,7 +18,7 @@
 
 | file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[_Assets/AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Checklist for Commandment texts.md\\|Checklist for Commandment texts]]</li><li>[[Gate of Correction/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Correction/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Correction/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Correction/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Correction/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Correction/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Correction/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Correction/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Wisdom/Right Standing/Statutes (Chuqim).md\\|Statutes (Chuqim)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Correction/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Correction/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Correction/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li></ul> |
+| <ul><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Correction/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Correction/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Correction/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Correction/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Correction/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Correction/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Correction/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Correction/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Checklist for Commandment texts.md\\|Checklist for Commandment texts]]</li><li>[[_Assets/AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/Right Standing/Statutes (Chuqim).md\\|Statutes (Chuqim)]]</li><li>[[Gate of Correction/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Correction/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Correction/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li></ul> |
 
 { .block-language-dataview}
 
@@ -86,13 +86,13 @@
 - **Outline:** 
 	- What does Yah require of you
 	- Do
-		- Fear him #Dos 
-		- Walk in all his ways #Dos 
-		- [[Gate of Wisdom/Ruach/Fruit/Love\|Love]] <mark style="background: #CD04BBA6;">//ahav//</mark> him #Dos 
-		- [[Gate of Wisdom/S/Serve\|Serve]] him with #Dos 
+		- Fear him #Do 
+		- Walk in all his ways #Do 
+		- [[Gate of Wisdom/Ruach/Fruit/Love\|Love]] <mark style="background: #CD04BBA6;">//ahav//</mark> him #Do 
+		- [[Gate of Wisdom/S/Serve\|Serve]] him with #Do 
 			- all your heart
 			- all your soul
-		- Keep his [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] and  [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] #Dos 
+		- Keep his [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] and  [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] #Do 
 			- which are given here today
 				- for your good
 	- Because
@@ -134,8 +134,8 @@
 	- Therefore (looking back in the text)
 		- Because God has been faithful and redeemed you
 	- Do
-		- love him #Dos 
-		- at all times keep his #Dos 
+		- love him #Do 
+		- at all times keep his #Do 
 			- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 			- [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
 			- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]			- 
@@ -204,7 +204,7 @@
 * [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
 * **Outline:**
    * Do
-	   * be [[Gate of Wisdom/B/Blameless\|Blameless]] #Dos 
+	   * be [[Gate of Wisdom/B/Blameless\|Blameless]] #Do 
 		   * with YHWH
 
 * **Blessing:**
@@ -358,7 +358,7 @@
 	   * all the congregation 
 		   * of children of [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]] ([[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]) <mark style="background: #CD04BBA6;">//congregation = ecclesia in Greek//</mark>
    * Do
-	   * be Set-apart ([[Gate of Wisdom/H/Holy\|Holy]]) #Dos 
+	   * be Set-apart ([[Gate of Wisdom/H/Holy\|Holy]]) #Do 
    * Because
 	   * YHWH is set-apart
 
@@ -381,8 +381,8 @@
 * [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
 * **Outline:**
    * Do
-	   * [[Gate of Wisdom/S/Sanctify\|Sanctify]] (qadosh) yourselves #Dos 
-	   * Be set-apart (qodesh) [[Gate of Wisdom/H/Holy\|Holy]] #Dos 
+	   * [[Gate of Wisdom/S/Sanctify\|Sanctify]] (qadosh) yourselves #Do 
+	   * Be set-apart (qodesh) [[Gate of Wisdom/H/Holy\|Holy]] #Do 
    * Because
 	   * I am YHWH
 		   * your [[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]]
