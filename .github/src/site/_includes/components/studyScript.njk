@@ -1,0 +1,111 @@
+{% raw %}
+<script>
+/* Bible study helper for the published garden.
+   1) Gives every tag a data-content attribute (#WHO etc.) for the tag ovals.
+   2) Turns <mark>{name}text</mark> into <mark class="hl-name"> with the color
+      from the list below, and removes the visible {name} token. */
+(function () {
+  var COLORS = {
+    "inline-note": "#CD04BB",
+    "general": "#FF9EF6",
+    "general-bar": "#F309DD",
+    "who": "#E0CC4B",
+    "who2": "#B2A23A",
+    "who3": "#A4A089",
+    "yhwh-yeshua": "#D7CD91",
+    "seed": "#DDCC5E",
+    "tree": "#BAAC50",
+    "adversary": "#E53E3E",
+    "what": "#04CD3E",
+    "consequence": "#94DEA9",
+    "instructions": "#61A273",
+    "offering": "#67CD83",
+    "righteous": "#4FA466",
+    "separation": "#4AB867",
+    "abomination": "#2AC052",
+    "when": "#D2B3FF",
+    "appointed-time": "#A284CD",
+    "where": "#4DA6ED",
+    "dwelling-place": "#397CB2",
+    "tabernacle": "#258FE5",
+    "adversarial-place": "#E68989",
+    "why-purpose": "#E6852C",
+    "why-reason": "#EB9E57",
+    "conditional-if-then": "#CFA57F",
+    "how": "#7FC1CF",
+    "ruach": "#67A9B7",
+    "question-answer": "#CACFD9",
+    "connecting-thought": "#A8ADB8",
+    "abraham-sarah": "#1FC24D",
+    "adam-eve": "#C9A8F5",
+    "agents-of-yhwh": "#2E9E4F",
+    "author": "#F27AB5",
+    "character-major": "#7FB2EA",
+    "character-minor": "#BFD6F2",
+    "david": "#2F5FD0",
+    "disciple-apostle": "#9B3FD9",
+    "ezekiel": "#F58FC0",
+    "follower-believer": "#3FC14F",
+    "god": "#F5D84A",
+    "holy-spirit": "#F8E88A",
+    "human-kind": "#D2B49A",
+    "isaac": "#A9E6A0",
+    "israelites": "#2F7BE0",
+    "jacob-israel": "#29A844",
+    "jew": "#FF7BA9",
+    "john-immerser": "#8E3FD6",
+    "joseph": "#1E4FBF",
+    "joshua": "#B04FE0",
+    "judah-tamar": "#8CC9B4",
+    "king-civil-ruler": "#1457C9",
+    "levi": "#2A74D9",
+    "moses": "#3C86E8",
+    "noah": "#2E7BE6",
+    "prophet-priest": "#FF8CC6",
+    "circumcision": "#E0B89C",
+    "consequence-disobedience": "#F29A3A",
+    "consequence-obedience": "#9A5FD6",
+    "covenant": "#F2E24A",
+    "emotion": "#98E6A0",
+    "jesus-yah-said": "#7DB8EE",
+    "lawless": "#D92B2B",
+    "nations-people-group": "#6FCFC0",
+    "of-note": "#1E8E3E",
+    "repeated-word": "#F2994A",
+    "right-standing": "#B8EDB0",
+    "sign": "#3D8FE0"
+  };
+
+  function run() {
+    /* tags: make sure each tag carries its name so the CSS can find it */
+    var tags = document.querySelectorAll("a.tag");
+    for (var t = 0; t < tags.length; t++) {
+      if (!tags[t].hasAttribute("data-content")) {
+        tags[t].setAttribute("data-content", tags[t].textContent.trim());
+      }
+    }
+
+    /* Hilo highlights */
+    var marks = document.querySelectorAll("mark");
+    for (var i = 0; i < marks.length; i++) {
+      var m = marks[i];
+      var node = m.firstChild;
+      if (!node || node.nodeType !== 3) continue;
+      var match = /^\{([a-z0-9][a-z0-9-]*)\}/.exec(node.nodeValue);
+      if (!match) continue;
+      var slug = match[1];
+      if (!Object.prototype.hasOwnProperty.call(COLORS, slug)) continue;
+      m.classList.add("hl-" + slug);
+      m.style.setProperty("--hl-bg", COLORS[slug]);
+      node.nodeValue = node.nodeValue.slice(match[0].length);
+    }
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", run);
+  } else {
+    run();
+  }
+})();
+</script>
+{% endraw %}
