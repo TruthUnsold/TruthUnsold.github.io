@@ -65,3 +65,719 @@ span:contains("[fruit]") + mark { background:#b6d7a8; }
 span:contains("[connect]") + mark { background:#e6b8af; }
 
 }
+
+/* ==========================================================================
+   BIBLE STUDY STYLES FOR THE PUBLISHED GARDEN
+   Paste this at the END of src/site/styles/custom-style.scss
+   Part 1: tag ovals (#WHO, #WHAT, ...)  - needs the small script for tags
+   Part 2: highlight marks               - old Highlightr + Hilo highlights
+   ========================================================================== */
+
+/* ---- PART 1: TAG OVALS ---- */
+
+/* Shared oval look */
+a.tag[data-content="#ANSWER" i],
+a.tag[data-content="#WHAT" i],
+a.tag[data-content="#WHEN" i],
+a.tag[data-content="#WHERE" i],
+a.tag[data-content="#WHO" i],
+a.tag[data-content="#HOW" i],
+a.tag[data-content="#QUESTION" i],
+a.tag[data-content="#IF" i],
+a.tag[data-content="#THEN" i],
+a.tag[data-content="#GoodNews" i],
+a.tag[data-content="#Hyperlink" i],
+a.tag[data-content="#Idiom" i],
+a.tag[data-content="#LawOfMan" i],
+a.tag[data-content="#LawOfYHWH" i],
+a.tag[data-content="#LawTorah" i],
+a.tag[data-content="#PURPOSE" i],
+a.tag[data-content="#REASON" i] {
+  display: inline-block !important;
+  color: #000000 !important;
+  -webkit-text-fill-color: #000000 !important;
+  font-size: 0.75rem !important;
+  font-weight: 700 !important;
+  line-height: 1.5 !important;
+  text-transform: uppercase !important;
+  text-decoration: none !important;
+  padding: 2px 9px 3px 9px !important;
+  margin: 0 2px !important;
+  border: none !important;
+  border-radius: 12px !important;
+  box-shadow: none !important;
+  font-family: var(--font-sans, sans-serif);
+}
+
+a.tag[data-content="#ANSWER" i] {
+  background-color: #d92b85 !important;
+}
+
+a.tag[data-content="#WHAT" i] {
+  background-color: #009e2d !important;
+}
+
+a.tag[data-content="#WHEN" i] {
+  background-color: #5911a3 !important;
+}
+
+a.tag[data-content="#WHERE" i] {
+  background-color: #0059cc !important;
+}
+
+a.tag[data-content="#WHO" i] {
+  background-color: #fce344 !important;
+}
+
+a.tag[data-content="#HOW" i] {
+  background-color: #d99100 !important;
+}
+
+a.tag[data-content="#QUESTION" i] {
+  background-color: #ff99cc !important;
+}
+
+a.tag[data-content="#IF" i] {
+  background-color: #ffb780 !important;
+}
+
+a.tag[data-content="#THEN" i] {
+  background-color: #e04a00 !important;
+}
+
+a.tag[data-content="#GoodNews" i] {
+  background-color: #77C58D !important;
+}
+
+a.tag[data-content="#Hyperlink" i] {
+  background-color: #c9ccd1 !important;
+}
+
+a.tag[data-content="#Idiom" i] {
+  background-color: #9aa1aa !important;
+}
+
+a.tag[data-content="#LawOfMan" i] {
+  background-color: #e05252 !important;
+}
+
+a.tag[data-content="#LawOfYHWH" i] {
+  background-color: #a8dc7a !important;
+}
+
+a.tag[data-content="#LawTorah" i] {
+  background-color: #3fae5b !important;
+}
+
+/* #PURPOSE and #REASON show "#WHY": hide the real text, draw the oval with ::after */
+a.tag[data-content="#PURPOSE" i],
+a.tag[data-content="#REASON" i] {
+  font-size: 0 !important;
+  background: transparent !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border-radius: 0 !important;
+}
+a.tag[data-content="#PURPOSE" i]::after,
+a.tag[data-content="#REASON" i]::after {
+  content: "#WHY";
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  -webkit-text-fill-color: #000000;
+  padding: 2px 9px 3px 9px;
+  margin: 0 2px;
+  border-radius: 12px;
+}
+
+a.tag[data-content="#PURPOSE" i]::after {
+  background-color: #ff6600;
+}
+
+a.tag[data-content="#REASON" i]::after {
+  background-color: #b35300;
+}
+
+/* ---- PART 2: HIGHLIGHT MARKS ----
+   - Old Highlightr highlights (<mark style="background: #...">) are matched
+     by color code.
+   - Hilo highlights (class hl-<name>, added by the script) are matched by name.
+   Solid fills use dark text so they stay readable on a dark theme. */
+
+/* ==========================================================================
+   HIGHLIGHTR MARKS
+   Restyles your existing Highlightr highlights (saved as inline colors)
+   by matching each color code. The color of each style is unchanged;
+   only the LOOK changes (fill, bar, box, wavy line, etc.).
+   Works in Live Preview and Reading mode.
+   ========================================================================== */
+
+/* ---- Step 1: remember each style's own color ---- */
+
+/* My thoughts and observations */
+mark[style*="CD04BBA6" i] { --hl: #CD04BBA6; }  /* In line note */
+mark[style*="FF9EF6A6" i] { --hl: #FF9EF6A6; }  /* General Highlight */
+mark[style*="F309DDA6" i] { --hl: #F309DDA6; }  /* General Highlight (bar) */
+
+/* WHO */
+mark[style*="E0CC4BA6" i] { --hl: #E0CC4BA6; }  /* Who */
+mark[style*="B2A23AA6" i] { --hl: #B2A23AA6; }  /* Who 2 */
+mark[style*="A4A089A6" i] { --hl: #A4A089A6; }  /* Who 3 */
+mark[style*="D7CD91A6" i] { --hl: #D7CD91A6; }  /* YHWH or Yeshua/Jesus */
+mark[style*="DDCC5EA6" i] { --hl: #DDCC5EA6; }  /* Seed */
+mark[style*="BAAC50A6" i] { --hl: #BAAC50A6; }  /* Tree */
+mark[style*="E53E3E" i]   { --hl: #E53E3E; }    /* Adversary */
+
+/* WHAT */
+mark[style*="04CD3EA6" i] { --hl: #04CD3EA6; }  /* What */
+mark[style*="94DEA9A6" i] { --hl: #94DEA9A6; }  /* Consequence */
+mark[style*="61A273A6" i] { --hl: #61A273A6; }  /* Instructions (law, command) */
+mark[style*="67CD83A6" i] { --hl: #67CD83A6; }  /* Offering */
+mark[style*="4FA466A6" i] { --hl: #4FA466A6; }  /* Righteous / Unrighteous */
+mark[style*="4AB867A6" i] { --hl: #4AB867A6; }  /* Separation from Yah-God, Death */
+mark[style*="2AC052A6" i] { --hl: #2AC052A6; }  /* Abomination */
+
+/* WHEN */
+mark[style*="D2B3FFA6" i] { --hl: #D2B3FFA6; }  /* When */
+mark[style*="A284CDA6" i] { --hl: #A284CDA6; }  /* Appointed Time */
+
+/* WHERE */
+mark[style*="4DA6EDA6" i] { --hl: #4DA6EDA6; }  /* Where */
+mark[style*="397CB2A6" i] { --hl: #397CB2A6; }  /* Dwelling Place */
+mark[style*="258FE5A6" i] { --hl: #258FE5A6; }  /* Tabernacle or Tabernacle Elements */
+mark[style*="E68989" i]   { --hl: #E68989; }    /* Adversarial Place */
+
+/* WHY */
+mark[style*="E6852CA6" i] { --hl: #E6852CA6; }  /* Why Purpose */
+mark[style*="EB9E57A6" i] { --hl: #EB9E57A6; }  /* Why Reason */
+mark[style*="CFA57FA6" i] { --hl: #CFA57FA6; }  /* Conditional IF Then */
+
+/* HOW */
+mark[style*="7FC1CFA6" i] { --hl: #7FC1CFA6; }  /* How */
+mark[style*="67A9B7A6" i] { --hl: #67A9B7A6; }  /* Ruach / Holy Spirit Gift or Fruit */
+
+/* QUESTION / ANSWER */
+mark[style*="CACFD9A6" i] { --hl: #CACFD9A6; }  /* Question and Answer */
+mark[style*="A8ADB8A6" i] { --hl: #A8ADB8A6; }  /* Connecting Thought */
+
+/* ---- Step 2: the looks ---- */
+
+/* FILL: solid highlight */
+mark[style*="FF9EF6A6" i], mark[style*="E0CC4BA6" i], mark[style*="D7CD91A6" i],
+mark[style*="E53E3E" i],   mark[style*="04CD3EA6" i], mark[style*="67CD83A6" i],
+mark[style*="D2B3FFA6" i], mark[style*="4DA6EDA6" i], mark[style*="E6852CA6" i],
+mark[style*="7FC1CFA6" i], mark[style*="CACFD9A6" i] {
+  background: var(--hl) !important;
+  color: #111111 !important;
+  padding: 0 3px !important;
+  border: none !important;
+  border-radius: 3px !important;
+  text-decoration: none !important;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+/* BAR: thick colored bar under the text */
+mark[style*="F309DDA6" i], mark[style*="B2A23AA6" i], mark[style*="397CB2A6" i],
+mark[style*="E68989" i],   mark[style*="EB9E57A6" i], mark[style*="67A9B7A6" i] {
+  background: linear-gradient(to bottom, transparent 78%, var(--hl) 78%) !important;
+  color: inherit !important;
+  padding: 0 2px !important;
+  border: none !important;
+  border-radius: 0 !important;
+  text-decoration: none !important;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+/* BOX: outlined box, no fill */
+mark[style*="CD04BBA6" i], mark[style*="A4A089A6" i],
+mark[style*="61A273A6" i], mark[style*="258FE5A6" i] {
+  background: none !important;
+  color: inherit !important;
+  padding: 0 3px !important;
+  border: 2px solid var(--hl) !important;
+  border-radius: 3px !important;
+  text-decoration: none !important;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+/* DOUBLE BOX */
+mark[style*="A284CDA6" i] {
+  background: none !important;
+  color: inherit !important;
+  padding: 0 3px !important;
+  border: 4px double var(--hl) !important;
+  border-radius: 2px !important;
+  text-decoration: none !important;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+/* WAVY underline */
+mark[style*="DDCC5EA6" i], mark[style*="94DEA9A6" i], mark[style*="CFA57FA6" i] {
+  background: none !important;
+  color: inherit !important;
+  padding: 0 !important;
+  border: none !important;
+  text-decoration-line: underline !important;
+  text-decoration-style: wavy !important;
+  text-decoration-color: var(--hl) !important;
+  text-decoration-thickness: 2px !important;
+  text-underline-offset: 3px !important;
+}
+
+/* DASHED underline */
+mark[style*="BAAC50A6" i], mark[style*="4AB867A6" i], mark[style*="A8ADB8A6" i] {
+  background: none !important;
+  color: inherit !important;
+  padding: 0 !important;
+  border: none !important;
+  text-decoration-line: underline !important;
+  text-decoration-style: dashed !important;
+  text-decoration-color: var(--hl) !important;
+  text-decoration-thickness: 2px !important;
+  text-underline-offset: 3px !important;
+}
+
+/* DOUBLE underline */
+mark[style*="4FA466A6" i] {
+  background: none !important;
+  color: inherit !important;
+  padding: 0 !important;
+  border: none !important;
+  text-decoration-line: underline !important;
+  text-decoration-style: double !important;
+  text-decoration-color: var(--hl) !important;
+  text-decoration-thickness: 2px !important;
+  text-underline-offset: 3px !important;
+}
+
+/* ABOMINATION: yellow strike-through */
+mark[style*="2AC052A6" i] {
+  background: none !important;
+  color: inherit !important;
+  padding: 0 !important;
+  border: none !important;
+  text-decoration-line: line-through !important;
+  text-decoration-style: solid !important;
+  text-decoration-color: #ffd400 !important;
+  text-decoration-thickness: 3px !important;
+}
+
+/* ==========================================================================
+   MORE HIGHLIGHT STYLES (people and concepts from your Logos list)
+   Create each one in Highlightr with the 6-digit hex code in the comment.
+   These rules match the 6-digit hex, so they work whether or not Highlightr
+   adds an opacity ending (like A6) to the saved code.
+   ========================================================================== */
+
+/* ---- Step 1: each style's own color ---- */
+
+mark[style*="1FC24D" i] { --hl: #1FC24DA6; }  /* Abraham/Sarah  (#1FC24D) */
+mark[style*="C9A8F5" i] { --hl: #C9A8F5A6; }  /* Adam/Eve  (#C9A8F5) */
+mark[style*="2E9E4F" i] { --hl: #2E9E4FA6; }  /* Agents of YHWH  (#2E9E4F) */
+mark[style*="F27AB5" i] { --hl: #F27AB5A6; }  /* Author  (#F27AB5) */
+mark[style*="7FB2EA" i] { --hl: #7FB2EAA6; }  /* Character Major  (#7FB2EA) */
+mark[style*="BFD6F2" i] { --hl: #BFD6F2A6; }  /* Character Minor  (#BFD6F2) */
+mark[style*="2F5FD0" i] { --hl: #2F5FD0; }  /* David  (#2F5FD0) */
+mark[style*="9B3FD9" i] { --hl: #9B3FD9; }  /* Disciple/Apostle  (#9B3FD9) */
+mark[style*="F58FC0" i] { --hl: #F58FC0A6; }  /* Ezekiel  (#F58FC0) */
+mark[style*="3FC14F" i] { --hl: #3FC14FA6; }  /* Follower/Believer  (#3FC14F) */
+mark[style*="F5D84A" i] { --hl: #F5D84AA6; }  /* God  (#F5D84A) */
+mark[style*="F8E88A" i] { --hl: #F8E88AA6; }  /* Holy Spirit, Breath of YHWH  (#F8E88A) */
+mark[style*="D2B49A" i] { --hl: #D2B49AA6; }  /* Human Kind  (#D2B49A) */
+mark[style*="A9E6A0" i] { --hl: #A9E6A0A6; }  /* Isaac  (#A9E6A0) */
+mark[style*="2F7BE0" i] { --hl: #2F7BE0A6; }  /* Israelites  (#2F7BE0) */
+mark[style*="29A844" i] { --hl: #29A844A6; }  /* Jacob/Israel  (#29A844) */
+mark[style*="FF7BA9" i] { --hl: #FF7BA9A6; }  /* Jew  (#FF7BA9) */
+mark[style*="8E3FD6" i] { --hl: #8E3FD6; }  /* John Immerser  (#8E3FD6) */
+mark[style*="1E4FBF" i] { --hl: #1E4FBF; }  /* Joseph  (#1E4FBF) */
+mark[style*="B04FE0" i] { --hl: #B04FE0; }  /* Joshua  (#B04FE0) */
+mark[style*="8CC9B4" i] { --hl: #8CC9B4A6; }  /* Judah/Tamar  (#8CC9B4) */
+mark[style*="1457C9" i] { --hl: #1457C9; }  /* King/Civil Ruler  (#1457C9) */
+mark[style*="2A74D9" i] { --hl: #2A74D9; }  /* Levi  (#2A74D9) */
+mark[style*="3C86E8" i] { --hl: #3C86E8; }  /* Moses  (#3C86E8) */
+mark[style*="2E7BE6" i] { --hl: #2E7BE6; }  /* Noah  (#2E7BE6) */
+mark[style*="FF8CC6" i] { --hl: #FF8CC6A6; }  /* Prophet/Priest  (#FF8CC6) */
+mark[style*="E0B89C" i] { --hl: #E0B89CA6; }  /* Circumcision  (#E0B89C) */
+mark[style*="F29A3A" i] { --hl: #F29A3AA6; }  /* Consequence - Disobedience  (#F29A3A) */
+mark[style*="9A5FD6" i] { --hl: #9A5FD6A6; }  /* Consequence - Obedience  (#9A5FD6) */
+mark[style*="F2E24A" i] { --hl: #F2E24AA6; }  /* Covenant  (#F2E24A) */
+mark[style*="98E6A0" i] { --hl: #98E6A0A6; }  /* Jesus/God/HS Emotion  (#98E6A0) */
+mark[style*="7DB8EE" i] { --hl: #7DB8EEA6; }  /* Jesus/Yah Said  (#7DB8EE) */
+mark[style*="D92B2B" i] { --hl: #D92B2BA6; }  /* Lawless  (#D92B2B) */
+mark[style*="6FCFC0" i] { --hl: #6FCFC0A6; }  /* Nations/People Group  (#6FCFC0) */
+mark[style*="1E8E3E" i] { --hl: #1E8E3EA6; }  /* Of Note  (#1E8E3E) */
+mark[style*="F2994A" i] { --hl: #F2994AA6; }  /* Repeated Word  (#F2994A) */
+mark[style*="B8EDB0" i] { --hl: #B8EDB0A6; }  /* Right Standing with YHWH  (#B8EDB0) */
+mark[style*="3D8FE0" i] { --hl: #3D8FE0A6; }  /* Sign  (#3D8FE0) */
+
+/* ---- Step 2: the looks ---- */
+
+/* FILL: solid highlight */
+mark[style*="1FC24D" i],
+mark[style*="C9A8F5" i],
+mark[style*="7FB2EA" i],
+mark[style*="BFD6F2" i],
+mark[style*="F58FC0" i],
+mark[style*="F5D84A" i],
+mark[style*="F8E88A" i],
+mark[style*="D2B49A" i],
+mark[style*="A9E6A0" i],
+mark[style*="29A844" i],
+mark[style*="FF7BA9" i],
+mark[style*="8CC9B4" i],
+mark[style*="FF8CC6" i],
+mark[style*="E0B89C" i],
+mark[style*="98E6A0" i],
+mark[style*="6FCFC0" i],
+mark[style*="F2994A" i],
+mark[style*="B8EDB0" i] {
+  background: var(--hl) !important;
+  color: #111111 !important;
+  padding: 0 3px !important;
+  border: none !important;
+  border-radius: 3px !important;
+  text-decoration: none !important;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+/* FILL, WHITE TEXT: dark solid highlight */
+mark[style*="2F5FD0" i],
+mark[style*="9B3FD9" i],
+mark[style*="8E3FD6" i],
+mark[style*="1E4FBF" i],
+mark[style*="B04FE0" i],
+mark[style*="1457C9" i],
+mark[style*="2A74D9" i],
+mark[style*="3C86E8" i],
+mark[style*="2E7BE6" i] {
+  background: var(--hl) !important;
+  color: #ffffff !important;
+  padding: 0 3px !important;
+  border: none !important;
+  border-radius: 3px !important;
+  text-decoration: none !important;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+/* BAR: thick bar under the text */
+mark[style*="3FC14F" i] {
+  background: linear-gradient(to bottom, transparent 78%, var(--hl) 78%) !important;
+  color: inherit !important;
+  padding: 0 2px !important;
+  border: none !important;
+  border-radius: 0 !important;
+  text-decoration: none !important;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+/* BOX: solid outline */
+mark[style*="2E9E4F" i],
+mark[style*="2F7BE0" i],
+mark[style*="F2E24A" i],
+mark[style*="1E8E3E" i] {
+  background: none !important;
+  color: inherit !important;
+  padding: 0 3px !important;
+  border: 2px solid var(--hl) !important;
+  border-radius: 3px !important;
+  text-decoration: none !important;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+/* DASHED BOX */
+mark[style*="3D8FE0" i] {
+  background: none !important;
+  color: inherit !important;
+  padding: 0 3px !important;
+  border: 2px dashed var(--hl) !important;
+  border-radius: 3px !important;
+  text-decoration: none !important;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+/* WAVY underline */
+mark[style*="F27AB5" i],
+mark[style*="9A5FD6" i],
+mark[style*="7DB8EE" i] {
+  background: none !important;
+  color: inherit !important;
+  padding: 0 !important;
+  border: none !important;
+  text-decoration-line: underline !important;
+  text-decoration-style: wavy !important;
+  text-decoration-color: var(--hl) !important;
+  text-decoration-thickness: 2px !important;
+  text-underline-offset: 3px !important;
+}
+
+/* DASHED underline */
+mark[style*="F29A3A" i] {
+  background: none !important;
+  color: inherit !important;
+  padding: 0 !important;
+  border: none !important;
+  text-decoration-line: underline !important;
+  text-decoration-style: dashed !important;
+  text-decoration-color: var(--hl) !important;
+  text-decoration-thickness: 2px !important;
+  text-underline-offset: 3px !important;
+}
+
+/* STRIKE-THROUGH */
+mark[style*="D92B2B" i] {
+  background: none !important;
+  color: inherit !important;
+  padding: 0 !important;
+  border: none !important;
+  text-decoration-line: line-through !important;
+  text-decoration-style: solid !important;
+  text-decoration-color: var(--hl) !important;
+  text-decoration-thickness: 2px !important;
+}
+
+/* ==========================================================================
+   HILO HIGHLIGHTS  (syntax:  =={name}text==  )
+   Hilo gives each highlight the class "hl-<name>" and supplies its color in
+   the variable --hl-bg (the color you pick for that name in Hilo's settings),
+   so changing a color in Hilo keeps working here. Reading mode uses a <mark>;
+   Live Preview / Source mode use a <span>.
+   Enter colors in Hilo as 6-digit hex; the soft looks are drawn at 65% opacity
+   to match the old Highlightr look.
+
+   To style another Hilo name, add its name to one of the lists below.
+   ========================================================================== */
+
+/* FILL: solid highlight
+   general, who, yhwh-yeshua, adversary, what, offering, when, where, why-purpose, how, question-answer, abraham-sarah, adam-eve, character-major, character-minor, ezekiel, god, holy-spirit, human-kind, isaac, jacob-israel, jew, judah-tamar, prophet-priest, circumcision, emotion, nations-people-group, repeated-word, right-standing */
+body :is(mark, span).hl-general.hl-general.hl-general,
+body :is(mark, span).hl-who.hl-who.hl-who,
+body :is(mark, span).hl-yhwh-yeshua.hl-yhwh-yeshua.hl-yhwh-yeshua,
+body :is(mark, span).hl-adversary.hl-adversary.hl-adversary,
+body :is(mark, span).hl-what.hl-what.hl-what,
+body :is(mark, span).hl-offering.hl-offering.hl-offering,
+body :is(mark, span).hl-when.hl-when.hl-when,
+body :is(mark, span).hl-where.hl-where.hl-where,
+body :is(mark, span).hl-why-purpose.hl-why-purpose.hl-why-purpose,
+body :is(mark, span).hl-how.hl-how.hl-how,
+body :is(mark, span).hl-question-answer.hl-question-answer.hl-question-answer,
+body :is(mark, span).hl-abraham-sarah.hl-abraham-sarah.hl-abraham-sarah,
+body :is(mark, span).hl-adam-eve.hl-adam-eve.hl-adam-eve,
+body :is(mark, span).hl-character-major.hl-character-major.hl-character-major,
+body :is(mark, span).hl-character-minor.hl-character-minor.hl-character-minor,
+body :is(mark, span).hl-ezekiel.hl-ezekiel.hl-ezekiel,
+body :is(mark, span).hl-god.hl-god.hl-god,
+body :is(mark, span).hl-holy-spirit.hl-holy-spirit.hl-holy-spirit,
+body :is(mark, span).hl-human-kind.hl-human-kind.hl-human-kind,
+body :is(mark, span).hl-isaac.hl-isaac.hl-isaac,
+body :is(mark, span).hl-jacob-israel.hl-jacob-israel.hl-jacob-israel,
+body :is(mark, span).hl-jew.hl-jew.hl-jew,
+body :is(mark, span).hl-judah-tamar.hl-judah-tamar.hl-judah-tamar,
+body :is(mark, span).hl-prophet-priest.hl-prophet-priest.hl-prophet-priest,
+body :is(mark, span).hl-circumcision.hl-circumcision.hl-circumcision,
+body :is(mark, span).hl-emotion.hl-emotion.hl-emotion,
+body :is(mark, span).hl-nations-people-group.hl-nations-people-group.hl-nations-people-group,
+body :is(mark, span).hl-repeated-word.hl-repeated-word.hl-repeated-word,
+body :is(mark, span).hl-right-standing.hl-right-standing.hl-right-standing {
+  --hl: color-mix(in srgb, var(--hl-bg) 65%, transparent);
+  background: var(--hl) !important;
+  color: #111111 !important;
+  padding: 0 3px !important;
+  border: none !important;
+  border-radius: 3px !important;
+  box-shadow: none !important;
+  text-decoration: none !important;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+/* FILL, WHITE TEXT: dark solid highlight
+   david, disciple-apostle, john-immerser, joseph, joshua, king-civil-ruler, levi, moses, noah */
+body :is(mark, span).hl-david.hl-david.hl-david,
+body :is(mark, span).hl-disciple-apostle.hl-disciple-apostle.hl-disciple-apostle,
+body :is(mark, span).hl-john-immerser.hl-john-immerser.hl-john-immerser,
+body :is(mark, span).hl-joseph.hl-joseph.hl-joseph,
+body :is(mark, span).hl-joshua.hl-joshua.hl-joshua,
+body :is(mark, span).hl-king-civil-ruler.hl-king-civil-ruler.hl-king-civil-ruler,
+body :is(mark, span).hl-levi.hl-levi.hl-levi,
+body :is(mark, span).hl-moses.hl-moses.hl-moses,
+body :is(mark, span).hl-noah.hl-noah.hl-noah {
+  --hl: var(--hl-bg);
+  background: var(--hl) !important;
+  color: #ffffff !important;
+  padding: 0 3px !important;
+  border: none !important;
+  border-radius: 3px !important;
+  box-shadow: none !important;
+  text-decoration: none !important;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+/* BAR: thick bar under the text
+   general-bar, who2, dwelling-place, adversarial-place, why-reason, ruach, follower-believer */
+body :is(mark, span).hl-general-bar.hl-general-bar.hl-general-bar,
+body :is(mark, span).hl-who2.hl-who2.hl-who2,
+body :is(mark, span).hl-dwelling-place.hl-dwelling-place.hl-dwelling-place,
+body :is(mark, span).hl-adversarial-place.hl-adversarial-place.hl-adversarial-place,
+body :is(mark, span).hl-why-reason.hl-why-reason.hl-why-reason,
+body :is(mark, span).hl-ruach.hl-ruach.hl-ruach,
+body :is(mark, span).hl-follower-believer.hl-follower-believer.hl-follower-believer {
+  --hl: color-mix(in srgb, var(--hl-bg) 65%, transparent);
+  background: linear-gradient(to bottom, transparent 78%, var(--hl) 78%) !important;
+  color: inherit !important;
+  padding: 0 2px !important;
+  border: none !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  text-decoration: none !important;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+/* BOX: solid outline
+   inline-note, who3, instructions, tabernacle, agents-of-yhwh, israelites, covenant, of-note */
+body :is(mark, span).hl-inline-note.hl-inline-note.hl-inline-note,
+body :is(mark, span).hl-who3.hl-who3.hl-who3,
+body :is(mark, span).hl-instructions.hl-instructions.hl-instructions,
+body :is(mark, span).hl-tabernacle.hl-tabernacle.hl-tabernacle,
+body :is(mark, span).hl-agents-of-yhwh.hl-agents-of-yhwh.hl-agents-of-yhwh,
+body :is(mark, span).hl-israelites.hl-israelites.hl-israelites,
+body :is(mark, span).hl-covenant.hl-covenant.hl-covenant,
+body :is(mark, span).hl-of-note.hl-of-note.hl-of-note {
+  --hl: color-mix(in srgb, var(--hl-bg) 65%, transparent);
+  background: none !important;
+  color: inherit !important;
+  padding: 0 3px !important;
+  border: 2px solid var(--hl) !important;
+  border-radius: 3px !important;
+  box-shadow: none !important;
+  text-decoration: none !important;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+/* DASHED BOX
+   sign */
+body :is(mark, span).hl-sign.hl-sign.hl-sign {
+  --hl: color-mix(in srgb, var(--hl-bg) 65%, transparent);
+  background: none !important;
+  color: inherit !important;
+  padding: 0 3px !important;
+  border: 2px dashed var(--hl) !important;
+  border-radius: 3px !important;
+  box-shadow: none !important;
+  text-decoration: none !important;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+/* DOUBLE BOX
+   appointed-time */
+body :is(mark, span).hl-appointed-time.hl-appointed-time.hl-appointed-time {
+  --hl: color-mix(in srgb, var(--hl-bg) 65%, transparent);
+  background: none !important;
+  color: inherit !important;
+  padding: 0 3px !important;
+  border: 4px double var(--hl) !important;
+  border-radius: 2px !important;
+  box-shadow: none !important;
+  text-decoration: none !important;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+/* WAVY underline
+   seed, consequence, conditional-if-then, author, consequence-obedience, jesus-yah-said */
+body :is(mark, span).hl-seed.hl-seed.hl-seed,
+body :is(mark, span).hl-consequence.hl-consequence.hl-consequence,
+body :is(mark, span).hl-conditional-if-then.hl-conditional-if-then.hl-conditional-if-then,
+body :is(mark, span).hl-author.hl-author.hl-author,
+body :is(mark, span).hl-consequence-obedience.hl-consequence-obedience.hl-consequence-obedience,
+body :is(mark, span).hl-jesus-yah-said.hl-jesus-yah-said.hl-jesus-yah-said {
+  --hl: color-mix(in srgb, var(--hl-bg) 65%, transparent);
+  background: none !important;
+  color: inherit !important;
+  padding: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
+  text-decoration-line: underline !important;
+  text-decoration-style: wavy !important;
+  text-decoration-color: var(--hl) !important;
+  text-decoration-thickness: 2px !important;
+  text-underline-offset: 3px !important;
+}
+
+/* DASHED underline
+   tree, separation, connecting-thought, consequence-disobedience */
+body :is(mark, span).hl-tree.hl-tree.hl-tree,
+body :is(mark, span).hl-separation.hl-separation.hl-separation,
+body :is(mark, span).hl-connecting-thought.hl-connecting-thought.hl-connecting-thought,
+body :is(mark, span).hl-consequence-disobedience.hl-consequence-disobedience.hl-consequence-disobedience {
+  --hl: color-mix(in srgb, var(--hl-bg) 65%, transparent);
+  background: none !important;
+  color: inherit !important;
+  padding: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
+  text-decoration-line: underline !important;
+  text-decoration-style: dashed !important;
+  text-decoration-color: var(--hl) !important;
+  text-decoration-thickness: 2px !important;
+  text-underline-offset: 3px !important;
+}
+
+/* DOUBLE underline
+   righteous */
+body :is(mark, span).hl-righteous.hl-righteous.hl-righteous {
+  --hl: color-mix(in srgb, var(--hl-bg) 65%, transparent);
+  background: none !important;
+  color: inherit !important;
+  padding: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
+  text-decoration-line: underline !important;
+  text-decoration-style: double !important;
+  text-decoration-color: var(--hl) !important;
+  text-decoration-thickness: 2px !important;
+  text-underline-offset: 3px !important;
+}
+
+/* STRIKE-THROUGH (in the style's own color)
+   lawless */
+body :is(mark, span).hl-lawless.hl-lawless.hl-lawless {
+  --hl: color-mix(in srgb, var(--hl-bg) 65%, transparent);
+  background: none !important;
+  color: inherit !important;
+  padding: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
+  text-decoration-line: line-through !important;
+  text-decoration-style: solid !important;
+  text-decoration-color: var(--hl) !important;
+  text-decoration-thickness: 2px !important;
+}
+
+/* ABOMINATION: yellow strike-through
+   abomination */
+body :is(mark, span).hl-abomination.hl-abomination.hl-abomination {
+  background: none !important;
+  color: inherit !important;
+  padding: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
+  text-decoration-line: line-through !important;
+  text-decoration-style: solid !important;
+  text-decoration-color: #ffd400 !important;
+  text-decoration-thickness: 3px !important;
+}
