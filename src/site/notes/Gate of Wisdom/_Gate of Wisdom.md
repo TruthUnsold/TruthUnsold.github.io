@@ -286,6 +286,7 @@ These cut through the illusion, denial, and confusion entirely. They reveal real
 | [[Gate of Wisdom/Sign/Seal\|Seal]]                                                                             |
 | [[Gate of Discernment/Sermon on the Mount\|Sermon on the Mount]]                                               |
 | [[Gate of Wisdom/S/Serpent\|Serpent]]                                                                          |
+| [[Gate of Wisdom/S/servant\|servant]]                                                                          |
 | [[Gate of Wisdom/S/Serve\|Serve]]                                                                              |
 | [[Gate of Wisdom/D/Seventh Day\|Seventh Day]]                                                                  |
 | [[Gate of Wisdom/F/sexual immorality\|sexual immorality]]                                                      |

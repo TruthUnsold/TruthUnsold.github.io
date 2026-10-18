@@ -76,6 +76,7 @@
 - [[Gate of Wisdom/Sign/Seal\|Seal]]
 - [[Gate of Discernment/Sermon on the Mount\|Sermon on the Mount]]
 - [[Gate of Wisdom/S/Serpent\|Serpent]]
+- [[Gate of Wisdom/S/servant\|servant]]
 - [[Gate of Wisdom/S/Serve\|Serve]]
 - [[Gate of Wisdom/D/Seventh Day\|Seventh Day]]
 - [[Gate of Correction/Seventh Day Sabbath in Second Writings\|Seventh Day Sabbath in Second Writings]]

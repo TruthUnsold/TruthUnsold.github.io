@@ -209,41 +209,26 @@
 
 
 
-###### v8 
-"Remember the Sabbath day, to keep it holy. 
-
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-###### v9 
-You shall labor six days, and do all your work, 
-
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-###### v10 
-but the seventh day is a Sabbath to Yahweh your God. You shall not do any work in it, you, nor your son, nor your daughter, your male servant, nor your female servant, nor your livestock, nor your stranger who is within your gates; 
-
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-###### v11 
-for in six days Yahweh made heaven and earth, the sea, and all that is in them, and rested the seventh day; therefore Yahweh blessed the Sabbath day, and made it holy. 
+###### v8-11 
+#LoveGod #lawofyhwh #what "=={instructions}Remember the== =={appointed-time}[[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] day==, #do
+- #reason  =={why-reason}to keep it [[Gate of Wisdom/H/Holy\|Holy]]. ==
+	- #lawofyhwh #who=={israelites}You== #what=={instructions}shall labor== #when=={when}six days==, #do
+		- #what =={instructions}and do all your work==, =={inline-note}//[[Gate of Wisdom/A/Avad\|Avad]]//==
+- but #when =={when}the seventh day== =={appointed-time}is a Sabbath== 
+	- #Purpose =={why-purpose}to Yahweh your God==. 
+	- #lawofyhwh #who =={israelites}You== #what =={instructions}shall not do any work in it==, #DoNot 
+		- #who =={israelites}you==, 
+		- #who nor =={who}your son==, nor =={who}your daughter==, 
+		- #who your =={who}male [[Gate of Wisdom/S/servant\|servant]]==, nor your =={who}female servant==, 
+		- #who nor your =={who}livestock==, 
+		- #who nor your =={who}[[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]] who is within your gates==;
+- #reason #when=={when}for in six days== #who =={yhwh-yeshua}Yahweh== #what =={what}made==
+	- #what =={what}[[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]== 
+	- #what =={what}and [[Zunpublished/Earth\|Earth]]==, 
+	- #what =={what}the sea==, 
+	- #what =={what}and all that is in them==, 
+	- #what =={what}and rested== #when =={when}the seventh day==; 
+		- =={connecting-thought}therefore== #who =={yhwh-yeshua}Yahweh== #what =={what}[[Gate of Wisdom/B/Blessed\|Blessed]]== #when =={appointed-time}the Sabbath day==, and #what =={what}made it [[Gate of Wisdom/H/Holy\|Holy]]==. 
 
 
 </div></div>
@@ -262,12 +247,12 @@ for in six days Yahweh made heaven and earth, the sea, and all that is in them, 
 		- YHWH blessed this day
 		- YHWH set this day apart
 	- Do
-		- Remember the Sabbath Day #Do 
-		- Keep Sabbath Day Holy (Set-apart) #Do 
-		- Labor six days #Do 
-		- Do all your work #Do 
+		- Remember the Sabbath Day 
+		- Keep Sabbath Day Holy (Set-apart) 
+		- Labor six days 
+		- Do all your work 
 	- Do Not 
-		- on Seventh Day do not do any work #DoNot 
+		- on Seventh Day do not do any work 
 			- you
 			- your son nor daughter
 			- you servants
