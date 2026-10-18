@@ -8,14 +8,14 @@
 | =={inline-note}inline-note==                           | CD04BB |
 | =={general}general==                                   | FF9EF6 |
 | =={general-bar}general-bar==                           | F309DD |
-| who =={who}who==                                       | E0CC4B |
+| #who  =={who}who==                                     | E0CC4B |
 | =={who2}who2==                                         | B2A23A |
 | =={who3}who3==                                         | A4A089 |
 | =={yhwh-yeshua}yhwh-yeshua==                           | D7CD91 |
 | =={seed}seed==                                         | DDCC5E |
 | =={tree}tree==                                         | BAAC50 |
 | =={adversary}adversary==                               | E53E3E |
-| what =={what}what==                                    | 04CD3E |
+| #what =={what}what==                                   | 04CD3E |
 | =={consequence}consequence==                           | 94DEA9 |
 | =={instructions}instructions==                         | 61A273 |
 | =={offering}offering==                                 | 67CD83 |
