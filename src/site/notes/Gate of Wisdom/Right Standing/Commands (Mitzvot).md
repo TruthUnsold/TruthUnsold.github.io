@@ -22,7 +22,7 @@
 - **Penalty or Consequence:** The ten plagues fell upon Egypt for Pharaoh's refusal (Exodus 7–12).
 - **Offering or Ransom?:** Not applicable — this is a sovereign command to a foreign ruler.
 
-##  I Am Yahweh Your God: [Exodus 20:2](https://www.biblegateway.com/passage/?search=Exodus+20:2&version=WEB;NET;OJB) 
+##  #LoveGod  I Am Yahweh Your God: [Exodus 20:2](https://www.biblegateway.com/passage/?search=Exodus+20:2&version=WEB;NET;OJB) 
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -56,7 +56,7 @@
    * Repentance and return to covenant are the path back (Deuteronomy 30:1–3)
 
 
-##  No Other Gods Before Me  [Exodus 20:3](https://www.biblegateway.com/passage/?search=Exodus%2020%3A3&version=WEB;NET;OJB)
+##  #LoveGod  No Other Gods Before Me  [Exodus 20:3](https://www.biblegateway.com/passage/?search=Exodus%2020%3A3&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -86,7 +86,7 @@
 	- My Face = presence, sight
 	- "besides me," "in my presence," "in addition to me," or "alongside me.
 
-##  No Carved Images or Idols [Exodus 20:4-6](https://www.biblegateway.com/passage/?search=Exodus%2020%3A4-6&version=WEB;NET;OJB)
+##  #LoveGod  No Carved Images or Idols [Exodus 20:4-6](https://www.biblegateway.com/passage/?search=Exodus%2020%3A4-6&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">

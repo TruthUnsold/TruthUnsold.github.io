@@ -70,6 +70,8 @@
 | =={tabernacle}tabernacle==                             | 258FE5 |
 |                                                        |        |
 | #Purpose =={why-purpose}why-purpose==                  | E6852C |
+| #LoveGod                                               | 1fb5a8 |
+| #LoveNeighbor                                          | 8fe3d9 |
 | #reason =={why-reason}why-reason==                     | EB9E57 |
 | =={consequence}consequence==                           | 94DEA9 |
 | =={consequence-disobedience}consequence-disobedience== | F29A3A |
