@@ -31,6 +31,7 @@ Buy the truth, and don’t sell it.
 
 | Latest Drops                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gate of Wisdom/H/Inductive Study Highlighting\|Inductive Study Highlighting]]                                                                                                          |
 | [[Gate of Wisdom/T/Test\|Test]]                                                                                                                                                          |
 | [[Gate of Wisdom/L/Love Neighbor\|Love Neighbor]]                                                                                                                                        |
 | [[Gate of Wisdom/F/fear (yirah)\|fear (yirah)]]                                                                                                                                          |
@@ -50,7 +51,6 @@ Buy the truth, and don’t sell it.
 | [[Gate of Discernment/The Prodigal Son and Jonah\|The Prodigal Son and Jonah]]                                                                                                           |
 | [[Gate of Discernment/The Exodus and Jonah\|The Exodus and Jonah]]                                                                                                                       |
 | [[Gate of Wisdom/N/Neighbor\|Neighbor]]                                                                                                                                                  |
-| [[Gate of Wisdom/Beings/Human Beings/Jeroboam II\|Jeroboam II]]                                                                                                                          |
 
 { .block-language-dataview}
 

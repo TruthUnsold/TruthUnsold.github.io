@@ -16,14 +16,14 @@
 >look like this
 
 - #who =={who}Who==
-	- <mark style="background: #B2A23AA6;">Who 2</mark>
+	- <mark style="background: #B2A23AA6;">Who 2</mark> 
 	- <mark style="background: #A4A089A6;">Who 3</mark>
 	- <mark style="background: #D7CD91A6;">YHWH or Yeshua/Jesus</mark>
 	- <mark style="background: #DDCC5EA6;">Seed</mark> =={seed}Seed==
 	- <mark style="background: #BAAC50A6;">Tree</mark>
 	- <mark style="background: #E53E3E;">Adversary</mark>
 - #what<mark style="background: #04CD3EA6;">What</mark> 
-	- <mark style="background: #94DEA9A6;">Consequence</mark>
+	- <mark style="background: #94DEA9A6;">Consequence</mark>  =={consequence-disobedience}Consequence==
 	- #goodnews <mark style="background: #77C58DA6;">Good News</mark>
 	- <mark style="background: #61A273A6;">Instructions (law, command)</mark>
 		- #lawofman
