@@ -781,3 +781,36 @@ body :is(mark, span).hl-abomination.hl-abomination.hl-abomination {
   text-decoration-color: #ffd400 !important;
   text-decoration-thickness: 3px !important;
 }
+/* ==========================================================================
+   ADD-ON: #LoveGod and #LoveNeighbor tag ovals for the published garden
+   Paste at the END of src/site/styles/custom-style.scss (after what is
+   already there). Needs the studyScript.njk script that is already installed.
+   ========================================================================== */
+
+a.tag[data-content="#LoveGod" i],
+a.tag[data-content="#LoveNeighbor" i] {
+  display: inline-block !important;
+  color: #000000 !important;
+  -webkit-text-fill-color: #000000 !important;
+  font-size: 0.75rem !important;
+  font-weight: 700 !important;
+  line-height: 1.5 !important;
+  text-transform: uppercase !important;
+  text-decoration: none !important;
+  padding: 2px 9px 3px 9px !important;
+  margin: 0 2px !important;
+  border: none !important;
+  border-radius: 12px !important;
+  box-shadow: none !important;
+  font-family: var(--font-sans, sans-serif);
+}
+
+/* #LoveGod (teal) */
+a.tag[data-content="#LoveGod" i] {
+  background-color: #1fb5a8 !important;
+}
+
+/* #LoveNeighbor (light teal) */
+a.tag[data-content="#LoveNeighbor" i] {
+  background-color: #8fe3d9 !important;
+}
