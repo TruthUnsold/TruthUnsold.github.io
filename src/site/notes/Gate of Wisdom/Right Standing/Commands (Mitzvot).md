@@ -126,7 +126,7 @@
 	- No offering covers deliberate idol worship (Numbers 15:30–31).
  
 
-##   Do Not Take the Name of Yahweh in Vain [Exodus 20:7](https://www.biblegateway.com/passage/?search=Exodus%2020%3A7&version=WEB;NET;OJB)
+##  #LoveGod   Do Not Take the Name of Yahweh in Vain [Exodus 20:7](https://www.biblegateway.com/passage/?search=Exodus%2020%3A7&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -160,7 +160,7 @@
 		- It goes beyond simple speech to include how one lives while claiming to belong to God
 	- Vanity - empty, false, or self-serving purposes (e.g., false oaths, invoking God to justify wrongdoing, or claiming to represent Him while living contrary to His character)
  
-##   Remember the Sabbath and Keep It Holy [Exodus 20:8-11](https://www.biblegateway.com/passage/?search=Exodus%2020%3A8-11&version=WEB;NET;OJB)
+##   #LoveGod  Remember the Sabbath and Keep It Holy [Exodus 20:8-11](https://www.biblegateway.com/passage/?search=Exodus%2020%3A8-11&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -238,7 +238,7 @@ for in six days Yahweh made heaven and earth, the sea, and all that is in them, 
 - **Offering or Ransom?:** 
 	- No offering substitutes for Sabbath violation when done deliberately (Numbers 15:30–31).
  
-##   Honor Your Father and Mother [Exodus 20:12](https://www.biblegateway.com/passage/?search=Exodus%2020%3A12&version=WEB;NET;OJB) 
+##   #LoveNeighbor   Honor Your Father and Mother [Exodus 20:12](https://www.biblegateway.com/passage/?search=Exodus%2020%3A12&version=WEB;NET;OJB) 
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -274,7 +274,7 @@ for in six days Yahweh made heaven and earth, the sea, and all that is in them, 
 	- Blessing
 		- days may be long in the land which YHWH, elohim gives you.
   
-##  Do Not Murder [Exodus 20:13](https://www.biblegateway.com/passage/?search=Exodus%2020%3A13&version=WEB;NET;OJB)
+##  #LoveNeighbor   Do Not Murder [Exodus 20:13](https://www.biblegateway.com/passage/?search=Exodus%2020%3A13&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -315,7 +315,7 @@ for in six days Yahweh made heaven and earth, the sea, and all that is in them, 
 		- Exodus 22:2–3
 		- Leviticus 24:17
 
-##  Do Not Commit Adultery [Exodus 20:14](https://www.biblegateway.com/passage/?search=Exodus%2020%3A14&version=WEB;NET;OJB)
+##  #LoveNeighbor   Do Not Commit Adultery [Exodus 20:14](https://www.biblegateway.com/passage/?search=Exodus%2020%3A14&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -340,7 +340,7 @@ for in six days Yahweh made heaven and earth, the sea, and all that is in them, 
 - **Offering or Ransom?:** 
 	- No offering specified; a deliberate, high-handed violation (Numbers 15:30–31).
   
-##  Do Not Steal [Exodus 20:15](https://www.biblegateway.com/passage/?search=Exodus%2020%3A15&version=WEB;NET;OJB)
+##  #LoveNeighbor  Do Not Steal [Exodus 20:15](https://www.biblegateway.com/passage/?search=Exodus%2020%3A15&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -371,7 +371,7 @@ for in six days Yahweh made heaven and earth, the sea, and all that is in them, 
 		- Deception or "stealing the mind/heart" — figuratively, to deceive someone (e.g., "stealing" their trust or withholding truth). (see Genesis 31:20, 26)
 		- Ganav emphasizes stealth or secrecy more than violent robbery (which might use other Hebrew terms like gazal for open plunder).
 
-##  Do Not Bear False Witness [Exodus 20:16](https://www.biblegateway.com/passage/?search=Exodus%2020%3A16&version=WEB;NET;OJB)
+##  #LoveNeighbor  Do Not Bear False Witness [Exodus 20:16](https://www.biblegateway.com/passage/?search=Exodus%2020%3A16&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -404,7 +404,7 @@ for in six days Yahweh made heaven and earth, the sea, and all that is in them, 
 	- False/Falsehood šāqer (שָׁקֶר): "deception," "lie," or "untruth." It implies something intentionally deceptive or unreliable, often in the context of speech or together means "false witness" or "false testimony," an accusation
 	- Neighbor - fellow - broadly any other person
  
-##   Do Not Covet [Exodus 20:17](https://www.biblegateway.com/passage/?search=Exodus%2020%3A17&version=WEB;NET;OJB)
+##   #LoveNeighbor  Do Not Covet [Exodus 20:17](https://www.biblegateway.com/passage/?search=Exodus%2020%3A17&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -667,7 +667,7 @@ for in six days Yahweh made heaven and earth, the sea, and all that is in them, 
 
 ---
 
-##  Do Not Wrong the Sojourner: [Exodus 22:21](https://www.biblegateway.com/passage/?search=Exodus%2022:21&version=WEB;NET;OJB)
+##  #LoveNeighbor   Do Not Wrong the Sojourner: [Exodus 22:21](https://www.biblegateway.com/passage/?search=Exodus%2022:21&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -928,7 +928,7 @@ for in six days Yahweh made heaven and earth, the sea, and all that is in them, 
 - **Penalty or Consequence:** Leaving them becomes a snare (Exodus 23:33; Judges 2:3).
 - **Offering or Ransom?:** Not applicable.
 
-##  Serve Yahweh Alone: [Exodus 23:25](https://www.biblegateway.com/passage/?search=Exodus%2023:25&version=WEB;NET;OJB)
+##  #LoveGod  Serve Yahweh Alone: [Exodus 23:25](https://www.biblegateway.com/passage/?search=Exodus%2023:25&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -1256,7 +1256,7 @@ You shall serve Yahweh your God, and he will bless your bread and your water, an
 
 # Leviticus
 
-##  Do Not Seek Mediums or Spiritists: [Leviticus 19:31](https://www.biblegateway.com/passage/?search=Leviticus+19%3A31&version=WEB;NET;OJB)
+##  #LoveGod  Do Not Seek Mediums or Spiritists: [Leviticus 19:31](https://www.biblegateway.com/passage/?search=Leviticus+19%3A31&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -1294,7 +1294,7 @@ You shall serve Yahweh your God, and he will bless your bread and your water, an
    * No offering or ransom stated in the passage or immediate context. The gravity of the command — closed with *"I am Yahweh your God"* — implies no substitution is available; the act itself is the violation of the covenant relationship.
  [[Gate of Wisdom/Offering/Offerings\|Offerings]]
 
-##   Use Honest Weights and Measures: [Leviticus 19:36](https://www.biblegateway.com/passage/?search=Leviticus+19%3A36&version=WEB;NET;OJB)
+##  #LoveNeighbor   Use Honest Weights and Measures: [Leviticus 19:36](https://www.biblegateway.com/passage/?search=Leviticus+19%3A36&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -1335,7 +1335,7 @@ You shall have just balances, just weights, a just ephah, and a just hin. I am Y
 	* Amos 8:4-7 — God declares he will never forget the deeds of those who use dishonest scales — placed in the context of covenant judgment against Israel.
 	* Micah 6:11-13 — dishonest weights listed among the sins for which God brings affliction and desolation.
 
-##   Keep All My Statutes and Judgments: [Leviticus 19:37](https://www.biblegateway.com/passage/?search=Leviticus+19%3A37&version=WEB;NET;OJB)
+##  #LoveGod   Keep All My Statutes and Judgments: [Leviticus 19:37](https://www.biblegateway.com/passage/?search=Leviticus+19%3A37&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -1369,7 +1369,7 @@ You shall have just balances, just weights, a just ephah, and a just hin. I am Y
    * No offering or ransom stated. The verse closes with *"I am Yahweh"* — the same covenant formula that opens Leviticus 19 in v.2 and punctuates the chapter throughout. The entire chapter is bracketed by this declaration, making the keeping of all its commands an act of covenant fidelity to the person and character of Yahweh himself rather than a legal transaction.
 
 
-##    Do Not Wrong One Another [Leviticus 25:17](https://www.biblegateway.com/passage/?search=Leviticus+25%3A17&version=WEB;NET;OJB)
+##  #LoveNeighbor    Do Not Wrong One Another [Leviticus 25:17](https://www.biblegateway.com/passage/?search=Leviticus+25%3A17&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -1407,7 +1407,7 @@ You shall not wrong one another, but you shall fear your God; for I am Yahweh yo
 
 # Deuteronomy
 
-##  Do Not Add or Take Away: [Deuteronomy 4:2](https://www.biblegateway.com/passage/?search=Deuteronomy+4:2&version=WEB;NET;OJB)
+##  #LoveGod  Do Not Add or Take Away: [Deuteronomy 4:2](https://www.biblegateway.com/passage/?search=Deuteronomy+4:2&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -1442,7 +1442,7 @@ You shall not add to the word which I command you, neither shall you take away f
     - Revelation 22:18-19 closes the canon with the same command in the same terms — adding brings the plagues written in the book; taking away removes the person's portion from the tree of life and the holy city; the bookends of Scripture hold the same prohibition
 
 
-##   Keep and Do — This Is Your Wisdom: [Deuteronomy 4:5-6](https://www.biblegateway.com/passage/?search=Deuteronomy+4:5-6&version=WEB;NET;OJB)
+##   #LoveGod #LoveNeighbor  Keep and Do — This Is Your Wisdom: [Deuteronomy 4:5-6](https://www.biblegateway.com/passage/?search=Deuteronomy+4:5-6&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -1490,7 +1490,7 @@ Keep therefore and do them; for this is your wisdom and your understanding in th
     - None prescribed
     - The command is formational and missional — keep and do in the sight of the nations; no sacrificial mechanism is attached
 
-##  Know and Take It to Heart: [Deuteronomy 4:39-40](https://www.biblegateway.com/passage/?search=Deuteronomy+4:39-40&version=WEB;NET;OJB)
+##  #LoveGod  Know and Take It to Heart: [Deuteronomy 4:39-40](https://www.biblegateway.com/passage/?search=Deuteronomy+4:39-40&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -1544,7 +1544,7 @@ You shall keep his statutes and his commandments which I command you today, that
     - None prescribed
     - The command is **cognitive and covenantal** in nature — know, take to heart, keep; the response called for is internal disposition expressed in obedience; no sacrificial mechanism is attached
 
-##  Oh That They Had Such a Heart: [Deuteronomy 5:29](https://www.biblegateway.com/passage/?search=Deuteronomy+5:29&version=WEB;NET;OJB)
+##  #LoveGod  Oh That They Had Such a Heart: [Deuteronomy 5:29](https://www.biblegateway.com/passage/?search=Deuteronomy+5:29&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -1580,7 +1580,7 @@ Oh that there were such a heart in them that they would fear me and keep all my 
     - None prescribed
     - This verse is Yahweh's own longing expressed — not a judicial command with mechanisms attached; the response it calls for is internal and dispositional; the answer Torah ultimately points toward is not sacrifice but **circumcision of the heart** (Deut. 30:6) and Torah written within (Jer. 31:33)
 
-##   Hear - Yahweh is One [Deuteronomy 6:4](https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A4&version=WEB;NET;OJB)
+##  #LoveGod   Hear - Yahweh is One [Deuteronomy 6:4](https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A4&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -1615,7 +1615,7 @@ Hear, Israel: Yahweh is our God. Yahweh is one.
 	- One echad (אֶחָד) = one, unity, alone
 		- In Hebrew mindset of Deuteronomy 6:4, "Yahweh echad" affirms Yahweh as the sole God/El, unique and undivided in loyalty and worship, with no other gods/elohim alongside Him.
 
-##   Love Yahweh with All Your Heart, Soul, and Might: [Deuteronomy 6:5](https://www.biblegateway.com/passage/?search=Deuteronomy+6:5&version=WEB;NET;OJB)
+##   #LoveGod  Love Yahweh with All Your Heart, Soul, and Might: [Deuteronomy 6:5](https://www.biblegateway.com/passage/?search=Deuteronomy+6:5&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -1650,7 +1650,7 @@ You shall love Yahweh your God with all your heart, with all your soul, and with
 - <mark style="background: #CD04BBA6;">Personal Observations</mark>
     - This is the first and greatest command by Yeshua's own declaration (Matt. 22:37-38) — it is the root from which all Torah flows
 
-##  Deuteronomy06 Write These Words on Your Heart and Home: [Deuteronomy 6:6-9](https://www.biblegateway.com/passage/?search=Deuteronomy+6:6-9&version=WEB;NET;OJB)
+##  #LoveGod  Deuteronomy06 Write These Words on Your Heart and Home: [Deuteronomy 6:6-9](https://www.biblegateway.com/passage/?search=Deuteronomy+6:6-9&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -1721,7 +1721,7 @@ You shall write them on the door posts of your house and on your gates.
 - **Offering or Ransom:**
     - None prescribed
 
-##   Fear and Serve Yahweh Alone: [Deuteronomy 6:13](https://www.biblegateway.com/passage/?search=Deuteronomy+6:13&version=WEB;NET;OJB)
+##   #LoveGod  Fear and Serve Yahweh Alone: [Deuteronomy 6:13](https://www.biblegateway.com/passage/?search=Deuteronomy+6:13&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -1763,7 +1763,7 @@ Be subject therefore to God. Resist the devil <mark style="background: #CD04BBA6
 </div></div>
 
 
-##  Do Not Go After Other Gods: [Deuteronomy 6:14](https://www.biblegateway.com/passage/?search=Deuteronomy+6:14&version=WEB;NET;OJB)
+##  #LoveGod  Do Not Go After Other Gods: [Deuteronomy 6:14](https://www.biblegateway.com/passage/?search=Deuteronomy+6:14&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -1791,7 +1791,7 @@ You shall not go after other gods, of the gods of the peoples who are around you
 - **Offering or Ransom:**
     - None prescribed
 
-##  Do Not Test Yahweh Your God: [Deuteronomy 6:16](https://www.biblegateway.com/passage/?search=Deuteronomy+6:16&version=WEB;NET;OJB)
+##  #LoveGod  Do Not Test Yahweh Your God: [Deuteronomy 6:16](https://www.biblegateway.com/passage/?search=Deuteronomy+6:16&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -1821,7 +1821,7 @@ You shall not tempt Yahweh your God, as you tempted him in Massah.
     - None prescribed
     - No sacrificial remedy is named for testing Yahweh — the consequence at Massah was immediate and the memorial permanent
 
-##  Bless Yahweh When You Have Eaten: [Deuteronomy 8:10](https://www.biblegateway.com/passage/?search=Deuteronomy+8:10&version=WEB;NET;OJB)
+##  #LoveGod  Bless Yahweh When You Have Eaten: [Deuteronomy 8:10](https://www.biblegateway.com/passage/?search=Deuteronomy+8:10&version=WEB;NET;OJB)
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -1853,7 +1853,7 @@ You shall eat and be full, and you shall bless Yahweh your God for the good land
     - None prescribed
     - The command is liturgical and relational in nature — acknowledging Yahweh as the source of provision; no sacrificial mechanism is attached
 
-##   Fear and Serve Yahweh, Hold Fast, Swear by His Name: [Deuteronomy 10:20](https://www.biblegateway.com/passage/?search=Deuteronomy+10:20&version=WEB;NET;OJB)
+##  #LoveGod   Fear and Serve Yahweh, Hold Fast, Swear by His Name: [Deuteronomy 10:20](https://www.biblegateway.com/passage/?search=Deuteronomy+10:20&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -1884,7 +1884,7 @@ You shall fear Yahweh your God. You shall serve him. You shall cling to him, and
     - None prescribed
     - Violation is covenantal in nature, not sacrificial
 
-##  Bind These Words as a Sign: [Deuteronomy 11:18-21](https://www.biblegateway.com/passage/?search=Deuteronomy+11:18-21&version=WEB;NET;OJB)
+##  #LoveGod  Bind These Words as a Sign: [Deuteronomy 11:18-21](https://www.biblegateway.com/passage/?search=Deuteronomy+11:18-21&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -1952,7 +1952,7 @@ You shall write them on the door posts of your house and on your gates;
     - The near-parallel to Deuteronomy 6:6-9 is direct — the same four-fold placement of the words (hand, eyes, doorpost, gate) repeated here with the explicit generational blessing made more prominent
     - The broader context of Deuteronomy 11:16-17 provides the immediate consequence of departure — heart turned away, serving other gods, heaven shut, no rain, ground yields nothing, perishing from the good land
 
-##   Hold Fast — Love, Walk, Cleave: [Deuteronomy 11:22](https://www.biblegateway.com/passage/?search=Deuteronomy+11:22&version=WEB;NET;OJB)
+##  #LoveGod   Hold Fast — Love, Walk, Cleave: [Deuteronomy 11:22](https://www.biblegateway.com/passage/?search=Deuteronomy+11:22&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -1986,7 +1986,7 @@ For if you shall diligently keep all these commandments which I command you--to 
     - None prescribed
     - The command is relational and covenantal — three verbs of intimacy and loyalty; no sacrificial mechanism is attached
 
-##  Bring Your Offerings to the Place Yahweh Chooses: [Deuteronomy 12:5-7](https://www.biblegateway.com/passage/?search=Deuteronomy+12:5-7&version=WEB;NET;OJB)
+##  #LoveGod  Bring Your Offerings to the Place Yahweh Chooses: [Deuteronomy 12:5-7](https://www.biblegateway.com/passage/?search=Deuteronomy+12:5-7&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -2057,7 +2057,7 @@ There you shall eat before Yahweh your God, and you shall rejoice in all that yo
 	- The broader context of Deuteronomy 12:2-4 establishes the negative contrast — the places where the nations worship on high mountains, under green trees, must be destroyed; bringing offerings anywhere other than the chosen place implicitly aligns Israel with those practices.
 	- [[Gate of Foundation/Put His Name\|Put His Name]]
 
-##   Do Not Follow False Prophets: [Deuteronomy 13:1-5](https://www.biblegateway.com/passage/?search=Deuteronomy+13:1-5&version=WEB;NET;OJB)
+##  #LoveGod   Do Not Follow False Prophets: [Deuteronomy 13:1-5](https://www.biblegateway.com/passage/?search=Deuteronomy+13:1-5&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -2241,7 +2241,7 @@ That prophet, or that dreamer of dreams, shall be put to death, because he has s
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 - **Note:** No known place chosen by Yah to bring offerings at this time. 
 
-##   No Occult Practices: [Deuteronomy 18:10-12](https://www.biblegateway.com/passage/?search=Deuteronomy+18:10-12&version=WEB;NET;OJB)
+##  #LoveGod   No Occult Practices: [Deuteronomy 18:10-12](https://www.biblegateway.com/passage/?search=Deuteronomy+18:10-12&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -2314,7 +2314,7 @@ For whoever does these things is an abomination to Yahweh. Because of these abom
 - **Offering or Ransom?**: [[Gate of Correction/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
 - **Note:** No set elders at the city gates?
 
-##  The Test of a True Prophet: [Deuteronomy 18:20-22](https://www.biblegateway.com/passage/?search=Deuteronomy+18:20-22&version=WEB;NET;OJB)
+##  #LoveGod  The Test of a True Prophet: [Deuteronomy 18:20-22](https://www.biblegateway.com/passage/?search=Deuteronomy+18:20-22&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -2414,7 +2414,7 @@ You may say in your heart, "How shall we know the word which Yahweh has not spok
 - **Penalty or Consequence**: Death for both (Deuteronomy 22:22).
 - **Offering or Ransom?**: [[Gate of Correction/Sins Requiring Death - No Offering\|Sins Requiring Death - No Offering]]
 
-##  No Sacred Prostitution: [Deuteronomy 23:17-18](https://www.biblegateway.com/passage/?search=Deuteronomy+23:17-18&version=WEB;NET;OJB)
+##  #LoveNeighbor #LoveGod  No Sacred Prostitution: [Deuteronomy 23:17-18](https://www.biblegateway.com/passage/?search=Deuteronomy+23:17-18&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -2526,7 +2526,7 @@ You shall not bring the hire of a prostitute, or the wages of a male prostitute,
 - **Penalty or Consequence**: General curses (Deuteronomy 28:15-68).
 - **Offering or Ransom?**: Firstfruits offering and tithes (Deuteronomy 26:2, 12).
 
-##  This Day Yahweh Commands You: [Deuteronomy 26:16-19](https://www.biblegateway.com/passage/?search=Deuteronomy+26:16-19&version=WEB;NET;OJB)
+##  #LoveGod  This Day Yahweh Commands You: [Deuteronomy 26:16-19](https://www.biblegateway.com/passage/?search=Deuteronomy+26:16-19&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -2623,7 +2623,7 @@ He will make you high above all nations that he has made, in praise, in name, an
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
 	- [[Gate of Wisdom/Offering/Guilt Offering\|Guilt Offering]]?: Emphasis on restitution or resolving guilt. 1) Unintentional violations of holy/set apart things 2) Unintentional sins against specific commandments of God which are not to be done. 3) Intentional sins involving deceit.
 
-##  Diligently Obey and All These Blessings Will Come: [Deuteronomy 28:1-2](https://www.biblegateway.com/passage/?search=Deuteronomy+28:1-2&version=WEB;NET;OJB)
+##  #LoveGod  Diligently Obey and All These Blessings Will Come: [Deuteronomy 28:1-2](https://www.biblegateway.com/passage/?search=Deuteronomy+28:1-2&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -2670,7 +2670,7 @@ All these blessings will come upon you, and overtake you, if you listen to Yahwe
     - None prescribed
     - The passage is the opening of the covenant blessing and curse declaration — the response called for is obedience, not sacrifice; no sacrificial mechanism mediates the blessings
 
-##  I Have Set Before You Life and Good: [Deuteronomy 30:15-16](https://www.biblegateway.com/passage/?search=Deuteronomy+30:15-16&version=WEB;NET;OJB)
+##  #LoveGod  I Have Set Before You Life and Good: [Deuteronomy 30:15-16](https://www.biblegateway.com/passage/?search=Deuteronomy+30:15-16&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -2723,7 +2723,7 @@ For I command you today to love Yahweh your God, to walk in his ways and to keep
 - <mark style="background: #CD04BBA6;">Personal Observations</mark>
 	- The word [[Gate of Wisdom/G/good\|good]] (_tov_ — טוֹב) in v.15 echoes Genesis 1 — what Yahweh declares good is what He calls Israel toward; choosing the good is aligning with creation's original order.
 
-##   Choose Life: [Deuteronomy 30:19-20](https://www.biblegateway.com/passage/?search=Deuteronomy+30:19-20&version=WEB;NET;OJB)
+##  #LoveGod   Choose Life: [Deuteronomy 30:19-20](https://www.biblegateway.com/passage/?search=Deuteronomy+30:19-20&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -2786,7 +2786,7 @@ to love Yahweh your God, to obey his voice, and to cling to him; for he is your 
     - None prescribed
     - The passage is the **culminating covenantal appeal** of Moses — the choice between life and death, blessing and curse, is set before the whole people; no sacrificial mechanism mediates the choice; it is volitional and covenantal at its core
 
-##  Set Your Heart on These Words: [Deuteronomy 32:46-47](https://www.biblegateway.com/passage/?search=Deuteronomy+32:46-47&version=WEB;NET;OJB)
+##  #LoveGod  Set Your Heart on These Words: [Deuteronomy 32:46-47](https://www.biblegateway.com/passage/?search=Deuteronomy+32:46-47&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
