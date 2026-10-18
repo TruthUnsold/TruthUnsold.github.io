@@ -15,7 +15,7 @@
 | =={character-minor}character-minor==                   | BFD6F2 |
 | =={david}david==                                       | 2F5FD0 |
 | =={disciple-apostle}disciple-apostle==                 | 9B3FD9 |
-| #Do  Instructions                                     | 129088 |
+| #Do  Instructions                                      | 129088 |
 | #donot  Instructions                                   | ff4d4d |
 | =={ezekiel}ezekiel==                                   | F58FC0 |
 | =={follower-believer}follower-believer==               | 3FC14F |
@@ -91,12 +91,29 @@
 | =={repeated-word}repeated-word==                       | F2994A |
 | =={general}general== highlights                        | FF9EF6 |
 |                                                        |        |
-| **My thoughts and observations**                       |        |
+| **My Highlights and Notes**                            |        |
 | =={general-bar}general-personal notes==                | F309DD |
 | =={inline-note}inline-note==                           | CD04BB |
 
 >[!Note]+ My Thoughts and Observations
 > with the thoughts here
 
+**Bible References (usually WEB version)**
+
+Genesis 1:1
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+###### v1
+In the beginning, God created the heavens and the earth.
+
+
+</div></div>
+
+
+
+**Other resources and text**
 >[!quote] Quotes for texts outside the Bible
 >look like this

@@ -125,7 +125,7 @@ Ease of reading [[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 Joh
 	- <mark style="background: #A4A089A6;">He</mark> who <mark style="background: #04CD3EA6;">doesn't love his brother</mark> 
 		- <mark style="background: #EB9E57A6;">remains in death</mark>[^19].  [[_The Scrolls/2. Neviim (Prophets)/26 - Ezekiel/Ezek-18#v4\|Ezek-18#v4]]
 		- <mark style="background: #A4A089A6;">Whoever</mark> hates his brother 
-			- is a murderer[^5], [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-09#v6\|Gen-09#v6]], [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-20#v13\|Exod-20#v13]], 
+			- is a murderer[^5], [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-09#v6\|Gen-09#v6]], [[Gate of Wisdom/Good News/Exod-20#v13\|Exod-20#v13]], 
 				- and you know that no murderer 
 					- has eternal life 
 						- remaining in him[^6]. [[_The Scrolls/3. Ketuvim (Writings)/27 - Daniel/Dan-12#v2\|Dan-12#v2]]

@@ -22,7 +22,7 @@
 - **Penalty or Consequence:** The ten plagues fell upon Egypt for Pharaoh's refusal (Exodus 7–12).
 - **Offering or Ransom?:** Not applicable — this is a sovereign command to a foreign ruler.
 
-##  #LoveGod  I Am Yahweh Your God: [Exodus 20:2](https://www.biblegateway.com/passage/?search=Exodus+20:2&version=WEB;NET;OJB) 
+##  I Am Yahweh Your God: [Exodus 20:2](https://www.biblegateway.com/passage/?search=Exodus+20:2&version=WEB;NET;OJB) 
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -30,7 +30,10 @@
 
 
 ###### v2 
-"I am Yahweh your God, who brought you out of the land of Egypt, out of the house of bondage. 
+#LoveGod " #Who =={yhwh-yeshua}I am Yahweh== =={israelites}your== =={yhwh-yeshua}[[Gate of Wisdom/Beings/Divine Council/God\|God]]==, =={yhwh-yeshua}who== #Do 
+- #GoodNews =={what}brought== #who=={israelites}you== 
+	- #where=={where}out of the land of [[Gate of Wisdom/Dwelling Places/Realm of Humans/Egypt\|Egypt]]==, 
+	- #where =={where}out of the house of bondage==. 
 
 
 </div></div>
@@ -56,7 +59,7 @@
    * Repentance and return to covenant are the path back (Deuteronomy 30:1–3)
 
 
-##  #LoveGod  No Other Gods Before Me  [Exodus 20:3](https://www.biblegateway.com/passage/?search=Exodus%2020%3A3&version=WEB;NET;OJB)
+##  No Other Gods Before Me  [Exodus 20:3](https://www.biblegateway.com/passage/?search=Exodus%2020%3A3&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -64,7 +67,8 @@
 
 
 ###### v3 
-"You shall have no other gods before me. 
+#LoveGod " #who =={israelites}You== #lawofyhwh  =={instructions}shall have no other==   #who =={adversary}[[Gate of Wisdom/Beings/Divine Council/God\|God]]s== #DoNot 
+- #where =={where}before== #who =={yhwh-yeshua}me==. 
 
 
 </div></div>
@@ -74,7 +78,7 @@
 - **Outline:**
 	- Before My Face 
 	- Do not
-		- have any other gods before YHWH #DoNot 
+		- have any other gods before YHWH 
 - **Blessing:** 
 	- General blessings for obedience (Deuteronomy 28:1–14).
 - **Penalty or Consequence:** 
@@ -86,7 +90,7 @@
 	- My Face = presence, sight
 	- "besides me," "in my presence," "in addition to me," or "alongside me.
 
-##  #LoveGod  No Carved Images or Idols [Exodus 20:4-6](https://www.biblegateway.com/passage/?search=Exodus%2020%3A4-6&version=WEB;NET;OJB)
+##   No Carved Images or Idols [Exodus 20:4-6](https://www.biblegateway.com/passage/?search=Exodus%2020%3A4-6&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -94,7 +98,43 @@
 
 
 ###### v4 
-"You shall not make for yourselves an idol, nor any image of anything that is in the heavens above, or that is in the earth beneath, or that is in the water under the earth: 
+#LoveGod " #who =={israelites}You== #lawofyhwh  =={instructions}shall not make for== =={israelites}yourselves== #DoNot 
+- #what =={adversary}an [[Gate of Wisdom/I/idol\|idol]]==, 
+- #what =={adversary}nor any [[Gate of Wisdom/I/image\|image]]== 
+	- of anything that is 
+		- #where =={where}in the [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]s above==, 
+		- #where =={where}or that is in the [[Zunpublished/Earth\|Earth]] beneath==, 
+		- #where =={where}or that is in the water under the earth==: 
+
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+###### v5 
+#lovegod #who =={israelites}you== #lawofyhwh =={instructions}shall not bow yourself down== #who =={adversary}to them== #DoNot ,
+- #lawofyhwh =={instructions}nor serve== =={adversary}them==, 
+	- #who =={yhwh-yeshua}for I, Yahweh your God==, 
+		- #reason =={why-reason}am a jealous God==, 
+		- #reason =={consequence-disobedience}visiting the iniquity of #who== =={who}the fathers on the children==, 
+			- #when =={when}on the third and on the fourth generation ==
+			- #who =={who}of those who hate me==, 
+
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+###### v6 
+- #lovegod #reason #GoodNews =={consequence-obedience}and showing loving kindness== #who =={who}to thousands of those== 
+	- #what #lawofyhwh =={instructions}who love me==  #do
+	- #what #lawofyhwh =={instructions}and keep my [[Gate of Wisdom/Right Standing/Commandments\|Commandments]].==  #do
 
 
 </div></div>
@@ -103,13 +143,13 @@
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
 	- Do not 
-		- make for yourself #DoNot 
+		- make for yourself 
 			- an [[Gate of Wisdom/I/idol\|idol]]
 			- an [[Gate of Wisdom/I/image\|image]] (any likeness) of anything that is
 				- in the [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]s
 				- beneath the earth
 				- in the water under the earth
-		- To the idol or image do not  #DoNot 
+		- To the idol or image do not  
 			- bow
 			- serve
 	- Because
@@ -126,7 +166,7 @@
 	- No offering covers deliberate idol worship (Numbers 15:30–31).
  
 
-##  #LoveGod   Do Not Take the Name of Yahweh in Vain [Exodus 20:7](https://www.biblegateway.com/passage/?search=Exodus%2020%3A7&version=WEB;NET;OJB)
+##    Do Not Take the Name of Yahweh in Vain [Exodus 20:7](https://www.biblegateway.com/passage/?search=Exodus%2020%3A7&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -134,7 +174,9 @@
 
 
 ###### v7 
-"You shall not misuse the name of Yahweh your God, for Yahweh will not hold him guiltless who misuses his name. 
+" #who =={israelites}You== #lawofyhwh =={instructions}shall not misuse the [[Gate of Wisdom/N/Name\|Name]]== #who =={yhwh-yeshua}of Yahweh== =={israelites}your== =={yhwh-yeshua}God== #DoNot 
+- #reason =={yhwh-yeshua}for Yahweh== =={consequence-disobedience}will not hold him guiltless== 
+	- =={who}who== =={lawless}misuses his name==. 
 
 
 </div></div>
