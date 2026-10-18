@@ -24,7 +24,7 @@
 - [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]
 - [[Gate of Wisdom/H/Humble in Spirit\|Humble in Spirit]]
 - [[Gate of Wisdom/H/Hunger and Thirst\|Hunger and Thirst]]
-- [[Gate of Wisdom/H/Inductive Study Highlighting\|Inductive Study Highlighting]]
+- [[Gate of Wisdom/Good News/Inductive Study Highlighting\|Inductive Study Highlighting]]
 - [[Gate of Wisdom/Good News/Kingdom of Heaven\|Kingdom of Heaven]]
 - [[Gate of Correction/Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth\|Matthew 5 Sermon on the Mount v 13-20 Lights – City – Heaven – Earth]]
 - [[Gate of Correction/Matthew 5 Sermon on the Mount v 3 Humble of Spirit\|Matthew 5 Sermon on the Mount v 3 Humble of Spirit]]

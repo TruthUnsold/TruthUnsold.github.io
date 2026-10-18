@@ -31,7 +31,7 @@ Buy the truth, and don’t sell it.
 
 | Latest Drops                                                                                                                                                                                                                           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Gate of Wisdom/H/Inductive Study Highlighting\|Inductive Study Highlighting]]                                                                                                                                                     |
+| [[Gate of Wisdom/Good News/Inductive Study Highlighting\|Inductive Study Highlighting]]                                                                                                                                             |
 | [[Gate of Wisdom/T/Test\|Test]]                                                                                                                                                                                                     |
 | [[Gate of Wisdom/L/Love Neighbor\|Love Neighbor]]                                                                                                                                                                                   |
 | [[Gate of Wisdom/F/fear (yirah)\|fear (yirah)]]                                                                                                                                                                                     |
