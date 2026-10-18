@@ -321,6 +321,7 @@ These cut through the illusion, denial, and confusion entirely. They reveal real
 | [[Gate of Wisdom/T/temptation\|temptation]]                                                                    |
 | [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]]                                                        |
 | [[Gate of Wisdom/T/Ten Words\|Ten Words]]                                                                      |
+| [[Gate of Wisdom/T/Test\|Test]]                                                                                |
 | [[Gate of Wisdom/T/Testimony\|Testimony]]                                                                      |
 | [[Gate of Wisdom/T/Thanksgiving\|Thanksgiving]]                                                                |
 | [[Gate of Wisdom/D/The Dragons Prophecy\|The Dragons Prophecy]]                                                |

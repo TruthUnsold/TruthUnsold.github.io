@@ -16,13 +16,6 @@
 - [[Gate of Wisdom/Offering/Offerings\|Offerings]]
 
 
-# Connections
-
-| file.inlinks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[_Assets/AI Bible Study Instructions.md\\|AI Bible Study Instructions]]</li><li>[[Zunpublished/No Other Gods.md\\|No Other Gods]]</li><li>[[Torah Portions/2026.05.09 Shabbat Reading.md\\|2026.05.09 Shabbat Reading]]</li><li>[[Gate of Wisdom/T/Torah.md\\|Torah]]</li><li>[[Gate of Wisdom/Sign/Sign.md\\|Sign]]</li><li>[[Gate of Wisdom/Right Standing/Ordinances (Mishmerot).md\\|Ordinances (Mishmerot)]]</li><li>[[Gate of Wisdom/Right Standing/Charge (Tsavah).md\\|Charge (Tsavah)]]</li><li>[[Gate of Wisdom/Right Standing/Commandments.md\\|Commandments]]</li><li>[[Gate of Wisdom/C/Commandment Reading Plan.md\\|Commandment Reading Plan]]</li><li>[[Gate of Wisdom/Appointed Time/Pentecost.md\\|Pentecost]]</li><li>[[Gate of Wisdom/Appointed Time/Feast of Trumpets.md\\|Feast of Trumpets]]</li><li>[[Gate of Foundation/The Seventh Day Rest/28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44).md\\|28 The Seventh Day Rest Exists in the Future (26 Ezekiel 44)]]</li><li>[[Gate of Foundation/The Seventh Day Rest/25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20).md\\|25 The Seventh Day Rest is Rebellion When Not Kept (26 Ezekiel 20)]]</li><li>[[Gate of Foundation/The Seventh Day Rest/16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09).md\\|16 The Seventh Day Rest is YHWH-Gods (16 Nehemiah 09)]]</li><li>[[Gate of Discernment/33 Micah-06 Yada Yada.md\\|33 Micah-06 Yada Yada]]</li><li>[[Gate of Correction/Commandment Reading Plan October.md\\|Commandment Reading Plan October]]</li><li>[[Gate of Correction/Commandment Reading Plan November.md\\|Commandment Reading Plan November]]</li><li>[[Gate of Correction/Commandment Reading Plan May.md\\|Commandment Reading Plan May]]</li><li>[[Gate of Correction/Commandment Reading Plan March.md\\|Commandment Reading Plan March]]</li><li>[[Gate of Correction/Commandment Reading Plan January.md\\|Commandment Reading Plan January]]</li><li>[[Gate of Correction/Commandment Reading Plan July.md\\|Commandment Reading Plan July]]</li><li>[[Gate of Correction/Commandment Reading Plan April.md\\|Commandment Reading Plan April]]</li><li>[[Gate of Correction/Commandment Reading Plan December.md\\|Commandment Reading Plan December]]</li><li>[[Gate of Wisdom/Right Standing/Statutes (Chuqim).md\\|Statutes (Chuqim)]]</li><li>[[Gate of Wisdom/Right Standing/Judgments (Mishpatim).md\\|Judgments (Mishpatim)]]</li><li>[[Gate of Wisdom/Right Standing/Commands (Mitzvot).md\\|Commands (Mitzvot)]]</li><li>[[Gate of Foundation/Acts 2 Connections Scripture Survey.md\\|Acts 2 Connections Scripture Survey]]</li><li>[[Gate of Correction/Commandment Reading Plan September.md\\|Commandment Reading Plan September]]</li><li>[[Gate of Correction/Commandment Reading Plan June.md\\|Commandment Reading Plan June]]</li><li>[[Gate of Correction/Commandment Reading Plan August.md\\|Commandment Reading Plan August]]</li><li>[[Checklist for Commandment texts.md\\|Checklist for Commandment texts]]</li></ul> |
-
-{ .block-language-dataview}
 ## #LoveNeighbor #02Exod/Exodus23 Rest on the Seventh Day: [Exodus 23:12](https://www.biblegateway.com/passage/?search=Exodus%2023:12&version=WEB;NET;OJB)
 
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
@@ -54,6 +47,69 @@
 	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 	- [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]?: Emphasis on purification from defilement. Unintentional sins against the commandments of God which are not to be done. Primarily those that defile the sinner or the sanctuary requiring purification. 
 
+
+##  Make No Covenant and Show No Mercy to the Seven Nations: [Deuteronomy 7:2](https://www.biblegateway.com/passage/?search=Deuteronomy+7:2&version=WEB;NET;OJB)
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+###### v2 
+and when Yahweh your God delivers them up before you, and you strike them, then you shall utterly destroy them. You shall make no covenant with them, nor show mercy to them. 
+
+
+</div></div>
+
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- **Outline:**  
+	- When YHWH delivers them //the seven nations// before you
+	- Do
+		- strike them #Dos 
+		- utterly destroy them #Dos 
+	- Do Not
+		- make no covenant with them #DoNot 
+		- show mercy #DoNot 
+- **Blessing:**
+    - None explicitly stated within the verse
+    - The immediate context of Deuteronomy 7:1 provides the condition — Yahweh brings Israel in and clears away the seven nations before them; the military victory and possession of the land is the implied blessing preceding and enabling the command
+- **Penalty or Consequence:**
+    - None stated as a court-administered penalty within the verse itself
+    - Deuteronomy 7:4 provides the immediate consequence of making covenant or intermarrying — _"they will turn your sons away from following me and they will serve other gods and the anger of Yahweh will be kindled against you and he will destroy you quickly"_
+- **Offering or Ransom:**
+    - None prescribed
+- **Personal Observations** 
+    - The historical fulfillment of the consequence of disobedience here is documented throughout Judges — every cycle of oppression traces back to incomplete separation from the Canaanite nations (Judg. 2:1-3; 3:5-6)
+    - Joshua 23:12-13 echoes the warning directly — covenant with the remaining nations becomes snares, traps, scourges on your sides, and thorns in your eyes until Israel perishes from the good land
+
+
+## 10. #05Deut/Deuteronomy07 07  Do Not Intermarry with the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites Nations
+- **Scripture Reference**: Deuteronomy 7:3
+- **Scripture Text (WEB)**: “You <mark style="background: #FF9EF6A6;">shall not make</mark> marriages with them. You <mark style="background: #FF9EF6A6;">shall not give</mark> your daughter to their son, nor shall you take their daughter for your son.”
+- **Blessing**: General blessings (Deuteronomy 28:1-14).
+- **Penalty or Consequence**: Turning to other gods, Yahweh’s anger, destruction (Deuteronomy 7:4).
+- **Offering or Ransom?**: 
+	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
+- **Note:** Only way it would be unintentional is if they were slaves?
+
+## 11. #05Deut/Deuteronomy07 teronomy07  Destroy Idols and Their Altars
+- **Scripture Reference**: Deuteronomy 7:5
+- **Scripture Text (WEB)**: “But you shall deal with them like this: you shall break down their altars, dash their pillars in pieces, cut down their Asherim, and burn their engraved images with fire.”
+- **Blessing**: General blessings (Deuteronomy 28:1-14).
+- **Penalty or Consequence**: General curses for idolatry (Deuteronomy 28:15-68).
+- **Offering or Ransom?**: 
+	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
+
+
+## #05Deut/Deuteronomy12 Destroy Idolatrous Places of Worship
+- **Scripture Reference**: Deuteronomy 12:2-3
+- **Scripture Text (WEB)**: “You shall surely destroy all the places in which the nations that you shall dispossess served their gods: on the high mountains, and on the hills, and under every green tree. You shall break down their altars, dash their pillars in pieces, and burn their Asherim with fire. You shall cut down the engraved images of their gods. You shall destroy their name out of that place.”
+- **Blessing**: General blessings (Deuteronomy 28:1-14).
+- **Penalty or Consequence**: General curses for idolatry (Deuteronomy 28:15-68).
+- **Offering or Ransom?**: 
+	- Commands which are to be done and are not does not fit into any offering's definition? Intentionally not doing or doing something which is a do not, does not fit into any offerings definition?
 ## Do Not Wear Mixed Garments
 - #05Deut/Deuteronomy22 **Scripture Reference**: Deuteronomy 22:5
 - **Scripture Text (WEB)**: “A woman <mark style="background: #FF9EF6A6;">shall not wear</mark> men’s clothing, <mark style="background: #FF9EF6A6;">neither shall</mark> a man put on women’s clothing; for whoever does these things is an abomination to Yahweh your God.”

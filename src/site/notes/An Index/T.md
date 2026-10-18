@@ -26,6 +26,7 @@
 - [[Gate of Wisdom/T/temptation\|temptation]]
 - [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]]
 - [[Gate of Wisdom/T/Ten Words\|Ten Words]]
+- [[Gate of Wisdom/T/Test\|Test]]
 - [[Gate of Wisdom/T/Testimony\|Testimony]]
 - [[Gate of Wisdom/T/Thanksgiving\|Thanksgiving]]
 - [[Gate of Correction/The Truth – Convergence of Jewish and Christian Faiths\|The Truth – Convergence of Jewish and Christian Faiths]]
