@@ -31,8 +31,8 @@
 
 ###### v2 
 #LoveGod " #Who =={yhwh-yeshua}I am Yahweh== =={israelites}your== =={yhwh-yeshua}[[Gate of Wisdom/Beings/Divine Council/God\|God]]==, =={yhwh-yeshua}who== #Do 
-- #GoodNews =={what}brought== #who=={israelites}you== 
-	- #where=={where}out of the land of [[Gate of Wisdom/Dwelling Places/Realm of Humans/Egypt\|Egypt]]==, 
+- #GoodNews =={what}brought== #who =={israelites}you== 
+	- #where =={where}out of the land of [[Gate of Wisdom/Dwelling Places/Realm of Humans/Egypt\|Egypt]]==, 
 	- #where =={where}out of the house of bondage==. 
 
 
@@ -116,7 +116,7 @@
 
 ###### v5 
 #lovegod #who =={israelites}you== #lawofyhwh =={instructions}shall not bow yourself down== #who =={adversary}to them== #DoNot ,
-- #lawofyhwh =={instructions}nor serve== =={adversary}them==, 
+- #lawofyhwh =={instructions}nor serve== =={adversary}them==, #DoNot 
 	- #who =={yhwh-yeshua}for I, Yahweh your God==, 
 		- #reason =={why-reason}am a jealous God==, 
 		- #reason =={consequence-disobedience}visiting the iniquity of #who== =={who}the fathers on the children==, 
@@ -185,7 +185,7 @@
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
 	- Do not
-		- misuse the name of YHWH #DoNot 
+		- misuse the name of YHWH 
 	- Because
 		- YHWH will not hold him guiltless
 			- who misuses his name
@@ -202,7 +202,7 @@
 		- It goes beyond simple speech to include how one lives while claiming to belong to God
 	- Vanity - empty, false, or self-serving purposes (e.g., false oaths, invoking God to justify wrongdoing, or claiming to represent Him while living contrary to His character)
  
-##   #LoveGod  Remember the Sabbath and Keep It Holy [Exodus 20:8-11](https://www.biblegateway.com/passage/?search=Exodus%2020%3A8-11&version=WEB;NET;OJB)
+##    Remember the Sabbath and Keep It Holy [Exodus 20:8-11](https://www.biblegateway.com/passage/?search=Exodus%2020%3A8-11&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
