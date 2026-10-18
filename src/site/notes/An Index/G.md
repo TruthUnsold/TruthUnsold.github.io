@@ -3,11 +3,11 @@
 ---
 
 
-- [[Gate of Discernment/01 Gen-24 Yada\|01 Gen-24 Yada]]
+- [[Gate of Wisdom/G/01 Gen-24 Yada\|01 Gen-24 Yada]]
 - [[Gate of Discernment/01 Gen-25 Yada\|01 Gen-25 Yada]]
 - [[Gate of Discernment/01 Gen-26 Yada\|01 Gen-26 Yada]]
 - [[Gate of Discernment/01 Gen-27 Yada\|01 Gen-27 Yada]]
-- [[Gate of Discernment/01 Gen-28 Yada\|01 Gen-28 Yada]]
+- [[Gate of Correction/01 Gen-28 Yada\|01 Gen-28 Yada]]
 - [[Gate of Discernment/01 Gen-29 Yada\|01 Gen-29 Yada]]
 - [[Gate of Correction/01 Gen-31 Yada\|01 Gen-31 Yada]]
 - [[Gate of Discernment/01 Gen-32 Yada\|01 Gen-32 Yada]]

@@ -12,6 +12,7 @@ These Unsold Truths brings order to our chaos by turning noise into a clear unde
 
 | Table of Content                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Gate of Wisdom/G/01 Gen-24 Yada\|01 Gen-24 Yada]]                                                                                                                   |
 | [[Gate of Wisdom/D/Who May Dwell With God\|Who May Dwell With God]]                                                                                                   |
 | [[Gate of Wisdom/L/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]                                                                                                 |
 | [[Gate of Wisdom/K/When The Kingdom of God Comes ...\|When The Kingdom of God Comes ...]]                                                                             |
@@ -26,7 +27,6 @@ These Unsold Truths brings order to our chaos by turning noise into a clear unde
 | [[Gate of Wisdom/H/58 Heb-12 Yada\|58 Heb-12 Yada]]                                                                                                                   |
 | [[Gate of Discernment/The Law in Matthew 5\|The Law in Matthew 5]]                                                                                                    |
 | [[Gate of Discernment/Hierarchical Relationships Addressed by God or Jesus\|Hierarchical Relationships Addressed by God or Jesus]]                                    |
-| [[Gate of Discernment/01 Gen-24 Yada\|01 Gen-24 Yada]]                                                                                                                |
 | [[Gate of Discernment/49 Ephes-05 Yada Yada\|49 Ephes-05 Yada Yada]]                                                                                                  |
 | [[Gate of Discernment/51 Colossians Yada\|51 Colossians Yada]]                                                                                                        |
 | [[Gate of Discernment/_Gate of Discernment\|_Gate of Discernment]]                                                                                                    |
