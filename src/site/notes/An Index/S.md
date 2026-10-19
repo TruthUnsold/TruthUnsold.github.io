@@ -101,6 +101,7 @@
 - [[Assets/Clippings/Speaking in Tongues\|Speaking in Tongues]]
 - [[Gate of Wisdom/G/Spiritual Gifts\|Spiritual Gifts]]
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
+- [[Gate of Wisdom/S/steal\|steal]]
 - [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]]
 - [[Gate of Discernment/Study Sheets\|Study Sheets]]
 - [[Gate of Wisdom/S/Subjecting\|Subjecting]]

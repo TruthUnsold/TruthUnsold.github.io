@@ -35,7 +35,6 @@
 	- #where =={where}out of the land of [[Gate of Wisdom/Dwelling Places/Realm of Humans/Egypt\|Egypt]]==, 
 	- #where =={where}out of the house of bondage==. 
 
-
 </div></div>
 
 
@@ -69,7 +68,6 @@
 ###### v3 
 #LoveGod " #who =={israelites}You== #lawofyhwh  =={instructions}shall have no other==   #who =={adversary}[[Gate of Wisdom/Beings/Divine Council/God\|God]]s== #DoNot 
 - #where =={where}before== #who =={yhwh-yeshua}me==. 
-
 
 </div></div>
 
@@ -265,7 +263,7 @@
 - **Offering or Ransom?:** 
 	- No offering substitutes for Sabbath violation when done deliberately (Numbers 15:30–31).
  
-##   #LoveNeighbor   Honor Your Father and Mother [Exodus 20:12](https://www.biblegateway.com/passage/?search=Exodus%2020%3A12&version=WEB;NET;OJB) 
+##    Honor Your Father and Mother [Exodus 20:12](https://www.biblegateway.com/passage/?search=Exodus%2020%3A12&version=WEB;NET;OJB) 
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -273,8 +271,10 @@
 
 
 ###### v12 
-"Honor your father and your mother, that your days may be long in the land which Yahweh your God gives you. 
-
+#LoveNeighbor  #lawofyhwh #what  =={instructions}"[[Gate of Wisdom/H/Honor\|Honor]]== =={israelites}your== #who  =={who}father and your mother==, #do
+- #reason   =={consequence-obedience}that your days may be long==
+	- #where =={where}in the land== 
+		- which =={yhwh-yeshua}Yahweh your God== =={what}gives you==. 
 
 </div></div>
 
@@ -282,7 +282,7 @@
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
 	- Do
-		- Honor your #Do 
+		- Honor your 
 			- father
 			- mother
 	- Because
@@ -301,7 +301,7 @@
 	- Blessing
 		- days may be long in the land which YHWH, elohim gives you.
   
-##  #LoveNeighbor   Do Not Murder [Exodus 20:13](https://www.biblegateway.com/passage/?search=Exodus%2020%3A13&version=WEB;NET;OJB)
+##   Do Not Murder [Exodus 20:13](https://www.biblegateway.com/passage/?search=Exodus%2020%3A13&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -309,7 +309,7 @@
 
 
 ###### v13 
-"You shall not murder. 
+#LoveNeighbor #lawofyhwh #who  =={israelites}"You== #what   =={instructions}shall not [[Gate of Wisdom/M/murder\|murder]]==. #DoNot  
 
 
 </div></div>
@@ -342,7 +342,7 @@
 		- Exodus 22:2–3
 		- Leviticus 24:17
 
-##  #LoveNeighbor   Do Not Commit Adultery [Exodus 20:14](https://www.biblegateway.com/passage/?search=Exodus%2020%3A14&version=WEB;NET;OJB)
+##   Do Not Commit Adultery [Exodus 20:14](https://www.biblegateway.com/passage/?search=Exodus%2020%3A14&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -350,7 +350,7 @@
 
 
 ###### v14 
-"You shall not commit adultery. 
+#LoveNeighbor #lawofyhwh #who   =={israelites}"You== #what  =={instructions}shall not commit [[Gate of Wisdom/A/Adultery\|Adultery]]==.  #DoNot 
 
 
 </div></div>
@@ -359,7 +359,7 @@
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline**
 	- Do Not
-		- commit [[Gate of Wisdom/A/Adultery\|Adultery]] #DoNot 
+		- commit [[Gate of Wisdom/A/Adultery\|Adultery]] 
 - **Blessing:** 
 	- General blessings for obedience (Deuteronomy 28:1–14).
 - **Penalty or Consequence:** 
@@ -367,7 +367,7 @@
 - **Offering or Ransom?:** 
 	- No offering specified; a deliberate, high-handed violation (Numbers 15:30–31).
   
-##  #LoveNeighbor  Do Not Steal [Exodus 20:15](https://www.biblegateway.com/passage/?search=Exodus%2020%3A15&version=WEB;NET;OJB)
+##   Do Not Steal [Exodus 20:15](https://www.biblegateway.com/passage/?search=Exodus%2020%3A15&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -375,7 +375,7 @@
 
 
 ###### v15 
-"You shall not steal. 
+#LoveNeighbor #lawofyhwh #who   =={israelites}"You== #what =={instructions}shall not [[Gate of Wisdom/S/steal\|steal]]==. #DoNot  
 
 
 </div></div>
@@ -384,7 +384,7 @@
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline**
 	- Do not
-		- Steal #DoNot 
+		- Steal 
 - **Blessing:** 
 	- General blessings for obedience (Deuteronomy 28:1–14).
 - **Penalty or Consequence:** 
@@ -398,7 +398,7 @@
 		- Deception or "stealing the mind/heart" — figuratively, to deceive someone (e.g., "stealing" their trust or withholding truth). (see Genesis 31:20, 26)
 		- Ganav emphasizes stealth or secrecy more than violent robbery (which might use other Hebrew terms like gazal for open plunder).
 
-##  #LoveNeighbor  Do Not Bear False Witness [Exodus 20:16](https://www.biblegateway.com/passage/?search=Exodus%2020%3A16&version=WEB;NET;OJB)
+##    Do Not Bear False Witness [Exodus 20:16](https://www.biblegateway.com/passage/?search=Exodus%2020%3A16&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -406,7 +406,7 @@
 
 
 ###### v16 
-"You shall not give false testimony against your neighbor. 
+#LoveNeighbor #lawofyhwh #who   =={israelites}"You== #what =={instructions}shall not give [[Gate of Wisdom/F/false\|false]] [[Gate of Wisdom/W/witness\|witness]]==  #who  =={who}against your [[Gate of Wisdom/N/Neighbor\|Neighbor]]==.  #DoNot 
 
 
 </div></div>
@@ -415,7 +415,7 @@
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline**
 	- Do not
-		- give false testimony #DoNot 
+		- give false testimony
 			- against your neighbor
 
 - **Blessing:** 
@@ -431,7 +431,7 @@
 	- False/Falsehood šāqer (שָׁקֶר): "deception," "lie," or "untruth." It implies something intentionally deceptive or unreliable, often in the context of speech or together means "false witness" or "false testimony," an accusation
 	- Neighbor - fellow - broadly any other person
  
-##   #LoveNeighbor  Do Not Covet [Exodus 20:17](https://www.biblegateway.com/passage/?search=Exodus%2020%3A17&version=WEB;NET;OJB)
+##    Do Not Covet [Exodus 20:17](https://www.biblegateway.com/passage/?search=Exodus%2020%3A17&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -439,7 +439,12 @@
 
 
 ###### v17 
-"You shall not covet your neighbor's house. You shall not covet your neighbor's wife, nor his male servant, nor his female servant, nor his ox, nor his donkey, nor anything that is your neighbor's." 
+#LoveNeighbor #lawofyhwh #who   =={israelites}"You== #what   =={instructions}shall not covet== =={israelites}your== #who =={who}[[Gate of Wisdom/N/Neighbor\|Neighbor]]'s==: #DoNot  =={inline-note}//[[Gate of Wisdom/C/covetous\|covetous]]//==
+- #what =={what}house==. 
+- #what =={what}your neighbor's wife==, 
+- #what =={what}nor his male servant==, =={what}nor his female servant==, 
+- #what =={what}nor his ox, nor his donkey, ==
+- #what =={what}nor anything that is your neighbor's==." 
 
 
 </div></div>
@@ -448,7 +453,7 @@
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
 	- Do not 
-		- Covet your neighbor/other person's #DoNot 
+		- Covet your neighbor/other person's 
 			- house
 			- wife
 			- servant (male or female)
@@ -465,7 +470,45 @@
 	-  Covet hāmad or ḥāmaḏ (חָמַד) - To desire, to take pleasure in, to delight in, or to long for something. It implies a strong craving or lust that goes beyond mere admiration and can lead to actions like theft, adultery, or other violations of the commandments. 
 	- Internal matter of the heart and mind, not just an action.
 
-##  #LoveNeighbor   Do Not Wrong the Sojourner: [Exodus 22:21](https://www.biblegateway.com/passage/?search=Exodus%2022:21&version=WEB;NET;OJB)
+
+##  Do Not Make Gods of Silver or Gold: [Exodus 20:23](https://www.biblegateway.com/passage/?search=Exodus%2020:23&version=WEB;NET;OJB)
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+###### v23 
+#lovegod #who =={israelites}You== #lawofyhwh #what  =={instructions}shall most certainly not make==  #DoNot 
+- #what =={what}gods of silver== 
+- #what =={what}or gods of gold== 
+	- for #who =={israelites}yourselves== #where =={where}to be alongside== #who =={yhwh-yeshua}me==. =={inline-note}//[[Gate of Wisdom/Beings/Divine Council/Elohim\|Elohim]]//==
+
+
+</div></div>
+
+
+- [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
+- **Outline:**  
+	- Do Not
+		- make gods of
+			- silver
+			- gold
+		- have them along side YHWH
+- **Blessing:**
+    - None stated directly in this verse
+    - Context: Yahweh promises to come and bless wherever He records His name, in the altar law that follows (Exodus 20:24)
+- **Penalty or Consequence:**
+    - None stated directly in this verse
+    - Context: the prohibition rests on what Israel has seen, that Yahweh has talked with them from heaven (Exodus 20:22), and repeats the second of the Ten Words (Exodus 20:4-5, 23)
+    - Related penalty elsewhere: Deuteronomy 27:15 curses the one who makes a carved or molten image
+- **Offering or Ransom:**
+    - None specified
+- =={general}Personal Observations==
+	- lo ta’asun itti (לֹא תַעֲשׂוּן אִתִּי): literally “you shall not make with me.” The key word is itti (אִתִּי), from the preposition et (אֵת) plus the suffix “me.” It means “with me, in company with me, alongside me.”
+
+
+##    Do Not Wrong the Stranger: [Exodus 22:21](https://www.biblegateway.com/passage/?search=Exodus%2022:21&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -473,17 +516,18 @@
 
 
 ###### v21 
-"You shall not wrong an alien or oppress him, for you were aliens in the land of Egypt. 
+#LoveNeighbor #lawofyhwh #who =={israelites}"You== #what =={instructions}shall not wrong== #who =={who}an [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]]== =={inline-note}//[[Gate of Wisdom/G/ger\|ger]]//== or #what =={instructions}oppress him==, #DoNot 
+- #reason =={why-reason}for== =={israelites}you were Strangers== #where =={where} in the land of Egypt==. 
 
 
 </div></div>
 
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
-- **Outline:** *
+- **Outline:** 
 	- Do Not
-		- wrong a [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]] ([[Gate of Wisdom/G/ger\|ger]]) #DoNot 
-		- oppress a stranger #DoNot 
+		- wrong a [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]] ([[Gate of Wisdom/G/ger\|ger]]) 
+		- oppress a stranger 
 	- Because
 		- you were aliens
 			- in the land of Egypt
@@ -495,14 +539,9 @@
     - Yahweh's wrath, death by the sword (Exodus 22:24).
 - **Offering or Ransom:**
     - None specified 
-42. #02Exod/Exodus22 **Do Not Afflict Any Widow or Fatherless Child**  Exodus 22:22
-- **Scripture Text (WEB):** "You shall not afflict any widow or fatherless child."
-- **Blessing:** Yahweh's covenant care extended through Israel to the vulnerable.
-- **Penalty or Consequence:** Yahweh's burning anger; death by sword; their wives made widows and children fatherless (Exodus 22:23–24).
-- **Offering or Ransom?:** Not specified.
 
 
-##  #LoveGod  Serve Yahweh Alone: [Exodus 23:25](https://www.biblegateway.com/passage/?search=Exodus%2023:25&version=WEB;NET;OJB)
+##   Serve Yahweh Alone: [Exodus 23:25](https://www.biblegateway.com/passage/?search=Exodus%2023:25&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -510,7 +549,11 @@
 
 
 ###### v25 
-You shall serve Yahweh your God, and he will bless your bread and your water, and I will take sickness away from among you. 
+#LoveGod #lawofyhwh #who =={israelites}You== =={instructions}shall [[Gate of Wisdom/S/Serve\|Serve]]==  #who =={yhwh-yeshua}Yahweh your God==,  #Do 
+- and #who =={yhwh-yeshua}he== =={consequence-obedience}will [[Gate of Wisdom/B/Bless\|Bless]]== 
+	- #what =={what}your bread== 
+	- #what =={what}and your water==, 
+	- #what =={what}and will take sickness away from among== =={israelites}you==. 
 
 
 </div></div>
@@ -519,7 +562,7 @@ You shall serve Yahweh your God, and he will bless your bread and your water, an
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
 	- Do
-		- [[Gate of Wisdom/S/Serve\|Serve]] Yah #Do 
+		- [[Gate of Wisdom/S/Serve\|Serve]] Yah 
 	- He will
 		- [[Gate of Wisdom/B/Bless\|Bless]] your 
 			- bread
@@ -533,16 +576,11 @@ You shall serve Yahweh your God, and he will bless your bread and your water, an
     - Not stated directly in this passage; contextually tied to the surrounding warning against worshiping the gods of the nations and their practices (Exodus 23:24, 32-33) — the implied consequence of disobedience is becoming ensnared by those gods
 - **Offering or Ransom:**
     - None specified
-72. #02Exod/Exodus23  **Make No Covenant with the Inhabitants of Canaan** Exodus 23:32
-- **Scripture Text (WEB):** "You shall make no covenant with them, nor with their gods."
-- **Blessing:** Covenant purity and Yahweh's blessing on the land.
-- **Penalty or Consequence:** Their gods become a snare to Israel (Exodus 23:33).
-- **Offering or Ransom?:** Not applicable.
 
 
 # Leviticus
 
-##  #LoveGod  Do Not Seek Mediums or Spiritists: [Leviticus 19:31](https://www.biblegateway.com/passage/?search=Leviticus+19%3A31&version=WEB;NET;OJB)
+##   Do Not Seek Mediums or Spiritists: [Leviticus 19:31](https://www.biblegateway.com/passage/?search=Leviticus+19%3A31&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -550,7 +588,12 @@ You shall serve Yahweh your God, and he will bless your bread and your water, an
 
 
 ###### v31 
-"'Don't turn to those who are mediums, nor to the wizards. Don't seek them out, to be defiled by them. I am Yahweh your God. 
+#LoveGod #lawofyhwh #what "'=={instructions}Don't turn to those== #DoNot 
+- #who =={who}who are mediums==, 
+- #who =={who}nor to the wizards==. 
+- #what =={instructions}Don't seek them out==, #DoNot 
+	- #Purpose  =={why-purpose}to be defiled by== #who =={who}them==. 
+	- #reason =={yhwh-yeshua}I am Yahweh your God==. 
 
 
 </div></div>
@@ -560,11 +603,11 @@ You shall serve Yahweh your God, and he will bless your bread and your water, an
 * [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 * **Outline:**
    * Do Not
-	   * turn to those who are #DoNot 
+	   * turn to those who are 
 		   * mediums
 		   * wizards
-	   * seek them out #DoNot 
-	   * be defiled by them #DoNot 
+	   * seek them out  
+	   * be defiled by them  
    * Because
 	   * I am YHWH your god
 
@@ -580,7 +623,7 @@ You shall serve Yahweh your God, and he will bless your bread and your water, an
    * No offering or ransom stated in the passage or immediate context. The gravity of the command — closed with *"I am Yahweh your God"* — implies no substitution is available; the act itself is the violation of the covenant relationship.
  [[Gate of Wisdom/Offering/Offerings\|Offerings]]
 
-##  #LoveNeighbor   Use Honest Weights and Measures: [Leviticus 19:36](https://www.biblegateway.com/passage/?search=Leviticus+19%3A36&version=WEB;NET;OJB)
+##     Use Honest Weights and Measures: [Leviticus 19:36](https://www.biblegateway.com/passage/?search=Leviticus+19%3A36&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -588,7 +631,9 @@ You shall serve Yahweh your God, and he will bless your bread and your water, an
 
 
 ###### v36 
-You shall have just balances, just weights, a just ephah, and a just hin. I am Yahweh your God, who brought you out of the land of Egypt. 
+#LoveNeighbor #lawofyhwh  #who =={israelites}You== #what =={instructions}shall have just balances, just weights, a just ephah, and a just hin==. #Do 
+- #reason =={yhwh-yeshua}I am Yahweh your God==, 
+	- #who =={yhwh-yeshua}who== #what =={what}brought== #who =={israelites}you==  #where =={where}out of the land of Egypt==. 
 
 
 </div></div>
@@ -598,7 +643,7 @@ You shall have just balances, just weights, a just ephah, and a just hin. I am Y
 * [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 * **Outline:**
    * Do
-	   * have honest #Do 
+	   * have honest 
 		   * balances
 		   * weights
 		   * ephah
@@ -621,7 +666,7 @@ You shall have just balances, just weights, a just ephah, and a just hin. I am Y
 	* Amos 8:4-7 — God declares he will never forget the deeds of those who use dishonest scales — placed in the context of covenant judgment against Israel.
 	* Micah 6:11-13 — dishonest weights listed among the sins for which God brings affliction and desolation.
 
-##  #LoveGod   Keep All My Statutes and Judgments: [Leviticus 19:37](https://www.biblegateway.com/passage/?search=Leviticus+19%3A37&version=WEB;NET;OJB)
+##    Keep All My Statutes and Judgments: [Leviticus 19:37](https://www.biblegateway.com/passage/?search=Leviticus+19%3A37&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -629,7 +674,10 @@ You shall have just balances, just weights, a just ephah, and a just hin. I am Y
 
 
 ###### v37 
-"'You shall observe all my statutes and all my ordinances, and do them. I am Yahweh.'"
+#LoveGod #lawofyhwh #who "'=={israelites}You== #what =={instructions}shall observe all==  #Do 
+- #who =={yhwh-yeshua}my== #what =={what}[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]== 
+- and #what =={what} [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]== , and do them. I am Yahweh.'"
+
 
 
 </div></div>
@@ -639,7 +687,7 @@ You shall have just balances, just weights, a just ephah, and a just hin. I am Y
 * [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
 * **Outline:**
 	* Do
-		* Obey all my [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] and [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]] #Do 
+		* Obey all my [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] and [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]] 
 	* Because I am YHWH
 
 * **Blessing:**

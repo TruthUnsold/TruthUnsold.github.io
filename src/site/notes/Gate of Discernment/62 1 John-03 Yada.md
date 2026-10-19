@@ -162,7 +162,7 @@ Ease of reading [[_The Scrolls/4. The Gospels and The Apostles/62 - 1 John/1 Joh
 - This is his commandment, <mark style="background: #CD04BBA6;">//singular//</mark>
 	- that we should believe in the [[Gate of Wisdom/N/Name\|Name]] 
 		- of his Son, Jesus Christ, 
-	- and love one another[^29], [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-19#v18\|Lev-19#v18]],
+	- and love one another[^29], [[Gate of Wisdom/I/Lev-19#v18\|Lev-19#v18]],
 		- even as he //YHWH// commanded. [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-06#v5\|Deut-06#v5]],  [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-31#v18\|Exod-31#v18]]
 		- He who keeps his [[Gate of Wisdom/Right Standing/Commandments\|Commandments]][^28]  [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-19#v5\|Exod-19#v5]]-6
 			- remains in him[^11],  [[_The Scrolls/1. Torah (Law of Moses)/04 - Numbers/Num-02#v2\|Num-02#v2]]

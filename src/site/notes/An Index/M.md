@@ -60,6 +60,7 @@
 - [[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]]
 - [[Gate of Wisdom/M/mount\|mount]]
 - [[Gate of Wisdom/M/Mourn\|Mourn]]
+- [[Gate of Wisdom/M/murder\|murder]]
 - [[Gate of Wisdom/Appointed Time/New Moon\|New Moon]]
 - [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
 - [[Gate of Correction/Quick Note Matthew 5 Beatitudes and Sermon on the Mount\|Quick Note Matthew 5 Beatitudes and Sermon on the Mount]]

@@ -19,6 +19,7 @@
 - [[Gate of Wisdom/R/Wicked Lives vs Righteous Dies\|Wicked Lives vs Righteous Dies]]
 - [[Gate of Wisdom/R/Wicked Turning Back vs Righteous Turning Back\|Wicked Turning Back vs Righteous Turning Back]]
 - [[Gate of Wisdom/W/Will\|Will]]
+- [[Gate of Wisdom/W/witness\|witness]]
 - [[Gate of Correction/Women Teaching\|Women Teaching]]
 - [[Gate of Wisdom/W/works\|works]]
 - [[Gate of Wisdom/Dwelling Places/Realm of Humans/world\|world]]

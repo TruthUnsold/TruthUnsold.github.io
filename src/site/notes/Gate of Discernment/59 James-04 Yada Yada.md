@@ -99,7 +99,7 @@ For reading purposes: [[_The Scrolls/4. The Gospels and The Apostles/59 - James/
 #### Don't speak against one another - take a stand, bear record against: [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-19#v15\|Deut-19#v15]]-19 One witness shall not rise up against a man for any iniquity, or for any sin that he sins. At the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established. [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-18#v15\|Matt-18#v15]]-20. 
 
 ![Matt-1815-20 and Deut-1915-19.png](/img/user/_Assets/attachments/Matt-1815-20%20and%20Deut-1915-19.png)
-#### Speak against the law ... Slandering or condemning a brother violates this command → you speak against the law by disobeying it. [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-19#v16\|Lev-19#v16]]  The law = Thou shalt love thy neighbour as thyself” (James 2:8; Leviticus 19:18).  
+#### Speak against the law ... Slandering or condemning a brother violates this command → you speak against the law by disobeying it. [[Gate of Wisdom/I/Lev-19#v16\|Lev-19#v16]]  The law = Thou shalt love thy neighbour as thyself” (James 2:8; Leviticus 19:18).  
 
 #### Judge the law ... By condemning your brother, you sit in judgment over him as if you are above the law.  This usurps God’s role as the only Lawgiver and Judge (James 4:12: “There is one lawgiver, who is able to save and to destroy: who art thou that judgest another?”).  You judge the law by acting as if it’s invalid or insufficient — you set yourself above it.
 #### Not a doer… but a judge”  Doer = one who obeys the law (James 1:22–25).  Judge = one who critiques or overrides the law.  You cannot obey a law you’ve dethroned.
@@ -150,7 +150,7 @@ For reading purposes: [[_The Scrolls/4. The Gospels and The Apostles/59 - James/
 - [[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-07#v1\|Matt-07#v1]]
 - [[_The Scrolls/4. The Gospels and The Apostles/45 - Romans/Rom-14#v4\|Rom-14#v4]]
 - Proverbs 27:1
-- [[_The Scrolls/1. Torah (Law of Moses)/03 - Leviticus/Lev-19#v16\|Lev-19#v16]]
+- [[Gate of Wisdom/I/Lev-19#v16\|Lev-19#v16]]
 - [[_The Scrolls/1. Torah (Law of Moses)/05 - Deuteronomy/Deut-01#v17\|Deut-01#v17]]
 
 [^1]: [[Gate of Wisdom/I/Idiom\|Idiom]] Cleanse your hands... purify your hearts – ritual and moral purification; outward actions and inward motives must both be made clean.

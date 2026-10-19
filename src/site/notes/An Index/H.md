@@ -19,6 +19,7 @@
 - [[Gate of Wisdom/H/Holy Spirit - Pray\|Holy Spirit - Pray]]
 - [[Gate of Wisdom/H/Holy Spirit Receive\|Holy Spirit Receive]]
 - [[Gate of Wisdom/H/Holy Spirit Upon\|Holy Spirit Upon]]
+- [[Gate of Wisdom/H/Honor\|Honor]]
 - [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]
 - [[Gate of Wisdom/Beings/Human Beings/House of Jacob\|House of Jacob]]
 - [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]

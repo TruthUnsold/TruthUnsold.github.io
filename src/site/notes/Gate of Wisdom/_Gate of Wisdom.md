@@ -121,6 +121,7 @@ These cut through the illusion, denial, and confusion entirely. They reveal real
 | [[Gate of Wisdom/Beings/Human Beings/extortionist\|extortionist]]                                              |
 | [[Gate of Wisdom/Beings/Human Beings/Ezra\|Ezra]]                                                              |
 | [[Gate of Wisdom/E/Ezrach\|Ezrach]]                                                                            |
+| [[Gate of Wisdom/F/false\|false]]                                                                              |
 | [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]                                                         |
 | [[Gate of Wisdom/F/Fast\|Fast]]                                                                                |
 | [[Gate of Wisdom/Consequence/Obedience/Favor\|Favor]]                                                          |
@@ -163,6 +164,7 @@ These cut through the illusion, denial, and confusion entirely. They reveal real
 | [[Gate of Wisdom/H/Holy Spirit - Pray\|Holy Spirit - Pray]]                                                    |
 | [[Gate of Wisdom/H/Holy Spirit Receive\|Holy Spirit Receive]]                                                  |
 | [[Gate of Wisdom/H/Holy Spirit Upon\|Holy Spirit Upon]]                                                        |
+| [[Gate of Wisdom/H/Honor\|Honor]]                                                                              |
 | [[Gate of Wisdom/Beings/Human Beings/House of Israel\|House of Israel]]                                        |
 | [[Gate of Wisdom/Beings/Human Beings/House of Jacob\|House of Jacob]]                                          |
 | [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]                                          |
@@ -222,6 +224,7 @@ These cut through the illusion, denial, and confusion entirely. They reveal real
 | [[Gate of Wisdom/M/mount\|mount]]                                                                              |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/Mount Sinai\|Mount Sinai]]                                    |
 | [[Gate of Wisdom/M/Mourn\|Mourn]]                                                                              |
+| [[Gate of Wisdom/M/murder\|murder]]                                                                            |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Nachash\|Nachash]]                                                     |
 | [[Gate of Wisdom/Beings/Human Beings/Nahum\|Nahum]]                                                            |
 | [[Gate of Wisdom/N/Name\|Name]]                                                                                |
@@ -306,6 +309,7 @@ These cut through the illusion, denial, and confusion entirely. They reveal real
 | [[Assets/Clippings/Speaking in Tongues\|Speaking in Tongues]]                                                  |
 | [[Gate of Wisdom/G/Spiritual Gifts\|Spiritual Gifts]]                                                          |
 | [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]                                         |
+| [[Gate of Wisdom/S/steal\|steal]]                                                                              |
 | [[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]]                                                      |
 | [[Gate of Discernment/Study Sheets\|Study Sheets]]                                                             |
 | [[Gate of Wisdom/S/Subjecting\|Subjecting]]                                                                    |
@@ -351,6 +355,7 @@ These cut through the illusion, denial, and confusion entirely. They reveal real
 | [[Gate of Wisdom/Beings/Heavenly Beings/Watchers\|Watchers]]                                                   |
 | [[Gate of Wisdom/Offering/Wave Offering\|Wave Offering]]                                                       |
 | [[Gate of Wisdom/W/Will\|Will]]                                                                                |
+| [[Gate of Wisdom/W/witness\|witness]]                                                                          |
 | [[Gate of Wisdom/W/works\|works]]                                                                              |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/world\|world]]                                                |
 | [[Gate of Wisdom/W/Worship\|Worship]]                                                                          |
