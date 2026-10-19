@@ -211,8 +211,8 @@
 
 ###### v8-11 
 #LoveGod #lawofyhwh #what "=={instructions}Remember the== =={appointed-time}[[Gate of Wisdom/Appointed Time/Sabbath\|Sabbath]] day==, #do
-- #reason  =={why-reason}to keep it [[Gate of Wisdom/H/Holy\|Holy]]. ==
-	- #lawofyhwh #who=={israelites}You== #what=={instructions}shall labor== #when=={when}six days==, #do
+- #reason   =={why-reason}to keep it [[Gate of Wisdom/H/Holy\|Holy]].==
+	- #lawofyhwh #who =={israelites}You==  #what =={instructions}shall labor== #when =={when}six days==, #do
 		- #what =={instructions}and do all your work==, =={inline-note}//[[Gate of Wisdom/A/Avad\|Avad]]//==
 - but #when =={when}the seventh day== =={appointed-time}is a Sabbath== 
 	- #Purpose =={why-purpose}to Yahweh your God==. 
@@ -222,7 +222,7 @@
 		- #who your =={who}male [[Gate of Wisdom/S/servant\|servant]]==, nor your =={who}female servant==, 
 		- #who nor your =={who}livestock==, 
 		- #who nor your =={who}[[Gate of Wisdom/Beings/Human Beings/Stranger\|Stranger]] who is within your gates==;
-- #reason #when=={when}for in six days== #who =={yhwh-yeshua}Yahweh== #what =={what}made==
+- #reason #when =={when}for in six days== #who =={yhwh-yeshua}Yahweh== #what =={what}made==
 	- #what =={what}[[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]== 
 	- #what =={what}and [[Zunpublished/Earth\|Earth]]==, 
 	- #what =={what}the sea==, 
