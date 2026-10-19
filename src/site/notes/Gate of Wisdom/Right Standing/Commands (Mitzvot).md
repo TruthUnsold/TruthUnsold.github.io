@@ -31,9 +31,9 @@
 
 ###### v2 
 #LoveGod " #Who =={yhwh-yeshua}I am Yahweh== =={israelites}your== =={yhwh-yeshua}[[Gate of Wisdom/Beings/Divine Council/God\|God]]==, =={yhwh-yeshua}who== #Do 
-- #GoodNews =={what}brought== #who =={israelites}you== 
-	- #where =={where}out of the land of [[Gate of Wisdom/Dwelling Places/Realm of Humans/Egypt\|Egypt]]==, 
-	- #where =={where}out of the house of bondage==. 
+- =={what}brought== #who =={israelites}you== 
+	- #where =={where}out of the land of [[Gate of Wisdom/Dwelling Places/Realm of Humans/Egypt\|Egypt]]==, #GoodNews 
+	- #where =={where}out of the house of bondage==. #GoodNews 
 
 </div></div>
 
@@ -114,12 +114,13 @@
 
 ###### v5 
 #lovegod #who =={israelites}you== #lawofyhwh =={instructions}shall not bow yourself down== #who =={adversary}to them== #DoNot ,
-- #lawofyhwh =={instructions}nor serve== =={adversary}them==, #DoNot 
+- #if #lawofyhwh =={instructions}nor serve== =={adversary}them==, #DoNot  
 	- #who =={yhwh-yeshua}for I, Yahweh your God==, 
 		- #reason =={why-reason}am a jealous God==, 
-		- #reason =={consequence-disobedience}visiting the iniquity of #who== =={who}the fathers on the children==, 
-			- #when =={when}on the third and on the fourth generation ==
+		- #then  #reason =={consequence-disobedience}visiting the iniquity of #who== =={who}the fathers on the children==,  
+			- #when  =={when}on the third and on the fourth generation==
 			- #who =={who}of those who hate me==, 
+
 
 
 </div></div>
@@ -130,7 +131,7 @@
 
 
 ###### v6 
-- #lovegod #reason #GoodNews =={consequence-obedience}and showing loving kindness== #who =={who}to thousands of those== 
+- #lovegod #reason  =={consequence-obedience}and showing loving kindness== #then #GoodNews#who =={who}to thousands of those== #if
 	- #what #lawofyhwh =={instructions}who love me==  #do
 	- #what #lawofyhwh =={instructions}and keep my [[Gate of Wisdom/Right Standing/Commandments\|Commandments]].==  #do
 
@@ -172,8 +173,8 @@
 
 
 ###### v7 
-" #who =={israelites}You== #lawofyhwh =={instructions}shall not misuse the [[Gate of Wisdom/N/Name\|Name]]== #who =={yhwh-yeshua}of Yahweh== =={israelites}your== =={yhwh-yeshua}God== #DoNot 
-- #reason =={yhwh-yeshua}for Yahweh== =={consequence-disobedience}will not hold him guiltless== 
+#if #who =={israelites}You== #lawofyhwh =={instructions}shall not misuse the [[Gate of Wisdom/N/Name\|Name]]== #who =={yhwh-yeshua}of Yahweh== =={israelites}your== =={yhwh-yeshua}God== #DoNot 
+- #then  #reason =={yhwh-yeshua}for Yahweh== =={consequence-disobedience}will not hold him guiltless== 
 	- =={who}who== =={lawless}misuses his name==. 
 
 
@@ -271,10 +272,11 @@
 
 
 ###### v12 
-#LoveNeighbor  #lawofyhwh #what  =={instructions}"[[Gate of Wisdom/H/Honor\|Honor]]== =={israelites}your== #who  =={who}father and your mother==, #do
-- #reason   =={consequence-obedience}that your days may be long==
+#LoveNeighbor  #lawofyhwh #if #what  =={instructions}"[[Gate of Wisdom/H/Honor\|Honor]]== =={israelites}your== #who  =={who}father and your mother==, #do
+- #then  #reason   =={consequence-obedience}that your days may be long==
 	- #where =={where}in the land== 
-		- which =={yhwh-yeshua}Yahweh your God== =={what}gives you==. 
+		- which =={yhwh-yeshua}Yahweh your God== =={what}gives you==. #GoodNews 
+
 
 </div></div>
 
@@ -549,8 +551,8 @@
 
 
 ###### v25 
-#LoveGod #lawofyhwh #who =={israelites}You== =={instructions}shall [[Gate of Wisdom/S/Serve\|Serve]]==  #who =={yhwh-yeshua}Yahweh your God==,  #Do 
-- and #who =={yhwh-yeshua}he== =={consequence-obedience}will [[Gate of Wisdom/B/Bless\|Bless]]== 
+#LoveGod #lawofyhwh #who =={israelites}You== #if #what =={instructions}shall [[Gate of Wisdom/S/Serve\|Serve]]==  #who =={yhwh-yeshua}Yahweh your God==,  #Do 
+- #then and #who =={yhwh-yeshua}he== =={consequence-obedience}will [[Gate of Wisdom/B/Bless\|Bless]]==  #GoodNews 
 	- #what =={what}your bread== 
 	- #what =={what}and your water==, 
 	- #what =={what}and will take sickness away from among== =={israelites}you==. 
@@ -633,7 +635,7 @@
 ###### v36 
 #LoveNeighbor #lawofyhwh  #who =={israelites}You== #what =={instructions}shall have just balances, just weights, a just ephah, and a just hin==. #Do 
 - #reason =={yhwh-yeshua}I am Yahweh your God==, 
-	- #who =={yhwh-yeshua}who== #what =={what}brought== #who =={israelites}you==  #where =={where}out of the land of Egypt==. 
+	- #who =={yhwh-yeshua}who== #what =={what}brought== #who =={israelites}you==  #where =={where}out of the land of Egypt==. #GoodNews 
 
 
 </div></div>
@@ -676,9 +678,9 @@
 ###### v37 
 #LoveGod #lawofyhwh #who "'=={israelites}You== #what =={instructions}shall observe all==  #Do 
 - #who =={yhwh-yeshua}my== #what =={what}[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]== 
-- and #what =={what} [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]== , and do them. I am Yahweh.'"
-
-
+- and #what =={what} [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]== , 
+#what =={instructions}and do them== #Do . 
+- #reason =={yhwh-yeshua}I am Yahweh==.'"
 
 </div></div>
 

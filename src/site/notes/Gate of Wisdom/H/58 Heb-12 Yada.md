@@ -103,7 +103,7 @@ and make straight paths for your feet, so what is lame may not be dislocated, bu
 		- [^19]the sound of a trumpet, [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-19#v16\|Exod-19:16]]
 		- and the voice of words; 
 			- which those who heard it begged that not one more word should be spoken to them, 
-				- for they [^14]could not stand that which was commanded, [[Gate of Wisdom/Good News/Exod-20#v18\|Exod-20:18]][[Gate of Wisdom/Good News/Exod-20#v19\|Exod-20#v19]][[Gate of Wisdom/Good News/Exod-20#v20\|Exod-20#v20]][[Gate of Wisdom/Good News/Exod-20#v21\|-21]]
+				- for they [^14]could not stand that which was commanded, [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-20#v18\|Exod-20:18]][[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-20#v19\|Exod-20#v19]][[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-20#v20\|Exod-20#v20]][[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-20#v21\|-21]]
 				- "If even an animal touches the mountain, it shall be stoned". [[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-19#v12\|Exod-19:12]][[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-19#v13\|-13]]
 			- So fearful was the appearance that Moses said, [[Deut-9#v19\|Deut-9:19]]
 				- "I am terrified and trembling." 

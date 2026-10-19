@@ -22,7 +22,7 @@ S ay to the descendants of Jacob (Israel)
 7. T he people all responded together, we will do everything the Lord has said
 
 
-[[Gate of Wisdom/Good News/Exod-20\|Exod-20]]
+[[_The Scrolls/1. Torah (Law of Moses)/02 - Exodus/Exod-20\|Exod-20]]
 1. T raditionally known 10 commandments
 2. I dols and Altars
 
