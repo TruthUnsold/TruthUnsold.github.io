@@ -847,3 +847,40 @@ a.tag[data-content="#Do" i] {
 a.tag[data-content="#DoNot" i] {
   background-color: #ff4d4d !important;
 }
+
+/* ==========================================================================
+   SMALLER TEXT IN THE TAG OVALS
+   Paste at the VERY END of src/site/styles/custom-style.scss
+   (after everything else). To change the size, edit the 0.6rem below:
+   smaller number = smaller text.
+   ========================================================================== */
+
+a.tag[data-content="#ANSWER" i],
+a.tag[data-content="#WHAT" i],
+a.tag[data-content="#WHEN" i],
+a.tag[data-content="#WHERE" i],
+a.tag[data-content="#WHO" i],
+a.tag[data-content="#HOW" i],
+a.tag[data-content="#QUESTION" i],
+a.tag[data-content="#IF" i],
+a.tag[data-content="#THEN" i],
+a.tag[data-content="#GoodNews" i],
+a.tag[data-content="#Hyperlink" i],
+a.tag[data-content="#Idiom" i],
+a.tag[data-content="#LawOfMan" i],
+a.tag[data-content="#LawOfYHWH" i],
+a.tag[data-content="#LawTorah" i],
+a.tag[data-content="#LoveGod" i],
+a.tag[data-content="#LoveNeighbor" i],
+a.tag[data-content="#Do" i],
+a.tag[data-content="#DoNot" i] {
+  font-size: 0.6rem !important;
+  padding: 1px 7px 2px 7px !important;
+}
+
+/* #PURPOSE and #REASON ovals (the "#WHY" ones) */
+a.tag[data-content="#PURPOSE" i]::after,
+a.tag[data-content="#REASON" i]::after {
+  font-size: 0.6rem;
+  padding: 1px 7px 2px 7px;
+}
