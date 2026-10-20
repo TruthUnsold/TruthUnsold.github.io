@@ -30,7 +30,7 @@
 
 
 ###### v2 
-#LoveGod " #Who =={yhwh-yeshua}I am Yahweh== =={israelites}your== =={yhwh-yeshua}[[Gate of Wisdom/Beings/Divine Council/God\|God]]==, =={yhwh-yeshua}who== #Do 
+#LoveGod " #Who =={yhwh-yeshua}I am Yahweh==  =={israelites}your== =={yhwh-yeshua}[[Gate of Wisdom/Beings/Divine Council/God\|God]]==, =={yhwh-yeshua}who== #Do 
 - =={what}brought== #who =={israelites}you== 
 	- #where =={where}out of the land of [[Gate of Wisdom/Dwelling Places/Realm of Humans/Egypt\|Egypt]]==, #GoodNews 
 	- #where =={where}out of the house of bondage==. #GoodNews 
