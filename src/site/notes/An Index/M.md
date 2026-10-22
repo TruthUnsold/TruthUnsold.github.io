@@ -11,7 +11,7 @@
 - [[Gate of Foundation/Mark of the Beast/05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)\|05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)]]
 - [[Gate of Discernment/33 Micah-06 Yada Yada\|33 Micah-06 Yada Yada]]
 - [[Gate of Correction/33 Micah-07 Yada Yada\|33 Micah-07 Yada Yada]]
-- [[Gate of Discernment/40 Matt-05 Yada\|40 Matt-05 Yada]]
+- [[Gate of Correction/40 Matt-05 Yada\|40 Matt-05 Yada]]
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 - [[Gate of Wisdom/L/Law in Matthew 7 and 11\|Law in Matthew 7 and 11]]

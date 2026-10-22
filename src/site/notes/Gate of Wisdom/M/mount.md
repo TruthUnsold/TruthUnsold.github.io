@@ -23,8 +23,8 @@ Luke 9:28  About eight days after Jesus said this, he took Peter, John and James
 
 # Connections
 - 
-| file.inlinks                                                                   |
-| ------------------------------------------------------------------------------ |
-| <ul><li>[[Gate of Discernment/40 Matt-05 Yada.md\\|40 Matt-05 Yada]]</li></ul> |
+| file.inlinks                                                                                         |
+| ---------------------------------------------------------------------------------------------------- |
+| <ul><li>[[_The Scrolls/4. The Gospels and The Apostles/40 - Matthew/Matt-05.md\\|Matt-05]]</li></ul> |
 
 { .block-language-dataview}

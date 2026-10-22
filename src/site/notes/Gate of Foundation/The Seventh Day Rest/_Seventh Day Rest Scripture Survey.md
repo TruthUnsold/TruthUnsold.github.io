@@ -54,7 +54,7 @@ This series approaches the Seventh Day Rest as a ceasefire moment: a pause not o
 - Mark 1:21-34, Luke 4:31-41 [[Gate of Foundation/The Seventh Day Rest/36 The Seventh Day Rest Jesus was in the Synagogue (41 Mark)\|36 The Seventh Day Rest Jesus was in the Synagogue (41 Mark)]]
 - Matthew 24:20 [[Gate of Foundation/The Seventh Day Rest/37 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)\|37 The Seventh Day Rest Not Good Day for End Times Flight (40 Matthew)]]
 - Luke 23:54-56 (Matthew 27:62, Mark 15:42, , John 19:31, 42)  [[Gate of Foundation/The Seventh Day Rest/38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)\|38 The Seventh Day is a Rest Day After the Crucifixion (42 Luke)]]
-- Matthew 28:1, Mark 16:1-9 [[Gate of Foundation/The Seventh Day Rest/39 The Seventh Day is the Sabbath (40 Matthew)\|39 The Seventh Day is the Sabbath (40 Matthew)]]
+- Matthew 28:1, Mark 16:1-9 [[Gate of Foundation/39 The Seventh Day is the Sabbath (40 Matthew)\|39 The Seventh Day is the Sabbath (40 Matthew)]]
 - Mark 6:2 [[Gate of Foundation/The Seventh Day Rest/40 The Seventh Day is for Teaching (41 Mark)\|40 The Seventh Day is for Teaching (41 Mark)]]
 - Luke 4:16, 31 [[Gate of Foundation/The Seventh Day Rest/41 The Seventh Day is for Gathering (42 Luke)\|41 The Seventh Day is for Gathering (42 Luke)]]
 - Luke 13:10–17 [[Gate of Foundation/The Seventh Day Rest/42 The Seventh Day is for Healing (42 Luke)\|42 The Seventh Day is for Healing (42 Luke)]]

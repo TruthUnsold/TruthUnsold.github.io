@@ -10,9 +10,9 @@ This ought to be an interesting one. Let’s see what we can learn. Set aside an
 
 ## Verse 27
 
-You heard it said … thou shalt not commit adultery – This is part of the Ten Words/Witness/Testimony otherwise known as Ten Commandments today. Adultery is considered a work of the flesh – the sum up of this would be sexual relations outside a covenant relationship with the opposite sex. Regardless of what you want it to be, this was the definition at the time Jesus is speaking these words. A man “being with” a woman he is not in a covenant relationship/marriage with. Or a women who takes strangers instead of her husband.
+You heard it said … thou shalt not commit [[Gate of Wisdom/A/Adultery\|Adultery]] – This is part of the [[Gate of Wisdom/T/Ten Words\|Ten Words]]/Witness/Testimony otherwise known as Ten Commandments today. Adultery is considered a work of the flesh – the sum up of this would be sexual relations outside a covenant relationship with the opposite sex. Regardless of what you want it to be, this was the definition at the time Jesus is speaking these words. A man “being with” a woman he is not in a covenant relationship/marriage with. Or a women who takes strangers instead of her husband.
 
-A marriage in Biblical times was between a man and a woman, a woman and her father would consent to the man and the woman living together and creating a family. Usually, the man would give an agreed upon “price” to the father for the woman. A couple was considered in a covenant relationship once agreeing to the covenant. At that point, they would be called husband and wife, even if they didn’t live together right then. They may even be apart and not see each other for up to a year.
+A marriage in Biblical times was between a man and a woman. A woman and her father would consent to the man and the woman living together and creating a family. Usually, the man would give an agreed upon “price” to the father for the woman. A couple was considered in a covenant relationship once agreeing to the covenant. At that point, they would be called husband and wife, even if they didn’t live together right then. They may even be apart and not see each other for up to a year.
 
 A covenant relationship/marriage started with an agreement between the man and the woman. At that moment, they were husband and wife. They did not have to see each other, live together, have a ceremony, or have sex in order to be called married. It was about giving your word and honoring it. Sex did not define when someone was a husband or wife, their word did.
 
@@ -30,7 +30,7 @@ And/But I \[Jesus\] say … every one who is looking – looking – this word d
 
 Staring at a woman with desire … a sexual desire. This same word is also translated as coveting and lusting. It means to long after and yearn for.
 
-Has already committed adultery with her in his heart … And there it is, it is now a heart sin. Also note, Jesus is specifically talking to the men on this one. I wonder if he would have singled out just the men today? Just like with anger, once lust takes hold of your heart, Jesus doesn’t expect it to be long before it manifests into a physical sin. He also knows you can use people in your mind for sexual pleasure without anyone ever knowing.
+... Has already committed adultery with her in his heart … And there it is, it is now a heart sin. Also note, Jesus is specifically talking to the men on this one. I wonder if he would have singled out just the men today? Just like with anger, once lust takes hold of your heart, Jesus doesn’t expect it to be long before it manifests into a physical sin. He also knows you can use people in your mind for sexual pleasure without anyone ever knowing.
 
 ## Verses 29-30
 

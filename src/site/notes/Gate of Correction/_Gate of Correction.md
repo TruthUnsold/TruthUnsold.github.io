@@ -23,7 +23,7 @@ When your actions, habits, or environment feel chaotic, these provide the daily 
 | [[Gate of Correction/23 Isa-46 Yada\|23 Isa-46 Yada]]                                                                                                                                    |
 | [[Gate of Discernment/23 Isa-65 Yada\|23 Isa-65 Yada]]                                                                                                                                   |
 | [[Gate of Discernment/23 Isa-66 Yada\|23 Isa-66 Yada]]                                                                                                                                   |
-| [[Gate of Discernment/40 Matt-05 Yada\|40 Matt-05 Yada]]                                                                                                                                 |
+| [[Gate of Correction/40 Matt-05 Yada\|40 Matt-05 Yada]]                                                                                                                                  |
 | [[Gate of Correction/Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)\|Celebrating the Birth of A God in December (Part 5.5 Day of Atonement)]]                    |
 | [[Gate of Correction/Christianity and the Feast Of Trumpets\|Christianity and the Feast Of Trumpets]]                                                                                    |
 | [[Gate of Correction/Commandment Reading Plan April\|Commandment Reading Plan April]]                                                                                                    |

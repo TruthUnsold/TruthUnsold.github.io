@@ -6,21 +6,19 @@
 
 Before we dig into this one:
 
-1. We can not drop off everything we’ve learned to this point. This is a continuing thought, not a new conversation. It shouldn’t be lost on anyone how adamantly Jesus says he didn’t come to dissolve, destroy, loosen, undo the Torah/law or the Neviim/prophets. He had to have made this point because he knew the things he was about to say would sound like that was exactly what he was doing. Therefore, as we read these next few verses, we have to keep in mind. Jesus did not come to dissolve, destroy, loosen, undo the Torah/law or the Neviim/prophets.
-2. Grace vs Law people should take note, if you believe “the law” was abolished and we are no longer under the Old Testament laws, and you also know Jesus said, if you love me you will keep my commandments, then we are about to read what would be considered HIS Commandments. These are part of the laws we should keep if we love him.
+1. We can not drop off everything we’ve learned to this point. This is a continuing thought, not a new conversation. It shouldn’t be lost on anyone how adamantly Jesus says he didn’t come to dissolve, destroy, loosen, undo the [[Gate of Wisdom/T/Torah\|Torah]]/law or the Neviim/[[Gate of Wisdom/Beings/Human Beings/Prophet\|Prophet]]s. He had to have made this point because he knew the things he was about to say would sound like that was exactly what he was doing. Therefore, as we read these next few verses, we have to keep in mind. Jesus did not come to dissolve, destroy, loosen, undo the Torah/law or the Neviim/prophets.
+2. Grace vs Law people should take note, if you believe “the law” was abolished and we are no longer under the Old Testament laws, and you also know Jesus said, if you love me you will keep my [[Gate of Wisdom/Right Standing/Commandments\|Commandments]], then we are about to read what would be considered HIS Commandments. These are part of the laws we should keep if we love him.
 3. Before Jesus starts into these “you have heard it said, I say” statements he has just said to be righteousness above that of the religious leaders and scholars of that day. He’s going to elaborate here on what that might look like.
 
 Now, are you ready for what is about to be taught by Jesus? Put away your preconceived ideas and let Jesus teach you.
 
-![](https://calltoceasefire.wordpress.com/wp-content/uploads/2023/10/image-3.png)
-
 ## Verse 21
 
-You (the disciples) heard that it was said to the ancients … The ancients, the first ones, the leaders, people long ago – who are they talking about? Most would answer “the Jews,” or “The Israelites,” but these would not be correct. We would all associate the do not murder with what we call the Ten Commandments. Who were those given to:
+You =={inline-note}//the [[Gate of Wisdom/Beings/Human Beings/Disciple\|Disciple]]s//== heard that it was said to the ancients … The ancients, the first ones, the leaders, people long ago – who are they talking about? Most would answer “the [[Gate of Wisdom/Beings/Human Beings/Jew\|Jew]]s,” or “The [[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]],” but these would not be correct. We would all associate the do not murder with what we call the [[Gate of Wisdom/C/Ten Commandments\|Ten Commandments]]. Who were those given to:
 
 - The Israelite elders of the people (Exodus 19:7)
-	- The Israelites were made up of 12 tribes from sons of Israel/Jacob.
-	- One of those tribes was the tribe of Judah – known as Jews. However, not all Jews today are from the tribe of Judah.
+	- The Israelites were made up of 12 tribes from sons of Israel/[[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]].
+	- One of those tribes was the tribe of [[Gate of Wisdom/Beings/Human Beings/Judah\|Judah]] – known as Jews. However, not all Jews today are from the tribe of Judah.
 	- Generally speaking, all Jews are Israelites but not all Israelites are Jews, and not all Jews are from the line of Judah.
 - The people in the camp (Exodus 19:17)
 	- The Priests
@@ -28,11 +26,11 @@ You (the disciples) heard that it was said to the ancients … The ancients, the
 	- The Mixed Multitudes – Egyptians and others who left with the Israelites (Exodus 12:38)
 		- YHWH/God says, “The same law applies both to the native-born and to the foreigner residing among you.”
 
-Do not murder … Let’s talk about murder. The concept of murder in the Old Testament is something which can not be done accidentally. It means taking a life willfully – on purpose. The only “accidental” taking of life which carried the same penalty of a life taken willfully is in Exodus 21 when people are fighting and a pregnant woman is struck and gives birth prematurely and there is serious injury resulting in death. It also is not an offense to murder during war. If a life was taken by accident, they could run to a sanctuary city so the family of the deceased wouldn’t kill them.
+Do not 1murder … Let’s talk about murder. The concept of murder in the Old Testament is something which can not be done accidentally. It means taking a life willfully – on purpose. The only “accidental” taking of life which carried the same penalty of a life taken willfully is in Exodus 21 when people are fighting and a pregnant woman is struck and gives birth prematurely and there is serious injury resulting in death. It also is not an offense to murder during war. If a life was taken by accident, they could run to a sanctuary city so the family of the deceased wouldn’t kill them.
 
 subject to, fit for, in danger of, judgment – There was a requirement of at least two witnesses in order to convict someone (Deut 19) making them fit for judgment. You have to remember, at this time, the people had seen mighty acts of God, entire people groups swallowed up, a physical presence of God. They did not need to be convinced he would know if they had done something wrong. There real struggle was grasping what God found wrong, their draw to return to their old ways from living in Egypt. Don’t cha think we have the same issues today?
 
-The Hebrew word used here for judgement is mishpat. It is translated a variety of ways making it hard for us to see connections in our English Bible translations. We see this word in Genesis 18, Abraham and his household shomer/keep to do tzedakah/right and mishpat/just. We find a list of mishpatim/ordinances (plural of mishpat) in Exodus 21 a long list begins and the Israelite camp agrees to them in Exodus 24. We find mishpat/laws about personal injury and murder in this list.
+The Hebrew word used here for judgement is mishpat =={inline-note}//[[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]//==. It is translated a variety of ways making it hard for us to see connections in our English Bible translations. We see this word in Genesis 18, Abraham and his household shomer/keep to do tzedakah/right and mishpat/just. We find a list of mishpatim/ordinances (plural of mishpat) in Exodus 21 a long list begins and the Israelite camp agrees to them in Exodus 24. We find mishpat/laws about personal injury and murder in this list.
 
 As Christians we try to lump everything under “the law” or “the commandments” but this is not the way the Hebrew Bible is laid out. The Torah has many different recommendations just like we have today. There is a difference between a civil and criminal crime, we have guidelines, mandates, ordinances, laws etc. Not all are prosecutable and not all carry jail time. Its the same in the Torah.
 
@@ -57,10 +55,6 @@ who is angry … Well, this one sounds like it’s going to get us all in troubl
 ## What have we learned so far?
 
 Jesus says, you think God’s command is about taking a life, it isn’t, it’s about your heart toward others, especially when it’s negatively fixed on punishment and without cause. Not murdering may keep the letter of his mishpat/law, but it doesn’t keep the heart of the mishpat/law. If you live like this, you have placed yourself in danger of judgement.
-
-AND … this is from Logos Bible Software – the word highlighted in yellow – is this word, the word highlighted in green, is the word used for But above. However, these are chosen Greek words. It was a matter of a choice by the interpreter.  
-
-![](https://calltoceasefire.wordpress.com/wp-content/uploads/2023/10/image-2.png)
 
 Hold on now, we are about to hit some tough bumps.
 

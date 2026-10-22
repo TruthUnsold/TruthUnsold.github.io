@@ -30,10 +30,11 @@
 
 
 ###### v2 
-#LoveGod " #Who =={yhwh-yeshua}I am Yahweh==  =={israelites}your== =={yhwh-yeshua}[[Gate of Wisdom/Beings/Divine Council/God\|God]]==, =={yhwh-yeshua}who== #Do 
+ #LoveGod #Who =={yhwh-yeshua}I am Yahweh==  =={israelites}your== =={yhwh-yeshua}[[Gate of Wisdom/Beings/Divine Council/God\|God]]==, =={yhwh-yeshua}who==  #Do 
 - =={what}brought== #who =={israelites}you== 
 	- #where =={where}out of the land of [[Gate of Wisdom/Dwelling Places/Realm of Humans/Egypt\|Egypt]]==, #GoodNews 
 	- #where =={where}out of the house of bondage==. #GoodNews 
+
 
 </div></div>
 
@@ -66,7 +67,7 @@
 
 
 ###### v3 
-#LoveGod " #who =={israelites}You== #lawofyhwh  =={instructions}shall have no other==   #who =={adversary}[[Gate of Wisdom/Beings/Divine Council/God\|God]]s== #DoNot 
+ #LoveGod #who =={israelites}You== #lawofyhwh  =={instructions}shall have no other==   #who =={adversary}[[Gate of Wisdom/Beings/Divine Council/God\|God]]s== #DoNot 
 - #where =={where}before== #who =={yhwh-yeshua}me==. 
 
 </div></div>
@@ -131,7 +132,7 @@
 
 
 ###### v6 
-- #lovegod #reason  =={consequence-obedience}and showing loving kindness== #then #GoodNews#who =={who}to thousands of those== #if
+- #lovegod #reason  =={consequence-obedience}and showing loving kindness== #then #GoodNews #who =={who}to thousands of those== #if
 	- #what #lawofyhwh =={instructions}who love me==  #do
 	- #what #lawofyhwh =={instructions}and keep my [[Gate of Wisdom/Right Standing/Commandments\|Commandments]].==  #do
 
