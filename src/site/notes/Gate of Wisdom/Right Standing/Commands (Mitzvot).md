@@ -3,9 +3,12 @@
 ---
 
 # Define
-- [[Gate of Wisdom/M/Mitzvot\|Mitzvot]] (מִצְוֹת)
+- Hebrew: [[Gate of Wisdom/M/Mitzvot\|Mitzvot]] (מִצְוֹת)
 - General commandments, often moral or religious duties (e.g., love God, keep commandments).
-- Derived from the Hebrew root צ-ו-ה (Tsade-Vav-Heh), which means "to command" or "to order." 
+	- Derived from the Hebrew root צ-ו-ה (Tsade-Vav-Heh), which means "to command" or "to order." [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
+	- In the Hebrew mindset a mitzvah is not just a rule. It is an instruction from the Father to be walked out.
+- Greek: entolē (ἐντολή): 
+	- command, commandment, charge, an authoritative instruction from one in authority.
 
 # Related words
 
@@ -706,7 +709,7 @@
    * No offering or ransom stated. The verse closes with *"I am Yahweh"* — the same covenant formula that opens Leviticus 19 in v.2 and punctuates the chapter throughout. The entire chapter is bracketed by this declaration, making the keeping of all its commands an act of covenant fidelity to the person and character of Yahweh himself rather than a legal transaction.
 
 
-##  #LoveNeighbor    Do Not Wrong One Another [Leviticus 25:17](https://www.biblegateway.com/passage/?search=Leviticus+25%3A17&version=WEB;NET;OJB)
+##      Do Not Wrong One Another [Leviticus 25:17](https://www.biblegateway.com/passage/?search=Leviticus+25%3A17&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -714,7 +717,8 @@
 
 
 ###### v17 
-You shall not wrong one another, but you shall fear your God; for I am Yahweh your God. 
+#LoveNeighbor   #lawofyhwh   #who =={israelites}You== =={instructions}shall not wrong #who one another==, #DoNot 
+#LoveGod #lawofyhwh but #who =={israelites}you== =={instructions}shall [[Gate of Wisdom/F/fear (yirah)\|fear (yirah)]] #who your God==; #reason =={why-reason}for I am Yahweh your God==. #Do 
 
 
 </div></div>
@@ -724,9 +728,9 @@ You shall not wrong one another, but you shall fear your God; for I am Yahweh yo
 * [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]
 * **Outline:**
    * Do not
-	   * oppress a fellow citizen #DoNot 
+	   * oppress a fellow citizen 
    * Do
-	   * [[Gate of Wisdom/F/fear (yirah)\|fear (yirah)]] your god #Do 
+	   * [[Gate of Wisdom/F/fear (yirah)\|fear (yirah)]] your god 
    * Because
 	   * I am YHWH your god
 
@@ -744,7 +748,7 @@ You shall not wrong one another, but you shall fear your God; for I am Yahweh yo
 
 # Deuteronomy
 
-##  #LoveGod  Do Not Add or Take Away: [Deuteronomy 4:2](https://www.biblegateway.com/passage/?search=Deuteronomy+4:2&version=WEB;NET;OJB)
+##    Do Not Add or Take Away: [Deuteronomy 4:2](https://www.biblegateway.com/passage/?search=Deuteronomy+4:2&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -752,7 +756,9 @@ You shall not wrong one another, but you shall fear your God; for I am Yahweh yo
 
 
 ###### v2 
-You shall not add to the word which I command you, neither shall you take away from it, that you may keep the commandments of Yahweh your God which I command you. 
+#LoveGod #lawofyhwh #who =={israelites}You== =={instructions}shall not add to [[Gate of Wisdom/W/The Word\|The Word]]== #what =={what}which I command you==, #DoNot 
+#LoveGod #lawofyhwh neither =={instructions}shall you take away from it==, #DoNot 
+#reason =={why-reason}that you may keep the commandments== of #who =={who}Yahweh your God== #what =={what}which I command you==. #Do 
 
 
 </div></div>
@@ -762,9 +768,9 @@ You shall not add to the word which I command you, neither shall you take away f
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - **Outline:**  
 	- Do Not
-		- add to  [[Gate of Wisdom/W/The Word\|The Word]] #DoNot 
+		- add to  [[Gate of Wisdom/W/The Word\|The Word]] 
 			- which I command you
-		- take away from it #DoNot 
+		- take away from it 
 	- So that you may keep the [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]
 		- of YHWH your god
 - **Blessing:**
@@ -779,7 +785,7 @@ You shall not add to the word which I command you, neither shall you take away f
     - Revelation 22:18-19 closes the canon with the same command in the same terms — adding brings the plagues written in the book; taking away removes the person's portion from the tree of life and the holy city; the bookends of Scripture hold the same prohibition
 
 
-##   #LoveGod #LoveNeighbor  Keep and Do — This Is Your Wisdom: [Deuteronomy 4:5-6](https://www.biblegateway.com/passage/?search=Deuteronomy+4:5-6&version=WEB;NET;OJB)
+##    Keep and Do — This Is Your Wisdom: [Deuteronomy 4:5-6](https://www.biblegateway.com/passage/?search=Deuteronomy+4:5-6&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -787,7 +793,8 @@ You shall not add to the word which I command you, neither shall you take away f
 
 
 ###### v5 
-Behold, I have taught you statutes and ordinances, even as Yahweh my God commanded me, that you should do so in the middle of the land where you go in to possess it. 
+Behold, =={moses}I== =={inline-note}//[[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]]//== #what =={what}have taught== =={israelites}you== #what =={what}[[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] and [[Gate of Wisdom/Right Standing/Judgments (Mishpatim)\|Judgments (Mishpatim)]]== even as #who =={who}Yahweh my God== #reason  =={why-reason}commanded== =={moses}me==, 
+#LoveGod #lawofyhwh that #who =={israelites} you== =={instructions}should do so== #where =={where}in the middle of the land== where =={israelites}you== #when =={when}go in to possess it==. #Do 
 
 
 </div></div>
@@ -797,7 +804,7 @@ Behold, I have taught you statutes and ordinances, even as Yahweh my God command
 
 
 ###### v6 
-Keep therefore and do them; for this is your wisdom and your understanding in the sight of the peoples who shall hear all these statutes and say, "Surely this great nation is a wise and understanding people." 
+#LoveGod #lawofyhwh =={instructions}Keep therefore and do them==; #Purpose =={why-purpose}for this is your wisdom and your understanding== #where =={where}in the sight== #who =={who}of the peoples who shall hear== #what =={what}all these [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] ==and say, #reason "Surely this great nation =={inline-note}//[[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]//== #what  =={what}is a wise and understanding people==." #Do 
 
 
 </div></div>
@@ -808,8 +815,8 @@ Keep therefore and do them; for this is your wisdom and your understanding in th
 - **Outline:**  
 	- I have taught you [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] and [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]] just as YHWH told me to do
 	- Do
-		- that you should do so in the middle of the land where you go in to possess it #Do 
-		- keep and do them #Do 
+		- that you should do so in the middle of the land where you go in to possess it 
+		- keep and do them 
 	- Because
 		- this is your wisdom and understanding
 			- in the sight of the [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]s who will hear all these [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
@@ -827,7 +834,7 @@ Keep therefore and do them; for this is your wisdom and your understanding in th
     - None prescribed
     - The command is formational and missional — keep and do in the sight of the nations; no sacrificial mechanism is attached
 
-##  #LoveGod  Know and Take It to Heart: [Deuteronomy 4:39-40](https://www.biblegateway.com/passage/?search=Deuteronomy+4:39-40&version=WEB;NET;OJB)
+##   Know and Take It to Heart: [Deuteronomy 4:39-40](https://www.biblegateway.com/passage/?search=Deuteronomy+4:39-40&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -835,7 +842,7 @@ Keep therefore and do them; for this is your wisdom and your understanding in th
 
 
 ###### v39 
-Know therefore today, and take it to heart, that Yahweh himself is God in heaven above and on the earth beneath. There is no one else. 
+#LoveGod #lawofyhwh #what =={what}Know therefore== #when =={when}today==, and #what =={what}take it to heart==, #what that #who  =={yhwh-yeshua}Yahweh himself== =={what}is God== #where =={where}in heaven above and on the earth beneath==. #what =={what}There is no one else==. #Do 
 
 
 </div></div>
@@ -846,7 +853,7 @@ Know therefore today, and take it to heart, that Yahweh himself is God in heaven
 
 
 ###### v40 
-You shall keep his statutes and his commandments which I command you today, that it may go well with you and with your children after you, and that you may prolong your days in the land which Yahweh your God gives you for all time. 
+#LoveGod #LoveNeighbor #lawofyhwh =={israelites}You== =={instructions}shall keep his [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] and his [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]== which #who  =={moses}I //[[Gate of Wisdom/Beings/Human Beings/Moses\|Moses]]//== #what =={what}command== =={israelites}you== #when =={when}today==, #purpose =={consequence-obedience}that it may go well== #who =={israelites}with you== and #who =={israelites}with your children after you==, and #Purpose =={consequence-obedience}that you may prolong your days== #where =={where}in the land== which #who =={yhwh-yeshua}Yahweh your God== #what =={what}gives you== #when =={when}for all time==.  #Do 
 
 
 </div></div>
@@ -862,7 +869,7 @@ You shall keep his statutes and his commandments which I command you today, that
 				- earth beneath
 			- there is no on else
 	- Do
-		- keep his [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] and his [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] #Do 
+		- keep his [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]] and his [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] 
 			- which I command you today
 			- that it may go well with
 				- you
@@ -881,7 +888,7 @@ You shall keep his statutes and his commandments which I command you today, that
     - None prescribed
     - The command is **cognitive and covenantal** in nature — know, take to heart, keep; the response called for is internal disposition expressed in obedience; no sacrificial mechanism is attached
 
-##  #LoveGod  Oh That They Had Such a Heart: [Deuteronomy 5:29](https://www.biblegateway.com/passage/?search=Deuteronomy+5:29&version=WEB;NET;OJB)
+##   Oh That They Had Such a Heart: [Deuteronomy 5:29](https://www.biblegateway.com/passage/?search=Deuteronomy+5:29&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -889,7 +896,7 @@ You shall keep his statutes and his commandments which I command you today, that
 
 
 ###### v29 
-Oh that there were such a heart in them that they would fear me and keep all my commandments always, that it might be well with them and with their children forever! 
+#LoveGod #lawofyhwh  =={instructions}Oh that there were such a heart in them== that #who =={israelites}they== #reason =={why-reason}would fear me and keep all my [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]== #when =={when}always==, #Purpose =={consequence-obedience}that it might be well with them and with their children== #when =={when}forever==!  #Do 
 
 
 </div></div>
@@ -899,8 +906,8 @@ Oh that there were such a heart in them that they would fear me and keep all my 
 - [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
 - **Outline:**  
 	- Oh that there was such a heart in them
-		- so that they would [[Gate of Wisdom/F/fear (yirah)\|fear (yirah)]] me #Do 
-			- and keep all my [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] always #Do 
+		- so that they would [[Gate of Wisdom/F/fear (yirah)\|fear (yirah)]] me 
+			- and keep all my [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]] always
 	- So that
 		- it might be well with them
 			- and with their children 
@@ -917,7 +924,7 @@ Oh that there were such a heart in them that they would fear me and keep all my 
     - None prescribed
     - This verse is Yahweh's own longing expressed — not a judicial command with mechanisms attached; the response it calls for is internal and dispositional; the answer Torah ultimately points toward is not sacrifice but **circumcision of the heart** (Deut. 30:6) and Torah written within (Jer. 31:33)
 
-##  #LoveGod   Hear - Yahweh is One [Deuteronomy 6:4](https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A4&version=WEB;NET;OJB)
+##     Hear - Yahweh is One [Deuteronomy 6:4](https://www.biblegateway.com/passage/?search=Deuteronomy%206%3A4&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -925,7 +932,7 @@ Oh that there were such a heart in them that they would fear me and keep all my 
 
 
 ###### v4 
-Hear, Israel: Yahweh is our God. Yahweh is one. 
+#LoveGod #lawofyhwh =={instructions}Hear==, #who =={israelites}Israel==: #who =={who}Yahweh is our God==.  #what =={what}is one==.  #Do 
 
 
 </div></div>
@@ -934,7 +941,7 @@ Hear, Israel: Yahweh is our God. Yahweh is one.
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**
 	- Do 
-		- Hear Israel #Do 
+		- Hear Israel 
 			- YHWH is our god
 			- YHWH is one
 - **Blessing:**
@@ -952,7 +959,7 @@ Hear, Israel: Yahweh is our God. Yahweh is one.
 	- One echad (אֶחָד) = one, unity, alone
 		- In Hebrew mindset of Deuteronomy 6:4, "Yahweh echad" affirms Yahweh as the sole God/El, unique and undivided in loyalty and worship, with no other gods/elohim alongside Him.
 
-##   #LoveGod  Love Yahweh with All Your Heart, Soul, and Might: [Deuteronomy 6:5](https://www.biblegateway.com/passage/?search=Deuteronomy+6:5&version=WEB;NET;OJB)
+##    Love Yahweh with All Your Heart, Soul, and Might: [Deuteronomy 6:5](https://www.biblegateway.com/passage/?search=Deuteronomy+6:5&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -960,7 +967,7 @@ Hear, Israel: Yahweh is our God. Yahweh is one.
 
 
 ###### v5 
-You shall love Yahweh your God with all your heart, with all your soul, and with all your might. 
+#LoveGod #lawofyhwh #who =={who}You== =={instructions}shall love== #who =={yhwh-yeshua}Yahweh your God== #how =={how}with all your heart, with all your soul, and with all your might==. #Do  
 
 
 </div></div>
@@ -970,7 +977,7 @@ You shall love Yahweh your God with all your heart, with all your soul, and with
 - [[Gate of Wisdom/Right Standing/Charge (Tsavah)\|Charge (Tsavah)]]
 - **Outline:**  
 	- Do
-		- Love YHWH with all your #Do 
+		- Love YHWH with all your 
 			- heart
 			- [[Gate of Wisdom/S/Soul\|Soul]]
 			- might
@@ -987,7 +994,7 @@ You shall love Yahweh your God with all your heart, with all your soul, and with
 - <mark style="background: #CD04BBA6;">Personal Observations</mark>
     - This is the first and greatest command by Yeshua's own declaration (Matt. 22:37-38) — it is the root from which all Torah flows
 
-##  #LoveGod  Deuteronomy06 Write These Words on Your Heart and Home: [Deuteronomy 6:6-9](https://www.biblegateway.com/passage/?search=Deuteronomy+6:6-9&version=WEB;NET;OJB)
+##    Write These Words on Your Heart and Home: [Deuteronomy 6:6-9](https://www.biblegateway.com/passage/?search=Deuteronomy+6:6-9&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -995,7 +1002,7 @@ You shall love Yahweh your God with all your heart, with all your soul, and with
 
 
 ###### v6 
-These words, which I command you today, shall be on your heart; 
+#LoveGod #lawofyhwh #what =={what}These words==, =={what}which I command you== #when =={when}today==, =={instructions}shall be on your heart==; #do
 
 
 </div></div>
@@ -1006,7 +1013,7 @@ These words, which I command you today, shall be on your heart;
 
 
 ###### v7 
-and you shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise up. 
+#LoveGod #lawofyhwh  =={instructions}and you shall teach them diligently== #who =={who}to your children==, and =={instructions}shall talk of them== #when =={when}when you sit == #where =={where}in your house==, #when =={when}and when you walk== #where =={where}by the way==, and #when =={when}when you lie down, and when you rise up==. #do  
 
 
 </div></div>
@@ -1017,7 +1024,7 @@ and you shall teach them diligently to your children, and shall talk of them whe
 
 
 ###### v8 
-You shall bind them for a sign on your hand, and they shall be for frontlets between your eyes. 
+#LoveGod #lawofyhwh  #who =={israelites}You== =={instructions}shall bind them== #Purpose =={why-purpose}for a sign== #where =={where}on your hand==, and #Purpose =={why-purpose}they shall be for frontlets== #where =={where}between your eyes==. #Do  
 
 
 </div></div>
@@ -1028,7 +1035,7 @@ You shall bind them for a sign on your hand, and they shall be for frontlets bet
 
 
 ###### v9 
-You shall write them on the door posts of your house and on your gates. 
+#LoveGod #lawofyhwh #who =={israelites}You== =={instructions}shall write them== #where =={where}on the door posts of your house and on your gates==. #Do 
 
 
 </div></div>
@@ -1039,16 +1046,16 @@ You shall write them on the door posts of your house and on your gates.
 - **Outline:**  
 	- These words which I command you today
 	- Do
-		- will be on your heart #Do 
-		- teach them diligently to your children #Do 
-		- talk of them when you #Do 
+		- will be on your heart 
+		- teach them diligently to your children 
+		- talk of them when you 
 			- sit in your house
 			- walk by the way
 			- lie down
 			- rise up
-		- bind them for a [[Gate of Wisdom/Sign/Sign\|Sign]] on your hand #Do 
-		- will be frontlets between your eyes #Do 
-		- write them on the door posts of your #Do 
+		- bind them for a [[Gate of Wisdom/Sign/Sign\|Sign]] on your hand 
+		- will be frontlets between your eyes  
+		- write them on the door posts of your  
 			- house
 			- gates
 - **Blessing:**
@@ -1058,7 +1065,7 @@ You shall write them on the door posts of your house and on your gates.
 - **Offering or Ransom:**
     - None prescribed
 
-##   #LoveGod  Fear and Serve Yahweh Alone: [Deuteronomy 6:13](https://www.biblegateway.com/passage/?search=Deuteronomy+6:13&version=WEB;NET;OJB)
+##     Fear and Serve Yahweh Alone: [Deuteronomy 6:13](https://www.biblegateway.com/passage/?search=Deuteronomy+6:13&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -1066,7 +1073,7 @@ You shall write them on the door posts of your house and on your gates.
 
 
 ###### v13 
-You shall fear Yahweh your God; and you shall serve him, and shall swear by his name. 
+#LoveGod #lawofyhwh #who =={israelites}You== =={instructions}shall fear==  #who =={yhwh-yeshua}Yahweh your God==; =={instructions}and you shall serve him==, and =={instructions}shall swear by his [[Gate of Wisdom/N/Name\|Name]]==. #Do 
 
 
 </div></div>
@@ -1075,9 +1082,9 @@ You shall fear Yahweh your God; and you shall serve him, and shall swear by his 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:** *
 	- Do
-		- fear YHWH #Do 
-		- serve him #Do 
-		- swear by his name #Do 
+		- fear YHWH 
+		- serve him 
+		- swear by his name 
 - **Blessing:**
     - None explicitly stated
     - The immediate context of Deuteronomy 6 ties covenant faithfulness to life, prosperity, and remaining in the land (Deut. 6:2-3; 6:24)
@@ -1100,7 +1107,7 @@ Be subject therefore to God. Resist the devil <mark style="background: #CD04BBA6
 </div></div>
 
 
-##  #LoveGod  Do Not Go After Other Gods: [Deuteronomy 6:14](https://www.biblegateway.com/passage/?search=Deuteronomy+6:14&version=WEB;NET;OJB)
+##   Do Not Go After Other Gods: [Deuteronomy 6:14](https://www.biblegateway.com/passage/?search=Deuteronomy+6:14&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -1108,18 +1115,30 @@ Be subject therefore to God. Resist the devil <mark style="background: #CD04BBA6
 
 
 ###### v14 
-You shall not go after other gods, of the gods of the peoples who are around you, 
+#LoveGod #lawofyhwh #who =={israelites}You== =={instructions}shall not go after== #who =={adversary}other gods==, #what =={what}of the gods of the peoples== #who =={who}who are around you==, #donot 
 
 
 </div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+###### v15 
+#reason for =={yhwh-yeshua}Yahweh your God== #where =={where}among == =={israelites}you== #what =={what}is a jealous God==, #reason =={why-reason}lest the anger== #who =={yhwh-yeshua}of Yahweh your God== =={consequence-disobedience}be kindled against you==, and =={yhwh-yeshua}he== =={consequence-disobedience}destroy you== #where =={where}from off the face of the earth==. 
+
+
+</div></div>
+
 
 
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - [[Gate of Wisdom/Right Standing/Statutes (Chuqim)\|Statutes (Chuqim)]]
 - **Outline:**  
 	- Do Not
-		- go after other gods #DoNot 
-		- go after the gods of the people who are around you #DoNot 
+		- go after other gods 
+		- go after the gods of the people who are around you 
 - **Blessing:**
     - None explicitly stated within the verse
 - **Penalty or Consequence:**
@@ -1128,7 +1147,7 @@ You shall not go after other gods, of the gods of the peoples who are around you
 - **Offering or Ransom:**
     - None prescribed
 
-##  #LoveGod  Do Not Test Yahweh Your God: [Deuteronomy 6:16](https://www.biblegateway.com/passage/?search=Deuteronomy+6:16&version=WEB;NET;OJB)
+##   Do Not Test Yahweh Your God: [Deuteronomy 6:16](https://www.biblegateway.com/passage/?search=Deuteronomy+6:16&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -1136,7 +1155,7 @@ You shall not go after other gods, of the gods of the peoples who are around you
 
 
 ###### v16 
-You shall not tempt Yahweh your God, as you tempted him in Massah. 
+#LoveGod #lawofyhwh #who =={israelites}You== =={instructions}shall not tempt== =={yhwh-yeshua}Yahweh your God==, as you tempted him #where =={where}in Massah==.  #DoNot
 
 
 </div></div>
@@ -1145,7 +1164,7 @@ You shall not tempt Yahweh your God, as you tempted him in Massah.
 - [[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]
 - **Outline:**  
 	- Do Not
-		- [[Gate of Wisdom/T/Test\|Test]] YHWH #DoNot 
+		- [[Gate of Wisdom/T/Test\|Test]] YHWH 
 			- as you tested him in Massah
 - **Blessing:**
     - None explicitly stated within the verse
@@ -1158,14 +1177,14 @@ You shall not tempt Yahweh your God, as you tempted him in Massah.
     - None prescribed
     - No sacrificial remedy is named for testing Yahweh — the consequence at Massah was immediate and the memorial permanent
 
-##  #LoveGod  Bless Yahweh When You Have Eaten: [Deuteronomy 8:10](https://www.biblegateway.com/passage/?search=Deuteronomy+8:10&version=WEB;NET;OJB)
+##    Bless Yahweh When You Have Eaten: [Deuteronomy 8:10](https://www.biblegateway.com/passage/?search=Deuteronomy+8:10&version=WEB;NET;OJB)
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
 ###### v10 
-You shall eat and be full, and you shall bless Yahweh your God for the good land which he has given you. 
+#LoveGod #lawofyhwh #who =={israelites}You== =={instructions}shall eat and be full==, and you =={instructions}shall bless== #who =={yhwh-yeshua}Yahweh your God== #what =={what}for the good land which he has given you==.  #Do  
 
 
 </div></div>
@@ -1175,9 +1194,9 @@ You shall eat and be full, and you shall bless Yahweh your God for the good land
 - [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
 - **Outline:**
 	- Do
-		- Eat #Do 
-		- Be full #Do 
-		- [[Gate of Wisdom/B/Bless\|Bless]] Yah #Do 
+		- Eat 
+		- Be full 
+		- [[Gate of Wisdom/B/Bless\|Bless]] Yah 
 			- for the good land
 				- which he has given you
 - **Blessing:**
@@ -1190,7 +1209,7 @@ You shall eat and be full, and you shall bless Yahweh your God for the good land
     - None prescribed
     - The command is liturgical and relational in nature — acknowledging Yahweh as the source of provision; no sacrificial mechanism is attached
 
-##  #LoveGod   Fear and Serve Yahweh, Hold Fast, Swear by His Name: [Deuteronomy 10:20](https://www.biblegateway.com/passage/?search=Deuteronomy+10:20&version=WEB;NET;OJB)
+##     Fear and Serve Yahweh, Hold Fast, Swear by His Name: [Deuteronomy 10:20](https://www.biblegateway.com/passage/?search=Deuteronomy+10:20&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -1198,7 +1217,7 @@ You shall eat and be full, and you shall bless Yahweh your God for the good land
 
 
 ###### v20 
-You shall fear Yahweh your God. You shall serve him. You shall cling to him, and you shall swear by his name. 
+#LoveGod #lawofyhwh #who =={israelites}You== =={instructions}shall fear== #who =={yhwh-yeshua}Yahweh your God==. #who =={israelites}You== =={instructions}shall serve him==. =={israelites}You== =={instructions}shall cling to him==, and =={israelites}you== =={instructions}shall swear by his [[Gate of Wisdom/N/Name\|Name]]==. #Do 
 
 
 </div></div>
@@ -1221,7 +1240,7 @@ You shall fear Yahweh your God. You shall serve him. You shall cling to him, and
     - None prescribed
     - Violation is covenantal in nature, not sacrificial
 
-##  #LoveGod  Bind These Words as a Sign: [Deuteronomy 11:18-21](https://www.biblegateway.com/passage/?search=Deuteronomy+11:18-21&version=WEB;NET;OJB)
+##    Bind These Words as a Sign: [Deuteronomy 11:18-21](https://www.biblegateway.com/passage/?search=Deuteronomy+11:18-21&version=WEB;NET;OJB)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -1229,7 +1248,7 @@ You shall fear Yahweh your God. You shall serve him. You shall cling to him, and
 
 
 ###### v18 
-Therefore you shall lay up these words of mine in your heart and in your soul. You shall bind them for a sign on your hand, and they shall be for frontlets between your eyes. 
+#LoveGod #lawofyhwh  #Purpose =={why-purpose}Therefore== #who =={israelites}you== =={instructions}shall lay up these words== #who =={yhwh-yeshua}of mine== #where =={where} in your heart and in your soul==. #who =={israelites}You== =={instructions}shall bind them == #Purpose =={why-purpose}for a sign==  #where =={where} on your hand==, and #Purpose =={why-purpose}they shall be for frontlets== #where =={where}between your eyes==.  #Do 
 
 
 </div></div>
@@ -1240,7 +1259,7 @@ Therefore you shall lay up these words of mine in your heart and in your soul. Y
 
 
 ###### v19 
-You shall teach them to your children, talking of them when you sit in your house, when you walk by the way, when you lie down, and when you rise up. 
+#lovegod #lawofyhwh  #who =={israelites}You== =={instructions}shall teach them== #who =={israelites}to your children==, #how =={how}talking of them== #when =={when}when you sit == #where =={where}in your house==, #when =={when}when you walk== #where =={where}by the way==, #when =={when}when you lie down==, and #when =={when}when you rise up==. #do 
 
 
 </div></div>
@@ -1251,7 +1270,7 @@ You shall teach them to your children, talking of them when you sit in your hous
 
 
 ###### v20 
-You shall write them on the door posts of your house and on your gates; 
+#lovegod #lawofyhwh #who =={israelites}You== =={instructions}shall write them== #where =={where}on the door posts== =={where}of your house and on your gates==; 
 
 
 </div></div>
@@ -1261,16 +1280,16 @@ You shall write them on the door posts of your house and on your gates;
 - [[Gate of Wisdom/Right Standing/Ordinances (Mishmerot)\|Ordinances (Mishmerot)]]
 - **Outline:**  
 	- Do
-		- Lay up these words of mine in your heart and in your soul #Do 
-		- Bind them for a sign on your hand #Do 
-		- they shall be frontlets between your eyes #Do 
-		- teach them to your children #Do 
-		- talk of them when you  #Do 
+		- Lay up these words of mine in your heart and in your soul 
+		- Bind them for a sign on your hand  
+		- they shall be frontlets between your eyes  
+		- teach them to your children 
+		- talk of them when you   
 			- sit in the house
 			- walk by the way
 			- lie down
 			- rise up
-		- write them on the door posts of your #Do 
+		- write them on the door posts of your  
 			- house
 			- gates
 			- so that your days and your childrens day may be multiplied

@@ -29,28 +29,28 @@ Buy the truth, and don’t sell it.
 
 *Proverbs 23:23*
 
-| Latest Drops                                                                                       |
-| -------------------------------------------------------------------------------------------------- |
-| [[Gate of Wisdom/W/witness\|witness]]                                                           |
-| [[Gate of Wisdom/F/false\|false]]                                                               |
-| [[Gate of Wisdom/S/steal\|steal]]                                                               |
-| [[Gate of Wisdom/M/murder\|murder]]                                                             |
-| [[Gate of Wisdom/H/Honor\|Honor]]                                                               |
-| [[Gate of Wisdom/S/servant\|servant]]                                                           |
-| [[Gate of Wisdom/Good News/Inductive Study Highlighting\|Inductive Study Highlighting]]         |
-| [[Gate of Wisdom/T/Test\|Test]]                                                                 |
-| [[Gate of Wisdom/L/Love Neighbor\|Love Neighbor]]                                               |
-| [[Gate of Wisdom/F/fear (yirah)\|fear (yirah)]]                                                 |
-| [[Gate of Wisdom/F/fear (tirau)\|fear (tirau)]]                                                 |
-| [[Gate of Wisdom/T/Tithe\|Tithe]]                                                               |
-| [[Gate of Foundation/Put His Name\|Put His Name]]                                               |
-| [[Gate of Foundation/Acts 2 Connections Scripture Survey\|Acts 2 Connections Scripture Survey]] |
-| [[Gate of Correction/The Great Commission\|The Great Commission]]                               |
-| [[Gate of Foundation/Prayer Language Scripture Survey\|Prayer Language Scripture Survey]]       |
-| [[Gate of Correction/Commands Israel Broke\|Commands Israel Broke]]                             |
-| [[Gate of Wisdom/Beings/Heavenly Beings/Asherah\|Asherah]]                                      |
-| [[Gate of Wisdom/P/Punishment\|Punishment]]                                                     |
-| [[Gate of Correction/Jesus's Do Nots\|Jesus's Do Nots]]                                         |
+| Latest Drops                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gate of Wisdom/W/witness\|witness]]                                                                                                                                                    |
+| [[Gate of Wisdom/F/false\|false]]                                                                                                                                                        |
+| [[Gate of Wisdom/S/steal\|steal]]                                                                                                                                                        |
+| [[Gate of Wisdom/M/murder\|murder]]                                                                                                                                                      |
+| [[Gate of Wisdom/H/Honor\|Honor]]                                                                                                                                                        |
+| [[Gate of Wisdom/S/servant\|servant]]                                                                                                                                                    |
+| [[Gate of Wisdom/Good News/Inductive Study Highlighting\|Inductive Study Highlighting]]                                                                                                  |
+| [[Gate of Wisdom/T/Test\|Test]]                                                                                                                                                          |
+| [[Gate of Wisdom/L/Love Neighbor\|Love Neighbor]]                                                                                                                                        |
+| [[Gate of Wisdom/F/fear (yirah)\|fear (yirah)]]                                                                                                                                          |
+| [[Gate of Wisdom/F/fear (tirau)\|fear (tirau)]]                                                                                                                                          |
+| [[Gate of Wisdom/T/Tithe\|Tithe]]                                                                                                                                                        |
+| [[Gate of Foundation/Put His Name\|Put His Name]]                                                                                                                                        |
+| [[Gate of Foundation/Acts 2 Connections Scripture Survey\|Acts 2 Connections Scripture Survey]]                                                                                          |
+| [[Gate of Foundation/Prayer Language Scripture Survey\|Prayer Language Scripture Survey]]                                                                                                |
+| [[Gate of Correction/Commands Israel Broke\|Commands Israel Broke]]                                                                                                                      |
+| [[Gate of Wisdom/Beings/Heavenly Beings/Asherah\|Asherah]]                                                                                                                               |
+| [[Gate of Wisdom/P/Punishment\|Punishment]]                                                                                                                                              |
+| [[Gate of Correction/Jesus's Do Nots\|Jesus's Do Nots]]                                                                                                                                  |
+| [[Gate of Wisdom/Appointed Time/Sukkot Old Testament through the New Testament into the time of Revelation\|Sukkot Old Testament through the New Testament into the time of Revelation]] |
 
 { .block-language-dataview}
 
