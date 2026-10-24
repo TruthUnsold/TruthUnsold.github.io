@@ -92,13 +92,13 @@ Sources:
 ###### v5 
 #when =={when}Now== #who =={author}I== #what =={what}beg== #who =={follower-believer}you==, =={follower-believer}dear lady==, 
 - #donot #what =={what}not as though I wrote to you a new commandment== =={inline-note}//[[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]//==,  =={inline-note}// #hyperlink  1 John 2:7-8, 3:11, 3:23, John 13:34, 15:12  //==
-	- but #what =={what}that which we had == #when =={when}from the beginning==, 
+	- but #what =={what}that which we had== #when =={when}from the beginning==, 
 		- #lawofyhwh #what =={instructions}that we [[Gate of Wisdom/A/Agape Love\|Agape Love]] one another==. #do  
 
 ###### v6 
 #how  =={how}This is love==, 
 - #how that =={follower-believer}we== #lawofyhwh =={instructions}should walk according to his //YHWH// commandments== =={inline-note}//[[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]//==.  #do 
-- #what This =={inline-note}//that we love one another// == #lawofyhwh =={instructions}is the commandment== =={inline-note}//[[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]//==, #Do 
+- #what This =={inline-note}//that we love one another//== #lawofyhwh =={instructions}is the commandment== =={inline-note}//[[Gate of Wisdom/Right Standing/Commands (Mitzvot)\|Commands (Mitzvot)]]//==, #Do 
 	- #purpose =={why-purpose}even as you heard== #when =={when}from the beginning==, 
 	- #what =={what}that you should walk in it==. =={inline-note}//[[Gate of Wisdom/A/Agape Love\|Agape Love]]//==  =={inline-note}// #hyperlink 1 John 2:5, 5:3, John 14:15, 31; 15:10   //==
 
@@ -111,21 +111,21 @@ Lev 19:17-18, 34; Deut 6:5; 10:12-19; 11:22; 19:91; John 2:7; John 13:34
 	- #where =={where}out into the world==, 
 - #who =={lawless}those who don't confess== 
 	- #what =={what}that Jesus Christ came in the flesh==. 
-- #who This is=={adversary} the deceiver and the [[Gate of Wisdom/Beings/Antichrist\|Antichrist]]==.  =={inline-note}// #hyperlink  1 John 2:18, 22; 4:1-3, John 1:14  //==
+- #who This is =={adversary}the deceiver and the [[Gate of Wisdom/Beings/Antichrist\|Antichrist]]==.  =={inline-note}// #hyperlink  1 John 2:18, 22; 4:1-3, John 1:14  //==
 
 ###### v8 
 #reason =={instructions}Watch== =={follower-believer}yourselves==, 
 - #reason =={consequence}that we don't lose== #what =={what}the things which we have accomplished==, 
-	- =={connecting-thought}but== #what =={consequence-obedience}that we receive a full reward. ==
+	- =={connecting-thought}but== #what =={consequence-obedience}that we receive a full reward.==
 
 ###### v9 
 - #who =={adversary}Whoever== 
-	- #what =={lawless}transgresses and doesn't remain ==
+	- #what =={lawless}transgresses and doesn't remain==
 		- #what =={instructions}in the teaching== =={yhwh-yeshua}of Christ==, 
 			- #what =={consequence-disobedience}doesn't have God==. 
-- #who =={follower-believer}He who remains ==
-	- #what =={instructions}in the teaching ==
-		- #what =={consequence-obedience}has both ==  =={inline-note}// #hyperlink 1 John 2:23-24, 5:12, John 8:31, 15:4-10   //==
+- #who =={follower-believer}He who remains==
+	- #what =={instructions}in the teaching==
+		- #what =={consequence-obedience}has both==  =={inline-note}// #hyperlink 1 John 2:23-24, 5:12, John 8:31, 15:4-10   //==
 			- =={yhwh-yeshua}the Father== 
 			-=={yhwh-yeshua} and the Son==. 
 
@@ -139,7 +139,7 @@ Lev 19:17-18, 34; Deut 6:5; 10:12-19; 11:22; 19:91; John 2:7; John 13:34
 
 ###### v11 
 #reason =={why-reason}for he who welcomes him== 
-- #what =={lawless}participates in his evil deeds. ==
+- #what =={lawless}participates in his evil deeds.==
 
 ###### v12 
 Having many things to write to you, I don't want to do so with paper and ink, but I hope to come to you, and to speak face to face, that our joy may be made full. 
