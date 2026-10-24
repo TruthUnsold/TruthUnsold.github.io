@@ -131,7 +131,7 @@ Lev 19:17-18, 34; Deut 6:5; 10:12-19; 11:22; 19:91; John 2:7; John 13:34
 
 ###### v10 
 #if If #who =={adversary}anyone== #what =={what}comes to you==, 
-- #what =={lawless}and doesn't bring this teaching==, 
+- #what =={lawless}and doesn't bring this teaching==,  =={inline-note}//that love is walking according to the Mitzvot of God, as it was heard from the beginning.//==
 #then =={inline-note}//then//==
 - #what =={instructions}don't receive him== 
 	- #where =={where}into your house==, 
