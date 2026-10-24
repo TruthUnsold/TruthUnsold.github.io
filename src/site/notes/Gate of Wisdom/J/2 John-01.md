@@ -141,6 +141,12 @@ Lev 19:17-18, 34; Deut 6:5; 10:12-19; 11:22; 19:91; John 2:7; John 13:34
 #reason =={why-reason}for he who welcomes him== 
 - #what =={lawless}participates in his evil deeds.==
 
+>[!Note]+  Into your house
+>There isn't any clear indication as to if this was a house where people gathered, or a house of hospitality, or both. 
+>- The person is traveling. He “comes” (erchetai, ἔρχεται) and “brings” (pherei, φέρει) a teaching. Someone who arrives bringing something is not a member of the house or the gathering - so this is an outsider. (3 John 1:5-8)
+>- The Torah frames hospitality as a duty.
+>- In Matt 10:11–14 and Luke 10:5–8 the disciples find a worthy house and stay, and those who do not receive them are left. Receiving the messenger meant receiving the message (Matt 10:40).
+>- Archaeology supports house-based gatherings and travelers supported by hospitality.
 ###### v12 
 Having many things to write to you, I don't want to do so with paper and ink, but I hope to come to you, and to speak face to face, that our joy may be made full. 
 
