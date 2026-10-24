@@ -14,6 +14,7 @@
 - [[Gate of Foundation/Acts 2 Connections Scripture Survey\|Acts 2 Connections Scripture Survey]]
 - [[Gate of Wisdom/Covenant/Adamic\|Adamic]]
 - [[Gate of Wisdom/A/Adultery\|Adultery]]
+- [[Gate of Wisdom/A/Agape Love\|Agape Love]]
 - [[Gate of Wisdom/Beings/Human Beings/Ahab\|Ahab]]
 - [[Gate of Wisdom/A/ahav\|ahav]]
 - [[Gate of Wisdom/A/Alms\|Alms]]

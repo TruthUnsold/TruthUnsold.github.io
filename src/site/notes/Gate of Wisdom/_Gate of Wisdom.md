@@ -36,6 +36,7 @@ These cut through the illusion, denial, and confusion entirely. They reveal real
 | [[Gate of Wisdom/Covenant/Adamic\|Adamic]]                                                                     |
 | [[Gate of Wisdom/A/Adultery\|Adultery]]                                                                        |
 | [[Gate of Wisdom/Beings/Adversary\|Adversary]]                                                                 |
+| [[Gate of Wisdom/A/Agape Love\|Agape Love]]                                                                    |
 | [[Gate of Wisdom/Beings/Human Beings/Ahab\|Ahab]]                                                              |
 | [[Gate of Wisdom/A/ahav\|ahav]]                                                                                |
 | [[Gate of Wisdom/A/Alms\|Alms]]                                                                                |

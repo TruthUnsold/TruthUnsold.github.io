@@ -3,6 +3,7 @@
 ---
 
 
+- [[Gate of Wisdom/J/2 John-01\|2 John-01]]
 - [[Gate of Discernment/59 James-04 Yada Yada\|59 James-04 Yada Yada]]
 - [[Gate of Wisdom/Beings/Human Beings/House of Jacob\|House of Jacob]]
 - [[Gate of Wisdom/Beings/Human Beings/House of Judah\|House of Judah]]

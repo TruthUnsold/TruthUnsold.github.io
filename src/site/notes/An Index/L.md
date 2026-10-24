@@ -3,6 +3,7 @@
 ---
 
 
+- [[Gate of Wisdom/A/Agape Love\|Agape Love]]
 - [[Gate of Wisdom/A/ahav\|ahav]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Angel of the Lord\|Angel of the Lord]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Outer Court/Bronze Laver\|Bronze Laver]]
