@@ -31,6 +31,7 @@ Buy the truth, and don’t sell it.
 
 | Latest Drops                                                                                       |
 | -------------------------------------------------------------------------------------------------- |
+| [[Torah Portions/Torah-Portion-Plan-2026-2027\|Torah-Portion-Plan-2026-2027]]                   |
 | [[Gate of Wisdom/A/Agape Love\|Agape Love]]                                                     |
 | [[Gate of Wisdom/W/witness\|witness]]                                                           |
 | [[Gate of Wisdom/F/false\|false]]                                                               |
@@ -50,7 +51,6 @@ Buy the truth, and don’t sell it.
 | [[Gate of Correction/Commands Israel Broke\|Commands Israel Broke]]                             |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Asherah\|Asherah]]                                      |
 | [[Gate of Wisdom/P/Punishment\|Punishment]]                                                     |
-| [[Gate of Correction/Jesus's Do Nots\|Jesus's Do Nots]]                                         |
 
 { .block-language-dataview}
 

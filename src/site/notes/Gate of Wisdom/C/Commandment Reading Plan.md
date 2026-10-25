@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/gate-of-wisdom/c/commandment-reading-plan/","tags":["#readingplan","#C","#R"],"dg-note-properties":{"tags":["#readingplan","#C","#R"],"Bible-References":null}}
 ---
 
-**One-Year FEMALE Reading Plan for All Applicable Biblical [[Gate of Wisdom/Right Standing/Commandments\|Commandments]]**  
-Starting March 20; 365 day
 
 [[Gate of Correction/Commandment Reading Plan March\|Commandment Reading Plan March]]
 [[Gate of Correction/Commandment Reading Plan April\|Commandment Reading Plan April]]
@@ -13,14 +11,11 @@ Starting March 20; 365 day
 [[Gate of Correction/Commandment Reading Plan August\|Commandment Reading Plan August]]
 [[Gate of Correction/Commandment Reading Plan September\|Commandment Reading Plan September]]
 [[Gate of Correction/Commandment Reading Plan October\|Commandment Reading Plan October]]
-[[Gate of Correction/Commandment Reading Plan November\|Commandment Reading Plan November]]
-[[Gate of Correction/Commandment Reading Plan December\|Commandment Reading Plan December]]
-[[Gate of Correction/Commandment Reading Plan January\|Commandment Reading Plan January]]
-[[Gate of Wisdom/C/Commandment Reading Plan#**January 21 to March 19, 2027 (Review Period)**\|Commandment Reading Plan#**January 21 to March 19, 2027 (Review Period)**]]
+
 
 Commands, statutes (chuqim), ordinances/charges (mishmerot/tsavah), judgments (mishpatim), precepts (pikkudim), or general mitzvash that applies to all people is included. 
 
-*This was AI generated and should not be considered an exhaustive list. There are most likely some missing. With ~270 applicable Torah commands + ~40 core Jesus commands = ~310 total, the first ~310 days introduce new ones in biblical order; remaining days are review/meditation on prior commands or related verses.*
+*This was AI generated and should not be considered an exhaustive list. There are most likely some missing. With ~270 applicable Torah commands + ~40 core Jesus commands = ~310 total.*
 
 ## **Exclusions** :  
 - Anything for priests/Kohanim only

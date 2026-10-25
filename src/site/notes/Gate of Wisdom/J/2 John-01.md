@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/j/2-john-01/","tags":["TheScrolls","GospelsApostles","632John","J"],"dg-note-properties":{"tags":["TheScrolls","GospelsApostles","632John","J"]}}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/j/2-john-01/","tags":["TheScrolls","GospelsApostles","632John"],"dg-note-properties":{"tags":["TheScrolls","GospelsApostles","632John"]}}
 ---
 
 # 2 John 1

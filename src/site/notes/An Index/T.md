@@ -34,6 +34,7 @@
 - [[Gate of Wisdom/T/Tithe\|Tithe]]
 - [[Gate of Wisdom/T/tongues\|tongues]]
 - [[Gate of Wisdom/T/Torah\|Torah]]
+- [[Torah Portions/Torah-Portion-Plan-2026-2027\|Torah-Portion-Plan-2026-2027]]
 - [[Gate of Wisdom/T/Torment\|Torment]]
 - [[Gate of Correction/Traditional Teaching vs Scripture - Isaiah 66\|Traditional Teaching vs Scripture - Isaiah 66]]
 - [[Gate of Wisdom/T/Transgression\|Transgression]]
