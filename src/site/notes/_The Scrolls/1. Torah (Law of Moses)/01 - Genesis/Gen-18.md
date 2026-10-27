@@ -87,56 +87,81 @@ Now #who =={abraham-sarah}Abraham and Sarah== #what =={what}were old, well advan
 >[!Note]+ within herself
 > In v 12, it said she laughed within herself. V13 YHWH heard both the laugh and what she said within herself. 
 ###### v16 
-The men rose up from there, and looked toward Sodom. Abraham went with them to see them on their way. 
+#who =={yhwh-yeshua}The men== #what =={what}rose up== #where =={where}from there==, and #what =={what}looked== #where =={where}toward Sodom==. #who =={abraham-sarah}Abraham== #what =={what}went with== #who =={yhwh-yeshua}them== #reason =={why-reason}to see== =={yhwh-yeshua}them== on =={yhwh-yeshua}their== =={where}way==. 
 
 ######
 =={general-bar}the men - with them - see them - their way==
 
 ###### v17 
-Yahweh said, "Will I hide from Abraham what I do, 
+#who =={yhwh-yeshua}Yahweh== said, #question "=={question-answer}Will== =={yhwh-yeshua}I== =={question-answer}hide from== =={abraham-sarah}Abraham== =={question-answer}what== =={yhwh-yeshua}I== =={question-answer}do==, 
 
+######
+=={of-note}Amos 3:7: YHWH does nothing without revealing His secret to His servants the prophets.==
 ######
 =={general-bar}YHWH said - I - I==
 
 ###### v18 
-since Abraham will surely become a great and mighty nation, and all the nations of the earth will be blessed in him? 
+#reason since=={abraham-sarah} Abraham== =={question-answer}will surely become a great and mighty nation, and all the [[Gate of Wisdom/Beings/Human Beings/nation\|nation]]s of the earth will be [[Gate of Wisdom/B/Blessed\|Blessed]] in== =={abraham-sarah}him==? 
+#####
 
+>[!Note]+ Mighty Nation
+> =={jacob-israel}[[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]'s== descendants grew into the twelve tribes of [[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]]
 
 ###### v19 
-For I have known him, to the end that he may command his children and his household after him, that they may keep the way of Yahweh, to do righteousness and justice; to the end that Yahweh may bring on Abraham that which he has spoken of him." 
+#answer #reason =={why-reason}For== #who =={yhwh-yeshua}I== #what =={what}have known== #who =={abraham-sarah}him==, 
+- #purpose =={why-purpose}to the end that he may command== 
+	- #who =={isaac}his children== 
+	- #who and =={jacob-israel}his household after him==, 
+	- that they #what =={what}may keep the way== #lawofyhwh  #who =={yhwh-yeshua}of Yahweh==, 
+		- #how =={how}to do [[Gate of Wisdom/Right Standing/Righteousness\|Righteousness]]== 
+		- #how =={how}and [[justice\|justice]];== 
+- #Purpose =={why-purpose}to the end that== #who =={yhwh-yeshua}Yahweh== #what =={what}may bring on== #who =={abraham-sarah}Abraham== 
+	- #what =={what}that which== #who  =={yhwh-yeshua}he== =={what}has spoken of== #who =={abraham-sarah}him==." =={inline-note}// #hyperlink [[Gate of Wisdom/Beings/Human Beings/Abraham#Abrahamic Covenant (Promises)\|Abraham#Abrahamic Covenant (Promises)]]//== 
+######
 
+>[!Note]+ Have known
+>Yada = same verb used for Adam knowing Eve (Genesis 4:1) and for YHWH knowing Moses face to face (Deuteronomy 34:10)
+
+>[!Note]+ his children ... keep the way of YHWH
+> Abraham passed down the knowledge and worship of Yahweh to =={isaac}[[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]]==, who passed it to =={jacob-israel}[[Gate of Wisdom/Beings/Human Beings/Jacob\|Jacob]]/([[Gate of Wisdom/Beings/Human Beings/Israel\|Israel]])==, fulfilling the core of raising a household in "the way of Yahweh"
 ######
 =={general-bar}I have known - YHWH==
 
 ###### v20 
-Yahweh said, "Because the cry of Sodom and Gomorrah is great, and because their sin is very grievous, 
+#who =={yhwh-yeshua}Yahweh== said, =={general-bar}//YHWH tells Abraham his plan//== #reason "=={why-reason}Because the cry of [[Sodom\|Sodom]] and [[Gomorrah\|Gomorrah]] is great==, and #reason =={why-reason}because their [[Gate of Wisdom/S/Sin\|Sin]] is very grievous==, 
+#####
 
+>[!Note]+ because the cry of ... 
+>The cry seems to come from Sodom and Gomorrah?? Like the earth crying out with Abel's blood? Who would have done the crying? Given that there wasn't even 10 found righteous?
 ######
 =={general-bar}YHWH==
 
 ###### v21 
-I will go down now, and see whether their deeds are as bad as the reports which have come to me. If not, I will know." 
+#who =={yhwh-yeshua}I== #what =={what}will go== #where =={where}down== #when =={when}now==, and #purpose =={why-purpose}see whether their deeds are as bad as the reports which have come to== #who =={yhwh-yeshua}me==. #if =={conditional-if-then}If not==, =={inline-note}//== #then =={inline-note}//== =={yhwh-yeshua}I== =={conditional-if-then}will know==." 
 
+######
+>[!Note]+ go down ... to see 
+>Reports are brought. Interesting that YHWH is going to venture down to see ...
 ######
 =={general-bar}I will go down //YHWH// - I will know==
 
 ###### v22 
-The men turned from there, and went toward Sodom, but Abraham stood yet before Yahweh. 
+#who =={yhwh-yeshua}The men== #what =={what}turned== #where =={where}from there==, and #what =={what}went== #where =={where}toward Sodom==, but =={abraham-sarah}Abraham== #what =={what}stood yet== #where =={where}before== #who =={yhwh-yeshua}Yahweh==. 
 
 ######
 =={general-bar}the men went toward Sodom - Abraham stood before YHWH==
 
 ###### v23 
-Abraham came near, and said, "Will you consume the righteous with the wicked? 
+=={abraham-sarah}Abraham== #what =={what}came== #where =={where}near==, and said, #question "=={question-answer}Will you consume the [[Gate of Wisdom/Right Standing/Righteous\|Righteous]] with the [[Gate of Wisdom/W/Wicked\|Wicked]]==? 
 
 ###### v24 
-What if there are fifty righteous within the city? Will you consume and not spare the place for the fifty righteous who are in it? 
+#Question =={question-answer}What if there are fifty righteous within the city? Will you consume and not spare the place for the fifty righteous who are in it?== 
 
 ###### v25 
-May it be far from you to do things like that, to kill the righteous with the wicked, so that the righteous should be like the wicked. May that be far from you. Shouldn't the Judge of all the earth do right?" 
+#question =={question-answer}May it be far from you to do things like that, to kill the righteous with the wicked, so that the righteous should be like the wicked. May that be far from you. Shouldn't the Judge of all the earth do right?"== 
 
 ###### v26 
-Yahweh said, "If I find in Sodom fifty righteous within the city, then I will spare the whole place for their sake." 
+#who =={yhwh-yeshua}Yahweh== said, #answer #if "=={conditional-if-then}If== =={yhwh-yeshua}I== =={conditional-if-then}find in Sodom fifty righteous within the city==, #then =={conditional-if-then}then I will spare the whole place for their sake." ==
 
 ######
 =={general-bar}YHWH - if I find - I will spare==
@@ -169,13 +194,13 @@ He said, "See now, I have taken it on myself to speak to the Lord. What if there
 =={general-bar}I //YHWH// will not==
 
 ###### v32 
-He said, "Oh don't let the Lord be angry, and I will speak just once more. What if ten are found there?" He said, "I will not destroy it for the ten's sake." 
+#who  =={abraham-sarah}He== said, #question =={question-answer}"Oh don't let the Lord be angry, and I will speak just once more. What if ten are found there?"== #who =={yhwh-yeshua}He== said, #answer"=={conditional-if-then}I will not destroy it for the ten's sake." ==
 
 ######
 =={general-bar}I //YHWH// will not==
 
 ###### v33 
-Yahweh went his way as soon as he had finished communing with Abraham, and Abraham returned to his place.
+#who =={yhwh-yeshua}Yahweh== #what =={what}went his way== #when =={when}as soon as he had finished== #what =={what}communing with== #who =={who}Abraham==, and #who =={abraham-sarah}Abraham== #what =={what}returned== #where =={where}to his place==.
 
 ######
 =={general-bar}YHWH went his way - he had finished ==

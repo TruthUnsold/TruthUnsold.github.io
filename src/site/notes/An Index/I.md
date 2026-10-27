@@ -14,7 +14,7 @@
 - [[Gate of Wisdom/I/idol\|idol]]
 - [[Gate of Wisdom/Beings/Human Beings/idolater\|idolater]]
 - [[Gate of Wisdom/I/image\|image]]
-- [[Gate of Wisdom/Good News/Inductive Study Highlighting\|Inductive Study Highlighting]]
+- [[Gate of Wisdom/H/Inductive Study Highlighting\|Inductive Study Highlighting]]
 - [[Gate of Wisdom/Consequence/Obedience/Inheritance\|Inheritance]]
 - [[Gate of Wisdom/Beings/Human Beings/Isaac\|Isaac]]
 - [[Gate of Wisdom/Covenant/Isaacic\|Isaacic]]

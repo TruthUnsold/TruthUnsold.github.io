@@ -355,6 +355,7 @@ These cut through the illusion, denial, and confusion entirely. They reveal real
 | [[Gate of Wisdom/W/Wash\|Wash]]                                                                                |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Watchers\|Watchers]]                                                   |
 | [[Gate of Wisdom/Offering/Wave Offering\|Wave Offering]]                                                       |
+| [[Gate of Wisdom/W/Wicked\|Wicked]]                                                                            |
 | [[Gate of Wisdom/W/Will\|Will]]                                                                                |
 | [[Gate of Wisdom/W/witness\|witness]]                                                                          |
 | [[Gate of Wisdom/W/works\|works]]                                                                              |

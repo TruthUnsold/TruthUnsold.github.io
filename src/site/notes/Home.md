@@ -32,6 +32,8 @@ Buy the truth, and don’t sell it.
 | Latest Drops                                                                                       |
 | -------------------------------------------------------------------------------------------------- |
 | [[Torah Portions/Torah-Portion-Plan-2026-2027\|Torah-Portion-Plan-2026-2027]]                   |
+| [[Gate of Wisdom/W/Wicked\|Wicked]]                                                             |
+| [[Gate of Wisdom/H/Inductive Study Highlighting\|Inductive Study Highlighting]]                 |
 | [[Gate of Wisdom/A/Agape Love\|Agape Love]]                                                     |
 | [[Gate of Wisdom/W/witness\|witness]]                                                           |
 | [[Gate of Wisdom/F/false\|false]]                                                               |
@@ -39,7 +41,6 @@ Buy the truth, and don’t sell it.
 | [[Gate of Wisdom/M/murder\|murder]]                                                             |
 | [[Gate of Wisdom/H/Honor\|Honor]]                                                               |
 | [[Gate of Wisdom/S/servant\|servant]]                                                           |
-| [[Gate of Wisdom/Good News/Inductive Study Highlighting\|Inductive Study Highlighting]]         |
 | [[Gate of Wisdom/T/Test\|Test]]                                                                 |
 | [[Gate of Wisdom/L/Love Neighbor\|Love Neighbor]]                                               |
 | [[Gate of Wisdom/F/fear (yirah)\|fear (yirah)]]                                                 |
@@ -50,7 +51,6 @@ Buy the truth, and don’t sell it.
 | [[Gate of Foundation/Prayer Language Scripture Survey\|Prayer Language Scripture Survey]]       |
 | [[Gate of Correction/Commands Israel Broke\|Commands Israel Broke]]                             |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Asherah\|Asherah]]                                      |
-| [[Gate of Wisdom/P/Punishment\|Punishment]]                                                     |
 
 { .block-language-dataview}
 

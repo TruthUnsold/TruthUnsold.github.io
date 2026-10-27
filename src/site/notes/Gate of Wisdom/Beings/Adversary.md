@@ -18,7 +18,7 @@
 - **Adversary** (שָׂטָן, *satan*) – one who opposes or resists (Num 22:22) [[Gate of Wisdom/Beings/Satan\|Satan]]
 - **Deceiver** (עָקֹב, *ʿaqob*) – supplanter, one who undermines (Gen 27:36)
 - **Slanderer** (לָשׁוֹן רָע, *lashon ra*) – evil tongue, speaker of defamation (Prov 10:18)
-- **Wicked one** (רָשָׁע, *rasha*) – unrighteous accuser, lawless (Ps 71:4)
+- **[[Gate of Wisdom/W/Wicked\|Wicked]] one** (רָשָׁע, *rasha*) – unrighteous accuser, lawless (Ps 71:4)
 - **Worthless one** (בֶּלִיַּעַל, *beliyyaʿal*) – lawless, slanderous person (Prov 6:12; 2 Sam 23:6)
 
 # Related words
