@@ -18,7 +18,7 @@ Full readings: Torah Genesis 18:1–22:24 | Haftarah 2 Kings 4:1–37 | Gospel L
 
 - [x] **Day 1 · Sun Oct 25** — Torah: Genesis 18:1–14 — [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-18#v1\|Gen-18#v1]] | [BibleGateway](https://www.biblegateway.com/passage/?search=Genesis+18:1-14&version=WEB;NET;OJB)
 - [x] **Day 2 · Mon Oct 26** — Torah: Genesis 18:15–33 — [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-18#v15\|Gen-18#v15]] | [BibleGateway](https://www.biblegateway.com/passage/?search=Genesis+18:15-33&version=WEB;NET;OJB)
-- [ ] **Day 3 · Tue Oct 27** — Torah: Genesis 19:1–20 — [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-19#v1\|Gen-19#v1]] | [BibleGateway](https://www.biblegateway.com/passage/?search=Genesis+19:1-20&version=WEB;NET;OJB)
+- [x] **Day 3 · Tue Oct 27** — Torah: Genesis 19:1–20 — [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-19#v1\|Gen-19#v1]] | [BibleGateway](https://www.biblegateway.com/passage/?search=Genesis+19:1-20&version=WEB;NET;OJB)
 - [ ] **Day 4 · Wed Oct 28** — Torah: Genesis 19:21–21:4 — [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-19#v21\|Gen-19#v21]] | [BibleGateway](https://www.biblegateway.com/passage/?search=Genesis+19:21-21:4&version=WEB;NET;OJB)
 - [ ] **Day 5 · Thu Oct 29** — Torah: Genesis 21:5–21 — [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-21#v5\|Gen-21#v5]] | [BibleGateway](https://www.biblegateway.com/passage/?search=Genesis+21:5-21&version=WEB;NET;OJB)
 - [ ] **Day 6 · Fri Oct 30** — Torah: Genesis 21:22–34 — [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-21#v22\|Gen-21#v22]] | [BibleGateway](https://www.biblegateway.com/passage/?search=Genesis+21:22-34&version=WEB;NET;OJB)
