@@ -111,6 +111,8 @@ When God destroyed the cities of the plain, God remembered Abraham, and sent Lot
 ###### v30 
 Lot went up out of Zoar, and lived in the mountain, and his two daughters with him; for he was afraid to live in Zoar. He lived in a cave with his two daughters. 
 
+>[!Note]+ HA!
+>They told him to go to the mountains but he thought he knew better. 
 ###### v31 
 The firstborn said to the younger, "Our father is old, and there is not a man in the earth to come in to us in the way of all the earth. 
 
@@ -134,6 +136,10 @@ The firstborn bore a son, and named him Moab. He is the father of the Moabites t
 
 ###### v38 
 The younger also bore a son, and called his name Ben Ammi. He is the father of the children of Ammon to this day.
+
+>[!Note]+ Moabites and Ammonites
+>Both vanished after being conquered and absorbed by ancient empires like the Assyrians and Babylonians. 
+>Ruth, the great-grandmother of King David, was Moabite
 
 ***
 [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-18\|← Genesis 18]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Genesis\|Genesis]] | [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-20\|Genesis 20 →]]

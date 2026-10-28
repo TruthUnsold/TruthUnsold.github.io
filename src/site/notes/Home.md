@@ -29,28 +29,28 @@ Buy the truth, and don’t sell it.
 
 *Proverbs 23:23*
 
-| Latest Drops                                                                                       |
-| -------------------------------------------------------------------------------------------------- |
-| [[Torah Portions/Torah-Portion-Plan-2026-2027\|Torah-Portion-Plan-2026-2027]]                   |
-| [[Gate of Wisdom/W/Wicked\|Wicked]]                                                             |
-| [[Gate of Wisdom/H/Inductive Study Highlighting\|Inductive Study Highlighting]]                 |
-| [[Gate of Wisdom/A/Agape Love\|Agape Love]]                                                     |
-| [[Gate of Wisdom/W/witness\|witness]]                                                           |
-| [[Gate of Wisdom/F/false\|false]]                                                               |
-| [[Gate of Wisdom/S/steal\|steal]]                                                               |
-| [[Gate of Wisdom/M/murder\|murder]]                                                             |
-| [[Gate of Wisdom/H/Honor\|Honor]]                                                               |
-| [[Gate of Wisdom/S/servant\|servant]]                                                           |
-| [[Gate of Wisdom/T/Test\|Test]]                                                                 |
-| [[Gate of Wisdom/L/Love Neighbor\|Love Neighbor]]                                               |
-| [[Gate of Wisdom/F/fear (yirah)\|fear (yirah)]]                                                 |
-| [[Gate of Wisdom/F/fear (tirau)\|fear (tirau)]]                                                 |
-| [[Gate of Wisdom/T/Tithe\|Tithe]]                                                               |
-| [[Gate of Foundation/Put His Name\|Put His Name]]                                               |
-| [[Gate of Foundation/Acts 2 Connections Scripture Survey\|Acts 2 Connections Scripture Survey]] |
-| [[Gate of Foundation/Prayer Language Scripture Survey\|Prayer Language Scripture Survey]]       |
-| [[Gate of Correction/Commands Israel Broke\|Commands Israel Broke]]                             |
-| [[Gate of Wisdom/Beings/Heavenly Beings/Asherah\|Asherah]]                                      |
+| Latest Drops                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Torah Portions/Torah-Portion-Plan-2026-2027\|Torah-Portion-Plan-2026-2027]]                                                                                                |
+| [[Gate of Wisdom/W/Wicked\|Wicked]]                                                                                                                                          |
+| [[Gate of Wisdom/H/Inductive Study Highlighting\|Inductive Study Highlighting]]                                                                                              |
+| [[Gate of Wisdom/A/Agape Love\|Agape Love]]                                                                                                                                  |
+| [[Gate of Wisdom/W/witness\|witness]]                                                                                                                                        |
+| [[Gate of Wisdom/F/false\|false]]                                                                                                                                            |
+| [[Gate of Wisdom/S/steal\|steal]]                                                                                                                                            |
+| [[Gate of Wisdom/M/murder\|murder]]                                                                                                                                          |
+| [[Gate of Wisdom/H/Honor\|Honor]]                                                                                                                                            |
+| [[Gate of Wisdom/S/servant\|servant]]                                                                                                                                        |
+| [[Gate of Wisdom/T/Test\|Test]]                                                                                                                                              |
+| [[Gate of Wisdom/L/Love Neighbor\|Love Neighbor]]                                                                                                                            |
+| [[Gate of Wisdom/F/fear (yirah)\|fear (yirah)]]                                                                                                                              |
+| [[Gate of Wisdom/F/fear (tirau)\|fear (tirau)]]                                                                                                                              |
+| [[Gate of Wisdom/T/Tithe\|Tithe]]                                                                                                                                            |
+| [[Gate of Foundation/Put His Name\|Put His Name]]                                                                                                                            |
+| [[Gate of Foundation/Acts 2 Connections Scripture Survey\|Acts 2 Connections Scripture Survey]]                                                                              |
+| [[Gate of Foundation/Prayer Language Scripture Survey\|Prayer Language Scripture Survey]]                                                                                    |
+| [[Gate of Foundation/The Seventh Day Rest/The Seventh Day Rest Old Testament Survey Findings\|The Seventh Day Rest Old Testament Survey Findings]]                           |
+| [[Gate of Foundation/The Seventh Day Rest/35 The Seventh Day Rest Disrupts Dishonest Dealings (30 Amos 8)\|35 The Seventh Day Rest Disrupts Dishonest Dealings (30 Amos 8)]] |
 
 { .block-language-dataview}
 
