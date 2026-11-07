@@ -29,28 +29,28 @@ Buy the truth, and don’t sell it.
 
 *Proverbs 23:23*
 
-| Latest Drops                                                                                                                                                                                                                           |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Gate of Correction/The Names God, Lucifer, and Satan\|The Names God, Lucifer, and Satan]]                                                                                                                                         |
-| [[Torah Portions/Torah-Portion-Plan-2026-2027\|Torah-Portion-Plan-2026-2027]]                                                                                                                                                       |
-| [[Gate of Wisdom/W/Wicked\|Wicked]]                                                                                                                                                                                                 |
-| [[Gate of Wisdom/H/Inductive Study Highlighting\|Inductive Study Highlighting]]                                                                                                                                                     |
-| [[Gate of Wisdom/A/Agape Love\|Agape Love]]                                                                                                                                                                                         |
-| [[Gate of Wisdom/W/witness\|witness]]                                                                                                                                                                                               |
-| [[Gate of Wisdom/F/false\|false]]                                                                                                                                                                                                   |
-| [[Gate of Wisdom/S/steal\|steal]]                                                                                                                                                                                                   |
-| [[Gate of Wisdom/M/murder\|murder]]                                                                                                                                                                                                 |
-| [[Gate of Wisdom/H/Honor\|Honor]]                                                                                                                                                                                                   |
-| [[Gate of Wisdom/S/servant\|servant]]                                                                                                                                                                                               |
-| [[Gate of Wisdom/T/Test\|Test]]                                                                                                                                                                                                     |
-| [[Gate of Wisdom/L/Love Neighbor\|Love Neighbor]]                                                                                                                                                                                   |
-| [[Gate of Wisdom/F/fear (yirah)\|fear (yirah)]]                                                                                                                                                                                     |
-| [[Gate of Wisdom/F/fear (tirau)\|fear (tirau)]]                                                                                                                                                                                     |
-| [[Gate of Wisdom/T/Tithe\|Tithe]]                                                                                                                                                                                                   |
-| [[Gate of Foundation/Put His Name\|Put His Name]]                                                                                                                                                                                   |
-| [[Gate of Foundation/The Seventh Day Rest/The Seventh Day Rest Old Testament Survey Findings\|The Seventh Day Rest Old Testament Survey Findings]]                                                                                  |
-| [[Gate of Foundation/The Seventh Day Rest/35 The Seventh Day Rest Disrupts Dishonest Dealings (30 Amos 8)\|35 The Seventh Day Rest Disrupts Dishonest Dealings (30 Amos 8)]]                                                        |
-| [[Gate of Foundation/Mark of the Beast/05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)\|05 The Mark Isn't Taken by Those with the Testimony of Jesus and the Word of God (66 Rev-20)]] |
+| Latest Drops                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gate of Wisdom/Beings/Divine Council/Yah\|Yah]]                                                                                                                            |
+| [[Gate of Correction/The Names God, Lucifer, and Satan\|The Names God, Lucifer, and Satan]]                                                                                  |
+| [[Torah Portions/Torah-Portion-Plan-2026-2027\|Torah-Portion-Plan-2026-2027]]                                                                                                |
+| [[Gate of Wisdom/W/Wicked\|Wicked]]                                                                                                                                          |
+| [[Gate of Wisdom/H/Inductive Study Highlighting\|Inductive Study Highlighting]]                                                                                              |
+| [[Gate of Wisdom/A/Agape Love\|Agape Love]]                                                                                                                                  |
+| [[Gate of Wisdom/W/witness\|witness]]                                                                                                                                        |
+| [[Gate of Wisdom/F/false\|false]]                                                                                                                                            |
+| [[Gate of Wisdom/S/steal\|steal]]                                                                                                                                            |
+| [[Gate of Wisdom/M/murder\|murder]]                                                                                                                                          |
+| [[Gate of Wisdom/H/Honor\|Honor]]                                                                                                                                            |
+| [[Gate of Wisdom/S/servant\|servant]]                                                                                                                                        |
+| [[Gate of Wisdom/T/Test\|Test]]                                                                                                                                              |
+| [[Gate of Wisdom/L/Love Neighbor\|Love Neighbor]]                                                                                                                            |
+| [[Gate of Wisdom/F/fear (yirah)\|fear (yirah)]]                                                                                                                              |
+| [[Gate of Wisdom/F/fear (tirau)\|fear (tirau)]]                                                                                                                              |
+| [[Gate of Wisdom/T/Tithe\|Tithe]]                                                                                                                                            |
+| [[Gate of Foundation/Put His Name\|Put His Name]]                                                                                                                            |
+| [[Gate of Foundation/The Seventh Day Rest/The Seventh Day Rest Old Testament Survey Findings\|The Seventh Day Rest Old Testament Survey Findings]]                           |
+| [[Gate of Foundation/The Seventh Day Rest/35 The Seventh Day Rest Disrupts Dishonest Dealings (30 Amos 8)\|35 The Seventh Day Rest Disrupts Dishonest Dealings (30 Amos 8)]] |
 
 { .block-language-dataview}
 

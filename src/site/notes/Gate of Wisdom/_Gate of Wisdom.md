@@ -361,9 +361,9 @@ These cut through the illusion, denial, and confusion entirely. They reveal real
 | [[Gate of Wisdom/W/works\|works]]                                                                              |
 | [[Gate of Wisdom/Dwelling Places/Realm of Humans/world\|world]]                                                |
 | [[Gate of Wisdom/W/Worship\|Worship]]                                                                          |
+| [[Gate of Wisdom/Beings/Divine Council/Yah\|Yah]]                                                              |
 | [[Gate of Wisdom/Beings/Yahweh of Armies\|Yahweh of Armies]]                                                   |
 | [[Gate of Wisdom/Beings/Heavenly Beings/Yehoshua\|Yehoshua]]                                                   |
-| [[Gate of Wisdom/Y/Yehoshua\|Yehoshua]]                                                                        |
 | [[Gate of Wisdom/Beings/Divine Council/YHWH\|YHWH]]                                                            |
 | [[Gate of Wisdom/Appointed Time/Yom HaKippurim\|Yom HaKippurim]]                                               |
 | [[Gate of Wisdom/Beings/Zar\|Zar]]                                                                             |
