@@ -110,6 +110,7 @@
 - [[Gate of Correction/Summary of Tongues\|Summary of Tongues]]
 - [[Gate of Wisdom/S/Synagogue\|Synagogue]]
 - [[Gate of Wisdom/Dwelling Places/Tabernacle/Most Set Apart Place/Tables of Stone\|Tables of Stone]]
+- [[Gate of Correction/The Names God, Lucifer, and Satan\|The Names God, Lucifer, and Satan]]
 - [[Gate of Wisdom/S/Timeline\|Timeline]]
 - [[Gate of Correction/Video Scripture Survey Christian Spring Holidays\|Video Scripture Survey Christian Spring Holidays]]
 - [[Gate of Correction/Video Scripture Survey Passover\|Video Scripture Survey Passover]]

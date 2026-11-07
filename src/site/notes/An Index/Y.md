@@ -6,6 +6,7 @@
 - [[Gate of Wisdom/Beings/Heavenly Beings/Angel of Yahweh\|Angel of Yahweh]]
 - [[Gate of Correction/Jesus and the Seventh Day Rest\|Jesus and the Seventh Day Rest]]
 - [[Gate of Correction/Matthew 6 Jesus and Prayer\|Matthew 6 Jesus and Prayer]]
+- [[Gate of Correction/The Names God, Lucifer, and Satan\|The Names God, Lucifer, and Satan]]
 - [[Gate of Wisdom/Beings/Yahweh of Armies\|Yahweh of Armies]]
 - [[Gate of Wisdom/Y/Yehoshua\|Yehoshua]]
 - [[Gate of Wisdom/Beings/Heavenly Beings/Yehoshua\|Yehoshua]]

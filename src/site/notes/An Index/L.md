@@ -25,5 +25,6 @@
 - [[Gate of Wisdom/Beings/The Lamb\|The Lamb]]
 - [[Gate of Discernment/The Law in Matthew 5\|The Law in Matthew 5]]
 - [[Gate of Correction/The Life – Convergence of Jewish and Christian Faiths\|The Life – Convergence of Jewish and Christian Faiths]]
+- [[Gate of Correction/The Names God, Lucifer, and Satan\|The Names God, Lucifer, and Satan]]
 
 { .block-language-dataview}

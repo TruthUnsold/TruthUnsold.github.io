@@ -31,5 +31,6 @@
 - [[Gate of Wisdom/C/Return of the Gods\|Return of the Gods]]
 - [[Gate of Wisdom/G/Sea of Galilee\|Sea of Galilee]]
 - [[Gate of Wisdom/G/Spiritual Gifts\|Spiritual Gifts]]
+- [[Gate of Correction/The Names God, Lucifer, and Satan\|The Names God, Lucifer, and Satan]]
 
 { .block-language-dataview}
