@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/lucifer/","tags":["#GateWisdom","Being","HeavenlyBeing","L"],"dg-note-properties":{"tags":["#GateWisdom","Being","HeavenlyBeing","L"],"Published":null}}
 ---
 
-See [[Gate of Wisdom/Beings/Human Beings/Shining One\|Shining One]]
+See [[Gate of Wisdom/Beings/Shining One\|Shining One]]
 
 There isn't anyone named Lucifer, that entity is only known as bringer of light, shining one, morning star, and the king of Babylon. The Latin word lucifer was left untranslated in Isaiah.
 
@@ -17,8 +17,8 @@ Isaiah 14 tracing all the entities referenced is tough unless you use
 
 # Connection
 
-| file.inlinks                                                                                                                                                                                                                                             |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/Beings/Human Beings/Shining One.md\\|Shining One]]</li><li>[[Gate of Wisdom/Beings/Adversary.md\\|Adversary]]</li><li>[[Gate of Correction/The Names God, Lucifer, and Satan.md\\|The Names God, Lucifer, and Satan]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Beings/Adversary.md\\|Adversary]]</li><li>[[Gate of Wisdom/Beings/Shining One.md\\|Shining One]]</li><li>[[Gate of Correction/The Names God, Lucifer, and Satan.md\\|The Names God, Lucifer, and Satan]]</li></ul> |
 
 { .block-language-dataview}

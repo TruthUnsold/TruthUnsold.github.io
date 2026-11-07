@@ -298,7 +298,7 @@ These cut through the illusion, denial, and confusion entirely. They reveal real
 | [[Gate of Wisdom/Beings/Heavenly Beings/Shedim\|Shedim]]                                                       |
 | [[Gate of Wisdom/S/Shem\|Shem]]                                                                                |
 | [[Gate of Wisdom/Consequence/Disobedience/Separation from Yah/Sheol\|Sheol]]                                   |
-| [[Gate of Wisdom/Beings/Human Beings/Shining One\|Shining One]]                                                |
+| [[Gate of Wisdom/Beings/Shining One\|Shining One]]                                                             |
 | [[Gate of Wisdom/Sign/Sign\|Sign]]                                                                             |
 | [[Gate of Wisdom/S/Sin\|Sin]]                                                                                  |
 | [[Gate of Wisdom/Offering/Sin Offering\|Sin Offering]]                                                         |

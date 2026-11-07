@@ -9,9 +9,9 @@ J onathan Cahn 2024
 
 # Connections
 - 
-| file.inlinks                                                 |
-| ------------------------------------------------------------ |
-| <ul><li>[[Gate of Wisdom/Beings/Satan.md\\|Satan]]</li></ul> |
+| file.inlinks                                                                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Beings/Satan.md\\|Satan]]</li><li>[[Gate of Correction/The Names God, Lucifer, and Satan.md\\|The Names God, Lucifer, and Satan]]</li></ul> |
 
 { .block-language-dataview}
 
