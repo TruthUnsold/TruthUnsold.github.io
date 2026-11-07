@@ -17,9 +17,9 @@
 
 # Connections
 - 
-| file.inlinks                                                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[Gate of Wisdom/V/Vain.md\\|Vain]]</li><li>[[Gate of Wisdom/N/Name.md\\|Name]]</li><li>[[Gate of Wisdom/B/Beast.md\\|Beast]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/V/Vain.md\\|Vain]]</li><li>[[Gate of Wisdom/N/Name.md\\|Name]]</li><li>[[Gate of Wisdom/B/Beast.md\\|Beast]]</li><li>[[Gate of Correction/The Names God, Lucifer, and Satan.md\\|The Names God, Lucifer, and Satan]]</li></ul> |
 
 { .block-language-dataview}
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/gate-of-wisdom/beings/divine-council/yhwh/","tags":["#GateWisdom","Y","HeavenlyBeing","DivineCouncil"],"dg-note-properties":{"tags":["#GateWisdom","Y","HeavenlyBeing","DivineCouncil"],"Bible-References":null}}
 ---
 
-Using only the bible as a reference. do not do a deep dive or give explanations for how you have come up with the answers. Hebrew and Greek transliteration first, then the original script in parentheses ie chayyah (חַיָּה). Fill in the following form returning only the items you have a response. The topic is: 
+
 # Define
 - Hebrew: יהוה (yhwh) - commonly rendered as "LORD"
 	- The Divine Name of the [[Gate of Wisdom/Beings/Divine Council/God\|God]] of Abraham, Isaac, and Jacob. 

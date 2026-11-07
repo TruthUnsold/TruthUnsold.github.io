@@ -91,6 +91,7 @@ When your actions, habits, or environment feel chaotic, these provide the daily 
 | [[Gate of Wisdom/Appointed Time/Sukkot Old Testament through the New Testament into the time of Revelation\|Sukkot Old Testament through the New Testament into the time of Revelation]] |
 | [[Gate of Correction/The Great Commission\|The Great Commission]]                                                                                                                        |
 | [[Gate of Correction/The Life – Convergence of Jewish and Christian Faiths\|The Life – Convergence of Jewish and Christian Faiths]]                                                      |
+| [[Gate of Correction/The Names God, Lucifer, and Satan\|The Names God, Lucifer, and Satan]]                                                                                              |
 | [[Gate of Correction/The Truth – Convergence of Jewish and Christian Faiths\|The Truth – Convergence of Jewish and Christian Faiths]]                                                    |
 | [[Gate of Correction/The Way – Convergence of Jewish and Christian Faiths\|The Way – Convergence of Jewish and Christian Faiths]]                                                        |
 | [[Gate of Correction/Traditional Teaching vs Scripture - Isaiah 66\|Traditional Teaching vs Scripture - Isaiah 66]]                                                                      |

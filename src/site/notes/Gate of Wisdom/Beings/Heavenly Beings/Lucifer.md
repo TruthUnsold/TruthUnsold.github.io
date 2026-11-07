@@ -17,8 +17,8 @@ Isaiah 14 tracing all the entities referenced is tough unless you use
 
 # Connection
 
-| file.inlinks                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[Gate of Wisdom/Beings/Human Beings/Shining One.md\\|Shining One]]</li><li>[[Gate of Wisdom/Beings/Adversary.md\\|Adversary]]</li></ul> |
+| file.inlinks                                                                                                                                                                                                                                             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Gate of Wisdom/Beings/Human Beings/Shining One.md\\|Shining One]]</li><li>[[Gate of Wisdom/Beings/Adversary.md\\|Adversary]]</li><li>[[Gate of Correction/The Names God, Lucifer, and Satan.md\\|The Names God, Lucifer, and Satan]]</li></ul> |
 
 { .block-language-dataview}
