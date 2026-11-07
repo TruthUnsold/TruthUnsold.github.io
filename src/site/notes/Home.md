@@ -31,8 +31,8 @@ Buy the truth, and don’t sell it.
 
 | Latest Drops                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Gate of Wisdom/Beings/Divine Council/Yah\|Yah]]                                                                                                                            |
 | [[Gate of Correction/The Names God, Lucifer, and Satan\|The Names God, Lucifer, and Satan]]                                                                                  |
+| [[Gate of Wisdom/Beings/Divine Council/Yah\|Yah]]                                                                                                                            |
 | [[Torah Portions/Torah-Portion-Plan-2026-2027\|Torah-Portion-Plan-2026-2027]]                                                                                                |
 | [[Gate of Wisdom/W/Wicked\|Wicked]]                                                                                                                                          |
 | [[Gate of Wisdom/H/Inductive Study Highlighting\|Inductive Study Highlighting]]                                                                                              |

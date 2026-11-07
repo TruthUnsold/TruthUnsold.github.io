@@ -31,7 +31,7 @@ We also see ‘el’ added to the end of what we would consider a name, such as 
 
 He does reveal his shem in scripture in Exodus 3:14-15. In English, this would be translated as “I Am Who I Am,” or “I Will Be Who I Will Be.” In Hebrew it would be *אֶהְיֶה אֲשֶׁר אֶהְיֶה (Ehyeh Asher Ehyeh)* in verse 14. In 15: יְהוָה (YHWH). In our English translations this is often represented by LORD. Because of the Jewish tradition of using Hashem, how YHWH is pronounced has been lost. There are several guesses on how to pronounce YWHW, but we know for sure his name is not God, El, or Elohim.
 
-In Psalm 68:4 (Psalm 68:5 in some translations) we see a reference to a shortened version of his name, “By His name Yah **יָהּ** ” Here is another reference which uses this name, הַלְלוּיָהּ. I can almost guarantee if you have been a Christian for any length of time, you’ve used this one. This could be translated in our English Bibles as “Praise the LORD,” but typically it is written as Hallelujah … Hallelu-Yah. If you read it as Hallelujah – it is literally an untranslated word, using English letters.
+In Psalm 68:4 (Psalm 68:5 in some translations) we see a reference to a shortened version of his name, “By His name [[Gate of Wisdom/Beings/Divine Council/Yah\|Yah]] **יָהּ** ” Here is another reference which uses this name, הַלְלוּיָהּ. I can almost guarantee if you have been a Christian for any length of time, you’ve used this one. This could be translated in our English Bibles as “Praise the LORD,” but typically it is written as Hallelujah … Hallelu-Yah. If you read it as Hallelujah – it is literally an untranslated word, using English letters.
 
 ## Lucifer
 
