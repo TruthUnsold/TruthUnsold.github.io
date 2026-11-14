@@ -58,7 +58,7 @@ Full readings: Torah Genesis 25:19–28:9 | Haftarah Malachi 1:1–2:7 | Gospel 
 *Shabbat: Nov 21*
 Full readings: Torah Genesis 28:10–32:2 | Haftarah Hosea 12:12–14:9 | Gospel Luke 4:1–15
 
-- [ ] **Day 1 · Sun Nov 15** — Torah: Genesis 28:10–22 — [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28#v10\|Gen-28#v10]] | [BibleGateway](https://www.biblegateway.com/passage/?search=Genesis+28:10-22&version=WEB;NET;OJB)
+- [x] **Day 1 · Sun Nov 15** — Torah: Genesis 28:10–22 — [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-28#v10\|Gen-28#v10]] | [BibleGateway](https://www.biblegateway.com/passage/?search=Genesis+28:10-22&version=WEB;NET;OJB)
 - [ ] **Day 2 · Mon Nov 16** — Torah: Genesis 29:1–17 — [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-29#v1\|Gen-29#v1]] | [BibleGateway](https://www.biblegateway.com/passage/?search=Genesis+29:1-17&version=WEB;NET;OJB)
 - [ ] **Day 3 · Tue Nov 17** — Torah: Genesis 29:18–30:13 — [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-29#v18\|Gen-29#v18]] | [BibleGateway](https://www.biblegateway.com/passage/?search=Genesis+29:18-30:13&version=WEB;NET;OJB)
 - [ ] **Day 4 · Wed Nov 18** — Torah: Genesis 30:14–27 — [[_The Scrolls/1. Torah (Law of Moses)/01 - Genesis/Gen-30#v14\|Gen-30#v14]] | [BibleGateway](https://www.biblegateway.com/passage/?search=Genesis+30:14-27&version=WEB;NET;OJB)

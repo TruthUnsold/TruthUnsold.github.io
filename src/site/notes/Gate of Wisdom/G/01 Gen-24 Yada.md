@@ -146,7 +146,7 @@ And it cometh to pass,
 * that lo, [[Gate of Wisdom/Beings/Human Beings/Rebekah\|Rebekah]] 
 	* (who was born to [[Bethuel\|Bethuel]], 
 		* son of [[Milcah\|Milcah]], 
-		* wife of [[Nahor,\|Nahor,]] 
+		* wife of [[Nahor\|Nahor]] 
 		* brother of Abraham) 
 	* is coming out, 
 	* and her pitcher on her shoulder,

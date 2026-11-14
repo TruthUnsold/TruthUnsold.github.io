@@ -100,11 +100,11 @@ So Esau went to Ishmael, and took, in addition to the wives that he had, Mahalat
 						- #who =={jacob-israel}to you== 
 						- and =={israelites}to your offspring==. =={inline-note}//[[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]//==
 ###### v14 
-- >>>
-	- >>>
-		- >>>
-			- >>>
-				- >>>
+- >
+	- >
+		- >
+			- >
+				- >
 					- =={jacob-israel}Your== //Jacob// #who =={israelites}offspring== =={inline-note}//[[Gate of Wisdom/Beings/Human Beings/Israelites\|Israelites]]//==   
 						- #what =={covenant}will be as the dust==   =={inline-note}//[[Gate of Wisdom/Covenant/Jacobiac\|Jacobiac]] Covenant//== [^5]
 							- #where =={where}of the earth==, 
@@ -115,28 +115,66 @@ So Esau went to Ishmael, and took, in addition to the wives that he had, Mahalat
 								- #where =={where}and to the south==. 
 						- #who =={jacob-israel}In you== and =={israelites}in your offspring==, #who =={who2}all the families== #where =={where}of the earth== #what =={covenant}will be blessed==  =={inline-note}//[[Gate of Wisdom/Covenant/Jacobiac\|Jacobiac]] Covenant//== [^1] [^5]. #GoodNews 
 ###### v15 
-Behold, [^2]I am with you, and will keep you, wherever you go, and will bring you again [^3]into this land. For I will not leave you until I have done that which I have spoken of to you."  
+- >
+	- >
+		- >
+			- >
+				- >
+					- Behold, [^2] #who =={yhwh-yeshua}I am== #what =={what}with== =={jacob-israel}you== //Jacob//, 
+						- #what =={covenant}and will keep you==,  =={inline-note}//[[Gate of Wisdom/Covenant/Jacobiac\|Jacobiac]] Covenant//==  [^5]
+							- #where =={where}wherever you go==, 
+						- #what and =={what}will bring you again== [^3] #where =={where}into this land==.  =={inline-note}//[[Gate of Wisdom/Covenant/Jacobiac\|Jacobiac]] Covenant//==  [^5]
+						- For =={yhwh-yeshua}I== =={what}will not leave you==  =={inline-note}//[[Gate of Wisdom/Covenant/Jacobiac\|Jacobiac]] Covenant//==  [^5]
+							- #when =={when}until==  #who =={yhwh-yeshua}I== #what =={what}have done that which I have spoken of to you==."  
+>[!Note]+ Until ...
+>Hebrew uses the perfect tense to treat a future event as a completed certainty. It frames the fulfillment as an inevitable reality rather than a conditional countdown. It is like stating a minimal outcome. It doesn't mean to imply God will eave them once this is accomplished.
 
+>[!Note]+ Covenantal Promises
+>Yah fulfilled the promises made here. 
+>- Jacob and his descendants were given the land. #06Josh #06Josh/Joshua21  
+>- They became a great nation of people. #11_1Kings #11_1kings/1Kings04
+>- They were a blessing to those around them. #48Gal #48Gal/Galatians03
+>- They were protected where ever they went. They were returned to the land. #01Gen/Genesis35 
 ###### v16 
-Jacob awakened out of his sleep, and he said, "Surely Yahweh is in this place, and I didn't know it." 
-
+#who =={jacob-israel}Jacob== #what =={what}awakened out of his sleep==, 
+- and he said, "Surely =={yhwh-yeshua}Yahweh== #what =={what}is== #where =={where}in this place==, 
+	- and =={jacob-israel}I== #what =={what}didn't know it==." 
 ###### v17 
-He was afraid, and said, "How awesome this place is! This is none other than [^8]God's house, and this is the gate of heaven." 
-
+- =={jacob-israel}He== //Jacob// #what =={what}was afraid==, 
+	- and said, 
+		- #what "=={what}How awesome this place is==! 
+		- #what =={what}This is none other than== 
+			- #where [^8]=={where}God's house==, 
+			- #where and =={where}this is the gate of [[Gate of Wisdom/Dwelling Places/Realm of Yah/Heaven\|Heaven]]==." 
 ###### v18 
-Jacob rose up early in the morning, and took the stone that he had put under his head, and set it up for a pillar, and poured oil on its top. 
-
+=={jacob-israel}Jacob== #what =={what}rose up== #when =={when}early in the morning==, 
+- and #what =={what}took the stone== 
+	- =={what}that he had put under his head==, 
+	- and #what =={what}set it up for a pillar==, 
+	- and #what =={what}poured oil on its top==. 
 ###### v19 
-He called the name of that place Bethel, but the name of the city was Luz at the first. 
-
+- =={jacob-israel}He== //Jacob// #what =={what}called the name of that place [[Gate of Wisdom/Dwelling Places/Realm of Humans/Bethel\|Bethel]]==, 
+	- =={connecting-thought}but== #what =={what}the name of the city was Luz at the first==. 
 ###### v20 
-Jacob [^6]vowed a vow, saying, "If God will be with me, and will keep me in this way that I go, and will give me bread to eat, and clothing to put on, 
-
+- =={jacob-israel}Jacob== #what =={what}[^6]vowed a vow==, saying, 
+	- "=={conditional-if-then}If== #who =={yhwh-yeshua}God== 
+		- #what =={what}will be with me==, 
+		- and #what =={what}will keep me in this way that I go==, 
+		- #what =={what}and will give me== 
+			- =={what}bread to eat==, 
+			- and =={what}clothing to put on==, 
 ###### v21 
-so that I come again to my father's house in peace, and Yahweh will be my God, 
-
+- >
+	- >
+		- #reason =={why-reason}so that I come again== #where =={where}to my father's house== #what =={what}in peace==,
+		- and =={yhwh-yeshua}Yahweh== #what =={what}will be my God==, 
 ###### v22 
-then [^9]this stone, which I have set up for a pillar, will be God's house. Of all that you will give me I will surely [^7]give a tenth to you." 
+- >
+	- =={conditional-if-then}then== #what =={what}[^9]this stone==, 
+		- #what =={what}which I have set up for a pillar==, 
+		- #what =={dwelling-place}will be God's house==. 
+	- #what =={covenant}Of all that== =={yhwh-yeshua}you== //YHWH// =={covenant}will give me== 
+		- =={covenant}I will surely [^7]give a tenth to you==."== #Covenant #Offering 
 
 # Repeated Words
 - bless/blessed/blessing: 5
