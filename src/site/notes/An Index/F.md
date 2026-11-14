@@ -9,6 +9,7 @@
 - [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]
 - [[Potluck/Fascism\|Fascism]]
 - [[Gate of Wisdom/F/Fast\|Fast]]
+- [[Gate of Wisdom/Beings/Father\|Father]]
 - [[Gate of Wisdom/Consequence/Obedience/Favor\|Favor]]
 - [[Gate of Wisdom/F/fear (tirau)\|fear (tirau)]]
 - [[Gate of Wisdom/F/fear (yirah)\|fear (yirah)]]

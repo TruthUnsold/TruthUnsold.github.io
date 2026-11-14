@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/angel/","tags":["thebrain","GateWisdom","Assets","nothome","A","HeavenlyBeing"],"dg-note-properties":{"tags":["thebrain","GateWisdom","Assets","nothome","A","HeavenlyBeing"]}}
+{"dg-publish":true,"permalink":"/gate-of-wisdom/beings/heavenly-beings/angel/","tags":["thebrain","GateWisdom","Assets","nothome","A","HeavenlyBeing"],"dg-note-properties":{"tags":["thebrain","GateWisdom","Assets","nothome","A","HeavenlyBeing"],"aliases":["angels","Angels"]}}
 ---
 
 Described as looking like normal people in the scriptures.
+
+See [[Gate of Wisdom/Beings/Messenger\|Messenger]]
 
 ## NOTES:
 

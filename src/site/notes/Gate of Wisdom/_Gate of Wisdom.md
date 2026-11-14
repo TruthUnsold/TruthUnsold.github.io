@@ -125,6 +125,7 @@ These cut through the illusion, denial, and confusion entirely. They reveal real
 | [[Gate of Wisdom/F/false\|false]]                                                                              |
 | [[Gate of Wisdom/Beings/False Prophet\|False Prophet]]                                                         |
 | [[Gate of Wisdom/F/Fast\|Fast]]                                                                                |
+| [[Gate of Wisdom/Beings/Father\|Father]]                                                                       |
 | [[Gate of Wisdom/Consequence/Obedience/Favor\|Favor]]                                                          |
 | [[Gate of Wisdom/F/fear (tirau)\|fear (tirau)]]                                                                |
 | [[Gate of Wisdom/F/fear (yirah)\|fear (yirah)]]                                                                |
